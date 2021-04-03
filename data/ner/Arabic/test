@@ -1,0 +1,15740 @@
+عبد	B-PER
+الله	I-PER
+بن	I-PER
+وهب	I-PER
+
+الفيلم	O
+من	O
+إخراج	O
+دين	B-PER
+عبيدالله	I-PER
+.	O
+
+سعود	B-PER
+بن	I-PER
+صقر	I-PER
+القاسمي	I-PER
+
+تحويل	O
+باراغونا	B-LOC
+(	I-LOC
+يوتا	I-LOC
+)	I-LOC
+
+بطرس	B-PER
+حرب،	I-PER
+نائب	O
+ووزير	O
+سابق	O
+.	O
+
+انضمام	B-ORG
+تركيا	I-ORG
+للاتحاد	I-ORG
+الأوروبي	I-ORG
+
+تحويل	O
+شركة	B-ORG
+شاحنات	I-ORG
+ماك	I-ORG
+
+تحويل	O
+درزون	B-LOC
+(	I-LOC
+أمجز	I-LOC
+)	I-LOC
+
+“دائرة	O
+ميلة”	O
+إحدى	O
+دوائر	B-LOC
+ولاية	B-LOC
+ميلة	I-LOC
+.	O
+
+**	O
+مونتيري	B-LOC
+(	O
+قنصلية	O
+عامة	O
+)	O
+
+تحويل	O
+ديكيفيل	B-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+بوريسوف	B-LOC
+أرينا	I-LOC
+,	O
+باريساو	B-LOC
+,	O
+
+سادي	B-PER
+كارنو	I-PER
+(	O
+مؤسس	O
+)	O
+
+جون	B-PER
+بروميتش	I-PER
+''	O
+(	O
+النهائي	O
+)	O
+''	O
+
+تحويل	O
+محمد	B-LOC
+أباد	I-LOC
+خواجة	I-LOC
+(	I-LOC
+حسین	I-LOC
+أباد	I-LOC
+)	I-LOC
+
+كان	O
+سياسياً	O
+وثورياً	O
+ليبياً	B-LOC
+.	O
+
+نزار	B-PER
+ريان	I-PER
+القيادي	O
+في	O
+حركة	B-ORG
+حماس	I-ORG
+في	O
+هذا	O
+اليوم	O
+مع	O
+زوجاته	O
+الأربعة	O
+و11	O
+من	O
+أبنائه	O
+غالبيتهم	O
+من	O
+الأطفال	O
+في	O
+غارة	O
+استهدفت	O
+بيته	O
+في	O
+مخيم	B-LOC
+جباليا	I-LOC
+.	O
+
+تحويل	O
+نيو	B-LOC
+لايم	I-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+يتم	O
+اختبار	O
+اي	O
+شيء	O
+قبل	O
+إطلاقه	O
+من	O
+قبل	O
+وكالة	B-ORG
+الفضاء	I-ORG
+الأوروبية	I-ORG
+ESA	O
+داخل	O
+الايستيك	O
+.	O
+
+تحويل	O
+مدينا	B-LOC
+(	I-LOC
+أوهايو	I-LOC
+)	I-LOC
+
+صديقة	O
+المقرب	O
+هو	O
+ستان	B-PER
+مارش	I-PER
+.	O
+
+تحويل	O
+بيشاب	B-LOC
+هيل	I-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC
+
+في	O
+هذه	O
+المجموعات،	O
+يمكن	O
+للمستخدمين	O
+طلب	O
+الاجابة	O
+عن	O
+سؤال	O
+حول	O
+خدمة	O
+جوجل	B-ORG
+ذات	O
+الصلة	O
+.	O
+
+تحويل	O
+قيق	B-LOC
+الأرض	I-LOC
+المنغولي	I-LOC
+
+سانتو	B-LOC
+دومينغو	I-LOC
+دي	I-LOC
+لاس	I-LOC
+بوساداس	I-LOC
+
+تحويل	O
+مقاطعة	B-LOC
+كومانش	I-LOC
+(	I-LOC
+تكساس	I-LOC
+)	I-LOC
+
+تحويل	O
+الشامية	B-LOC
+(	I-LOC
+توضيح	I-LOC
+)	I-LOC
+
+الرئيسة	O
+والمدير	O
+التنفيذي	O
+ل	O
+بيبسيكو	B-ORG
+
+≈1	O
+إلكترون	B-ORG
+فولت	I-ORG
+(	O
+eV	O
+)	O
+
+تبريز،	B-LOC
+قزوين،	B-LOC
+أصفهان	B-LOC
+(	I-LOC
+مدينة	I-LOC
+)	I-LOC
+
+تحويل	O
+قسم	B-LOC
+أبهررود	I-LOC
+الریفي	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+أبهر	I-LOC
+)	I-LOC
+
+تحويل	O
+قنبرة	B-LOC
+طويلة	I-LOC
+المنقار	I-LOC
+
+يُعد	O
+أول	O
+فيلمٍ	O
+من	O
+إخراج	O
+أنطون	B-PER
+كربيجن	I-PER
+الذي	O
+عمل	O
+مع	O
+الفرقة	O
+كمصور	O
+.	O
+
+تحويل	O
+عبد	B-PER
+الرحمن	I-PER
+بن	I-PER
+ملجم	I-PER
+
+تحويل	O
+بلدة	B-LOC
+لوك	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+تحويل	O
+عين	B-LOC
+البيضاء	I-LOC
+(	I-LOC
+ولاية	I-LOC
+أم	I-LOC
+البواقي	I-LOC
+)	I-LOC
+
+تحويل	O
+سيدي	B-LOC
+منصور	I-LOC
+(	I-LOC
+إقليم	I-LOC
+الرحامنة	I-LOC
+)	I-LOC
+
+تحويل	O
+بيرستون	B-LOC
+(	I-LOC
+إنديانا	I-LOC
+)	I-LOC
+
+هو	O
+معروف	O
+بدوره	O
+في	O
+مسلسلي	O
+ديكستر	B-ORG
+''	O
+و	O
+''	O
+السهم	B-ORG
+''	O
+.	O
+
+تحويل	O
+دانييل	B-PER
+بينيت	I-PER
+(	I-PER
+حكم	I-PER
+)	I-PER
+
+القناص	B-ORG
+(	I-ORG
+مانغا	I-ORG
+)	I-ORG
+
+'	O
+''	O
+غونزالو	B-PER
+روميرو	I-PER
+''	O
+'	O
+
+حقق	O
+المركز	O
+الـ	O
+2	O
+في	O
+طواف	B-ORG
+تركيا	I-ORG
+2013	I-ORG
+
+وقد	O
+عمل	O
+لفترة	O
+في	O
+إطار	O
+السلك	O
+الدبلوماسي	O
+النرويجي	B-LOC
+خصوصًا	O
+في	O
+الأمم	B-ORG
+المتحدة	I-ORG
+حيث	O
+أوكلت	O
+إليه	O
+عدة	O
+مهام	O
+رسمية	O
+.	O
+
+'	O
+''	O
+ليندسي	B-PER
+دافينبورت	I-PER
+''	O
+'	O
+(	O
+2	O
+)	O
+
+تحويل	O
+سافرون	B-ORG
+والدين	I-ORG
+(	I-ORG
+دائرة	I-ORG
+انتخابية	I-ORG
+في	I-ORG
+المملكة	I-ORG
+المتحدة	I-ORG
+)	I-ORG
+
+تحويل	O
+وزارة	B-ORG
+الاتصالات	I-ORG
+وتكنولوجيا	I-ORG
+المعلومات	I-ORG
+(	I-ORG
+مصر	I-ORG
+)	I-ORG
+
+وانتقل	O
+إلى	O
+مانشستر	B-LOC
+فأقام	O
+نحو	O
+ذلك،	O
+وهو	O
+يتعاطى	O
+تصدير	O
+البضائع	O
+.	O
+
+وتحمل	O
+هذه	O
+التفجيرات	O
+بصمات	O
+تنظيم	B-ORG
+القاعدة	I-ORG
+.	O
+
+حكاية	B-ORG
+ميلاد	I-ORG
+المسيح	I-ORG
+(	I-ORG
+شوتز	I-ORG
+)	I-ORG
+
+تحويل	O
+بي	B-ORG
+إس	I-ORG
+أي	I-ORG
+أيرلاينس	I-ORG
+
+جلال	B-LOC
+آباد	I-LOC
+-	O
+168,600	O
+
+تحويل	O
+الخطوط	B-ORG
+الجوية	I-ORG
+الليبية	I-ORG
+
+تحويل	O
+لوكهيد	B-PER
+تراى	I-PER
+ستار	I-PER
+(	I-PER
+سلاح	I-PER
+الجو	I-PER
+الملكي	I-PER
+)	I-PER
+
+إقليم	B-LOC
+خوارزم	I-LOC
+عاصمتها	O
+جرجانية	B-LOC
+.	O
+
+الموقع	O
+الرسمي	O
+في	O
+الشرق	B-LOC
+الأوسط	I-LOC
+
+تحويل	O
+ناسو	B-LOC
+(	I-LOC
+مينيسوتا	I-LOC
+)	I-LOC
+
+تحويل	O
+ولنوت	B-LOC
+غروف	I-LOC
+(	I-LOC
+مسيسيبي	I-LOC
+)	I-LOC
+
+تحويل	O
+نورث	B-LOC
+ستونينغتون	I-LOC
+(	I-LOC
+كونيتيكت	I-LOC
+)	I-LOC
+
+'	O
+''	O
+دوايت	B-PER
+يورك	I-PER
+''	O
+'	O
+
+تحويل	O
+منتخب	B-ORG
+بولندا	I-ORG
+لكرة	I-ORG
+اليد	I-ORG
+
+تحويل	O
+جمعية	B-ORG
+الاتحاد	I-ORG
+والترقي	I-ORG
+
+تحويل	O
+تبريزخاتون	B-LOC
+(	I-LOC
+مقاطعة	I-LOC
+ديواندرة	I-LOC
+)	I-LOC
+
+تحويل	O
+ويليام	B-PER
+الثاني	I-PER
+ملك	I-PER
+صقلية	I-PER
+
+تحويل	O
+بلدة	B-LOC
+مانسيلونا	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+هو	O
+معقل	O
+نادي	B-ORG
+الاتحاد	I-ORG
+القاسمي	I-ORG
+.	O
+
+ناتالي	B-PER
+توزيا	I-PER
+''	O
+(	O
+الجولة	O
+الرابعة	O
+)	O
+''	O
+
+تحويل	O
+لودفيش	B-PER
+الأول	I-PER
+(	I-PER
+دوق	I-PER
+بادن	I-PER
+الأكبر	I-PER
+)	I-PER
+
+تقدم	O
+هذه	O
+الهيئة	O
+الخدمة	O
+لكل	O
+من	O
+هيئة	B-ORG
+الخدمات	I-ORG
+الصحية	I-ORG
+الوطنية	I-ORG
+البريطانية	I-ORG
+وهيئة	B-ORG
+الخدمات	I-ORG
+الصحية	I-ORG
+الوطنية	I-ORG
+الويلزية	I-ORG
+.	O
+
+أبان	B-PER
+بن	I-PER
+عثمان	I-PER
+بن	I-PER
+عفان	I-PER
+(	O
+وفاة	O
+723	O
+)	O
+
+تحويل	O
+اضطرابات	B-ORG
+الأهواز	I-ORG
+2005	I-ORG
+
+شركة	B-PER
+طيران	I-PER
+منخفضة	I-PER
+التكلفة	I-PER
+
+تحويل	O
+نوغالس	B-LOC
+(	I-LOC
+بطليوس	I-LOC
+)	I-LOC
+
+تحويل	O
+سيدسرا	B-LOC
+(	I-LOC
+مقاطعة	I-LOC
+فومن	I-LOC
+)	I-LOC
+
+تحويل	O
+مقاطعة	B-LOC
+سومرست	I-LOC
+(	I-LOC
+ماريلاند	I-LOC
+)	I-LOC
+
+تحويل	O
+إد	B-LOC
+أو	I-LOC
+ڭوڭمار	I-LOC
+
+تحويل	O
+مقاطعة	B-LOC
+بالم	I-LOC
+بيتش	I-LOC
+(	I-LOC
+فلوريدا	I-LOC
+)	I-LOC
+
+===	O
+رأي	O
+الفريق	O
+سعد	B-PER
+الشاذلي	I-PER
+===	O
+
+تحويل	O
+هازجة	B-LOC
+الغاب	I-LOC
+المصرية	I-LOC
+
+تحويل	O
+سيمس	B-ORG
+كو	I-ORG
+ليميتد	I-ORG
+
+تحويل	O
+ماريا	B-PER
+من	I-PER
+النمسا	I-PER
+
+ابن	B-PER
+عطاء	I-PER
+الله	I-PER
+السكندري	I-PER
+.	O
+
+وتولي	O
+علي	B-PER
+عبد	I-PER
+الله	I-PER
+صالح	I-PER
+السلطة	O
+.	O
+
+تحويل	O
+هاروينتون	B-LOC
+(	I-LOC
+كونيتيكت	I-LOC
+)	I-LOC
+
+خيمكي	B-ORG
+(	I-ORG
+كرة	I-ORG
+سلة	I-ORG
+)	I-ORG
+
+منتخب	B-ORG
+ألبانيا	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+
+'	O
+''	O
+أطوار	B-PER
+بهجت	I-PER
+''	O
+'	O
+.	O
+
+تحويل	O
+سیف	B-LOC
+علي	I-LOC
+کندي	I-LOC
+(	I-LOC
+کراني	I-LOC
+)	I-LOC
+
+تحويل	O
+ساكسفيل	B-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+العائلة	O
+تعيش	O
+الآن	O
+في	O
+سان	B-LOC
+فرانسيسكو	I-LOC
+.	O
+
+'	O
+''	O
+مالطا	B-LOC
+''	O
+'	O
+
+تحويل	O
+سان	B-LOC
+دوني	I-LOC
+(	I-LOC
+ريونيون	I-LOC
+)	I-LOC
+
+تحويل	O
+جامعة	B-ORG
+إسطنبول	I-ORG
+التقنية	I-ORG
+
+*شارع	O
+أحمد	B-PER
+بن	I-PER
+حنبل	I-PER
+(	O
+ق3	O
+و4	O
+)	O
+
+تبليسي	B-LOC
+/	O
+T'bilisi	O
+(	O
+'	O
+''	O
+'	O
+)	O
+
+جين	B-PER
+كامبيون	I-PER
+(	O
+رئيسة	O
+الحكام	O
+)	O
+
+تحويل	O
+اتحاد	B-ORG
+إستونيا	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+
+داود	B-PER
+باشا	I-PER
+(	I-PER
+والي	I-PER
+بغداد	I-PER
+)	I-PER
+
+لعبت	O
+المسابقة	O
+بنظام	O
+النقاط	O
+وشارك	O
+فيها	O
+12	O
+فريق،	O
+وظفر	O
+الاتفاق	B-ORG
+بلقب	O
+البطولة	O
+وهو	O
+ثاني	O
+لقب	O
+بتاريخه	O
+.	O
+
+0	O
+متر	O
+بحر	B-LOC
+تيمور	I-LOC
+بحر	B-LOC
+سافو	I-LOC
+بحر	B-LOC
+باندا	I-LOC
+
+تحويل	O
+نورث	B-LOC
+كينغسفيل	I-LOC
+(	I-LOC
+أوهايو	I-LOC
+)	I-LOC
+
+تحويل	O
+ده	B-LOC
+برأفتاب	I-LOC
+ولي	I-LOC
+جوکار	I-LOC
+(	I-LOC
+مارغون	I-LOC
+)	I-LOC
+
+An	O
+الحضارة	B-LOC
+الإتروسكانية	I-LOC
+mining	O
+settlement	O
+
+تحويل	O
+دلو	B-LOC
+آمدة	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+ديواندرة	I-LOC
+)	I-LOC
+
+تحويل	O
+بروك	B-LOC
+(	I-LOC
+نبراسكا	I-LOC
+)	I-LOC
+
+تحويل	O
+المنطقة	B-LOC
+الشمالية	I-LOC
+(	I-LOC
+إسرائيل	I-LOC
+)	I-LOC
+
+تحويل	O
+جوهري	B-LOC
+(	I-LOC
+لامرد	I-LOC
+)	I-LOC
+
+**	O
+فيفيان	B-PER
+لي	I-PER
+–	O
+سكارليت	B-PER
+أوهارا	I-PER
+
+'	O
+''	O
+لوبتين	O
+''	O
+'	O
+هي	O
+بلدة	B-LOC
+ألمانية	I-LOC
+تقع	O
+في	O
+ألمانيا	B-LOC
+في	O
+مكلنبورغ	B-LOC
+فوربومرن	I-LOC
+.	O
+
+نادي	B-ORG
+تامبينس	I-ORG
+روفرز	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+
+تحويل	O
+هوندا	B-PER
+أف	I-PER
+أي	I-PER
+أس	I-PER
+125	I-PER
+بانثيون	I-PER
+
+تحويل	O
+إب	B-LOC
+(	I-LOC
+محافظة	I-LOC
+)	I-LOC
+
+باريس	B-LOC
+هي	O
+عاصمة	O
+فرنسا	B-LOC
+.	O
+
+تحويل	O
+تشال	B-LOC
+غرد	I-LOC
+کشتورزة	I-LOC
+(	I-LOC
+زاز	I-LOC
+الشرقي	I-LOC
+)	I-LOC
+
+تحويل	O
+أرمسترونغ	B-LOC
+كريك	I-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+ليو	B-PER
+من	I-PER
+أوستيا	I-PER
+.	O
+
+تحويل	O
+وزارة	B-ORG
+الخارجية	I-ORG
+(	I-ORG
+مصر	I-ORG
+)	I-ORG
+
+تحويل	O
+الحرب	B-ORG
+العثمانية	I-ORG
+الزندية	I-ORG
+(	I-ORG
+1775-1776	I-ORG
+)	I-ORG
+
+تحويل	O
+ملعب	B-ORG
+بن	I-ORG
+أحمد	I-ORG
+العبدي	I-ORG
+
+تحويل	O
+زائین	B-LOC
+(	I-LOC
+عليا	I-LOC
+أردستان	I-LOC
+)	I-LOC
+
+تحويل	O
+بيه	B-LOC
+جوهان	I-LOC
+بيتز	I-LOC
+(	I-LOC
+كيبك	I-LOC
+)	I-LOC
+
+تحويل	O
+وردانة	B-LOC
+(	I-LOC
+جماعة	I-LOC
+)	I-LOC
+
+تحويل	O
+نوتوس	B-LOC
+(	I-LOC
+أيداهو	I-LOC
+)	I-LOC
+
+تحويل	O
+كريبينو	B-LOC
+(	I-LOC
+أبرففرو	I-LOC
+)	I-LOC
+
+تحويل	O
+نوروود	B-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC
+
+تحويل	O
+طه	B-PER
+ياسين	I-PER
+رمضان	I-PER
+
+تحويل	O
+الصندوق	B-ORG
+العالمي	I-ORG
+للطبيعة	I-ORG
+
+تحويل	O
+شیخ	B-LOC
+میري	I-LOC
+کلهر	I-LOC
+(	I-LOC
+همت	I-LOC
+أباد	I-LOC
+)	I-LOC
+
+تحويل	O
+مقاطعة	B-LOC
+واين	I-LOC
+(	I-LOC
+ميزوري	I-LOC
+)	I-LOC
+
+جني	B-LOC
+(	I-LOC
+مالي	I-LOC
+)	I-LOC
+
+كان	O
+ضمن	O
+المنتخب	O
+الذي	O
+أشترك	O
+في	O
+مبارايات	O
+فريقي	O
+بولندا	B-LOC
+رومانيا	B-LOC
+.	O
+
+لما	O
+رايتو،	O
+غناء	O
+فلة	B-PER
+
+تحويل	O
+مسجد	B-ORG
+عمرو	I-ORG
+بن	I-ORG
+العاص	I-ORG
+(	I-ORG
+كوالالمبور	I-ORG
+)	I-ORG
+
+**	O
+سان	B-LOC
+خوان	I-LOC
+(	O
+قنصلية	O
+عامة	O
+)	O
+
+سيدي	B-LOC
+يعقوب	I-LOC
+(	I-LOC
+الجزائر	I-LOC
+)	I-LOC
+
+تحويل	O
+أريفابوير	B-LOC
+(	I-LOC
+أرارات	I-LOC
+)	I-LOC
+
+تحويل	O
+سمرتاون	B-LOC
+(	I-LOC
+جورجيا	I-LOC
+)	I-LOC
+
+تصفيات	B-ORG
+كأس	I-ORG
+آسيا	I-ORG
+للشباب	I-ORG
+2012	I-ORG
+
+تحويل	O
+دونج	B-LOC
+هوي	I-LOC
+(	I-LOC
+مدينة	I-LOC
+)	I-LOC
+
+تحويل	O
+أندرسون	B-LOC
+(	I-LOC
+تكساس	I-LOC
+)	I-LOC
+
+*180	O
+عدد	B-ORG
+مضلعي	I-ORG
+(	O
+61	O
+أضلاع-	O
+...	O
+)	O
+
+مارشال]]	O
+بييترو	B-PER
+بادوليو	I-PER
+(	O
+1871–1956	O
+)	O
+
+وقد	O
+دفن	O
+فيها	O
+العلامة	O
+تقي	B-PER
+الدين	I-PER
+الهلالي	I-PER
+.	O
+
+هيليخوم،	B-LOC
+كاخ	B-LOC
+آن	I-LOC
+براسم،	I-LOC
+كاتفايك،	B-LOC
+لايدن،	B-LOC
+لايدردورب،	B-LOC
+ليسه،	B-LOC
+نوردفايك،	B-LOC
+نوردفايكرهاوت،	B-LOC
+أوخستخيست،	B-LOC
+تايلنجن،	B-LOC
+فورسخوتن،	B-LOC
+زوترفاوده	B-LOC
+
+مؤشر	B-ORG
+التنمية	I-ORG
+البشرية	I-ORG
+يصل	O
+ل0675،	O
+فإن	O
+مرتبتها	O
+تصل	O
+للمرتبة	O
+108	O
+.	O
+
+'	O
+''	O
+بيت	B-PER
+سامبراس	I-PER
+''	O
+'	O
+هزم	O
+أندريه	B-PER
+أغاسي،	I-PER
+6-4	O
+,	O
+6-3	O
+,	O
+4-6	O
+,	O
+7-5	O
+
+``	O
+رن	B-ORG
+ذس	I-ORG
+تاون	I-ORG
+''	O
+
+سرعة	O
+الهايبرلوب	O
+تفوق	O
+سرعة	O
+الصوت	O
+وتسير	O
+بسرعة	O
+1200	O
+كم	O
+في	O
+الساعة،	O
+ستستطيع	O
+أن	O
+تقطع	O
+المسافة	O
+ما	O
+بين	O
+نيويورك	B-LOC
+الولايات	B-LOC
+المتحدة	I-LOC
+والعاصمة	O
+الصينية	B-LOC
+بكين	B-LOC
+في	O
+ساعتين	O
+وبين	O
+لوس	B-LOC
+أنجلوس	I-LOC
+سان	B-LOC
+فرانسيسكو	I-LOC
+في	O
+35	O
+دقيقة	O
+
+تحويل	O
+هاتش	B-LOC
+(	I-LOC
+يوتا	I-LOC
+)	I-LOC
+
+تحويل	O
+تشارلس	B-PER
+شيروود	I-PER
+ستراتون	I-PER
+
+تحويل	O
+إنتري	B-LOC
+ريوس	I-LOC
+(	I-LOC
+محافظة	I-LOC
+)	I-LOC
+
+تحويل	O
+منظمة	B-ORG
+الأغلبية	I-ORG
+الأخلاقية	I-ORG
+
+حكم	B-LOC
+الأمر	I-LOC
+الواقع	I-LOC
+
+*2	O
+–	O
+أرض	B-ORG
+الوطن	I-ORG
+''	O
+
+توفي	O
+في	O
+مدة	O
+رئاسة	O
+البابا	O
+يوأنس	B-PER
+السابع	I-PER
+فتقدم	O
+عليه	O
+في	O
+جدول	O
+الآباء	O
+البطاركة	O
+.	O
+
+3-	O
+عبد	B-PER
+العزيز	I-PER
+بن	I-PER
+باز	I-PER
+.	O
+
+عطا	B-PER
+الأيوبي،	I-PER
+وزيرًا	O
+للعدل	O
+.	O
+
+ثَني	O
+مِفصل	B-ORG
+الرُكبة	I-ORG
+.	O
+
+تحويل	O
+أوموتا	B-LOC
+(	I-LOC
+فوكوكا	I-LOC
+)	I-LOC
+
+تحويل	O
+ويسماونت	B-LOC
+(	I-LOC
+كيبك	I-LOC
+)	I-LOC
+
+تحويل	O
+بوتشانان	B-LOC
+(	I-LOC
+جورجيا	I-LOC
+)	I-LOC
+
+في	O
+1804-6،	O
+تم	O
+إلغاء	B-ORG
+الإمبراطورية	I-ORG
+الرومانية	I-ORG
+المقدسة،	I-ORG
+وأنشئت	O
+الإمبراطورية	B-LOC
+النمساوية	I-LOC
+.	O
+
+'	O
+''	O
+ليبيريوس	B-PER
+''	O
+'	O
+
+تحويل	O
+قط	B-LOC
+ماين	I-LOC
+كون	I-LOC
+
+تحويل	O
+مقاطعة	B-LOC
+تشافي	I-LOC
+(	I-LOC
+كولورادو	I-LOC
+)	I-LOC
+
+تحويل	O
+نابيرفيل	B-LOC
+(	I-LOC
+كيبك	I-LOC
+)	I-LOC
+
+راندا	B-PER
+البحيري	I-PER
+بدور	O
+سنا	O
+
+تحويل	O
+بلبل	B-LOC
+أبيض	I-LOC
+الأذن	I-LOC
+
+***رئيس	O
+الوزراء	O
+–	O
+مارك	B-PER
+روته،	I-PER
+رئيس	B-ORG
+وزراء	I-ORG
+هولندا	I-ORG
+(	O
+2010–حالياً	O
+)	O
+
+تحويل	O
+مقاطعة	B-LOC
+راندولف	I-LOC
+(	I-LOC
+أركنساس	I-LOC
+)	I-LOC
+
+عماد	B-PER
+حمدي	I-PER
+في	O
+دور	O
+عز	B-PER
+الدين	I-PER
+أيبك	I-PER
+.	O
+
+ولد	O
+لأبوان	O
+هولنديان	O
+في	O
+فنلندا	B-LOC
+ونشأ	O
+في	O
+فرنسا	B-LOC
+إنجلترا	B-LOC
+سويسرا	B-LOC
+.	O
+
+تحويل	O
+مقاطعة	B-LOC
+تولير	I-LOC
+(	I-LOC
+كاليفورنيا	I-LOC
+)	I-LOC
+
+للصبر	O
+حدود	O
+-	O
+ام	B-PER
+كلثوم	I-PER
+
+توفي	O
+في	O
+موناكو	B-LOC
+في	O
+فرنسا	B-LOC
+خلال	O
+وجوده	O
+في	O
+رحلة	O
+علاج	O
+.	O
+
+'	O
+''	O
+سونام	B-PER
+كابور	I-PER
+''	O
+'	O
+بدور	O
+'	O
+''	O
+مايثلي	O
+''	O
+'	O
+
+غالبية	O
+الدول	O
+الباقية	O
+ضمت	O
+إلى	O
+العالم	B-LOC
+الثالث	I-LOC
+.	O
+
+تحويل	O
+قصر	B-LOC
+بن	I-LOC
+غشير	I-LOC
+
+صرد	B-LOC
+رمادي	I-LOC
+كبير،	I-LOC
+''Lanius	O
+excubitor	O
+''	O
+
+تحويل	O
+بلدة	B-LOC
+كيرني	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+تحويل	O
+أليخاندرو	B-PER
+غونزاليز	I-PER
+إيناريتو	I-PER
+
+'	O
+''	O
+يوليسيس	B-PER
+جرانت	I-PER
+''	O
+'	O
+(	O
+1822–1885	O
+)	O
+
+*هذا	O
+الدواء	O
+نادرا	O
+ما	O
+يسبب	O
+مشاكل	O
+خطيرة	O
+في	O
+كبد	B-ORG
+(	O
+ربما	O
+تسبب	O
+الوفاة	O
+)	O
+.	O
+
+بطل	O
+المغرب	B-LOC
+مع	O
+الرجاء	B-ORG
+
+(	O
+بيروت	B-LOC
+)	O
+.	O
+
+تحويل	O
+جينوا	B-LOC
+(	I-LOC
+نيويورك	I-LOC
+)	I-LOC
+
+كركر	B-LOC
+قطبي	I-LOC
+(	O
+''Stercorarius	O
+parasiticus	O
+''	O
+)	O
+
+تحويل	O
+مرحلة	B-ORG
+خروج	I-ORG
+المغلوب	I-ORG
+بدروي	I-ORG
+أبطال	I-ORG
+أوروبا	I-ORG
+2014–15	I-ORG
+
+حقق	O
+المركز	O
+الـ	O
+10	O
+في	O
+سباق	B-ORG
+طواف	I-ORG
+فرنسا	I-ORG
+2007	I-ORG
+
+تحويل	O
+مادونا	B-PER
+(	I-PER
+مغنية	I-PER
+)	I-PER
+
+تحويل	O
+كولومبيا	B-LOC
+(	I-LOC
+ألاباما	I-LOC
+)	I-LOC
+
+كركر	B-LOC
+طويل	I-LOC
+الذيل	I-LOC
+,	O
+(	O
+''Stercorarius	O
+longicaudus	O
+''	O
+)	O
+(	O
+A	O
+)	O
+
+تحويل	O
+ترينتون	B-LOC
+(	I-LOC
+كنتاكي	I-LOC
+)	I-LOC
+
+تحويل	O
+إرويندالي	B-LOC
+(	I-LOC
+كاليفورنيا	I-LOC
+)	I-LOC
+
+تحويل	O
+ادواردو	B-PER
+لوبيز	I-PER
+اليخاندرو	I-PER
+
+تحويل	O
+خفج	B-LOC
+نحيل	I-LOC
+الأوراق	I-LOC
+
+تحويل	O
+الحبلة	B-LOC
+(	I-LOC
+عسير	I-LOC
+)	I-LOC
+
+تحويل	O
+ميدرايفيل	B-LOC
+(	I-LOC
+إنديانا	I-LOC
+)	I-LOC
+
+جامعة	B-ORG
+دهوك	I-ORG
+(	O
+دهوك	B-LOC
+)	O
+
+تحويل	O
+فاو	B-LOC
+دي	I-LOC
+إينسون	I-LOC
+
+تحويل	O
+ليستر	B-LOC
+(	I-LOC
+آيوا	I-LOC
+)	I-LOC
+
+تحويل	O
+ويستوفر	B-LOC
+(	I-LOC
+فيرجينيا	I-LOC
+الغربية	I-LOC
+)	I-LOC
+
+تحويل	O
+وزارة	B-ORG
+الدولة	I-ORG
+لشؤون	I-ORG
+البيئة	I-ORG
+(	I-ORG
+مصر	I-ORG
+)	I-ORG
+
+تحويل	O
+تيريسا	B-LOC
+(	I-LOC
+كاستيلون	I-LOC
+)	I-LOC
+
+«Cathedral	O
+of	O
+Our	O
+Lady	O
+of	O
+Egypt	O
+in	O
+Cairo»	O
+الكنيسة	B-ORG
+القبطية	I-ORG
+الكاثوليكية	I-ORG
+
+من	O
+الجدير	O
+بالذكر	O
+بأن	O
+الرواية	O
+وهي	O
+ممنوعة	O
+في	O
+السعودية،	B-LOC
+ثم	O
+تم	O
+فسحها	O
+.	O
+
+ابن	B-PER
+كثير	I-PER
+في	O
+البداية	B-ORG
+والنهاية	I-ORG
+10	O
+/	O
+315	O
+.	O
+
+**	O
+القوات	B-ORG
+البرية	I-ORG
+الملكية	I-ORG
+السعودية	I-ORG
+
+تحويل	O
+إلكتون	B-LOC
+(	I-LOC
+ماريلاند	I-LOC
+)	I-LOC
+
+تحويل	O
+المحكمة	B-ORG
+الجنائية	I-ORG
+الدولية	I-ORG
+
+نتيجته	O
+البارزة	O
+التي	O
+استطاع	O
+تحقيقها	O
+هو	O
+الفوز	O
+على	O
+الغابون	B-ORG
+2-1	O
+في	O
+الدور	O
+النصف	O
+النهائي	O
+.	O
+
+تحويل	O
+صحة	B-ORG
+مرضى	I-ORG
+السكري	I-ORG
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO248551	O
+
+شون	B-PER
+كيلي	I-PER
+(	I-PER
+دراج	I-PER
+)	I-PER
+
+بورس	B-PER
+بيكر	I-PER
+''	O
+(	O
+الجولة	O
+الثالثة	O
+)	O
+''	O
+
+جامعة	B-ORG
+القدس	I-ORG
+(	I-ORG
+القدس	I-ORG
+)	I-ORG
+
+خالد	B-PER
+أبو	I-PER
+النجا	I-PER
+-	O
+هند	B-PER
+صبري	I-PER
+
+بحرية	B-ORG
+الولايات	I-ORG
+المتحدة	I-ORG
+/	O
+قوات	B-ORG
+مشاة	I-ORG
+بحرية	I-ORG
+الولايات	I-ORG
+المتحدة	I-ORG
+
+اوزيريس	B-ORG
+(	I-ORG
+ازر	I-ORG
+)	I-ORG
+
+تحويل	O
+مقاطعة	B-LOC
+شامبيرس	I-LOC
+(	I-LOC
+ألاباما	I-LOC
+)	I-LOC
+
+كووستي	B-PER
+كاليو	I-PER
+(	O
+1873-1940	O
+)	O
+
+'	O
+''	O
+قلعة	B-ORG
+عش	I-ORG
+السنونو	I-ORG
+''	O
+'	O
+
+الغاسول	B-LOC
+(	I-LOC
+ولاية	I-LOC
+البيض	I-LOC
+)	I-LOC
+
+تحويل	O
+دامة	B-LOC
+(	I-LOC
+براندنبورغ	I-LOC
+)	I-LOC
+
+'	O
+''	O
+روبرت	B-PER
+باتريك	I-PER
+''	O
+'	O
+
+تحويل	O
+برادلاندز	B-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC
+
+لعب	O
+طوال	O
+مسيرته	O
+الرياضية	O
+في	O
+نادي	B-ORG
+بازل	I-ORG
+.	O
+
+تحويل	O
+بارنيت	B-LOC
+(	I-LOC
+فيرمونت	I-LOC
+)	I-LOC
+
+خضع	O
+لمحاكمة	O
+بتهمة	O
+العمالة	O
+لليابانيين	O
+والتعاون	O
+معهم	O
+وتأسيس	O
+دولة	B-LOC
+تابعة	I-LOC
+.	O
+
+موطنه	O
+في	O
+أمريكا	B-LOC
+الجنوبية	I-LOC
+.	O
+
+لودفيغ	B-PER
+ميس	I-PER
+فان	I-PER
+دير	I-PER
+روه	I-PER
+(	O
+1886–1969	O
+)	O
+،	O
+ألمانيا	B-LOC
+/	O
+الولايات	B-LOC
+المتحدة	I-LOC
+
+'	O
+''	O
+فولتار	O
+''	O
+'	O
+هي	O
+محطة	B-ORG
+مترو	I-ORG
+تابعة	O
+لمترو	B-ORG
+باريس	I-ORG
+تقع	O
+في	O
+فرنسا	B-LOC
+في	O
+الدائرة	B-LOC
+الحادية	I-LOC
+عشرة	I-LOC
+في	I-LOC
+باريس	I-LOC
+.	O
+
+تحويل	O
+هاروود	B-LOC
+(	I-LOC
+ميزوري	I-LOC
+)	I-LOC
+
+مركز	B-ORG
+الدولة	I-ORG
+للبحوث	I-ORG
+والإنتاج	I-ORG
+الفضائي	I-ORG
+خرونتشيف	I-ORG
+
+تحويل	O
+أيرون	B-LOC
+ريدج	I-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+كان	O
+بالغ	O
+الإهتمام	O
+بالتوحيد	O
+والعقيدة	O
+مستحضرا	O
+لكثير	O
+من	O
+المسائل	O
+في	O
+هذا	O
+المجال	O
+جيد	O
+المشاركة	O
+فيه	O
+وله	O
+اهتمام	O
+بالغ	O
+برسائل	O
+الشيخ	O
+محمد	B-PER
+بن	I-PER
+عبد	I-PER
+الوهاب	I-PER
+وأبنائه	O
+يحفظ	O
+كثيرا	O
+منها	O
+بالنص	O
+،	O
+وكان	O
+جيدا	O
+في	O
+النحو	O
+لايلحن	O
+ولا	O
+يطيق	O
+اللحن	O
+.	O
+
+تحويل	O
+بلدة	B-LOC
+نورثفيل	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+تحويل	O
+كوه	B-LOC
+مال	I-LOC
+(	I-LOC
+مشهد	I-LOC
+ميقان	I-LOC
+)	I-LOC
+
+اللعبة	O
+من	O
+تطوير	O
+يوبي	B-ORG
+سوفت	I-ORG
+مونتريال	I-ORG
+يوبي	B-ORG
+سوفت	I-ORG
+شانغهاي	I-ORG
+ومن	O
+نشر	O
+يوبي	B-ORG
+سوفت	I-ORG
+.	O
+
+،	O
+حيث	O
+كان	O
+عائد	O
+حديثا	O
+ً	O
+من	O
+شبه	B-LOC
+القارة	I-LOC
+الهندية	I-LOC
+.	O
+
+تحويل	O
+عز	B-PER
+الدين	I-PER
+ذو	I-PER
+الفقار	I-PER
+
+'	O
+''	O
+بيت	B-PER
+سامبراس	I-PER
+''	O
+'	O
+(	O
+2	O
+/	O
+5	O
+)	O
+
+جبل	B-LOC
+نمرود	I-LOC
+الذي	O
+يقع	O
+في	O
+الأراضي	O
+[التركية	O
+.	O
+
+أصبح	O
+پول	O
+سميث؛	O
+وخلال	O
+عامين	O
+من	O
+الزمن،	O
+يدير	O
+أول	O
+بوتيك	O
+له	O
+في	O
+نوتنغهام	B-LOC
+.	O
+
+**	O
+أليسون	B-PER
+جاني	I-PER
+-	O
+''Mom	O
+''	O
+
+تحويل	O
+بلدة	B-LOC
+فولينيا	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+تحويل	O
+نادي	B-ORG
+الملعب	I-ORG
+التونسي	I-ORG
+
+سعود	B-PER
+بن	I-PER
+إبراهيم	I-PER
+الشريم	I-PER
+
+تحويل	O
+بلدة	B-LOC
+غروت	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+**	O
+فانكوفر	B-LOC
+(	O
+Consulate	O
+General	O
+)	O
+
+تحويل	O
+بلايموث	B-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+أيمن	B-PER
+زيدان	I-PER
+بدور	O
+المدير	O
+العام	O
+.	O
+
+يعد	O
+الفريق	O
+الوحيد	O
+غير	O
+الأمريكي	B-LOC
+في	O
+الدوري	B-ORG
+الأمريكي	I-ORG
+لكرة	I-ORG
+السلة	I-ORG
+للمحترفين	I-ORG
+.	O
+
+ميشال	B-PER
+بوجناح،	I-PER
+الممثل	O
+.	O
+
+بناء	O
+على	O
+وصيتها	O
+بأن	O
+تدفن	O
+في	O
+العراق	B-LOC
+.	O
+
+تحويل	O
+سعيد	B-PER
+أختر	I-PER
+الرضوي	I-PER
+
+'	O
+''	O
+فلاندر	B-LOC
+الشرقية	I-LOC
+'	O
+''	O
+
+تحويل	O
+الحزب	B-ORG
+الاشتراكي	I-ORG
+البريطاني	I-ORG
+
+تحويل	O
+صندوق	B-ORG
+الأوبك	I-ORG
+للتنمية	I-ORG
+
+تحويل	O
+مجتمع	B-LOC
+(	I-LOC
+قسم	I-LOC
+تجاري	I-LOC
+)	I-LOC
+
+'	O
+''	O
+فريق	B-ORG
+فيراري	I-ORG
+''	O
+'	O
+
+تحويل	O
+أبوسوم	B-LOC
+طويل	I-LOC
+الأنف	I-LOC
+قصير	I-LOC
+الذيل	I-LOC
+
+تحويل	O
+التليفون	B-ORG
+والتلغراف	I-ORG
+الأمريكي	I-ORG
+
+برونو	B-PER
+غانز	I-PER
+بدور	O
+داميل	O
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO250257	O
+
+تحويل	O
+أدولف	B-PER
+إريك	I-PER
+نوردنسكيولد	I-PER
+
+كنيسة	B-ORG
+التوحيد	I-ORG
+الأرثوذكسية	I-ORG
+الإثيوبية	I-ORG
+ومركزها	O
+في	O
+.	O
+
+تحويل	O
+باتودا	B-LOC
+(	I-LOC
+بافيا	I-LOC
+)	I-LOC
+
+تحويل	O
+جامايكا	B-LOC
+(	I-LOC
+فيرمونت	I-LOC
+)	I-LOC
+
+تحويل	O
+لاتشين	B-LOC
+درهسي	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+غرمي	I-LOC
+)	I-LOC
+
+'	O
+''	O
+هو	O
+امتداد	O
+خاص	O
+بالعناوين	O
+الإلكترونية	O
+(	O
+نطاق	O
+)	O
+domain	O
+للمواقع	O
+التي	O
+تنتمي	O
+إلى	O
+قيرغيزستان	B-LOC
+
+خطوط	B-ORG
+نورث	I-ORG
+ويست	I-ORG
+الجوية	I-ORG
+
+تحويل	O
+جامع	B-ORG
+شاه	I-ORG
+زاده	I-ORG
+
+ملعب	B-LOC
+خوسيه	I-LOC
+باتشنتشو	I-LOC
+روميرو	I-LOC
+,	O
+ماراكايبو	B-LOC
+
+يعتبر	O
+الداشي	O
+أساس	O
+شوربة	B-ORG
+ميزو	I-ORG
+.	O
+
+تحويل	O
+مونميرل-سور-سون	B-LOC
+(	I-LOC
+أين	I-LOC
+)	I-LOC
+
+تحويل	O
+محمد	B-PER
+بن	I-PER
+يوسف	I-PER
+الإيلاقي	I-PER
+
+'	O
+''	O
+الطائف	B-LOC
+''	O
+'	O
+
+'	O
+''	O
+أرامكو	B-ORG
+السعودية	I-ORG
+''	O
+'	O
+
+تحويل	O
+ديكر	B-LOC
+أحمر	I-LOC
+الجانب	I-LOC
+
+تحويل	O
+روك	B-LOC
+هول	I-LOC
+(	I-LOC
+ماريلاند	I-LOC
+)	I-LOC
+
+ليون	B-PER
+كوبر	I-PER
+من	O
+الولايات	B-LOC
+المتحدة	I-LOC
+الأمريكية	I-LOC
+
+ساتيندرا	B-PER
+ناث	I-PER
+بوز	I-PER
+-	O
+الهند	B-LOC
+(	O
+1894-1974	O
+)	O
+
+والفيلم	O
+مستند	O
+على	O
+قصة	O
+حقيقية،	O
+وشخصية	O
+إيرين	B-PER
+بروكوفيتش	I-PER
+الحقيقة	O
+تظهر	O
+في	O
+الفيلم	O
+كنادلة	O
+بدور	O
+ثانوي	O
+.	O
+
+تحويل	O
+غوغ	B-LOC
+تبة	I-LOC
+(	I-LOC
+دیمکاران	I-LOC
+)	I-LOC
+
+ملعب	B-ORG
+بلدية	I-ORG
+ماهاماسينا	I-ORG
+,	O
+أنتاناناريفو	B-LOC
+,	O
+مدغشقر	B-LOC
+
+تحويل	O
+إبراهيم	B-PER
+بن	I-PER
+تاج	I-PER
+الدين	I-PER
+
+تحويل	O
+الحزب	B-ORG
+الوطني	I-ORG
+الديمقراطي	I-ORG
+(	I-ORG
+مصر	I-ORG
+)	I-ORG
+
+كما	O
+وجدت	O
+مدرسة	O
+مزخرفة	O
+برقب	O
+اللقالق	O
+وفى	O
+الفترة	O
+الحاليةوجد	O
+نفس	O
+الطراز	O
+ايضاً	O
+فى	O
+جامعة	B-ORG
+روستوك	I-ORG
+.	O
+
+تحويل	O
+إنديانولا	B-LOC
+(	I-LOC
+نبراسكا	I-LOC
+)	I-LOC
+
+تحويل	O
+ريدسفيل	B-LOC
+(	I-LOC
+جورجيا	I-LOC
+)	I-LOC
+
+الرئيس	O
+الشرفى	O
+البروفيسور	O
+السير	O
+مجدي	B-PER
+يعقوب	I-PER
+
+هو	O
+إبن	O
+آشور	B-PER
+نادين	I-PER
+أبلي،	I-PER
+خلفه	O
+في	O
+الحكم	O
+إنليل	B-PER
+خذرصر	I-PER
+.	O
+
+إم	B-ORG
+بي	I-ORG
+سي	I-ORG
+ماكس	I-ORG
+
+يولا	B-PER
+راميريز	I-PER
+''	O
+(	O
+النهائي	O
+)	O
+''	O
+
+تحويل	O
+حاجي	B-LOC
+ماميان	I-LOC
+(	I-LOC
+مهاباد	I-LOC
+)	I-LOC
+
+خدم	O
+في	O
+الجيش	B-ORG
+البريطاني	I-ORG
+.	O
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO251014	O
+
+آل	B-LOC
+كرت	I-LOC
+(	O
+1231–1389	O
+)	O
+
+ثم	O
+أرسله	O
+بوياديلا	O
+إلى	O
+إسبانيا	B-LOC
+ليكمل	O
+محاكمته	O
+.	O
+
+يحيى	B-PER
+محمد	I-PER
+عبد	I-PER
+الله	I-PER
+صالح	I-PER
+
+تحويل	O
+سان	B-LOC
+خوان	I-LOC
+(	I-LOC
+تكساس	I-LOC
+)	I-LOC
+
+'	O
+''	O
+جيسون	B-PER
+روبرتس	I-PER
+''	O
+'	O
+
+تحويل	O
+لوتون	B-LOC
+(	I-LOC
+داكوتا	I-LOC
+الشمالية	I-LOC
+)	I-LOC
+
+أحمد	B-PER
+معاذ	I-PER
+الخطيب	I-PER
+
+'	O
+''	O
+جواو	B-PER
+موتينيو	I-PER
+''	O
+'	O
+
+تحويل	O
+قليتش	B-LOC
+خانلو	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+غرمي	I-LOC
+)	I-LOC
+
+تحويل	O
+آليسون	B-PER
+دي	I-PER
+فورج	I-PER
+
+يوكيشيرو	B-PER
+إنيشي،	I-PER
+شقيق	O
+توموي	O
+
+تحويل	O
+كلارك	B-LOC
+(	I-LOC
+ميزوري	I-LOC
+)	I-LOC
+
+كما	O
+حصل	O
+على	O
+العديد	O
+من	O
+شهادات	O
+الشكر	O
+والتقدير	O
+من	O
+العديد	O
+من	O
+الوزارات	O
+والجامعات	O
+(	O
+جامعة	B-ORG
+عدن	I-ORG
+،	O
+جامعة	B-ORG
+تعز	I-ORG
+)	O
+،	O
+ومن	O
+الهيئات	O
+والمنظمات	O
+المدنية	O
+في	O
+اليمن	B-LOC
+.	O
+
+تحويل	O
+شیرازان	B-LOC
+(	I-LOC
+همبرات	I-LOC
+)	I-LOC
+
+تحويل	O
+كوبا	B-ORG
+أمريكا	I-ORG
+1997	I-ORG
+
+تحويل	O
+إميليا	B-PER
+باردو	I-PER
+باثان	I-PER
+
+تحويل	O
+المصرف	B-ORG
+العراقي	I-ORG
+الإسلامي	I-ORG
+
+وأصبح	O
+استاذًا	O
+مساعدًا	O
+في	O
+جامعة	B-ORG
+أنقرة	I-ORG
+.	O
+
+و	O
+يقع	O
+فيها	O
+ملعب	B-ORG
+سبورتس	I-ORG
+أثورتي	I-ORG
+في	I-ORG
+المايل	I-ORG
+هاي	I-ORG
+لفريق	O
+دنفر	B-ORG
+برونكوز	I-ORG
+.	O
+
+المعهد	B-ORG
+الملكي	I-ORG
+للتكنولوجيا	I-ORG
+في	I-ORG
+ملبورن	I-ORG
+
+جامع	B-ORG
+خالد	I-ORG
+بن	I-ORG
+الوليد،	I-ORG
+حمص	B-LOC
+
+'	O
+''	O
+روجيه	B-PER
+فيدرير	I-PER
+''	O
+'	O
+(	O
+)	O
+هزم	O
+ماركوس	B-PER
+باجداتيس	I-PER
+(	O
+)	O
+,	O
+5-7	O
+,	O
+7-5	O
+,	O
+6-0	O
+,	O
+6-2	O
+
+تحويل	O
+وکیل	B-LOC
+(	I-LOC
+دشتابي	I-LOC
+الغربي	I-LOC
+)	I-LOC
+
+تحويل	O
+قسم	B-LOC
+شیخ	I-LOC
+موسي	I-LOC
+الريفي	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+آق	I-LOC
+قلا	I-LOC
+)	I-LOC
+
+تحويل	O
+حصار	B-ORG
+جيان	I-ORG
+(	I-ORG
+1245-1246	I-ORG
+)	I-ORG
+
+تحويل	O
+هانيبال	B-ORG
+(	I-ORG
+مسلسل	I-ORG
+)	I-ORG
+
+سليم	B-PER
+الثالث	I-PER
+(	O
+المُلحِّن	O
+)	O
+(	O
+المُنظّم،	O
+النظامي	O
+)	O
+(	O
+الشهيد	O
+)	O
+
+يفغيني	B-PER
+كافلنيكوف	I-PER
+''	O
+(	O
+الجولة	O
+الرابعة	O
+)	O
+''	O
+
+روجر	B-PER
+الثالث	I-PER
+ملك	I-PER
+صقلية	I-PER
+.	O
+
+تُنسب	O
+الملحمة	O
+إلى	O
+فياسا،	B-PER
+أحد	O
+الشخصيات	O
+المهمة	O
+في	O
+الملحمة	O
+.	O
+
+كأس	B-ORG
+أبطال	I-ORG
+أفريقيا	I-ORG
+لكرة	I-ORG
+السلة	I-ORG
+للأندية	I-ORG
+
+Ferrari	O
+F12	O
+berlinetta	O
+Mondial	O
+de	O
+l’Automobile	O
+de	O
+Paris	O
+فيراري	B-ORG
+
+أطلق	O
+سراح	O
+المدون	O
+والناشط	O
+الحقوقي	O
+عبد	B-PER
+الجليل	I-PER
+السنكيس	I-PER
+الذي	O
+دعا	O
+إلى	O
+التحرك	O
+بخطوة	O
+جيدة	O
+وببادرة	O
+ايجابية	O
+أيضا	O
+.	O
+
+عبد	B-PER
+الحميد	I-PER
+بن	I-PER
+ترك	I-PER
+
+حقق	O
+المركز	O
+الـ	O
+4	O
+في	O
+طواف	B-ORG
+سان	I-ORG
+لويس	I-ORG
+2015	I-ORG
+
+مقاطعة	B-LOC
+بلزن-المدينة	I-LOC
+Okres	O
+Plzeň-město	O
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO251353	O
+
+مارين	B-PER
+سيليتش	I-PER
+''	O
+(	O
+الجولة	O
+الثالثة	O
+)	O
+
+تحويل	O
+فالكون	B-LOC
+(	I-LOC
+كارولاينا	I-LOC
+الشمالية	I-LOC
+)	I-LOC
+
+ألدو	B-PER
+فان	I-PER
+إيك	I-PER
+(	O
+1918–1999	O
+)	O
+،	O
+هولندا	B-LOC
+
+'	O
+''	O
+سلمان	B-ORG
+المؤشر	I-ORG
+''	O
+'	O
+
+الحركة	B-ORG
+العربية	I-ORG
+لتحرير	I-ORG
+أزواد	I-ORG
+.	O
+
+اعتزل	O
+الفن	O
+وحصل	O
+على	O
+الجنسية	O
+القطرية	B-LOC
+بمرسوم	O
+أميري	O
+من	O
+حاكم	O
+قطر	B-LOC
+.	O
+
+تبلغ	O
+مساحتها	O
+1438.19	O
+كم²	O
+مما	O
+يجعلها	O
+احد	O
+أكبر	O
+البلديات	O
+في	O
+البرتغال	B-LOC
+.	O
+
+تحويل	O
+مقاطعة	B-LOC
+كليفلاند	I-LOC
+(	I-LOC
+أركنساس	I-LOC
+)	I-LOC
+
+تحويل	O
+معصوم	B-LOC
+أباد	I-LOC
+(	I-LOC
+غربي	I-LOC
+أردبيل	I-LOC
+)	I-LOC
+
+'	O
+''	O
+كأس	B-ORG
+العالم	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+1982	I-ORG
+''	O
+'	O
+
+دوري	B-ORG
+جنوب	I-ORG
+أفريقيا	I-ORG
+الممتاز	I-ORG
+
+تحويل	O
+تشيشام	B-ORG
+(	I-ORG
+محطة	I-ORG
+مترو	I-ORG
+أنفاق	I-ORG
+لندن	I-ORG
+)	I-ORG
+
+تحويل	O
+ولاية	B-LOC
+أدرار	I-LOC
+(	I-LOC
+موريتانيا	I-LOC
+)	I-LOC
+
+'	O
+''	O
+قاصدي	B-PER
+مرباح	I-PER
+''	O
+'	O
+
+تحويل	O
+أمريكا	B-ORG
+المفتوحة	I-ORG
+2001	I-ORG
+(	I-ORG
+كرة	I-ORG
+مضرب	I-ORG
+)	I-ORG
+
+وقد	O
+ترددت	O
+أخبار	O
+حول	O
+زواجها	O
+من	O
+زكريا	B-PER
+عزمي،	I-PER
+رئيس	O
+ديوان	O
+الرئيس	O
+الأسبق	O
+حسني	B-PER
+مبارك،	I-PER
+إلا	O
+أن	O
+هذه	O
+المعلومات	O
+ظلت	O
+طي	O
+الكتمان	O
+ولم	O
+تثبت	O
+صحتها	O
+من	O
+عدمه	O
+.	O
+
+تحويل	O
+لاودونفيل	B-LOC
+(	I-LOC
+أوهايو	I-LOC
+)	I-LOC
+
+'	O
+''	O
+الدولة	B-ORG
+الأفشارية،	I-ORG
+1736–1796	O
+''	O
+'	O
+
+تحويل	O
+منشور	B-ORG
+(	I-ORG
+ألبوم	I-ORG
+)	I-ORG
+
+مساعدة	B-LOC
+(	I-LOC
+قرية	I-LOC
+)	I-LOC
+
+تحويل	O
+غل	B-LOC
+مهك	I-LOC
+(	I-LOC
+حسینیة	I-LOC
+انديمشك	I-LOC
+)	I-LOC
+
+تعلمت	O
+في	O
+جامعة	B-ORG
+كلية	I-ORG
+دبلن	I-ORG
+.	O
+
+تحويل	O
+بلدة	B-LOC
+بورتاغ	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+هوتون	I-LOC
+)	I-LOC
+
+تحويل	O
+فريق	B-ORG
+ريد	I-ORG
+بول	I-ORG
+
+تحويل	O
+هنري	B-PER
+ستافورد	I-PER
+(	I-PER
+دوق	I-PER
+باكنغهام	I-PER
+الثاني	I-PER
+)	I-PER
+
+الفيلم	O
+من	O
+إخراج	O
+آدم	B-PER
+مكاي	I-PER
+والمنتج	O
+جاد	B-PER
+أباتاو	I-PER
+.	O
+
+داركر	B-ORG
+ذان	I-ORG
+بلاك	I-ORG
+-المقاول	I-ORG
+الأسود-	I-ORG
+-	O
+بأي	O
+
+تحويل	O
+مقاطعة	B-LOC
+كامبريا	I-LOC
+(	I-LOC
+بنسيلفانيا	I-LOC
+)	I-LOC
+
+حقق	O
+المركز	O
+الـ	O
+3	O
+في	O
+سباق	B-ORG
+طواف	I-ORG
+فرنسا	I-ORG
+1921	I-ORG
+
+تحويل	O
+علي	B-PER
+رودريغيس	I-PER
+آراكي	I-PER
+
+المزيّن	O
+أو	O
+المثلج،	O
+حيث	O
+تغطّى	O
+القطع	O
+الصغيرة	O
+بالفوندانت	O
+أو	O
+الإكلير	O
+أو	O
+التارت	B-ORG
+.	O
+
+تحويل	O
+ليندساي	B-LOC
+(	I-LOC
+نبراسكا	I-LOC
+)	I-LOC
+
+تحويل	O
+تورونتو	B-LOC
+(	I-LOC
+أوهايو	I-LOC
+)	I-LOC
+
+تحويل	O
+بيتي	B-LOC
+(	I-LOC
+نيفادا	I-LOC
+)	I-LOC
+
+تحويل	O
+ليونز	B-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC
+
+``	O
+وحياتي	O
+عندك،	O
+ذكرى	B-PER
+''	O
+
+تحويل	O
+حكومة	B-ORG
+روسيا	I-ORG
+المؤقتة	I-ORG
+
+تبعد	O
+عن	O
+أراد	B-LOC
+48	O
+كم	O
+.	O
+
+تحويل	O
+شوي	B-PER
+هونج	I-PER
+هي	I-PER
+
+إيفان	B-PER
+آسين	I-PER
+الثاني	I-PER
+.	O
+
+تحويل	O
+القوات	B-ORG
+المسلحة	I-ORG
+التشيكية	I-ORG
+
+سبورتنغ	B-ORG
+كلوب	I-ORG
+دي	I-ORG
+غوا	I-ORG
+
+تحويل	O
+نادي	B-ORG
+فيكينغور	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+
+نيلس	B-PER
+ليدهولم	I-PER
+(	O
+1956-1961	O
+)	O
+
+ساره	B-PER
+إيراني	I-PER
+ماريا	B-PER
+خوسيه	I-PER
+مارتينيز	I-PER
+سانشيز	I-PER
+
+العين	B-LOC
+(	I-LOC
+أبوظبي	I-LOC
+)	I-LOC
+
+تحويل	O
+قناة	B-ORG
+إيه	I-ORG
+سي	I-ORG
+ميلان	I-ORG
+
+تحويل	O
+جني	B-LOC
+(	I-LOC
+مالي	I-LOC
+)	I-LOC
+
+'	O
+''	O
+DF	O
+''	O
+'	O
+–	O
+مدافع	B-PER
+;	O
+
+وُلد	O
+فرنسا	B-LOC
+ثم	O
+انتقل	O
+وعاش	O
+الولايات	B-LOC
+المتحدة	I-LOC
+.	O
+
+تحويل	O
+دوقلعة	B-LOC
+براشك	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+فريمان	I-LOC
+)	I-LOC
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO248251	O
+
+**	O
+نجمة	B-ORG
+(	I-ORG
+مضلع	I-ORG
+)	I-ORG
+
+تحويل	O
+مقاطعة	B-LOC
+كاس	I-LOC
+(	I-LOC
+ميزوري	I-LOC
+)	I-LOC
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO222236	O
+
+تحويل	O
+مايكروسوفت	B-ORG
+سارفيس	I-ORG
+برو	I-ORG
+2	I-ORG
+
+السيطرة	O
+على	O
+مصر	B-LOC
+بالكامل	O
+
+الحزب	B-ORG
+الشيوعي	I-ORG
+الهندي	I-ORG
+
+روهان	B-PER
+بوبانا	I-PER
+اعصام	B-PER
+الحق	I-PER
+قریشي	I-PER
+
+بسبب	O
+التوترات	O
+بين	O
+الملك	B-PER
+فيصل	I-PER
+الملك	B-PER
+سعود	I-PER
+.	O
+
+*ابن	O
+المعتصم	B-PER
+بالله	I-PER
+وأم	O
+ولد	O
+تدعى	O
+قراطيس	O
+.	O
+
+تحويل	O
+عقرب	B-LOC
+(	I-LOC
+حماة	I-LOC
+)	I-LOC
+
+هاشم	B-PER
+الأتاسي	I-PER
+(	O
+الفترة	O
+الثالثة	O
+)	O
+
+تحويل	O
+نيكولا	B-PER
+تيودور	I-PER
+دو	I-PER
+سوسور	I-PER
+
+لويس	B-PER
+الثاني	I-PER
+دوق	I-PER
+أنجو	I-PER
+.	O
+
+رفض	O
+التعويضات	O
+التي	O
+منحتها	O
+له	O
+هيئة	B-ORG
+الإنصاف	I-ORG
+والمصالحة،	I-ORG
+وآثر	O
+أن	O
+يعتمد	O
+على	O
+ساعديه	O
+.	O
+
+تحويل	O
+دلتا	B-LOC
+(	I-LOC
+ميزوري	I-LOC
+)	I-LOC
+
+'	O
+''	O
+بريجوس	B-PER
+ناكولما	I-PER
+''	O
+'	O
+
+تحويل	O
+منطقة	B-LOC
+فيدرالية	I-LOC
+مركزية	I-LOC
+
+تحويل	O
+همدان	B-LOC
+(	I-LOC
+مديرية	I-LOC
+)	I-LOC
+
+ساعد	O
+المنتخب	O
+في	O
+تجاوز	O
+مرحلة	O
+المجموعات	O
+بعد	O
+تعادلين	O
+أمام	O
+كل	O
+من	O
+المنتخب	B-ORG
+البوركيني	I-ORG
+و	O
+المنتخب	B-ORG
+الزيمبابوي	I-ORG
+و	O
+فوز	O
+على	O
+المنتخب	B-ORG
+الأوغندي	I-ORG
+.	O
+
+عكف	O
+مع	O
+بلير	B-PER
+على	O
+تحديث	O
+حزبهما	O
+.	O
+
+تحويل	O
+الوطن	B-ORG
+(	I-ORG
+جريدة	I-ORG
+بحرينية	I-ORG
+)	I-ORG
+
+أبي	B-PER
+بن	I-PER
+كعب	I-PER
+بن	I-PER
+قيس	I-PER
+.	O
+
+تحويل	O
+إمباراس	B-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+تحويل	O
+نورث	B-LOC
+مانشستر	I-LOC
+(	I-LOC
+إنديانا	I-LOC
+)	I-LOC
+
+تبعد	O
+عن	O
+تلمسان	B-LOC
+بحوالي	O
+60	O
+كم	O
+.	O
+
+تحويل	O
+راسبورة	B-LOC
+ثلاثية	I-LOC
+الخطوط	I-LOC
+
+تفسير	O
+للقرآن	O
+عده	O
+الطهراني	B-PER
+من	O
+أحسن	O
+التفاسير	O
+من	O
+بعض	O
+الجهات	O
+.	O
+
+وهي	O
+تابعة	O
+لشركة	O
+زيني	B-ORG
+ماكس	I-ORG
+ميديا	I-ORG
+.	O
+
+المتوكل	B-PER
+على	I-PER
+الله	I-PER
+الأول	I-PER
+
+تحويل	O
+كولون	B-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+بعد	O
+هذه	O
+المناورة	O
+كان	O
+القارب	O
+ما	O
+يزال	O
+قادرا	O
+على	O
+الابحار	O
+ووصل	O
+إلى	O
+ألمانيا	B-LOC
+
+تحويل	O
+أراليز	B-LOC
+(	I-LOC
+أرارات	I-LOC
+)	I-LOC
+
+ويندرج	O
+تحت	O
+علم	B-LOC
+البيئة	I-LOC
+العديد	O
+من	O
+التخصصات	O
+الفرعية	O
+.	O
+
+تحويل	O
+هاشم	B-PER
+بن	I-PER
+عتبة	I-PER
+
+بالإضافة	O
+إلى	O
+أنها	O
+على	O
+درجة	O
+عالية	O
+من	O
+التنمية	O
+ومجهزة	O
+تجهيزا	O
+جيدا،	O
+لذلك	O
+تستقبل	O
+الأرجنتين	B-LOC
+عدد	O
+هائل	O
+من	O
+السائحين	O
+.	O
+
+تحويل	O
+أبو	B-PER
+العباس	I-PER
+أحمد	I-PER
+بن	I-PER
+محمد	I-PER
+
+تحويل	O
+غيونغجو	B-LOC
+(	I-LOC
+مدينة	I-LOC
+)	I-LOC
+
+رمسيس	B-PER
+الثاني	I-PER
+(	I-PER
+رمسيس	B-PER
+العظيم	I-PER
+أو	I-PER
+الكبير	I-PER
+)	I-PER
+
+ولد	O
+مخيم	B-ORG
+شاتيلا	I-ORG
+للاجئين	O
+في	O
+بيروت	B-LOC
+.	O
+
+تحويل	O
+سده	B-LOC
+(	I-LOC
+مقاطعة	I-LOC
+فسا	I-LOC
+)	I-LOC
+
+تعلم	O
+في	O
+كلية	B-ORG
+أوبرلين،	I-ORG
+كلية	B-ORG
+هارفارد	I-ORG
+للحقوق	I-ORG
+.	O
+
+وليصبح	O
+المرء	O
+صيادًا	O
+محترفًا،	O
+يجب	O
+أن	O
+يتحقّق	O
+فيه	O
+شرطان؛	O
+النجاح	O
+في	O
+اختبار	O
+الصيادين	O
+وتعلّم	O
+كيفية	O
+استعمال	O
+نين	B-LOC
+.	O
+
+ماكسويل	B-ORG
+(	I-ORG
+وحدة	I-ORG
+)	I-ORG
+
+تحويل	O
+مسألة	B-ORG
+مجموع	I-ORG
+المجموعات	I-ORG
+الجزئية	I-ORG
+
+تحويل	O
+الدوري	B-ORG
+اللبناني	I-ORG
+الممتاز	I-ORG
+
+تحويل	O
+بلبل	B-LOC
+بني	I-LOC
+الصدر	I-LOC
+
+تحويل	O
+عبد	B-PER
+الرحمن	I-PER
+السميط	I-PER
+
+فلاديمير	B-LOC
+أوبلاست	I-LOC
+(	O
+Владимирская	O
+область	O
+)	O
+
+تحويل	O
+أبو	B-PER
+حامد	I-PER
+الغزالي	I-PER
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO241561	O
+
+تولى	O
+منصب	O
+الأمين	B-PER
+العام	I-PER
+(	O
+2003-10-01–2006-01-03	O
+)	O
+،	O
+الأمين	B-PER
+العام	I-PER
+(	O
+2001-05-24–2003-01-24	O
+)	O
+.	O
+
+بوينس	B-LOC
+آيرس	I-LOC
+ريو	B-LOC
+دي	I-LOC
+جانيرو	I-LOC
+
+ديبدين	B-ORG
+(	I-ORG
+محطة	I-ORG
+مترو	I-ORG
+أنفاق	I-ORG
+لندن	I-ORG
+)	I-ORG
+
+تحويل	O
+قریة	B-LOC
+شهید	I-LOC
+بهشتي	I-LOC
+(	I-LOC
+جهاد	I-LOC
+أباد	I-LOC
+كرمان	I-LOC
+)	I-LOC
+
+هزيمة	O
+الثوار	O
+البولنديين	O
+روسيا	B-LOC
+تستعيد	O
+السيطرة	O
+على	O
+بولندا	B-LOC
+
+تحويل	O
+أبریزي	B-LOC
+بریکدان	I-LOC
+(	I-LOC
+سررود	I-LOC
+الجنوبي	I-LOC
+)	I-LOC
+
+تحويل	O
+بلدة	B-LOC
+ميدفورد	I-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+'	O
+''	O
+15	O
+''	O
+'	O
+أليكس	B-PER
+أوكسلاد-تشامبرلين	I-PER
+
+الملك]]	O
+عبد	B-PER
+الله	I-PER
+الثاني	I-PER
+بن	I-PER
+الحسين	I-PER
+
+کان	O
+كريستيان	B-PER
+برنارد	I-PER
+زميله	O
+.	O
+
+تحويل	O
+بلدة	B-LOC
+دانبي	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+الاتحاد	B-ORG
+الدولي	I-ORG
+للاتصالات	I-ORG
+(	O
+UPU	O
+)	O
+
+تحويل	O
+ولاية	B-ORG
+الشرق	I-ORG
+الإمبراطورية	I-ORG
+
+د	O
+/	O
+ليلى	B-PER
+إسكندر	I-PER
+
+فرانسيسكو	B-PER
+رودريغيز	I-PER
+(	O
+مؤقت	O
+)	O
+
+المؤتمر	B-ORG
+من	I-ORG
+أجل	I-ORG
+الجمهورية،	I-ORG
+ثم	O
+مستقل	O
+ثم	O
+نداء	B-ORG
+تونس	I-ORG
+
+'	O
+''	O
+فرناندو	B-PER
+ألونسو	I-PER
+''	O
+'	O
+
+الرئيسة	O
+التنفيذية	O
+لشركة	O
+شركة	B-ORG
+كرافت	I-ORG
+فودز	I-ORG
+
+تحويل	O
+خطوط	B-ORG
+ألوها	I-ORG
+الجوية	I-ORG
+
+فاصبح	O
+ابنه	O
+لبشي	B-PER
+مردوخ	I-PER
+خلفا	O
+له	O
+.	O
+
+تحويل	O
+ريال	B-ORG
+مدريد	I-ORG
+موسم	I-ORG
+2013–14	I-ORG
+
+أقيمت	O
+في	O
+لاغوس	B-LOC
+نيجيريا	B-LOC
+.	O
+
+تحويل	O
+مقاطعة	B-LOC
+بالارد	I-LOC
+(	I-LOC
+كنتاكي	I-LOC
+)	I-LOC
+
+تحويل	O
+موتور	B-LOC
+۲۲خرداد	I-LOC
+(	I-LOC
+أرزوئیة	I-LOC
+)	I-LOC
+
+فضيلة	O
+الشيخ	O
+صالح	B-PER
+الفوزان	I-PER
+.	O
+
+تحويل	O
+مينيولا	B-LOC
+(	I-LOC
+كانساس	I-LOC
+)	I-LOC
+
+تحويل	O
+خطوط	B-ORG
+بيمان	I-ORG
+بنغلاديش	I-ORG
+الجوية	I-ORG
+
+تحويل	O
+قسم	B-LOC
+سنغ	I-LOC
+بست	I-LOC
+الريفي	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+تشادغان	I-LOC
+)	I-LOC
+
+تحويل	O
+بلدة	B-LOC
+إيري	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+''انظر	O
+أيضا	O
+شركة	B-ORG
+الهند	I-ORG
+الشرقية	I-ORG
+الهولندية	I-ORG
+''	O
+
+تحويل	O
+بلدة	B-LOC
+وارنر	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+تحويل	O
+قسم	B-LOC
+الغربي	I-LOC
+الريفي	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+أردبیل	I-LOC
+)	I-LOC
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO245277	O
+
+تحويل	O
+مناطق	B-LOC
+تيمور	I-LOC
+الشرقية	I-LOC
+
+Mahrjan-childppsmo.jpg|مَهرجان	O
+لِأطفال	O
+الأسرى	O
+في	O
+محافظة	B-LOC
+الخَليل	I-LOC
+
+تحويل	O
+عمالة	B-ORG
+الصخيرات	I-ORG
+تمارة	I-ORG
+
+ذكرى	O
+إبراهيم	B-PER
+الاستعداد	O
+للتضحية	O
+ابنه	O
+.	O
+
+نور	B-PER
+(	I-PER
+ممثلة	I-PER
+لبنانية	I-PER
+)	I-PER
+
+انتهى	O
+الأمر	O
+بأن	O
+قُسمت	O
+دولة	O
+إلى	O
+فرعين،	O
+أولهما	O
+في	O
+العراق	B-LOC
+والآخر	O
+في	O
+كرمان	B-LOC
+.	O
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO241563	O
+
+موطنه	O
+بلاد	B-LOC
+الشام	I-LOC
+تركيا	B-LOC
+القوقاز	B-LOC
+)	O
+بلغاريا	B-LOC
+.	O
+
+الشيخ	B-PER
+محمد	I-PER
+رشيد	I-PER
+قباني	I-PER
+
+تحويل	O
+إيليا	B-PER
+أبو	I-PER
+ماضي	I-PER
+
+جامعة	B-ORG
+محمد	I-ORG
+الخامس	I-ORG
+أكدال،	I-ORG
+
+المجلس	B-ORG
+الوطني	I-ORG
+يتكون	O
+من	O
+44	O
+مقعد	O
+منهم	O
+30	O
+عضو	O
+بالانتخاب	O
+مع	O
+اقتصاره	O
+على	O
+المواطنين	O
+الذكور	O
+و14	O
+وزير	O
+بحكم	O
+منصبهم	O
+.	O
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO249548	O
+
+تحويل	O
+مادبا	B-LOC
+(	I-LOC
+محافظة	I-LOC
+)	I-LOC
+
+يصب	O
+النهر	O
+في	O
+بحر	B-LOC
+قزوين	I-LOC
+.	O
+
+كان	O
+ميناءها	O
+موقعاً	O
+هاماً	O
+بالنسبة	O
+الحملات	B-ORG
+الصليبية،	I-ORG
+وتطور	O
+لاحقاً	O
+تطوراً	O
+كبيراً	O
+فأصبح	O
+الأهم	O
+على	O
+البحر	B-LOC
+الادرياتي	I-LOC
+.	O
+
+تحويل	O
+وينونا	B-LOC
+(	I-LOC
+مينيسوتا	I-LOC
+)	I-LOC
+
+جراي	B-ORG
+(	I-ORG
+وحدة	I-ORG
+)	I-ORG
+
+كذلك	O
+مُعظم	O
+الشواطئ	O
+في	O
+الدنمارك،	B-LOC
+وبعض	O
+الشواطئ	O
+في	O
+النرويجهي	O
+إختيارية	O
+ارتداء	O
+الملابس	O
+.	O
+
+مصطفى	B-PER
+البرغوثي	I-PER
+والأستاذ	O
+إبراهيم	B-PER
+الدقاق	I-PER
+والراحل	O
+د	O
+.	O
+
+تحويل	O
+فصل	B-ORG
+من	I-ORG
+الخدمة	I-ORG
+
+تحويل	O
+خشخاش	B-PER
+بن	I-PER
+سعيد	I-PER
+بن	I-PER
+أسود	I-PER
+
+'	O
+''	O
+ماكاو	B-LOC
+''	O
+'	O
+
+==	O
+السفر	O
+الي	O
+مصر	B-LOC
+==	O
+
+تحويل	O
+عبد	B-PER
+الرحمن	I-PER
+بن	I-PER
+أبي	I-PER
+بكر	I-PER
+
+تحويل	O
+بيشوا	B-ORG
+(	I-ORG
+لقب	I-ORG
+)	I-ORG
+
+تحويل	O
+ألتون	B-LOC
+(	I-LOC
+كانساس	I-LOC
+)	I-LOC
+
+في	O
+بوينس	B-LOC
+آيرس	I-LOC
+أصدر	O
+'	O
+''	O
+مجلة	O
+لا	O
+نوطا	O
+''	O
+'	O
+,	O
+(	O
+La	O
+Nota	O
+)	O
+.	O
+
+تحويل	O
+ليويشام،	B-ORG
+ديبتفورد	I-ORG
+(	I-ORG
+دائرة	I-ORG
+انتخابية	I-ORG
+في	I-ORG
+المملكة	I-ORG
+المتحدة	I-ORG
+)	I-ORG
+
+``	O
+'	O
+''	O
+بريك	B-ORG
+إت	I-ORG
+أوف	I-ORG
+''	O
+'	O
+''	O
+(	O
+مع	O
+شون	B-PER
+بول	I-PER
+)	O
+-	O
+(	O
+3:34	O
+)	O
+
+تحويل	O
+بلدة	B-LOC
+ليكسينغتون	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+عصيدة	B-ORG
+الزقوقو	I-ORG
+(	I-ORG
+حلويات	I-ORG
+)	I-ORG
+
+نظمي	B-PER
+النصر	I-PER
+نائب	O
+الرئيس	O
+التنفيذي	O
+للشؤون	O
+الإدارية	O
+والمالية	O
+جامعة	B-ORG
+الملك	I-ORG
+عبد	I-ORG
+الله	I-ORG
+للعلوم	I-ORG
+والتقنية	I-ORG
+بثول	O
+.	O
+
+تحويل	O
+جامع	B-ORG
+التضامن	I-ORG
+الإسلامي	I-ORG
+
+وبعدها،	O
+واصلوا	O
+المسير	O
+إلى	O
+الأناضول	B-LOC
+واستقروا	O
+في	O
+كارامان	B-LOC
+لمدة	O
+سبع	O
+سنوات	O
+حيث	O
+توفيت	O
+والدته	O
+.	O
+
+تحويل	O
+بيرويكشيري،	B-PER
+روكسبورغ	I-PER
+وسيلكيرك	I-PER
+(	I-PER
+دائرة	I-PER
+انتخابية	I-PER
+في	I-PER
+المملكة	I-PER
+المتحدة	I-PER
+)	I-PER
+
+مصطفى	B-PER
+قمر	I-PER
+في	O
+دور	O
+``	O
+''على	O
+''	O
+''	O
+
+تحويل	O
+إيريس	B-PER
+حبيب	I-PER
+المصري	I-PER
+
+تحويل	O
+بطولة	B-ORG
+ويمبلدون	I-ORG
+1979	I-ORG
+
+3-2	O
+107	O
+'	O
+فرانشيسكو	B-PER
+خينتو	I-PER
+
+تحويل	O
+بلشون	B-LOC
+البحيرات	I-LOC
+المالاغاسي	I-LOC
+
+إدجار	B-PER
+ميتشيل	I-PER
+=	O
+قبطان	O
+المركبة	O
+القمرية	O
+(	O
+Lunar	O
+Module	O
+)	O
+
+تحويل	O
+بلدة	B-LOC
+ماتيسون	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+تحويل	O
+دائرة	B-LOC
+أولاد	I-LOC
+ميمون	I-LOC
+
+تحويل	O
+دورست	B-LOC
+(	I-LOC
+فيرمونت	I-LOC
+)	I-LOC
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO246388	O
+
+اللعبة	O
+من	O
+نشر	O
+أكتيفجن	B-ORG
+.	O
+
+تحويل	O
+علي	B-LOC
+أباد	I-LOC
+(	I-LOC
+بزكش	I-LOC
+)	I-LOC
+
+إدموند	B-PER
+بيرك	I-PER
+(	O
+1729-1797	O
+)	O
+
+طيهوج	B-LOC
+مطوق	I-LOC
+,	O
+''Bonasa	O
+umbellus	O
+''	O
+
+تحويل	O
+أوشن	B-LOC
+سيتي	I-LOC
+(	I-LOC
+ماريلاند	I-LOC
+)	I-LOC
+
+تحويل	O
+هاركر	B-LOC
+هايتس	I-LOC
+(	I-LOC
+تكساس	I-LOC
+)	I-LOC
+
+الشيخ	O
+أحمد	B-PER
+علي	I-PER
+العجمي	I-PER
+
+تحويل	O
+ألفونسو	B-PER
+الحادي	I-PER
+عشر	I-PER
+
+سورانا	B-PER
+كريستيا	I-PER
+''	O
+(	O
+الجولة	O
+الثالثة	O
+)	O
+
+تحويل	O
+وزارة	B-ORG
+الزراعة	I-ORG
+(	I-ORG
+فرنسا	I-ORG
+)	I-ORG
+
+تحويل	O
+التعديل	B-ORG
+الأول	I-ORG
+لدستور	I-ORG
+الولايات	I-ORG
+المتحدة	I-ORG
+الأمريكية	I-ORG
+
+تحويل	O
+برج	B-ORG
+تلفزيون	I-ORG
+الرياض	I-ORG
+
+تحويل	O
+ميلفورد	B-LOC
+(	I-LOC
+نيوهامشير	I-LOC
+)	I-LOC
+
+تحويل	O
+بينتونيا	B-LOC
+(	I-LOC
+مسيسيبي	I-LOC
+)	I-LOC
+
+ومنعت	O
+الجمارك	O
+دخول	O
+الكتاب	O
+إلى	O
+البلاد،	O
+والذي	O
+بدوره	O
+قد	O
+يشير	O
+إلى	O
+إمكانية	O
+منعه	O
+أيضا	O
+من	O
+الشحن	O
+من	O
+ولاية	B-LOC
+إلى	O
+أخرى	O
+.	O
+
+تحويل	O
+نيو	B-LOC
+كاسل	I-LOC
+(	I-LOC
+بنسيلفانيا	I-LOC
+)	I-LOC
+
+تحويل	O
+روتنبورغ	B-LOC
+آم	I-LOC
+نكار	I-LOC
+
+تحويل	O
+الجمعة	B-ORG
+السوداء	I-ORG
+(	I-ORG
+1945	I-ORG
+)	I-ORG
+
+عمر	B-PER
+بن	I-PER
+أبي	I-PER
+ربيعة	I-PER
+
+'	O
+''	O
+مرينغن	O
+''	O
+'	O
+هي	O
+بلدة	B-LOC
+ألمانية	I-LOC
+تقع	O
+في	O
+ألمانيا	B-LOC
+في	O
+سكسونيا	B-LOC
+السفلى	I-LOC
+.	O
+
+تحويل	O
+فيرنون	B-LOC
+(	I-LOC
+كولومبيا	I-LOC
+البريطانية	I-LOC
+)	I-LOC
+
+تحويل	O
+بلدة	B-LOC
+ريتشفيلد	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+روسكومون	I-LOC
+)	I-LOC
+
+'	O
+''	O
+نامي	B-PER
+''	O
+'	O
+.	O
+
+تحويل	O
+ساسيبو	B-LOC
+(	I-LOC
+ناغاساكي	I-LOC
+)	I-LOC
+
+تحويل	O
+كاربونارا	B-LOC
+آل	I-LOC
+تيسينو	I-LOC
+(	I-LOC
+بافيا	I-LOC
+)	I-LOC
+
+تحويل	O
+لوف	B-ORG
+ذا	I-ORG
+واي	I-ORG
+يو	I-ORG
+لاي	I-ORG
+(	I-ORG
+أغنية	I-ORG
+إمينم	I-ORG
+)	I-ORG
+
+تحويل	O
+سالتي	B-LOC
+(	I-LOC
+باد	I-LOC
+كاليه	I-LOC
+)	I-LOC
+
+ويوجد	O
+بها	O
+موقع	O
+سيمايبلاتينسك	B-LOC
+.	O
+
+تحويل	O
+مذبحة	B-ORG
+مدرسة	I-ORG
+ريو	I-ORG
+دي	I-ORG
+جانيرو	I-ORG
+
+تحويل	O
+فيلافيجا	B-LOC
+ديل	I-LOC
+وزويا	I-LOC
+
+محمد	B-PER
+بن	I-PER
+الحسن	I-PER
+الحر	I-PER
+العاملي	I-PER
+.	O
+
+محمد	B-PER
+مرسي	I-PER
+والذي	O
+فاز	O
+بالمنصب	O
+في	O
+نهاية	O
+الأمر	O
+.	O
+
+'	O
+''	O
+إيميليو	B-PER
+بوتراغينيو	I-PER
+''	O
+'	O
+
+عبد	B-PER
+الله	I-PER
+السدحان	I-PER
+حبيب	B-PER
+الحبيب	I-PER
+ناصر	B-PER
+القصبي	I-PER
+
+تحويل	O
+شارماني	B-LOC
+(	I-LOC
+كيبك	I-LOC
+)	I-LOC
+
+==	O
+منتخب	B-ORG
+هنغاريا	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+==	O
+
+شركة	B-ORG
+الخطوط	I-ORG
+الجوية	I-ORG
+البريطانية	I-ORG
+لما	I-ORG
+وراء	I-ORG
+البحار	I-ORG
+
+ولم	O
+تعرف	O
+مؤلفات	O
+برعوثا	B-PER
+إلا	O
+عن	O
+طريق	O
+الاقتباسات	O
+التي	O
+اقتبسها	O
+بعض	O
+الكتاب	O
+منها	O
+(	O
+مثل	O
+يوسف	B-PER
+بن	I-PER
+ماتيتياهو	I-PER
+)	O
+.	O
+
+برجة	B-LOC
+(	I-LOC
+المرية	I-LOC
+)	I-LOC
+بالفتح	O
+
+تحويل	O
+الدوري	B-LOC
+العراقي	I-LOC
+الممتاز	I-LOC
+2008–09	I-LOC
+
+أقل	O
+الفرق	O
+تحقيقا	O
+للفوز	O
+هو	O
+نادي	B-ORG
+التضامن	I-ORG
+الكويتي	I-ORG
+حيث	O
+لم	O
+يفز	O
+.	O
+
+يوحنا	B-PER
+الدمشقي	I-PER
+-	O
+(	O
+حوالي	O
+676—749	O
+)	O
+.	O
+
+تحويل	O
+جيمس	B-PER
+مكنيل	I-PER
+ويسلر	I-PER
+
+تحويل	O
+إليزابثتاون	B-LOC
+(	I-LOC
+نيويورك	I-LOC
+)	I-LOC
+
+جاسيك	B-PER
+باك	I-PER
+(	O
+القائد	O
+)	O
+
+تحويل	O
+ديفيد	B-PER
+مورس	I-PER
+(	I-PER
+سياسي	I-PER
+)	I-PER
+
+تحويل	O
+بلدة	B-LOC
+بلينفيلد	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+أيوسكو	I-LOC
+)	I-LOC
+
+تحويل	O
+مورس	B-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+تحويل	O
+مجلس	B-ORG
+الشورى	I-ORG
+(	I-ORG
+مصر	I-ORG
+)	I-ORG
+
+تحت	O
+إشراف	O
+صندوق	B-LOC
+النقد	I-LOC
+العربي	I-LOC
+وبتمويل	O
+منها،	O
+أُنْشِئَت	O
+مؤسّسة	O
+ماليّة	O
+جديدة	O
+باسم	O
+«إنفستكورب»	O
+ما	O
+بين	O
+عاميّ	O
+١٩٨١	O
+و١٩٨٢	O
+.	O
+
+الملك	B-PER
+الصالح	I-PER
+نجم	I-PER
+الدين	I-PER
+أيوب	I-PER
+
+تحويل	O
+صبار	B-LOC
+نجمي	I-LOC
+قرني	I-LOC
+
+تحويل	O
+آغا	B-PER
+خان	I-PER
+الأول	I-PER
+
+تحويل	O
+اليوم	B-ORG
+العالمي	I-ORG
+لمرض	I-ORG
+الجذام	I-ORG
+
+**	O
+إمارة	B-LOC
+دبي	I-LOC
+(	O
+قنصلية	O
+)	O
+
+سمي	O
+كذلك	O
+لأن	O
+السلطان	O
+أبو	B-PER
+يوسف	I-PER
+يعقوب	I-PER
+بن	I-PER
+عبد	I-PER
+الحق	I-PER
+أجرى	O
+فيه	O
+دموعه	O
+.	O
+
+تحويل	O
+شينوك	B-LOC
+(	I-LOC
+مونتانا	I-LOC
+)	I-LOC
+
+علاوة	O
+على	O
+نقمة	O
+الشارع	O
+وانهيار	O
+سمعة	O
+الوصي	O
+نوري	B-PER
+السعيد	I-PER
+والحكومة	O
+.	O
+
+تحويل	O
+موراي	B-LOC
+منقط	I-LOC
+أبيض	I-LOC
+
+تحويل	O
+جيهان	B-PER
+بشيخ	I-PER
+أحمد	I-PER
+
+تحويل	O
+جيش	B-ORG
+تحرير	I-ORG
+كوسوفو	I-ORG
+
+تحويل	O
+مقاطعة	B-LOC
+إيتون	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+30px]]	O
+القوات	B-ORG
+البحرية	I-ORG
+الملكية	I-ORG
+المغربية	I-ORG
+
+تحويل	O
+جعفر	B-LOC
+أباد	I-LOC
+(	I-LOC
+ريغستان	I-LOC
+)	I-LOC
+
+يوسف	B-PER
+وهبي،	I-PER
+أمينة	B-PER
+رزق،	I-PER
+سراج	B-PER
+منير،	I-PER
+محمود	B-PER
+المليجي	I-PER
+
+كأس	B-ORG
+السوبر	I-ORG
+الكويتي	I-ORG
+(	O
+4	O
+مرات	O
+)	O
+.	O
+
+تحويل	O
+لطف	B-PER
+الله	I-PER
+الصافي	I-PER
+الكلبايكاني	I-PER
+
+تعلم	O
+في	O
+كلية	B-ORG
+ميدلبوري	I-ORG
+.	O
+
+ونتيجة	O
+لنشاطه	O
+وحيويته	O
+لوحق	O
+من	O
+قبل	O
+النظام	O
+البعثي	O
+واعتقل	O
+ثم	O
+نفاه	O
+وعائلته	O
+إلى	O
+خارج	O
+العراق	B-LOC
+.	O
+
+تحويل	O
+بينوكيو	B-ORG
+(	I-ORG
+مسلسل	I-ORG
+كوري	I-ORG
+)	I-ORG
+
+'	O
+''	O
+ماريا	B-PER
+كيريلينكو	I-PER
+ناديا	B-PER
+بتروفا	I-PER
+''	O
+'	O
+
+روبرت	B-PER
+بيل	I-PER
+(	O
+أول	O
+مرة	O
+)	O
+
+تحويل	O
+هورودوك	B-LOC
+(	I-LOC
+محافظة	I-LOC
+لفيف	I-LOC
+)	I-LOC
+
+الاتحاد	B-ORG
+الأفريقي	I-ORG
+(	O
+AU	O
+)	O
+
+تحويل	O
+باولي	B-LOC
+(	I-LOC
+إنديانا	I-LOC
+)	I-LOC
+
+تحويل	O
+القمة	B-LOC
+العربية	I-LOC
+1964	I-LOC
+(	I-LOC
+القاهرة	I-LOC
+)	I-LOC
+
+نزار	B-PER
+بركة	I-PER
+(	O
+استقال	O
+)	O
+
+''e	O
+''	O
+)	O
+كرولي	B-LOC
+-	O
+Crawley	O
+
+كان	O
+في	O
+أول	O
+مراحله	O
+هاوياً	O
+حيث	O
+اعتاد	O
+إقامة	O
+الحفلات	O
+بمدينة	O
+بنغازي	B-LOC
+.	O
+
+تحويل	O
+كاواغوتشي	B-LOC
+(	I-LOC
+سايتاما	I-LOC
+)	I-LOC
+
+تحويل	O
+بويبلا	B-ORG
+(	I-ORG
+بويبلا	B-ORG
+)	I-ORG
+
+مؤشر	B-ORG
+التنمية	I-ORG
+البشرية	I-ORG
+-	O
+(	O
+HDI	O
+)	O
+.	O
+
+تحويل	O
+لوي	B-PER
+جوزيف	I-PER
+غي	I-PER
+ـ	I-PER
+لوساك	I-PER
+
+تحويل	O
+توماهوك	B-LOC
+(	I-LOC
+مقاطعة	I-LOC
+لنكولن	I-LOC
+)	I-LOC
+
+تحويل	O
+بلدة	B-LOC
+لي	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+ألغن	I-LOC
+)	I-LOC
+
+تحويل	O
+أوسكار	B-PER
+رومان	I-PER
+أكوستا	I-PER
+
+حقق	O
+المركز	O
+الـ	O
+11	O
+في	O
+طواف	B-ORG
+إيطاليا	I-ORG
+2009	I-ORG
+
+كما	O
+تعرّفها	O
+ناشيونال	B-ORG
+جيوغرافيك،	I-ORG
+'	O
+''	O
+محو	O
+الأمية	O
+الجغرافية	O
+''	O
+'	O
+هي	O
+``	O
+القدرة	O
+على	O
+استخدام	O
+الفهم	O
+الجغرافي	O
+والاستدلال	O
+الجغرافي	O
+لاتخاذ	O
+القرارات	O
+''	O
+.	O
+
+سفيان	B-PER
+بيضاوي	I-PER
+,	O
+ليرس	B-ORG
+.	O
+
+الفيلم	O
+من	O
+إخراج	O
+رولان	B-PER
+إيميريش	I-PER
+وكتابة	O
+دين	B-PER
+ديفلين	I-PER
+.	O
+
+تحويل	O
+شارل	B-PER
+بايو	I-PER
+دي	I-PER
+مورتانج	I-PER
+
+سونالي	B-PER
+بندر	I-PER
+as	O
+بريا	O
+(	O
+ظهور	O
+خاص	O
+)	O
+
+تحويل	O
+استاد	B-PER
+حمد	I-PER
+بن	I-PER
+خليفة	I-PER
+
+'	O
+''	O
+بلدة	B-LOC
+روئيدر	I-LOC
+'	O
+''	O
+.	O
+
+واجه	O
+الأخير	O
+ضغوطا	O
+من	O
+طرف	O
+البويهيين	B-LOC
+.	O
+
+القوات	B-ORG
+البحرية	I-ORG
+الملكية	I-ORG
+الدنماركية—Søværnet	I-ORG
+(	O
+SVN	O
+)	O
+
+تحويل	O
+إكلاين	B-LOC
+فليج-كريستال	I-LOC
+باي	I-LOC
+
+نجدة	B-PER
+إسماعيل	I-PER
+أنزور	I-PER
+.	O
+
+'	O
+''	O
+أحد	O
+الشخصيات	O
+الثقافية	O
+والشعرية	O
+في	O
+ليبيا	B-LOC
+.	O
+
+تحويل	O
+سربكوة	B-LOC
+(	I-LOC
+مقاطعة	I-LOC
+إسلام	I-LOC
+آباد	I-LOC
+غرب	I-LOC
+)	I-LOC
+
+كما	O
+كانت	O
+له	O
+مراسلات	O
+مع	O
+أعضائها	O
+ومنهم	O
+الأستاذ	O
+أحمد	B-PER
+توفيق	I-PER
+المدني	I-PER
+.	O
+
+تحويل	O
+بهلول	B-LOC
+أباد	I-LOC
+(	I-LOC
+شليل	I-LOC
+)	I-LOC
+
+مارتينا	B-PER
+هينجيز	I-PER
+''	O
+(	O
+الجولة	O
+الثالثة	O
+)	O
+
+تحويل	O
+هونغسونغ	B-LOC
+(	I-LOC
+محافظة	I-LOC
+)	I-LOC
+
+يوم	B-PER
+المعلم	I-PER
+في	O
+الصين	B-LOC
+هونغ	B-LOC
+كونغ	I-LOC
+.	O
+
+عبد	B-PER
+الله	I-PER
+بن	I-PER
+إسماعيل	I-PER
+.	O
+
+درس	O
+في	O
+جامعة	B-ORG
+ديوك	I-ORG
+.	O
+
+تحويل	O
+قربان	B-LOC
+أباد	I-LOC
+(	I-LOC
+غرغان	I-LOC
+بوي	I-LOC
+)	I-LOC
+
+فريتس	B-PER
+زيرنيكه	I-PER
+من	O
+هولندا	B-LOC
+
+'	O
+''	O
+إيجين	B-PER
+الرابع	I-PER
+''	O
+'	O
+
+تحويل	O
+يربوع	B-LOC
+رباعي	I-LOC
+الأصابع	I-LOC
+
+تحويل	O
+قسم	B-LOC
+همت	I-LOC
+أباد	I-LOC
+الريفي	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+بروجرد	I-LOC
+)	I-LOC
+
+نهر	B-LOC
+الزرقاء	I-LOC
+في	O
+الأردن	B-LOC
+.	O
+
+تحويل	O
+محافظة	B-LOC
+يوثاي	I-LOC
+ثاني	I-LOC
+
+تحويل	O
+بهار	B-LOC
+(	I-LOC
+الهند	I-LOC
+)	I-LOC
+
+تحويل	O
+مابسكوت	B-LOC
+(	I-LOC
+فيرجينيا	I-LOC
+الغربية	I-LOC
+)	I-LOC
+
+ديار	B-LOC
+بكر	I-LOC
+وبعض	O
+قراها	O
+.	O
+
+**	O
+الفاتيكان	B-LOC
+(	O
+سفارة	O
+)	O
+
+عين	B-LOC
+الكبيرة	I-LOC
+(	I-LOC
+ولاية	I-LOC
+سطيف	I-LOC
+)	I-LOC
+
+تحويل	O
+فرق	B-ORG
+توتر	I-ORG
+بلانك	I-ORG
+
+إلا	O
+أنه	O
+ليس	O
+هناك	O
+حل	O
+واضح	O
+لمشكلة	O
+نقص	O
+المياه	O
+في	O
+اليمن	B-LOC
+.	O
+
+مجموعة	B-ORG
+علي	I-ORG
+بابا	I-ORG
+(	I-ORG
+شركة	I-ORG
+)	I-ORG
+
+'	O
+''	O
+ديكر	B-LOC
+جنتنك	I-LOC
+''	O
+'	O
+
+تعلم	O
+في	O
+جامعة	B-ORG
+مينيسوتا،	I-ORG
+جامعة	B-ORG
+ولاية	I-ORG
+لويزيانا	I-ORG
+.	O
+
+'	O
+''	O
+كارا	B-ORG
+برازافيل	I-ORG
+''	O
+'	O
+
+تحويل	O
+ستاد	B-ORG
+دسوق	I-ORG
+الرياضي	I-ORG
+
+تحويل	O
+هارفي	B-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC
+
+تحويل	O
+جيش	B-ORG
+يوغسلافيا	I-ORG
+الشعبي	I-ORG
+
+كما	O
+أنهم	O
+صمموا	O
+الخطط	O
+الأولية	O
+لمبنى	O
+البرلمان	B-ORG
+النرويجي	I-ORG
+،	O
+ولكن	O
+تم	O
+تجاهل	O
+هذا	O
+التصميم	O
+في	O
+وقت	O
+لاحق	O
+.	O
+
+تاكيشي	B-PER
+مايدا	I-PER
+بدور	O
+الأخ	O
+الأكبر	O
+لتاكو	O
+
+تحويل	O
+برينستون	B-LOC
+(	I-LOC
+كانساس	I-LOC
+)	I-LOC
+
+===	O
+مؤسسة	B-ORG
+دبي	I-ORG
+للإعلام	I-ORG
+===	O
+
+شيشيو	B-PER
+ماكوتو،	I-PER
+الرجل	O
+الذي	O
+وقف	O
+بجانب	O
+سوجيرو	O
+
+تحويل	O
+بيرك	B-LOC
+(	I-LOC
+باد	I-LOC
+كاليه	I-LOC
+)	I-LOC
+
+تحويل	O
+ساكاساما	B-ORG
+نو	I-ORG
+باتيما	I-ORG
+
+بها	O
+فتحات	O
+أذن	B-ORG
+.	O
+
+تحويل	O
+فريبورت	B-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+تحويل	O
+قالويه	B-LOC
+زندان	I-LOC
+(	I-LOC
+مهاباد	I-LOC
+)	I-LOC
+
+تحويل	O
+مقاطعة	B-LOC
+ديكالب	I-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC
+
+واستأذن	O
+من	O
+الشاويش	O
+لمدة	O
+دقائق	O
+``	O
+ليزور	O
+خالته	O
+التى	O
+تسكن	O
+في	O
+بنها	B-LOC
+''	O
+.	O
+
+تحويل	O
+إس	B-ORG
+سي	I-ORG
+إي	I-ORG
+سانتا	I-ORG
+مونيكا	I-ORG
+ستوديو	I-ORG
+
+عاصمتها	O
+هي	O
+تين	B-LOC
+زاوتين	I-LOC
+و	O
+تضم	O
+بلدية	O
+تين	B-LOC
+زاوتين	I-LOC
+.	O
+
+تحويل	O
+جنوب	B-LOC
+سيناء	I-LOC
+(	I-LOC
+محافظة	I-LOC
+)	I-LOC
+
+أنس	B-PER
+بن	I-PER
+مالك	I-PER
+(	O
+إن	O
+كان	O
+محفوظا	O
+)	O
+
+الشيخ	O
+ناصر	B-PER
+بن	I-PER
+حمد	I-PER
+آل	I-PER
+خليفة	I-PER
+نجل	O
+ملك	B-PER
+البحرين	I-PER
+.	O
+
+لا	B-LOC
+فال	I-LOC
+دي	I-LOC
+أويتشو	I-LOC
+32.864	O
+نسمة	O
+
+تحويل	O
+آب	B-LOC
+غرم	I-LOC
+(	I-LOC
+بالا	I-LOC
+لاریجان	I-LOC
+)	I-LOC
+
+'	O
+''	O
+ماريا	B-PER
+شارابوفا	I-PER
+''	O
+'	O
+هزم	O
+سيرينا	B-PER
+ويليامز	I-PER
+,	O
+6-1	O
+,	O
+6-4	O
+
+أبو	B-LOC
+منجل	I-LOC
+الأخضر	I-LOC
+,	O
+''Mesembrinibis	O
+cayennensis	O
+''	O
+
+الحرس	B-ORG
+الجمهوري	I-ORG
+السوري	I-ORG
+.	O
+
+تحويل	O
+مسقط	B-LOC
+(	I-LOC
+محافظة	I-LOC
+)	I-LOC
+
+ولدت	O
+في	O
+سديروت،	B-LOC
+ولديها	O
+شقيقان	O
+وشقيقتان	O
+.	O
+
+فاز	O
+بهذا	O
+الموسم	O
+النادي	B-ORG
+الرياضي	I-ORG
+البنزرتي،	I-ORG
+وجاء	O
+ثانيا	O
+المستقبل	B-ORG
+الرياضي	I-ORG
+بالمرسى	I-ORG
+.	O
+
+تحويل	O
+أسرة	B-ORG
+محمد	I-ORG
+علي	I-ORG
+
+هي	O
+أخت	O
+طرفة	B-PER
+بن	I-PER
+العبد	I-PER
+من	O
+أمه	O
+.	O
+
+''s	O
+/	O
+o	O
+كلاوديو	B-PER
+سواريز	I-PER
+42	O
+''	O
+
+'	O
+''	O
+سيمونا	B-PER
+هاليب	I-PER
+''	O
+'	O
+هزمّت	O
+إيلينا	B-PER
+يانكوفيتش،	I-PER
+2–6،	O
+7–5،	O
+6–4	O
+
+تحويل	O
+عبد	B-PER
+الله	I-PER
+البرغوثي	I-PER
+
+تحويل	O
+بينتسفيل	B-LOC
+(	I-LOC
+كنتاكي	I-LOC
+)	I-LOC
+
+تحويل	O
+جامعة	B-ORG
+إنديانا	I-ORG
+مدرسة	I-ORG
+الطب	I-ORG
+
+تحويل	O
+حسن	B-PER
+يوسف	I-PER
+(	I-PER
+سياسي	I-PER
+)	I-PER
+
+تحويل	O
+سحر	B-ORG
+الغرام	I-ORG
+(	I-ORG
+مسلسل	I-ORG
+هندي	I-ORG
+)	I-ORG
+
+تحويل	O
+هونيا	B-LOC
+باث	I-LOC
+(	I-LOC
+كارولاينا	I-LOC
+الجنوبية	I-LOC
+)	I-LOC
+
+تحويل	O
+لايننفيل	B-LOC
+(	I-LOC
+إنديانا	I-LOC
+)	I-LOC
+
+تحويل	O
+فيرفاكس	B-LOC
+(	I-LOC
+فيرمونت	I-LOC
+)	I-LOC
+
+تحويل	O
+ديلتا	B-LOC
+(	I-LOC
+كولومبيا	I-LOC
+البريطانية	I-LOC
+)	I-LOC
+
+تحويل	O
+جيمس	B-PER
+بريسكوت	I-PER
+جول	I-PER
+
+يمكن	O
+برهنة	O
+أن	O
+الزاويتين	O
+المتقابلتين	O
+رباعي	B-ORG
+دائري	I-ORG
+هما	O
+زاويتان	B-ORG
+متكاملتان	I-ORG
+(	O
+أي	O
+مجموع	O
+قيمتهما	O
+يساوي	O
+180	O
+درجة	O
+)	O
+.	O
+
+الإصابة	O
+بالحيرة	B-LOC
+حيث	O
+يبدأ	O
+المريض	O
+باختراع	O
+ذكريات	O
+لم	O
+تحدث	O
+في	O
+الحقيقة	O
+.	O
+
+Tondo]]	O
+(	O
+100	O
+)	O
+,	O
+خوسيه	B-PER
+خواكين	I-PER
+روخاس	I-PER
+(	O
+95	O
+)	O
+,	O
+فرانسيسكو	B-PER
+فينتوسو	I-PER
+(	O
+70	O
+)	O
+
+تحويل	O
+دالاس	B-LOC
+(	I-LOC
+أوريغون	I-LOC
+)	I-LOC
+
+تحويل	O
+حباب	B-PER
+بن	I-PER
+المنذر	I-PER
+
+تحويل	O
+ليفينغستن	B-LOC
+(	I-LOC
+تكساس	I-LOC
+)	I-LOC
+
+تحويل	O
+بونو	B-LOC
+(	I-LOC
+أركنساس	I-LOC
+)	I-LOC
+
+تحويل	O
+مبرهنة	B-ORG
+القيمة	I-ORG
+النهائية	I-ORG
+
+تحويل	O
+بيدك	B-LOC
+(	I-LOC
+جمع	I-LOC
+أبرود	I-LOC
+)	I-LOC
+
+''لعبت	O
+جميع	O
+المباريات	O
+في	O
+دوشنبه،	B-LOC
+طاجيكستان	B-LOC
+.	O
+
+ارشيف	O
+الفاتيكان	B-LOC
+ليس	O
+استثناء	O
+.	O
+
+تقول	O
+في	O
+قصيدة	O
+جلفار	B-ORG
+''	O
+
+**	O
+جبعدين	B-LOC
+واعداد	O
+كبيرة	O
+لاتحصى	O
+من	O
+المدن	O
+والمواقع	O
+الأثرية	O
+والتاريخية	O
+.	O
+
+تحويل	O
+اقتل	B-ORG
+بيل	I-ORG
+الجزء	I-ORG
+1	I-ORG
+
+'	O
+''	O
+قصر	B-ORG
+الحمراء	I-ORG
+''	O
+'	O
+
+ييف	B-PER
+شرايبر	I-PER
+لدوره	O
+في	O
+''Ray	O
+Donovan	O
+''	O
+
+The	O
+اتحاد	B-ORG
+تركيا	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+
+تحويل	O
+مقاطعة	B-LOC
+كلارك	I-LOC
+(	I-LOC
+ميزوري	I-LOC
+)	I-LOC
+
+تحويل	O
+دون	B-LOC
+(	I-LOC
+كارولاينا	I-LOC
+الشمالية	I-LOC
+)	I-LOC
+
+تحويل	O
+فورست	B-LOC
+سيتي	I-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC
+
+رغم	O
+الحظر	O
+الذي	O
+كان	O
+مفروض	O
+على	O
+الفرقة	O
+,	O
+بقيت	O
+البومات	O
+الفرقة	O
+تباع	O
+بشكل	O
+جيد	O
+في	O
+تركيا	B-LOC
+ودولياً	O
+.	O
+
+تحويل	O
+فرين	B-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+الحمراء	B-LOC
+(	I-LOC
+وادي	I-LOC
+الصفراء	I-LOC
+)	I-LOC
+
+كان	O
+هذا	O
+رأي	O
+إسحاق	B-PER
+نيوتن	I-PER
+أيضا	O
+في	O
+طبيعة	O
+الضوء	O
+.	O
+
+برج	B-ORG
+درواغا	I-ORG
+〜the	I-ORG
+Aegis	I-ORG
+of	I-ORG
+URUK〜	I-ORG
+-	O
+توغي	O
+
+القاعدة	B-ORG
+في	I-ORG
+العراق	I-ORG
+
+'	O
+''	O
+أخمينيون	B-LOC
+''	O
+'	O
+
+تحويل	O
+كيلمارنوك	B-LOC
+(	I-LOC
+فيرجينيا	I-LOC
+)	I-LOC
+
+معادلة	B-ORG
+الحرارة	I-ORG
+Heat	O
+equation	O
+
+يعيش	O
+حاليا	O
+في	O
+باريس	B-LOC
+.	O
+
+(	O
+لوقا1:14،	B-PER
+13	O
+)	O
+.	O
+
+شارك	O
+أثناء	O
+دراسته	O
+في	O
+الاتحاد	B-LOC
+السوفياتي	I-LOC
+بمعارض	O
+عديدة	O
+
+تحويل	O
+بلدة	B-LOC
+هوارد	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+تناولت	O
+أطروحتها	O
+البحثية	O
+إبداع	O
+إيمي	B-PER
+سيزير	I-PER
+.	O
+
+تحويل	O
+ميدو	B-LOC
+بريدج	I-LOC
+(	I-LOC
+فيرجينيا	I-LOC
+الغربية	I-LOC
+)	I-LOC
+
+فرانشيسكو	B-PER
+كوسيغا،	I-PER
+82،	O
+رئيس	O
+إيطاليا	B-LOC
+.	O
+
+حلّ	O
+إيمرسون	B-PER
+فيتيبالدي	I-PER
+أولا	O
+كلاي	B-PER
+ريجاتسوني	I-PER
+ثانيا	O
+جاكي	B-PER
+إيكس	I-PER
+ثالثا	O
+.	O
+
+تحويل	O
+ذانيت	B-ORG
+الشمالية	I-ORG
+(	I-ORG
+دائرة	I-ORG
+انتخابية	I-ORG
+في	I-ORG
+المملكة	I-ORG
+المتحدة	I-ORG
+)	I-ORG
+
+بوا	B-PER
+-	O
+''Love	O
+&	O
+Honesty	O
+''	O
+
+'	O
+''	O
+طانطان	B-LOC
+''	O
+'	O
+
+تحويل	O
+تشنغرسيمينوند	B-LOC
+(	I-LOC
+مقاطعة	I-LOC
+إسلام	I-LOC
+آباد	I-LOC
+غرب	I-LOC
+)	I-LOC
+
+على	O
+الرغم	O
+من	O
+الوضع	O
+الاقتصادي	O
+المتدني	O
+و	O
+كون	O
+أزواج	O
+النساء	O
+في	O
+جزر	B-LOC
+القمر	I-LOC
+هم	O
+عادة	O
+من	O
+المزارعين	O
+أو	O
+العمال	O
+إلا	O
+أنهن	O
+و	O
+في	O
+كثير	O
+من	O
+الأحيان	O
+يتحركن	O
+بحريةٍ	O
+أكثر	O
+من	O
+نظرائهنَّ	O
+في	O
+أوساط	O
+النخبة	O
+الاجتماعية	O
+.	O
+
+نظرية	B-ORG
+الانفجار	I-ORG
+العظيم	I-ORG
+-	O
+بيني	B-PER
+
+تحويل	O
+نادي	B-ORG
+فيكينغ	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+
+تحويل	O
+ملعب	B-ORG
+أحمد	I-ORG
+زبانة	I-ORG
+
+قطقاط	B-LOC
+شوكي	I-LOC
+الجناح	I-LOC
+.	O
+
+تحويل	O
+إليانور	B-PER
+من	I-PER
+بروفانس	I-PER
+
+'	O
+''	O
+فرنسا	B-LOC
+''	O
+'	O
+
+دجاجة	B-LOC
+الماء	I-LOC
+منقطة	I-LOC
+الأجنحة	I-LOC
+
+تحويل	O
+رياح	B-PER
+حنا	I-PER
+أبو	I-PER
+العسل	I-PER
+
+تهتم	O
+الصحيفة	O
+بأخبار	O
+فريق	O
+سبورتينغ	B-ORG
+لشبونةعلى	I-ORG
+وجه	O
+الخصوص	O
+.	O
+
+المرحلة	O
+9	O
+أندورا	B-LOC
+لا	I-LOC
+فيلا	I-LOC
+–	O
+برشلونة	B-LOC
+
+تحويل	O
+الحرب	B-ORG
+الروسية	I-ORG
+الفارسية	I-ORG
+(	I-ORG
+1826-1828	I-ORG
+)	I-ORG
+
+ولدت	O
+بالأردن	B-LOC
+وهي	O
+فلسطينية	B-ORG
+الأصل	O
+واسمها	O
+«نازك	O
+عودة»،	O
+وبعد	O
+زواجها	O
+من	O
+رفيق	B-PER
+الحريري	I-PER
+أصبحت	O
+تلقب	O
+«بنازك	O
+الحريري»	O
+.	O
+
+تحويل	O
+نيوبورغ	B-LOC
+(	I-LOC
+إنديانا	I-LOC
+)	I-LOC
+
+تحويل	O
+دزداكوية	B-LOC
+(	I-LOC
+مقاطعة	I-LOC
+فيروزآباد	I-LOC
+)	I-LOC
+
+الشيخ	O
+مسلم	B-PER
+الملكوتي	I-PER
+.	O
+
+تحويل	O
+روكي	B-LOC
+فورد	I-LOC
+(	I-LOC
+كولورادو	I-LOC
+)	I-LOC
+
+تحويل	O
+تلمبة	B-LOC
+کوهزاد	I-LOC
+(	I-LOC
+صوغان	I-LOC
+)	I-LOC
+
+تحويل	O
+إدوارد	B-PER
+هنري	I-PER
+بالمر	I-PER
+
+الدوري	B-ORG
+الإنجليزي	I-ORG
+الممتاز	I-ORG
+وضع	O
+حد	O
+أقصى	O
+لعدد	O
+اللاعبين	O
+في	O
+الفريق	O
+.	O
+
+غازي	B-ORG
+عنتاب	I-ORG
+سبور	I-ORG
+
+تحويل	O
+هامانة	B-LOC
+(	I-LOC
+رباطات	I-LOC
+)	I-LOC
+
+تحويل	O
+ووودسيد	B-LOC
+(	I-LOC
+كاليفورنيا	I-LOC
+)	I-LOC
+
+اشتهرت	O
+في	O
+الأربعينيات،	O
+نافست	O
+بديعة	B-PER
+مصابني	I-PER
+بعد	O
+ما	O
+انضمت	O
+لفرقتها	O
+وصالتها	O
+المشهورة	O
+.	O
+
+تحويل	O
+بروفيدنس	B-LOC
+(	I-LOC
+ألاباما	I-LOC
+)	I-LOC
+
+كما	O
+أبلغت	O
+الفلبين	B-LOC
+عن	O
+عدد	O
+مماثل	O
+من	O
+مراكب	O
+الصيد	O
+الصغيرة	O
+.	O
+
+عبد	B-PER
+الرحمن	I-PER
+بن	I-PER
+عبد	B-PER
+الله	I-PER
+السديس	I-PER
+
+تحويل	O
+بيركارات	B-LOC
+(	I-LOC
+آراغاتسوتن	I-LOC
+)	I-LOC
+
+تحويل	O
+ميك	B-LOC
+(	I-LOC
+سقز	I-LOC
+)	I-LOC
+
+الفيلم	O
+من	O
+إخراج	O
+نيل	B-PER
+بلومكامب	I-PER
+وكتابة	O
+نيل	B-PER
+بلومكامب	I-PER
+.	O
+
+تحويل	O
+وي	B-ORG
+فاوند	I-ORG
+لوف	I-ORG
+(	I-ORG
+أغنية	I-ORG
+ريانا	I-ORG
+)	I-ORG
+
+وخلص	O
+التقرير	O
+إلى	O
+أنه	O
+لم	O
+يكن	O
+هناك	O
+حاجة	O
+إلى	O
+اتخاذ	O
+إجراءات	O
+لمساعدة	O
+هذه	O
+الجماعة	O
+للهجرة	O
+إلى	O
+إسرائيل	B-LOC
+.	O
+
+تحويل	O
+طارق	B-PER
+(	I-PER
+مغني	I-PER
+)	I-PER
+
+تحويل	O
+مورلاند	B-LOC
+(	I-LOC
+كانساس	I-LOC
+)	I-LOC
+
+تحويل	O
+عقاب	B-LOC
+ملكي	I-LOC
+شرقي	I-LOC
+
+تحويل	O
+شریف	B-LOC
+أباد	I-LOC
+(	I-LOC
+حسین	I-LOC
+أباد	I-LOC
+كرمان	I-LOC
+)	I-LOC
+
+تحويل	O
+دائرة	B-LOC
+مشدا	I-LOC
+الله	I-LOC
+
+ملعب	B-ORG
+الفيحاء	I-ORG
+-	O
+دمشق	B-LOC
+
+هوهنتسولرن	B-LOC
+(	O
+هوهنتسولرن	B-ORG
+هيشنغن5،	I-ORG
+هوهنتسولرن	B-LOC
+زيغمارينغن5	I-LOC
+)	O
+
+وينتشر	O
+الباراسيتامول	O
+سريعاً	O
+في	O
+جميع	O
+أنسجة	B-LOC
+الجسم	I-LOC
+.	O
+
+تحويل	O
+ليك	B-LOC
+كونتري	I-LOC
+(	I-LOC
+كولومبيا	I-LOC
+البريطانية	I-LOC
+)	I-LOC
+
+'	O
+''	O
+سيث	B-PER
+رولينز	I-PER
+''	O
+'	O
+
+تحويل	O
+ويلو	B-LOC
+بارك	I-LOC
+(	I-LOC
+تكساس	I-LOC
+)	I-LOC
+
+ويرتبط	O
+بشدة	O
+بدء	O
+وانتشار	O
+هذا	O
+العنصر	O
+التصميمي	O
+المعماري	O
+مع	O
+إنجلترا	B-LOC
+.	O
+
+تحويل	O
+قلنديا	B-LOC
+(	I-LOC
+بلدة	I-LOC
+)	I-LOC
+
+**	O
+دار	B-LOC
+السلام	I-LOC
+(	I-LOC
+تنزانيا	I-LOC
+)	I-LOC
+(	O
+سفارة	O
+)	O
+
+تحويل	O
+زیر	B-LOC
+کمر	I-LOC
+(	I-LOC
+سبیدار	I-LOC
+)	I-LOC
+
+الأميرة	B-PER
+للا	I-PER
+مليكة	I-PER
+(	O
+...	O
+-1933	O
+)	O
+.	O
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO250716	O
+
+**	O
+جاكرتا	B-LOC
+(	O
+سفارة	O
+)	O
+
+تحويل	O
+كاساس	B-LOC
+دي	I-LOC
+لاثارو	I-LOC
+
+تحويل	O
+ترحيل	B-PER
+الفلسطينيين	I-PER
+من	I-PER
+الكويت	I-PER
+
+تحويل	O
+حسن	B-PER
+معاذ	I-PER
+فلاته	I-PER
+
+تحويل	O
+مين	B-LOC
+(	I-LOC
+مقاطعة	I-LOC
+أوتاغامي	I-LOC
+)	I-LOC
+
+تحويل	O
+يغيباتروش	B-LOC
+(	I-LOC
+آراغاتسوتن	I-LOC
+)	I-LOC
+
+تحويل	O
+أرض	B-ORG
+القبلة	I-ORG
+(	I-ORG
+ألبوم	I-ORG
+)	I-ORG
+
+محميَّة	O
+في	O
+إسرائيل	B-LOC
+فقط	O
+.	O
+
+تحويل	O
+منتخب	B-ORG
+اليابان	I-ORG
+تحت	I-ORG
+20	I-ORG
+سنة	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+
+باتت	O
+مستعمرة	O
+روش	B-LOC
+بينا	I-LOC
+تحتل	O
+موقع	O
+القرية	O
+.	O
+
+تحويل	O
+محمود	B-PER
+عبد	I-PER
+الرحمن	I-PER
+
+ولد	O
+في	O
+مقاطعة	B-LOC
+تشيسترفيلد	I-LOC
+.	O
+
+تحويل	O
+بريستول	B-LOC
+(	I-LOC
+فلوريدا	I-LOC
+)	I-LOC
+
+''	O
+'	O
+شركة	B-ORG
+بترول	I-ORG
+أبوظبي	I-ORG
+الوطنية	I-ORG
+'	O
+''	O
+
+'	O
+''	O
+بروشون	O
+''	O
+'	O
+هي	O
+محطة	B-ORG
+مترو	I-ORG
+تابعة	O
+لمترو	B-ORG
+باريس	I-ORG
+تقع	O
+في	O
+فرنسا	B-LOC
+في	O
+الدائرة	B-LOC
+السابعة	I-LOC
+عشرة	I-LOC
+في	I-LOC
+باريس	I-LOC
+.	O
+
+تحويل	O
+طيران	B-ORG
+لؤلؤة	I-ORG
+السورية	I-ORG
+
+تحويل	O
+جيفري	B-PER
+إنجرام	I-PER
+تايلور	I-PER
+
+مثل	O
+منتخب	B-ORG
+هولندا	I-ORG
+في	O
+13	O
+مباراة	O
+(	O
+1932-1946	O
+)	O
+.	O
+
+تحويل	O
+شركة	B-ORG
+الواحة	I-ORG
+للنفط	I-ORG
+
+قائمة	B-LOC
+المواضيع	I-LOC
+الأساسية	I-LOC
+في	I-LOC
+الاقتصاد	I-LOC
+
+تحويل	O
+يونيون	B-LOC
+سبرينغز	I-LOC
+(	I-LOC
+نيويورك	I-LOC
+)	I-LOC
+
+وهي	O
+موجودة	O
+في	O
+الأقاليم	B-LOC
+الجديدة	I-LOC
+.	O
+
+تحويل	O
+حليب	B-ORG
+جوز	I-ORG
+الهند	I-ORG
+
+جامعة	B-ORG
+الملك	I-ORG
+فيصل	I-ORG
+في	O
+الدمام	B-LOC
+الهفوف،	B-LOC
+
+تحويل	O
+الغويرية	B-LOC
+(	I-LOC
+قطر	I-LOC
+)	I-LOC
+
+تحويل	O
+نوشيرو	B-LOC
+(	I-LOC
+أكيتا	I-LOC
+)	I-LOC
+
+**	O
+'	O
+''	O
+كريستيان	B-PER
+أبياتي	I-PER
+''	O
+'	O
+(	O
+'	O
+''	O
+331	O
+''	O
+'	O
+)	O
+لقاء	O
+
+تحويل	O
+قائمة	B-ORG
+بيم	I-ORG
+فورتاين	I-ORG
+
+كلاتة	B-LOC
+أرباب	I-LOC
+(	I-LOC
+شهرستانة	I-LOC
+)	I-LOC
+
+تحويل	O
+خربق	B-LOC
+دائري	I-LOC
+الأوراق	I-LOC
+
+أقل	O
+الفرق	O
+تعرضا	O
+للأهداف	O
+هو	O
+نادي	B-ORG
+الكويت	I-ORG
+ب13	O
+هدف	O
+.	O
+
+حقق	O
+المركز	O
+الـ	O
+5	O
+في	O
+طواف	B-ORG
+بولندا	I-ORG
+2009	I-ORG
+
+تحويل	O
+القصر	B-LOC
+(	I-LOC
+ولاية	I-LOC
+بجاية	I-LOC
+)	I-LOC
+
+تحويل	O
+مقاطعة	B-LOC
+روليت	I-LOC
+(	I-LOC
+داكوتا	I-LOC
+الشمالية	I-LOC
+)	I-LOC
+
+تحويل	O
+كريبل	B-LOC
+كريك	I-LOC
+(	I-LOC
+كولورادو	I-LOC
+)	I-LOC
+
+تحويل	O
+فونديه	B-LOC
+(	I-LOC
+إقليم	I-LOC
+فرنسي	I-LOC
+)	I-LOC
+
+تحويل	O
+برنارد	B-PER
+فون	I-PER
+برينتانو	I-PER
+
+تحويل	O
+بوتني	B-ORG
+(	I-ORG
+دائرة	I-ORG
+انتخابية	I-ORG
+في	I-ORG
+المملكة	I-ORG
+المتحدة	I-ORG
+)	I-ORG
+
+تحويل	O
+بایتخت	B-LOC
+تل	I-LOC
+کر	I-LOC
+(	I-LOC
+قيلاب	I-LOC
+)	I-LOC
+
+===	O
+في	O
+الحركة	B-ORG
+الحرارية	I-ORG
+===	O
+
+مبرهنة	B-ORG
+فيرما	I-ORG
+حول	I-ORG
+مجموع	I-ORG
+مربعين	I-ORG
+
+جايك	B-ORG
+وقراصنة	I-ORG
+أرض	I-ORG
+الأحلام	I-ORG
+
+تحويل	O
+ماكيدون	B-LOC
+(	I-LOC
+نيويورك	I-LOC
+)	I-LOC
+
+تحويل	O
+كودايرا	B-LOC
+(	I-LOC
+طوكيو	I-LOC
+)	I-LOC
+
+تحويل	O
+أم	B-PER
+كلثوم	I-PER
+بنت	I-PER
+علي	I-PER
+
+وكان	O
+أول	O
+المنطلقين	O
+هيليو	B-PER
+كاسترو	I-PER
+نيفيز	I-PER
+بسرعة	O
+.	O
+
+كلاتة	B-LOC
+ميزاتقي	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+غناباد	I-LOC
+)	I-LOC
+
+دارين	B-PER
+(	I-PER
+مغنية	I-PER
+)	I-PER
+
+تحويل	O
+مقاطعة	B-LOC
+سانت	I-LOC
+كلير	I-LOC
+(	I-LOC
+ألاباما	I-LOC
+)	I-LOC
+
+(	O
+البلديات	O
+في	O
+سويسرا	B-LOC
+أو	O
+راينلاند	B-LOC
+قد	O
+تكون	O
+مساحتها	O
+أقل،	O
+كما	O
+ذكر	O
+أعلاه،	O
+ولكنها	O
+أكثر	O
+ازدحامًا	O
+بالسكان	O
+)	O
+.	O
+
+تحويل	O
+تولون	B-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC
+
+تحويل	O
+شبه	B-LOC
+جزيرة	I-LOC
+نياجارا	I-LOC
+
+تحويل	O
+أرومية	B-LOC
+(	I-LOC
+فطريات	I-LOC
+)	I-LOC
+
+استعمال	O
+ومشاركة	O
+حلقات	O
+التعريف	O
+تلك	O
+يؤدي	O
+الى	O
+نمو	B-ORG
+أسي	I-ORG
+للشركة	O
+.	O
+
+تحويل	O
+دار	B-ORG
+العلوم	I-ORG
+حقانية	I-ORG
+
+تحويل	O
+مقاطعة	B-LOC
+غاردن	I-LOC
+(	I-LOC
+نبراسكا	I-LOC
+)	I-LOC
+
+تحويل	O
+لويس	B-PER
+بي.	I-PER
+ماير	I-PER
+
+التشابه	O
+بين	O
+حالتي	O
+رضا	B-PER
+هلال	I-PER
+والكيخيا	O
+أثارت	O
+شكوك	O
+واسعة	O
+النطاق	O
+حول	O
+تورط	O
+مسؤولين	O
+رفيعي	O
+المستوى	O
+.	O
+
+واشنطن	B-LOC
+(	I-LOC
+ولاية	I-LOC
+)	I-LOC
+
+كاترينا	B-PER
+جراهام	I-PER
+بدور	O
+ديَموند	O
+.	O
+
+تحويل	O
+فلورنس	B-LOC
+(	I-LOC
+مينيسوتا	I-LOC
+)	I-LOC
+
+من	O
+بينهم	O
+أوجين	B-PER
+يونسكو،	I-PER
+ميرتشا	B-PER
+إلياده	I-PER
+إميل	B-PER
+سيوران	I-PER
+أصبحوا	O
+مشهوريت	O
+بفضل	O
+أعمالهم	O
+.	O
+
+تحويل	O
+(	I-LOC
+مقاطعة	I-LOC
+اسلام	I-LOC
+شهر	I-LOC
+)	I-LOC
+
+تبعد	O
+عن	O
+القدس	B-LOC
+حوالي	O
+198	O
+كم	O
+إلى	O
+الشمال	O
+الشرقي	O
+.	O
+
+قصة	O
+آدم	B-PER
+وتعقيبات	O
+عليها	O
+.	O
+
+تحويل	O
+مقراب	B-ORG
+جيمس	I-ORG
+كليرك	I-ORG
+ماكسويل	I-ORG
+
+توران	B-PER
+شاه	I-PER
+بن	I-PER
+أيوب	I-PER
+
+تحويل	O
+كيرلس	B-PER
+الثاني	I-PER
+(	I-PER
+بابا	I-PER
+الإسكندرية	I-PER
+)	I-PER
+
+تحويل	O
+قمبريط	B-LOC
+جنوب	I-LOC
+أفريقي	I-LOC
+
+تحويل	O
+أبوسوم	B-LOC
+شمالي	I-LOC
+أحمر	I-LOC
+الجانب	I-LOC
+
+كينيتشي	B-PER
+أوغاتا	I-PER
+-	O
+ميوجا	O
+
+يصدر	O
+بنك	B-ORG
+إسرائيل	I-ORG
+قطع	O
+نقود	O
+بقيمة	O
+10	O
+أغورات	O
+(	O
+0.1	O
+ش.ج	O
+.	O
+
+تحويل	O
+أحمد	B-ORG
+بن	I-ORG
+كثير	I-ORG
+الفرغاني	I-ORG
+
+تحويل	O
+برايتون،	B-ORG
+كيمبتاون	I-ORG
+(	I-ORG
+دائرة	I-ORG
+انتخابية	I-ORG
+في	I-ORG
+المملكة	I-ORG
+المتحدة	I-ORG
+)	I-ORG
+
+مدرة	B-LOC
+وهو	O
+الجنس	O
+النموذجي	O
+لهذه	O
+القبيلة	O
+
+أبو	B-PER
+موسى	I-PER
+الأشعري	I-PER
+.	O
+
+'	O
+''	O
+إميل	B-PER
+لحود	I-PER
+''	O
+'	O
+
+الخميس	B-LOC
+(	I-LOC
+ولاية	I-LOC
+الجلفة	I-LOC
+)	I-LOC
+
+تحويل	O
+فولف	B-PER
+ألباخ	I-PER
+ريتي	I-PER
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO244222	O
+
+تحويل	O
+عمار	B-PER
+بن	I-PER
+خليف	I-PER
+
+كما	O
+أن	O
+بلوراته	O
+تتسيل	B-ORG
+بالتماس	O
+مع	O
+الهواء	O
+.	O
+
+تحويل	O
+لايكواي	B-LOC
+(	I-LOC
+تكساس	I-LOC
+)	I-LOC
+
+و	O
+قد	O
+لعب	O
+مع	O
+منتخب	B-ORG
+البرازيل	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+.	O
+
+تحويل	O
+مورهيد	B-LOC
+(	I-LOC
+مينيسوتا	I-LOC
+)	I-LOC
+
+جينيفر	B-PER
+كابرياتي	I-PER
+''	O
+(	O
+الجولة	O
+الرابعة	O
+)	O
+''	O
+
+الشيخ	O
+محمد	B-PER
+بن	I-PER
+صالح	I-PER
+العثيمين	I-PER
+.	O
+
+إقليم	B-LOC
+زلين	I-LOC
+(	O
+Zlínský	O
+kraj	O
+)	O
+
+ابن	B-PER
+رشد	I-PER
+بين	O
+الغرب	O
+والإسلام	O
+.	O
+
+مثل	O
+أيضا	O
+منتخب	B-ORG
+اليابان	I-ORG
+لكرة	I-ORG
+السلة	I-ORG
+.	O
+
+تحويل	O
+سوم	B-LOC
+(	I-LOC
+إقليم	I-LOC
+فرنسي	I-LOC
+)	I-LOC
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO251604	O
+
+تحويل	O
+يواكيم	B-PER
+فريدرش	I-PER
+(	I-PER
+ناخب	I-PER
+براندنبورغ	I-PER
+)	I-PER
+
+حدث	O
+بالكوفة	B-LOC
+بالبصرة	B-LOC
+فيما	O
+أرى	O
+.	O
+
+تحويل	O
+وزير	B-ORG
+الصحة	I-ORG
+في	I-ORG
+غزة	I-ORG
+
+متحف	B-ORG
+الموصل	I-ORG
+بالموصل	O
+.	O
+
+تحويل	O
+ميسيسيبي	B-LOC
+ميلس	I-LOC
+(	I-LOC
+أونتاريو	I-LOC
+)	I-LOC
+
+تحويل	O
+علنج	B-LOC
+قصعيني	I-LOC
+الأوراق	I-LOC
+
+الفرسان	B-ORG
+الثلاثة	I-ORG
+(	I-ORG
+أنمي	I-ORG
+)	I-ORG
+
+تحويل	O
+بانكروفت	B-LOC
+(	I-LOC
+كنتاكي	I-LOC
+)	I-LOC
+
+حيث	O
+عملت	O
+بجمعية	O
+آسيا	B-LOC
+النسائية	O
+الخيرية	O
+وإعداد	O
+أنشطتها	O
+وبرامجها	O
+المباشرة	O
+مع	O
+المجتمع	O
+.	O
+
+ولم	O
+تتجاوزها	O
+إلا	O
+إلى	O
+اليابان	B-LOC
+كوريا	B-LOC
+.	O
+
+تحويل	O
+كرسوع	B-LOC
+أبيض	I-LOC
+الرأس	I-LOC
+
+والتحق	O
+جامعة	B-ORG
+بايلور	I-ORG
+تكساس	B-LOC
+.	O
+
+بورقيقة	B-LOC
+•	O
+'	O
+''	O
+06	O
+''	O
+'	O
+.	O
+
+تحويل	O
+ميازاكي	B-LOC
+(	I-LOC
+ميازاكي	B-LOC
+)	I-LOC
+
+تحويل	O
+أنيار	B-ORG
+-	I-ORG
+جانفيلييه	I-ORG
+-	I-ORG
+ليه	I-ORG
+كورتيي	I-ORG
+(	I-ORG
+مترو	I-ORG
+باريس	I-ORG
+)	I-ORG
+
+تحويل	O
+انفانتا	B-PER
+بندكتيا	I-PER
+من	I-PER
+البرتغال	I-PER
+
+تحويل	O
+فايرفيلد	B-LOC
+(	I-LOC
+نبراسكا	I-LOC
+)	I-LOC
+
+فلافيا	B-PER
+بينيتا	I-PER
+''	O
+(	O
+انسحاب	O
+)	O
+''	O
+
+تحويل	O
+ذعرة	B-LOC
+صفراء	I-LOC
+شرقية	I-LOC
+
+تحويل	O
+خشاب	B-LOC
+(	I-LOC
+قيلاب	I-LOC
+)	I-LOC
+
+حيث	O
+هي	O
+دالة	B-ORG
+فون	I-ORG
+مانغولدت	I-ORG
+.	O
+
+قرص	B-ORG
+صلب	I-ORG
+(	O
+مساحة	O
+فارغة	O
+)	O
+
+تحويل	O
+حبيب	B-PER
+الله	I-PER
+عسكر	I-PER
+أولادي	I-PER
+
+تنتجه	O
+شركة	O
+نوفارتس	B-ORG
+السويسرية	B-LOC
+.	O
+
+تحويل	O
+جامعة	B-ORG
+أكتوبر	I-ORG
+للعلوم	I-ORG
+الحديثة	I-ORG
+والآداب	I-ORG
+
+''	O
+'	O
+مدينة	B-LOC
+رويدر	I-LOC
+''	O
+'	O
+
+تحويل	O
+برونينغ	B-LOC
+(	I-LOC
+نبراسكا	I-LOC
+)	I-LOC
+
+تحويل	O
+إم	B-PER
+هيون	I-PER
+شك	I-PER
+
+الكنيسة	B-ORG
+الإنجيلية	I-ORG
+اللوثرية	I-ORG
+الفنلندية	I-ORG
+
+كارول	B-LOC
+ستريم	I-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC
+
+بنو	B-LOC
+غانية	I-LOC
+يستقرون	O
+جزر	B-LOC
+البليار	I-LOC
+.	O
+
+سميت	O
+المدينة	O
+على	O
+المستكشف	O
+غاسبار	B-ORG
+دي	I-ORG
+بورتولا	I-ORG
+
+'	O
+''	O
+زغرب	B-LOC
+''	O
+'	O
+
+تحويل	O
+باتريوت	B-LOC
+(	I-LOC
+إنديانا	I-LOC
+)	I-LOC
+
+``	O
+رحلة	O
+روسيا	B-LOC
+''	O
+
+تحويل	O
+باب	B-LOC
+کهنوج	I-LOC
+(	I-LOC
+غلزار	I-LOC
+بردسير	I-LOC
+)	I-LOC
+
+عمر	B-PER
+يارادوا،	I-PER
+58،	O
+رئيس	O
+نيجيريا	B-LOC
+.	O
+
+تحويل	O
+مفهوم	B-PER
+قواعد	I-PER
+البيانات	I-PER
+
+إسطنبول	B-LOC
+(	O
+تركيا	B-LOC
+)	O
+
+تعلم	O
+في	O
+جامعة	B-ORG
+ييل	I-ORG
+.	O
+
+'	O
+''	O
+كليمنت	B-PER
+الثالث	I-PER
+عشر	I-PER
+''	O
+'	O
+
+من	O
+غيرها	O
+من	O
+الجاليات	O
+الأجنبية	O
+الكبيرة	O
+البريطانيون	B-LOC
+(	O
+8	O
+٪	O
+)	O
+الفرنسيون	B-LOC
+(	O
+8	O
+٪	O
+)	O
+الأرجنتينيون	B-LOC
+(	O
+6	O
+٪	O
+)	O
+الألمان	B-LOC
+(	O
+6	O
+٪	O
+)	O
+البوليفيون	B-LOC
+(	O
+3	O
+٪	O
+)	O
+.	O
+
+قرر	O
+الاتحاد	B-ORG
+الآسيوي	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+بأن	O
+يستضيف	O
+النهائي	O
+أحد	O
+الفريقين	O
+المتأهلين	O
+للنهائي	O
+.	O
+
+'	O
+''	O
+تونس	B-LOC
+(	I-LOC
+مدينة	I-LOC
+)	I-LOC
+''	O
+'	O
+
+بلدية	O
+عين	B-LOC
+بن	I-LOC
+خليل	I-LOC
+
+من	O
+هذه	O
+المفارقات	O
+اشتهرت	O
+قصة	O
+مفارقة	B-ORG
+التوأم	I-ORG
+.	O
+
+يتواجد	O
+هذا	O
+النوع	O
+في	O
+كمبوديا	B-LOC
+الصين	B-LOC
+لاوس	B-LOC
+تايلاند	B-LOC
+فيتنام	B-LOC
+.	O
+
+تحويل	O
+قسم	B-LOC
+مارغون	I-LOC
+الريفي	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+بویر	I-LOC
+احمد	I-LOC
+)	I-LOC
+
+شركة	B-ORG
+كانساي	I-ORG
+للطاقة	I-ORG
+الكهربائية	I-ORG
+
+تحويل	O
+هارتلاند	B-LOC
+(	I-LOC
+مين	I-LOC
+)	I-LOC
+
+الجمعية	B-ORG
+المحمدية	I-ORG
+(	I-ORG
+إندونيسيا	I-ORG
+)	I-ORG
+
+حاضر	O
+وشارك	O
+في	O
+العديد	O
+من	O
+الندوات	O
+الداخلية	O
+والخارجية	O
+وأعد	O
+العديد	O
+من	O
+المواد	O
+الإذاعية	O
+لإذاعة	O
+دمشق	B-LOC
+.	O
+
+تحويل	O
+عزیز	B-LOC
+أباد	I-LOC
+العلیا	I-LOC
+(	I-LOC
+ديناران	I-LOC
+)	I-LOC
+
+تحويل	O
+لينكولن	B-LOC
+(	I-LOC
+مقاطعة	I-LOC
+آدامز	I-LOC
+)	I-LOC
+
+**	O
+مارسيليا	B-LOC
+(	O
+قنصلية	O
+عامة	O
+)	O
+
+تحويل	O
+كلاتة	B-LOC
+كاظم	I-LOC
+(	I-LOC
+تایباد	I-LOC
+)	I-LOC
+
+كم	B-PER
+هيون	I-PER
+جنغ	I-PER
+(	O
+سيونجو	O
+)	O
+
+تحويل	O
+يان	B-PER
+سفاتوبلوك	I-PER
+بريسل	I-PER
+
+طلبات	O
+السيارة	O
+ل[[تيم	O
+هورتنز	O
+تقع	O
+في	O
+مونكتون،	B-LOC
+نيو	B-LOC
+برونزويك،	I-LOC
+كندا	B-LOC
+
+``	O
+'	O
+''	O
+שירים	O
+מישראל	O
+''	O
+'	O
+''	O
+(	O
+'	O
+''	O
+قصائد	O
+من	O
+إسرائيل	B-LOC
+''	O
+'	O
+)	O
+.	O
+
+'	O
+''	O
+متحف	B-ORG
+السودان	I-ORG
+القومي	I-ORG
+''	O
+'	O
+
+وخلال	O
+توليها	O
+لرئاسة	O
+المجلس،	O
+تم	O
+زيادة	O
+نسبة	O
+تمويل	O
+الشركة	O
+فارتفعت	O
+من	O
+90	O
+مليون	O
+دولار	O
+إلى	O
+300	O
+مليون	O
+دولار،	O
+وبذلك	O
+تكون	O
+قد	O
+نجحت	O
+في	O
+التصدي	O
+لمحاولات	O
+الرئيس	O
+رونالد	B-PER
+ريغان	I-PER
+للحد	O
+من	O
+التمويل	O
+وتغيير	O
+طبيعة	O
+المنظمة	O
+.	O
+
+يلعب	O
+النادي	O
+مبارياته	O
+المنزلية	O
+على	O
+ملعب	B-ORG
+الجامعة	I-ORG
+الذي	O
+يسع	O
+لجلوس	O
+43,150	O
+شخص	O
+.	O
+
+جامع	B-ORG
+السليمية	I-ORG
+في	O
+تركيا	B-LOC
+.	O
+
+تحويل	O
+جريمة	B-ORG
+في	I-ORG
+قطار	I-ORG
+الشرق	I-ORG
+السريع	I-ORG
+(	I-ORG
+فيلم	I-ORG
+2001	I-ORG
+)	I-ORG
+
+رود	B-PER
+كرول،	I-PER
+فاروق	B-PER
+جعفر،	I-PER
+محمود	B-PER
+أبو	I-PER
+رجيلة	I-PER
+
+'	O
+''	O
+الصخيرات	B-LOC
+''	O
+'	O
+
+تحويل	O
+نارليداغ	B-LOC
+(	I-LOC
+مقاطعة	I-LOC
+غنبد	I-LOC
+كاووس	I-LOC
+)	I-LOC
+
+تحويل	O
+مقاطعة	B-LOC
+لافاكا	I-LOC
+(	I-LOC
+تكساس	I-LOC
+)	I-LOC
+
+**الرئيس	O
+–	O
+جوزيف	B-PER
+كابيلا،	I-PER
+رئيس	B-ORG
+جمهورية	I-ORG
+الكونغو	I-ORG
+الديمقراطية	I-ORG
+(	O
+2001–حالياً	O
+)	O
+
+كارل	B-PER
+ويمان	I-PER
+من	O
+الولايات	B-LOC
+المتحدة	I-LOC
+الأمريكية	I-LOC
+.	O
+
+ونتيجة	O
+لأعمال	O
+العنف	O
+هذه،	O
+أصدر	O
+الرئيس	B-ORG
+الحبيب	B-PER
+بورقيبة	I-PER
+قرارا	O
+يقضي	O
+بحل	O
+فريق	O
+الترجي	B-ORG
+الرياضي	I-ORG
+التونسي	I-ORG
+.	O
+
+تعلم	O
+في	O
+جامعة	B-ORG
+تينيسي،	I-ORG
+كلية	B-ORG
+هارفارد	I-ORG
+للحقوق	I-ORG
+.	O
+
+قد	O
+أخدت	O
+هدة	O
+التسمية	O
+من	O
+الأراضي	O
+الرديئة	O
+التي	O
+تقع	O
+في	O
+الجزء	O
+الغربي	O
+من	O
+ولاية	B-LOC
+داكوتا	I-LOC
+الجنوبية	I-LOC
+الولايات	B-LOC
+المتحدة	I-LOC
+.	O
+
+تحويل	O
+بلدة	B-LOC
+أوتسيغو	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+في	O
+لقاء	O
+انتهى	O
+بفوز	O
+المنتخب	B-ORG
+التشيلي	I-ORG
+بنتيجة	O
+2-0	O
+.	O
+
+تحويل	O
+بلفيو	B-LOC
+(	I-LOC
+تكساس	I-LOC
+)	I-LOC
+
+تحويل	O
+القديس	B-ORG
+جورج	I-ORG
+(	I-ORG
+جامعة	I-ORG
+لندن	I-ORG
+)	I-ORG
+
+تحويل	O
+ده	B-LOC
+عزیزي	I-LOC
+غندمکار	I-LOC
+الوسطی	I-LOC
+(	I-LOC
+ميانكوه	I-LOC
+)	I-LOC
+
+تحويل	O
+حاييم	B-PER
+موشيه	I-PER
+شابيرا	I-PER
+
+أب	B-LOC
+باریك	I-LOC
+العليا	I-LOC
+(	I-LOC
+بربرود	I-LOC
+الشرقي	I-LOC
+)	I-LOC
+
+موطنها	O
+بلاد	B-LOC
+الشام	I-LOC
+المغرب	B-LOC
+العربي	I-LOC
+وكل	O
+مناطق	O
+أوروبا	B-LOC
+تقريبا	O
+.	O
+
+شارك	O
+فيها	O
+15	O
+بلداً	B-LOC
+.	O
+
+فلاديمير	B-PER
+فايس	I-PER
+(	I-PER
+لاعب	I-PER
+كرة	I-PER
+قدم	I-PER
+مواليد	I-PER
+1989	I-PER
+)	I-PER
+
+تحويل	O
+الأكاديمية	B-ORG
+الأمريكية	I-ORG
+لجراحي	I-ORG
+العظام	I-ORG
+
+إوز	B-LOC
+الفول،	I-LOC
+'	O
+''	O
+'	O
+
+تحويل	O
+الدراسة	B-ORG
+الوطنية	I-ORG
+لنمو	I-ORG
+الأطفال	I-ORG
+
+عبروا	O
+من	O
+خلال	O
+هذه	O
+النتائج	O
+لمقابلة	O
+مستضيف	O
+البطولة	O
+في	O
+النهائي،	O
+منتخب	B-ORG
+ألمانيا	I-ORG
+الغربية	I-ORG
+.	O
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO224325	O
+
+تحويل	O
+بني	B-LOC
+منصور	I-LOC
+(	I-LOC
+المغرب	I-LOC
+)	I-LOC
+
+تحويل	O
+جمهورية	B-ORG
+تشيكوسلوفاكيا	I-ORG
+الاشتراكية	I-ORG
+
+تحويل	O
+محمدآباد	B-LOC
+(	I-LOC
+مقاطعة	I-LOC
+فسا	I-LOC
+)	I-LOC
+
+الشيخ	O
+العلامة	O
+الدكتور	O
+عبد	B-PER
+الله	I-PER
+بن	I-PER
+عبد	B-PER
+الرحمن	I-PER
+بن	I-PER
+جبرين	I-PER
+-	O
+عضو	O
+الإفتاء	O
+سابقا	O
+.	O
+
+تحويل	O
+مركز	B-ORG
+الملكة	I-ORG
+رانيا	I-ORG
+للريادة	I-ORG
+
+آلة	B-PER
+ذات	I-PER
+حالات	I-PER
+منتهية	I-PER
+
+الفيلم	O
+من	O
+إخراج	O
+جون	B-PER
+داهل	I-PER
+وكتابة	O
+جون	B-PER
+داهل	I-PER
+.	O
+
+**	O
+بانجول	B-LOC
+(	O
+سفارة	O
+)	O
+
+تحويل	O
+مقاطعة	B-LOC
+والورث	I-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+غير	O
+أن	O
+الداعين	O
+إلى	O
+مظاهرة	O
+الاثنين	O
+يرون	O
+أن	O
+حزب	B-ORG
+المؤتمر	I-ORG
+الوطني	I-ORG
+فقد	O
+مصداقيته	O
+تماما	O
+ولم	O
+يبق	O
+سوى	O
+المظاهرات	O
+لإحداث	O
+التغيير	O
+رغم	O
+المخاطر	O
+المترتبة	O
+عنها	O
+.	O
+
+``	O
+'	O
+''	O
+بور	B-ORG
+إت	I-ORG
+أب	I-ORG
+''	O
+'	O
+''	O
+-	O
+(	O
+2:41	O
+)	O
+
+تحويل	O
+سميثفيل	B-LOC
+(	I-LOC
+مسيسيبي	I-LOC
+)	I-LOC
+
+تحويل	O
+كيليفيل	B-LOC
+(	I-LOC
+أوكلاهوما	I-LOC
+)	I-LOC
+
+'	O
+''	O
+هيروشيما	B-LOC
+''	O
+'	O
+
+تحويل	O
+كاميلو	B-PER
+كارل	I-PER
+شنايدر	I-PER
+
+ألكثار	B-LOC
+دي	I-LOC
+سان	I-LOC
+خوان	I-LOC
+96.894	O
+نسمة	O
+
+ايقر	B-LOC
+,	O
+و	O
+مونش	B-LOC
+,	O
+و	O
+يونغفراو	B-LOC
+.	O
+
+في	O
+أكوي	B-LOC
+في	O
+نفس	O
+السنة،	O
+سلَح	O
+اثنان	O
+من	O
+المواطنين	O
+السود	O
+أنفسهم	O
+ليذهبوا	O
+إلي	O
+صناديق	O
+الاقتراع	O
+أثناء	O
+الانتخابات	O
+.	O
+
+عمرو	B-PER
+دياب	I-PER
+(	O
+المطرب	O
+الشهير	O
+)	O
+
+تحويل	O
+كارل	B-PER
+لودفيغ	I-PER
+فيلدينوف	I-PER
+
+كان	O
+لسرقسطة	O
+دورها	O
+السياسي	O
+والثقافي	O
+البارز	O
+في	O
+تلك	O
+المنطقة	O
+في	O
+عهد	O
+حكامها	O
+المقتدر	B-PER
+المؤتمن	B-PER
+المستعين	B-PER
+.	O
+
+البابا	O
+بندكت	B-PER
+الخامس	I-PER
+عشر	I-PER
+
+تحويل	O
+حركة	B-ORG
+الشعب	I-ORG
+(	I-ORG
+لبنان	I-ORG
+)	I-ORG
+
+تحويل	O
+نورث	B-LOC
+توبسالي	I-LOC
+بيتش	I-LOC
+(	I-LOC
+كارولاينا	I-LOC
+الشمالية	I-LOC
+)	I-LOC
+
+يدرب	O
+حالياً	O
+نادي	B-ORG
+العين	I-ORG
+من	O
+الإمارات	B-LOC
+.	O
+
+خارجياً	O
+(	O
+إغاثة	O
+المتضررين	O
+من	O
+الحصار	O
+في	O
+غزة	B-LOC
+)	O
+
+تحويل	O
+لمیر	B-LOC
+(	I-LOC
+أرشق	I-LOC
+)	I-LOC
+
+ولد	O
+في	O
+أشفورد،	O
+كنت	O
+في	O
+المملكة	B-LOC
+المتحدة	I-LOC
+تعلم	O
+في	O
+مدرسة	O
+فيلستيد	O
+.	O
+
+تحويل	O
+قسم	B-LOC
+مازو	I-LOC
+الريفي	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+انديمشك	I-LOC
+)	I-LOC
+
+نجح	O
+في	O
+السيطرة	O
+على	O
+المدن	O
+الداخلية	O
+،	O
+بينما	O
+كانت	O
+المدن	O
+الساحلية	O
+في	O
+يد	O
+البرتغاليين	B-LOC
+.	O
+
+داي	B-ORG
+الشجاع	I-ORG
+-	O
+كروكوداين	O
+
+'	O
+''	O
+الصامسونية،	B-LOC
+الكواكية،	O
+التشارشمبية،	O
+الترمية	O
+
+'	O
+''	O
+متطلبات	O
+الحصول	O
+على	O
+تأشيرة	O
+للمواطنين	O
+الزيمبابويين	O
+''	O
+'،	O
+هي	O
+القيود	O
+دخول	O
+الإدارية	O
+من	O
+قبل	O
+سلطات	O
+الدول	O
+الأخرى	O
+المفروضة	O
+على	O
+مواطني	O
+زيمبابوي	B-LOC
+.	O
+
+تم	O
+افتتاحها	O
+رسميا	O
+من	O
+قبل	O
+جيوفاني	B-PER
+ليوني	I-PER
+.	O
+
+دجاجة	B-LOC
+الماء	I-LOC
+سوداء	I-LOC
+الذيل	I-LOC
+
+تحويل	O
+شق	B-LOC
+علوي	I-LOC
+للحجاج	I-LOC
+
+تحويل	O
+دريسر	B-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+المبرهنة	B-ORG
+الأساسية	I-ORG
+للتفاضل	I-ORG
+والتكامل	I-ORG
+,	O
+
+تحويل	O
+نيو	B-ORG
+هولندا	I-ORG
+الزراعية	I-ORG
+
+يُحتمل	O
+أنَّها	O
+تُشكِّلُ	O
+نوعًا	O
+فائقًا	O
+مع	O
+الباشق	B-LOC
+الأوراسي	I-LOC
+(	O
+''A	O
+.	O
+
+تحويل	O
+هوة	B-LOC
+(	I-LOC
+فارسش	I-LOC
+)	I-LOC
+
+وصلة=جامعة	O
+الكوفة]]	O
+''	O
+جامعة	B-ORG
+الكوفة	I-ORG
+''	O
+'	O
+
+وكوبا	O
+عضو	O
+في	O
+كل	O
+من	O
+حركة	B-ORG
+عدم	I-ORG
+الانحياز	I-ORG
+منظمة	B-ORG
+الدول	I-ORG
+الأمريكية	I-ORG
+الاتحاد	B-ORG
+اللاتيني	I-ORG
+.	O
+
+تحويل	O
+مقاطعة	B-LOC
+لورنس	I-LOC
+(	I-LOC
+تينيسي	I-LOC
+)	I-LOC
+
+تحويل	O
+يونيون،	B-LOC
+مقاطعة	I-LOC
+دور	I-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+تحويل	O
+حزب	B-ORG
+العمال	I-ORG
+الكردستاني	I-ORG
+
+تحويل	O
+بلدة	B-LOC
+ماونت	I-LOC
+موريس	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+)	O
+هو	O
+من	O
+الأرجنتين	B-LOC
+ولد	O
+في	O
+ماريه	B-LOC
+ديل	I-LOC
+بلاتا	I-LOC
+.	O
+
+تحويل	O
+مركز	B-ORG
+نوبل	I-ORG
+للسلام	I-ORG
+
+تحدها	O
+الأربعاء	B-LOC
+شرقا	O
+بوقرة	B-LOC
+غربا	O
+سيدي	B-LOC
+موسى	I-LOC
+شمالا	O
+جبال	B-LOC
+الأطلس	I-LOC
+جنوبا	O
+.	O
+
+كونكورد	B-LOC
+(	I-LOC
+نيويورك	I-LOC
+)	I-LOC
+الولايات	B-LOC
+المتحدة	I-LOC
+
+كارل	B-PER
+السادس،	I-PER
+إمبراطور	B-PER
+روماني	I-PER
+مقدس	I-PER
+
+تحويل	O
+نويشتات	B-LOC
+(	I-LOC
+دوسه	I-LOC
+)	I-LOC
+
+تحويل	O
+بلدة	B-LOC
+ساندز	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+'	O
+''	O
+ولاية	B-LOC
+الأغواط	I-LOC
+''	O
+'	O
+
+اشتهر	O
+لعمله	O
+في	O
+استوديو	B-ORG
+غيبلي	I-ORG
+في	O
+العديد	O
+من	O
+الأعمال	O
+.	O
+
+تحويل	O
+توراج	B-LOC
+(	I-LOC
+مدينة	I-LOC
+)	I-LOC
+
+السيد	O
+محمد	B-ORG
+باقر	I-ORG
+الصدر	I-ORG
+
+تحويل	O
+وست	B-LOC
+سالم	I-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+'	O
+''	O
+رزان	B-PER
+مغربي	I-PER
+'	O
+''	O
+
+'	O
+''	O
+بيت	B-PER
+سامبراس	I-PER
+''	O
+'	O
+هزم	O
+كارلوس	B-PER
+مويا	I-PER
+,	O
+6-2	O
+,	O
+6-3	O
+,	O
+6-3	O
+
+تعلم	O
+في	O
+كلية	B-ORG
+جولدسميث	I-ORG
+,	I-ORG
+جامعة	I-ORG
+لندن	I-ORG
+.	O
+
+تحويل	O
+الاتحاد	B-ORG
+الكويتي	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+
+تحويل	O
+علم	B-LOC
+النفس	I-LOC
+العسكري	I-LOC
+
+'	O
+''	O
+نادي	B-ORG
+فياريال	I-ORG
+''	O
+'	O
+
+تحويل	O
+ميغيل	B-PER
+أنخل	I-PER
+أنغولو	I-PER
+
+موطنها	O
+المغرب	B-LOC
+العربي	I-LOC
+إسبانيا	B-LOC
+البرتغال	B-LOC
+.	O
+
+روزا	B-PER
+ياسين	I-PER
+حسن	I-PER
+.	O
+
+مملوكة	O
+للدولة	O
+(	O
+100٪	O
+)	O
+،	O
+تحت	O
+رعاية	O
+وزارة	B-ORG
+الطيران	I-ORG
+المدني	I-ORG
+في	I-ORG
+مصر	I-ORG
+والمعتمدة	O
+من	O
+قبل	O
+وزارة	B-ORG
+التعليم	I-ORG
+العالي	I-ORG
+
+تحويل	O
+جان	B-PER
+أوغست	I-PER
+دومينيك	I-PER
+آنغر	I-PER
+
+تحويل	O
+مقاطعة	B-LOC
+واشنطن	I-LOC
+(	I-LOC
+أوريغون	I-LOC
+)	I-LOC
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO250222	O
+
+يُعرف	O
+القليل	O
+عن	O
+ديوفانتوس	B-PER
+الإسكندري	I-PER
+.	O
+
+'	O
+''	O
+بيتا	B-PER
+بالييتوغا	I-PER
+''	O
+'	O
+
+ولد	O
+في	O
+موسكو	B-LOC
+وتوفي	O
+في	O
+نيجني	B-LOC
+نوفغورود	I-LOC
+.	O
+
+تحويل	O
+دورك	B-LOC
+قنبري	I-LOC
+(	I-LOC
+شليل	I-LOC
+)	I-LOC
+
+'	O
+''	O
+إقليم	B-LOC
+شفشاون	I-LOC
+''	O
+'	O
+
+قام	O
+المخرج	O
+والممثل	O
+في	O
+الفيلم	O
+جوزيف	B-PER
+غوردون-ليفيت	I-PER
+بتحرير	O
+اللقطات	O
+معاً	O
+على	O
+شكل	O
+تنسيقات	O
+سريعة	O
+لإطلاق	O
+نار،	O
+كما	O
+ظهرت	O
+بشكل	O
+بارز	O
+في	O
+الفيلم	O
+.	O
+
+وفي	O
+أرمينيا،	B-LOC
+تكون	O
+الأرثوذكسية	B-ORG
+الشرقية	I-ORG
+هي	O
+المعتقد	O
+السائد	O
+.	O
+
+تحويل	O
+مقاطعة	B-LOC
+فرانكلين	I-LOC
+(	I-LOC
+جورجيا	I-LOC
+)	I-LOC
+
+'	O
+''	O
+قصر	B-ORG
+طولمه	I-ORG
+باغجه	I-ORG
+''	O
+'	O
+
+تحويل	O
+بلفاست	B-ORG
+الغربية	I-ORG
+(	I-ORG
+دائرة	I-ORG
+انتخابية	I-ORG
+في	I-ORG
+المملكة	I-ORG
+المتحدة	I-ORG
+)	I-ORG
+
+تحويل	O
+مقاطعة	B-LOC
+جوسيفين	I-LOC
+(	I-LOC
+أوريغون	I-LOC
+)	I-LOC
+
+تحويل	O
+حركة	B-ORG
+النهضة	I-ORG
+الإسلامية	I-ORG
+
+**	O
+سور	B-LOC
+الغزلان	I-LOC
+-	O
+المعمورة	B-LOC
+-	O
+ريدان	B-LOC
+-	O
+الحاكمية	B-LOC
+-	O
+الدشمية	B-LOC
+-	O
+ديرة	B-LOC
+
+تحويل	O
+بيوجني	B-LOC
+(	I-LOC
+باد	I-LOC
+كاليه	I-LOC
+)	I-LOC
+
+أبوسوم	B-LOC
+بني	I-LOC
+رباعي	I-LOC
+العيون	I-LOC
+''Metachirus	O
+nudicaudatus	O
+''	O
+
+│	O
+لوكريسيا	B-PER
+دي	I-PER
+ميديشي	I-PER
+(	O
+1572-1574	O
+)	O
+
+ديربي	B-ORG
+كاونتي	I-ORG
+(	O
+2	O
+)	O
+,	O
+ليستر	B-ORG
+سيتي	I-ORG
+(	O
+1	O
+)	O
+,	O
+نوتينغهام	B-ORG
+فورست	I-ORG
+(	O
+1	O
+)	O
+
+تحويل	O
+متلازمة	B-ORG
+ماري	I-ORG
+أنطوانيت	I-ORG
+
+بطل	O
+كأس	B-ORG
+التحدي	I-ORG
+الآسيوي	I-ORG
+2012	I-ORG
+
+فانفضت	O
+القبيلة	O
+عن	O
+أولين	B-LOC
+وأبنائها،	O
+وتركوهم	O
+بدون	O
+حماية	O
+.	O
+
+تحويل	O
+رابساني	B-LOC
+(	I-LOC
+لاريسا	I-LOC
+)	I-LOC
+
+تحويل	O
+ويلدون	B-LOC
+(	I-LOC
+ميزوري	I-LOC
+)	I-LOC
+
+عرب	B-ORG
+من	I-ORG
+أجل	I-ORG
+إسرائيل	I-ORG
+
+تحويل	O
+سعدان	B-LOC
+الفرفت	I-LOC
+الجبلي	I-LOC
+
+عبد	B-PER
+العزيز	I-PER
+الأول	I-PER
+المريني	I-PER
+(	O
+1366–1372	O
+)	O
+
+تسوباسا	B-ORG
+كرونيكل	I-ORG
+-	O
+ريو-أو	O
+
+يشتمل	O
+على	O
+مضمار	O
+لمسابقات	O
+ألعاب	B-ORG
+القوى	I-ORG
+.	O
+
+معتقد	B-ORG
+نقاء	I-ORG
+الدم	I-ORG
+(	I-ORG
+هاري	I-ORG
+بوتر	I-ORG
+)	I-ORG
+
+كريستو	B-PER
+فان	I-PER
+رينسبورج	I-PER
+''	O
+(	O
+الجولة	O
+الثالثة	O
+)	O
+''	O
+
+'	O
+''	O
+منطقة	B-LOC
+جبل	I-LOC
+سمعان	I-LOC
+''	O
+'	O
+
+إيكاترينا	B-PER
+ماكاروفا	I-PER
+/	O
+إيلينا	B-PER
+فيسنينا	I-PER
+,	O
+5–7	O
+,	O
+7–6	O
+(	O
+7–4	O
+)	O
+,	O
+7–5	O
+
+القلعة	O
+الحصينة،	O
+هي	O
+الرواية	O
+الثالثة	O
+التي	O
+كتبها	O
+صدام	B-PER
+حسين	I-PER
+.	O
+
+بعده	O
+عن	O
+الأرض	O
+(	O
+سنة	B-ORG
+ضوئية	I-ORG
+)	O
+
+تبعد	O
+عن	O
+أراد	B-LOC
+116	O
+كم	O
+.	O
+
+تحويل	O
+جشمة	B-LOC
+تشنار	I-LOC
+یاسوج	I-LOC
+(	I-LOC
+کاکان	I-LOC
+)	I-LOC
+
+كان	O
+الجولة	O
+الحادية	O
+عشر	O
+ضمن	O
+بطولة	B-ORG
+العالم	I-ORG
+للراليات	I-ORG
+موسم	I-ORG
+2006	I-ORG
+.	O
+
+تحويل	O
+مينرال	B-LOC
+بوينت	I-LOC
+(	I-LOC
+ميزوري	I-LOC
+)	I-LOC
+
+عرف	O
+جان	B-PER
+بول	I-PER
+سارتر	I-PER
+بذكائه	O
+وطوله	O
+الذي	O
+لايتعدى	O
+الخمس	O
+أقدام	O
+(	O
+متر	O
+ونصف	O
+)	O
+.	O
+
+تحويل	O
+دكنسون	B-PER
+جولدزورذي	I-PER
+لوز	I-PER
+
+تحويل	O
+بلدة	B-LOC
+ماركيت	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+ماكيناك	I-LOC
+)	I-LOC
+
+تحويل	O
+هامدن	B-LOC
+(	I-LOC
+نيويورك	I-LOC
+)	I-LOC
+
+تحويل	O
+مقاطعة	B-LOC
+غرانت	I-LOC
+(	I-LOC
+نيومكسيكو	I-LOC
+)	I-LOC
+
+تحويل	O
+ابغرموییة	B-LOC
+(	I-LOC
+دهسرد	I-LOC
+)	I-LOC
+
+تحويل	O
+فنتون	B-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+المغربية	B-ORG
+الرابعة	I-ORG
+(	I-ORG
+قناة	I-ORG
+)	I-ORG
+.	O
+
+تحويل	O
+وندسور	B-LOC
+(	I-LOC
+أونتاريو	I-LOC
+)	I-LOC
+
+تحويل	O
+سانت	B-LOC
+أنتوني	I-LOC
+(	I-LOC
+ستيرنز	I-LOC
+)	I-LOC
+
+تحويل	O
+المكتب	B-ORG
+الفيدرالي	I-ORG
+للتحقيق	I-ORG
+في	I-ORG
+حوادث	I-ORG
+الطائرات	I-ORG
+
+تحويل	O
+حصارعبدالكريم	B-LOC
+(	I-LOC
+حومة	I-LOC
+أبهر	I-LOC
+)	I-LOC
+
+الرغيف	B-ORG
+العجيب	I-ORG
+-	O
+باتاكو	O
+
+****	O
+يربوع	B-LOC
+رباعي	I-LOC
+الأصابع،	I-LOC
+''Allactaga	O
+tetradactyla	O
+''	O
+
+سامانيون	B-LOC
+(	O
+819–999	O
+)	O
+
+الأميرة	O
+للا	B-PER
+عائشة	I-PER
+(	O
+1930-2011	O
+)	O
+.	O
+
+ستيفن	B-PER
+تشو	I-PER
+من	O
+الولايات	B-LOC
+المتحدة	I-LOC
+الأمريكية	I-LOC
+
+*في	O
+نفس	O
+العام	O
+تم	O
+انتاخبه	O
+أميناً	O
+عاماً	O
+للمجالس	O
+البلدية	O
+بمحافظة	O
+صنعاء	B-LOC
+.	O
+
+فين	B-PER
+ديزل	I-PER
+بدور	O
+غرووت	O
+
+تحويل	O
+أوترفيل	B-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC
+
+تحويل	O
+يوينوهورا	B-LOC
+(	I-LOC
+ياماناشي	I-LOC
+)	I-LOC
+
+تحويل	O
+دايتون	B-LOC
+(	I-LOC
+تكساس	I-LOC
+)	I-LOC
+
+تهتم	O
+بالثقافة	O
+الأردنية	B-LOC
+وحقوق	O
+الأطفال	O
+والمرأة،	O
+وتساهم	O
+في	O
+العديد	O
+من	O
+المنظمات	O
+غير	O
+الحكومية	O
+.	O
+
+جود	B-PER
+لو	I-PER
+-	O
+فاسيلي	B-PER
+زايتسيف	I-PER
+
+'	O
+''	O
+سيمونا	B-PER
+هاليب	I-PER
+''	O
+'	O
+
+يتواجد	O
+بكل	O
+من	O
+اليمن	B-LOC
+و	O
+السعودية	B-LOC
+
+تحويل	O
+محمد	B-PER
+عصري	I-PER
+زين	I-PER
+العابدين	I-PER
+
+تحويل	O
+مزراکو	B-LOC
+(	I-LOC
+أيسين	I-LOC
+)	I-LOC
+
+تحويل	O
+اشتباكات	B-ORG
+العديسة	I-ORG
+2010	I-ORG
+
+تحويل	O
+باراسويلوس	B-LOC
+دي	I-LOC
+جاراما	I-LOC
+
+أسرة	B-LOC
+جين	I-LOC
+(	O
+936-947	O
+)	O
+
+اقتصاد	B-ORG
+كوريا	I-ORG
+الجنوبية	I-ORG
+.	O
+
+اشتهر	O
+بادائه	O
+لأغاني	O
+محمد	B-PER
+عبد	I-PER
+الوهاب،	I-PER
+إضافة	O
+لأغانيه	O
+الخاصة	O
+.	O
+
+تحويل	O
+غراند	B-LOC
+بيل	I-LOC
+(	I-LOC
+كيبك	I-LOC
+)	I-LOC
+
+خيرتروديس	B-PER
+جوميث	I-PER
+دى	I-PER
+أبييانيدا	I-PER
+
+تحويل	O
+اتحاد	B-ORG
+مالطا	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+
+تحويل	O
+حبيب	B-PER
+باشا	I-PER
+السعد	I-PER
+
+تحويل	O
+ريفانازانو	B-LOC
+تيرم	I-LOC
+(	I-LOC
+بافيا	I-LOC
+)	I-LOC
+
+تحويل	O
+إيزابيل	B-LOC
+(	I-LOC
+داكوتا	I-LOC
+الجنوبية	I-LOC
+)	I-LOC
+
+مسجد	B-ORG
+الحاكم	I-ORG
+بأمر	I-ORG
+الله	I-ORG
+
+تحويل	O
+كلية	B-ORG
+هراري	I-ORG
+العالمية	I-ORG
+
+تحويل	O
+مقاطعة	B-LOC
+شارب	I-LOC
+(	I-LOC
+أركنساس	I-LOC
+)	I-LOC
+
+تحويل	O
+كارلوس	B-PER
+ألبرتو	I-PER
+بيريرا	I-PER
+
+الشركة	B-ORG
+الوطنية	I-ORG
+السعودية	I-ORG
+للنقل	I-ORG
+البحري	I-ORG
+
+تحويل	O
+إيلين	B-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+'	O
+''	O
+الحبيب	B-PER
+بورقيبة	I-PER
+''	O
+'	O
+الحزب	B-ORG
+الاشتراكي	I-ORG
+الدستوري	I-ORG
+''	O
+
+تحويل	O
+كود	B-ORG
+(	I-ORG
+محرر	I-ORG
+نصوص	I-ORG
+)	I-ORG
+
+روتانا	B-ORG
+(	O
+100	O
+%	O
+)	O
+
+تحويل	O
+طوقان	B-LOC
+أبيض	I-LOC
+الحنجرة	I-LOC
+
+عبد	B-PER
+السلام	I-PER
+بن	I-PER
+مشيش	I-PER
+.	O
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO247520	O
+
+والتر	B-PER
+غارغانو	I-PER
+''	O
+(	O
+2	O
+مباراة	O
+)	O
+''	O
+
+وقد	O
+منعت	O
+روسيا	B-LOC
+الصين	B-LOC
+تمرير	O
+القرار	O
+.	O
+
+تحويل	O
+بروم	B-LOC
+(	I-LOC
+حضرموت	I-LOC
+)	I-LOC
+
+'	O
+''	O
+شتيفي	B-PER
+غراف	I-PER
+''	O
+'	O
+(	O
+)	O
+هزم	O
+كريس	B-PER
+إيفرت	I-PER
+(	O
+)	O
+6-1	O
+,	O
+7-6	O
+
+كريس	B-PER
+فروم	I-PER
+(	O
+1	O
+/	O
+6	O
+)	O
+
+واحتوى	O
+التدريب	O
+السري	B-LOC
+على	O
+حملات	O
+طويلة	O
+للمشاه	O
+تم	O
+دمجها	O
+مع	O
+تدريبات	O
+الأسلحة	O
+الحية	O
+.	O
+
+تحويل	O
+علیأ	I-LOC
+(	I-LOC
+تایباد	I-LOC
+)	I-LOC
+
+تحويل	O
+نادي	B-ORG
+دوردوي	I-ORG
+بيشكك	I-ORG
+
+تحويل	O
+بربيت	B-LOC
+أخضر	I-LOC
+أفريقي	I-LOC
+
+بتينو	B-PER
+كراكسي	I-PER
+(	O
+1934–2000	O
+)	O
+
+تحويل	O
+حزب	B-ORG
+العمل	I-ORG
+المصري	I-ORG
+
+تحويل	O
+هيكاري	B-LOC
+(	I-LOC
+ياماغوتشي	I-LOC
+)	I-LOC
+
+تحويل	O
+جامعة	B-ORG
+أم	I-ORG
+درمان	I-ORG
+الإسلامية	I-ORG
+
+تحويل	O
+إسحاق	B-PER
+بن	I-PER
+تسفي	I-PER
+
+حزب	B-ORG
+النداء	I-ORG
+الديمقراطي	I-ORG
+المسيحي	I-ORG
+–	O
+حزب	B-ORG
+العمل	I-ORG
+الهولندي	I-ORG
+
+تحويل	O
+بنما	B-LOC
+(	I-LOC
+آيوا	I-LOC
+)	I-LOC
+
+تحويل	O
+ألونسو	B-PER
+دي	I-PER
+إرثييا	I-PER
+
+تحويل	O
+أليس	B-ORG
+إن	I-ORG
+تشاينز	I-ORG
+
+علي	B-PER
+رضا	I-PER
+الركابي	I-PER
+.	O
+
+بيل	B-PER
+سيدويل	I-PER
+''	O
+(	O
+الجولة	O
+الثالثة	O
+)	O
+''	O
+
+توفي	O
+في	O
+غلين	B-LOC
+كوف،	I-LOC
+نيويورك	I-LOC
+.	O
+
+تحويل	O
+المؤسسات	B-ORG
+المالية	I-ORG
+الدولية	I-ORG
+
+وفى	O
+إطار	O
+حفظ	O
+النظام،	O
+كان	O
+البريطانيون	B-LOC
+يقومون	O
+بشن	O
+حملات	O
+تفتيش	O
+منتظمة	O
+بطول	O
+الطرق	O
+و	O
+في	O
+المستوطنات	B-LOC
+اليهودية	I-LOC
+.	O
+
+**	O
+فرانكفورت	B-LOC
+(	O
+قنصلية	O
+عامة	O
+)	O
+
+أبو	B-PER
+عبد	I-PER
+الله	I-PER
+محمد	I-PER
+الثاني	I-PER
+
+تحويل	O
+نادي	B-ORG
+سباهان	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+
+تحويل	O
+بروق	B-LOC
+نحيف	I-LOC
+الأوراق	I-LOC
+
+بدأ	O
+ذلك	O
+بالتعادل	O
+السلبي	O
+أمام	O
+بوروسيا	B-ORG
+دورتموند	I-ORG
+في	O
+موسم	O
+1997-98	B-LOC
+وانتهت	O
+بالفوز	O
+على	O
+ريال	B-ORG
+مدريد	I-ORG
+بنتيجة	O
+2-1	O
+في	O
+ذهاب	O
+الدور	O
+ربع	O
+النهائي	O
+في	O
+موسم	O
+2001-02	B-ORG
+.	O
+
+أوليمب	B-PER
+دو	I-PER
+غوج	I-PER
+.	O
+
+ابن	B-PER
+عبد	I-PER
+الملك	I-PER
+المراكشي	I-PER
+.	O
+
+تحويل	O
+هت	B-LOC
+سبرينغز	I-LOC
+(	I-LOC
+مونتانا	I-LOC
+)	I-LOC
+
+تحويل	O
+كاسوميغاورا	B-LOC
+(	I-LOC
+إيباراكي	I-LOC
+)	I-LOC
+
+كارلين	B-PER
+ديركسي	I-PER
+فان	I-PER
+دن	I-PER
+هوفل	I-PER
+
+*البرنامج	O
+مع	O
+باسم	B-PER
+يوسف	I-PER
+،2011	O
+
+تحويل	O
+المركب	B-ORG
+الرياضي	I-ORG
+محمد	I-ORG
+الخامس	I-ORG
+
+فرنر	B-PER
+أربر	I-PER
+(	O
+1929-	O
+)	O
+
+محمد	B-PER
+شريف	I-PER
+باشا	I-PER
+(	O
+1868-1872	O
+)	O
+(	O
+مدة	O
+ثانية	O
+)	O
+
+تحويل	O
+فيروسات	B-LOC
+الحصى	I-LOC
+المكوراتية	I-LOC
+
+تحويل	O
+ليناريس	B-LOC
+(	I-LOC
+خاين	I-LOC
+)	I-LOC
+
+تحويل	O
+شيغا	B-LOC
+(	I-LOC
+محافظة	I-LOC
+)	I-LOC
+
+وقد	O
+صيغ	O
+هذا	O
+المصلح	O
+من	O
+قبل	O
+ج.	B-PER
+ج.	B-PER
+طومسون	I-PER
+،	O
+ولكنه	O
+نادراً	O
+ما	O
+يستخدم	O
+اليوم	O
+.	O
+
+تحويل	O
+هالوك	B-LOC
+(	I-LOC
+مينيسوتا	I-LOC
+)	I-LOC
+
+تحويل	O
+بطولة	B-ORG
+ويمبلدون	I-ORG
+1954	I-ORG
+
+إيميليو	B-PER
+بوتراغينيو	I-PER
+كاريكا	B-PER
+دييغو	B-PER
+مارادونا	I-PER
+
+'	O
+''	O
+0923X	O
+XXXX	O
+''	O
+'	O
+-	O
+محافظة	B-LOC
+نابلس	I-LOC
+
+حزب	B-ORG
+من	I-ORG
+أجل	I-ORG
+الحرية	I-ORG
+
+====	O
+على	O
+قناة	B-ORG
+الجزيرة	I-ORG
+====	O
+
+تحويل	O
+ضفدعة	B-LOC
+الشجرة	I-LOC
+البيضاء	I-LOC
+
+أوبورن،	B-LOC
+نيوساوث	B-LOC
+ويلز	I-LOC
+(	O
+سيدني	B-LOC
+)	O
+
+تقع	O
+مدينة	B-LOC
+أنطاكيا	I-LOC
+في	O
+لواء	B-LOC
+إسكندرون	I-LOC
+تحت	O
+السيادة	O
+التركية	B-LOC
+.	O
+
+**	O
+أبو	B-PER
+موسى	I-PER
+(	O
+عبد	B-PER
+الله	I-PER
+بن	I-PER
+قيس	I-PER
+الأشعريّ	I-PER
+)	O
+،	O
+صحابيّ	O
+جليل	O
+.	O
+
+موطنه	O
+الأصلي	O
+بعض	O
+مناطق	O
+حوض	B-LOC
+البحر	I-LOC
+الأبيض	I-LOC
+المتوسط	I-LOC
+القوقاز،	B-LOC
+حيث	O
+يوجد	O
+في	O
+بلاد	B-LOC
+الشام	I-LOC
+المغرب	B-LOC
+العربي	I-LOC
+قبرص	B-LOC
+تركيا	B-LOC
+اليونان	B-LOC
+ألبانيا	B-LOC
+كرواتيا	B-LOC
+.	O
+
+'	O
+''	O
+أدونيس	B-PER
+(	I-PER
+شاعر	I-PER
+)	I-PER
+''	O
+'	O
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO240456	O
+
+أما	O
+من	O
+الجنوب	O
+فيقع	O
+بحر	B-LOC
+العرب	I-LOC
+.	O
+
+***	O
+اللجأة	B-LOC
+البحرية	I-LOC
+الخضراء	I-LOC
+(	O
+''Chelonia	O
+mydas	O
+''	O
+)	O
+.	O
+
+تولى	O
+منصب	O
+السكرتير	B-PER
+الصحفي	I-PER
+للبيت	I-PER
+الأبيض	I-PER
+(	O
+2001-01-20–2003-07-15	O
+)	O
+.وهو	O
+عضو	O
+في	O
+الحزب	B-ORG
+الجمهوري	I-ORG
+.	O
+
+ينتشر	O
+في	O
+بلاد	B-LOC
+الشام	I-LOC
+القوقاز	B-LOC
+.	O
+
+تحويل	O
+مزرعة	B-LOC
+کریم	I-LOC
+جرجاني	I-LOC
+(	I-LOC
+المزرعة	I-LOC
+الجنوبیة	I-LOC
+)	I-LOC
+
+تعلمت	O
+في	O
+معهد	B-ORG
+ماساتشوستس	I-ORG
+للتقنية	I-ORG
+.	O
+
+تحويل	O
+سانت	B-LOC
+تشارلز	I-LOC
+(	I-LOC
+مينيسوتا	I-LOC
+)	I-LOC
+
+كانت	O
+تستخدم	O
+بشكل	O
+أساسي	O
+من	O
+قبل	O
+سابينا	B-ORG
+.	O
+
+تحويل	O
+مك	B-LOC
+كلور	I-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC
+
+**	O
+1	O
+-	O
+47	O
+الفلبين	B-LOC
+كتيبة	O
+المشاة	O
+الخفيفة	O
+
+قامت	O
+المفوضية	B-ORG
+الأوروبية	I-ORG
+الآن	O
+بإطلاق	O
+مجموعة	O
+من	O
+الإجراءات	O
+التي	O
+تهدف	O
+إلى	O
+تطوير	O
+العمل	O
+الداعم	O
+للمشاركة	O
+الإلكترونية	O
+بشكل	O
+أكبر	O
+.	O
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO250920	O
+
+تحويل	O
+دافني	B-LOC
+(	I-LOC
+أتيكي	I-LOC
+)	I-LOC
+
+تحويل	O
+اليوم	B-ORG
+العالمي	I-ORG
+لألزهايمر	I-ORG
+
+عبد	B-PER
+الله	I-PER
+بن	I-PER
+بيه	I-PER
+
+تحويل	O
+جورج	B-PER
+فيلبس	I-PER
+بوند	I-PER
+
+تحويل	O
+جاكسون	B-LOC
+(	I-LOC
+نيويورك	I-LOC
+)	I-LOC
+
+تحويل	O
+خالد	B-PER
+بن	I-PER
+صالح	I-PER
+السلطان	I-PER
+
+محمد	B-PER
+الغنوشي	I-PER
+الباجي	B-PER
+قائد	I-PER
+السبسي	I-PER
+
+وقد	O
+قام	O
+بنك	B-ORG
+بيبلوس	I-ORG
+بإعادة	O
+بنائه	O
+على	O
+نفقته	O
+الخاصة	O
+.	O
+
+منة	B-PER
+شلبي	I-PER
+...	O
+..	O
+هدير	O
+
+تحويل	O
+روسولا	B-LOC
+مغرية	I-LOC
+اللون	I-LOC
+
+تحويل	O
+مقاطعة	B-LOC
+هوستون	I-LOC
+(	I-LOC
+مينيسوتا	I-LOC
+)	I-LOC
+
+===	O
+زينب	B-PER
+بنت	I-PER
+جحش	I-PER
+===	O
+
+ماركوس	B-PER
+باجداتيس	I-PER
+''	O
+(	O
+ربع	O
+النهائي	O
+)	O
+
+ترانسفورمرز	B-ORG
+:	I-ORG
+روبوتس	I-ORG
+إن	I-ORG
+ديسغايز	I-ORG
+-	O
+ستيلجو	O
+
+عبد	B-PER
+الله	I-PER
+كمال،	I-PER
+49،	O
+صحفي	O
+مصري	B-LOC
+.	O
+
+تحويل	O
+هارفورد	B-LOC
+(	I-LOC
+نيويورك	I-LOC
+)	I-LOC
+
+تحويل	O
+سانت	B-LOC
+جورج	I-LOC
+(	I-LOC
+فيرمونت	I-LOC
+)	I-LOC
+
+تحويل	O
+لافاييت	B-LOC
+(	I-LOC
+جورجيا	I-LOC
+)	I-LOC
+
+تحويل	O
+تیر	B-LOC
+احمد	I-LOC
+(	I-LOC
+تشکدان	I-LOC
+)	I-LOC
+
+تحويل	O
+أبوسوم	B-LOC
+(	I-LOC
+جنس	I-LOC
+)	I-LOC
+
+Leopardus	O
+pardalis	O
+puseaus	O
+,	O
+الإكوادور	B-LOC
+
+تحويل	O
+أغکند	B-LOC
+(	I-LOC
+طغامین	I-LOC
+)	I-LOC
+
+سهل	B-LOC
+عرابة	I-LOC
+ومساحته	O
+ثلاثون	O
+ألف	O
+دونم	O
+.	O
+
+تحويل	O
+أورورا	B-LOC
+(	I-LOC
+أونتاريو	I-LOC
+)	I-LOC
+
+تحويل	O
+عباس	B-LOC
+أباد	I-LOC
+(	I-LOC
+بالا	I-LOC
+لاریجان	I-LOC
+)	I-LOC
+
+الحزب	B-ORG
+الاشتراكي	I-ORG
+الدستوري	I-ORG
+التجمع	B-ORG
+الدستوري	I-ORG
+الديمقراطي	I-ORG
+
+تحويل	O
+مراد	B-PER
+بن	I-PER
+حميدة	I-PER
+
+تحويل	O
+محمد	B-PER
+أحمد	I-PER
+بشير	I-PER
+
+تحويل	O
+هيلاري	B-PER
+بيلي	I-PER
+سميث	I-PER
+
+تحويل	O
+بانغالي	B-PER
+فودي	I-PER
+كويتا	I-PER
+
+لويس	B-PER
+دي	I-PER
+سوزا	I-PER
+فيريرا	I-PER
+
+جون	B-PER
+فان	I-PER
+رين	I-PER
+''	O
+(	O
+ربع	O
+النهائي	O
+)	O
+''	O
+
+السيد	O
+فرحات	B-PER
+عباس	I-PER
+رئيس	O
+
+تحويل	O
+النزلة	B-LOC
+(	I-LOC
+ولاية	I-LOC
+ورقلة	I-LOC
+)	I-LOC
+
+تحويل	O
+عريض	B-LOC
+المنقار	I-LOC
+ذو	I-LOC
+الجانب	I-LOC
+الأصهب	I-LOC
+
+وعند	O
+فتحها	O
+في	O
+أول	O
+مرة	O
+ظلت	O
+تابعة	O
+لإمارة	O
+أنقرة	B-LOC
+.	O
+
+تحويل	O
+حرب	B-ORG
+اللورد	I-ORG
+دونمور	I-ORG
+
+وهي	O
+عاصمة	O
+مقاطعة	B-LOC
+جاسك	I-LOC
+.	O
+
+**	O
+ملبورن	B-LOC
+(	O
+قنصلية	O
+عامة	O
+)	O
+
+تحويل	O
+منتخب	B-ORG
+فلسطين	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+
+'	O
+''	O
+يوليوس	B-PER
+الثاني	I-PER
+''	O
+'	O
+
+'	O
+''	O
+شركة	B-ORG
+كارير	I-ORG
+''	O
+'	O
+
+تحويل	O
+آي	B-PER
+يو	I-PER
+(	I-PER
+مغنية	I-PER
+)	I-PER
+
+أوروبا	B-LOC
+في	O
+ذلك	O
+الوقت	O
+تعتبر	O
+البرازيل	B-LOC
+البعيدة،	O
+إلى	O
+الوراء	O
+وغير	O
+آمنة،	O
+لذلك	O
+لم	O
+يكن	O
+مهمة	O
+سهلة	O
+للعثور	O
+على	O
+مرشحين	O
+مناسبين	O
+.	O
+
+بومي	B-LOC
+(	O
+الصين	B-LOC
+)	O
+
+تحويل	O
+روتشستر	B-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+عبد	B-PER
+الله	I-PER
+السدحان	I-PER
+,	O
+ناصر	B-PER
+القصبي	I-PER
+,	O
+يوسف	B-PER
+الجراح	I-PER
+
+تحويل	O
+کارند	B-LOC
+(	I-LOC
+بهمئي	I-LOC
+غرمسیري	I-LOC
+الجنوبي	I-LOC
+)	I-LOC
+
+التكتل	B-ORG
+الديمقراطي	I-ORG
+من	I-ORG
+أجل	I-ORG
+العمل	I-ORG
+والحريات	I-ORG
+
+تحويل	O
+منتخب	B-ORG
+ألبانيا	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+
+طريق	B-ORG
+15	I-ORG
+(	I-ORG
+الأردن	I-ORG
+)	I-ORG
+
+'	O
+''	O
+هو	O
+امتداد	O
+خاص	O
+بالعناوين	O
+الإلكترونية	O
+(	O
+نطاق	O
+)	O
+domain	O
+للمواقع	O
+التي	O
+تنتمي	O
+بوركينا	B-LOC
+فاسو	I-LOC
+
+تحويل	O
+مانسو	B-LOC
+(	I-LOC
+كيبك	I-LOC
+)	I-LOC
+
+تحويل	O
+لندندري	B-LOC
+(	I-LOC
+نيوهامشير	I-LOC
+)	I-LOC
+
+تحويل	O
+الجمعية	B-ORG
+الإسلامية	I-ORG
+الأمريكية	I-ORG
+
+تحويل	O
+ناحية	B-LOC
+بري	I-LOC
+الشرقي	I-LOC
+
+تيكمو	B-ORG
+كوي	I-ORG
+,	O
+جراسهوبر	B-ORG
+مانيوفاكتور	I-ORG
+
+منزل	B-ORG
+ويليام	I-ORG
+هنري	I-ORG
+ولتش	I-ORG
+
+تحويل	O
+تشقاجنغة	B-LOC
+سفلي	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+إسلام	I-LOC
+آباد	I-LOC
+غرب	I-LOC
+)	I-LOC
+
+تحويل	O
+فور	B-LOC
+كولونج	I-LOC
+(	I-LOC
+كيبك	I-LOC
+)	I-LOC
+
+تحويل	O
+هولندا	B-LOC
+(	I-LOC
+مقاطعة	I-LOC
+)	I-LOC
+
+تحويل	O
+الحزب	B-ORG
+الشيوعي	I-ORG
+التشيلي	I-ORG
+
+تحويل	O
+شاطئ	B-LOC
+المياه	I-LOC
+الساخنة	I-LOC
+
+تحويل	O
+نبرین	B-LOC
+(	I-LOC
+دیزجرود	I-LOC
+الغربي	I-LOC
+)	I-LOC
+
+عبد	B-PER
+الله	I-PER
+السدحان	I-PER
+18,17,16,15,14,13,12,11,10,9,7,6,5,4,3,2,1	O
+
+العوينات	B-LOC
+(	I-LOC
+ولاية	I-LOC
+المدية	I-LOC
+)	I-LOC
+
+كان	O
+للصينيين	B-LOC
+تخيّلهم	O
+الخاص	O
+لكوكبات	O
+السماء،	O
+إلا	O
+أن	O
+العالَم	O
+الغربي	O
+لا	O
+يعترف	O
+بها	O
+.	O
+
+أقل	O
+الفرق	O
+تسجيلا	O
+للأهداف	O
+هو	O
+نادي	B-ORG
+التضامن	I-ORG
+الكويتي	I-ORG
+برصيد	O
+12	O
+هدف	O
+.	O
+
+تحويل	O
+مركز	B-ORG
+التجارة	I-ORG
+العالمي	I-ORG
+1	I-ORG
+
+'	O
+''	O
+دييغو	B-PER
+مارادونا	I-PER
+''	O
+'	O
+
+تحويل	O
+سيسيلتون	B-LOC
+(	I-LOC
+ماريلاند	I-LOC
+)	I-LOC
+
+تحويل	O
+سليم	B-PER
+موسى	I-PER
+العشي	I-PER
+
+محافظة	B-LOC
+دين	I-LOC
+بين	I-LOC
+-	O
+Điện	O
+Biên	O
+
+تحويل	O
+مولیش	B-LOC
+(	I-LOC
+ماهرو	I-LOC
+)	I-LOC
+
+تحويل	O
+هوكي	B-LOC
+(	I-LOC
+آيوا	I-LOC
+)	I-LOC
+
+مانشستر	B-ORG
+يونايتد	I-ORG
+(	O
+4	O
+)	O
+
+تحويل	O
+بلدة	B-LOC
+ويتفيلد	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+تحويل	O
+كارلوس	B-PER
+كالفو	I-PER
+سوبرادو	I-PER
+
+'	O
+''	O
+عباس	B-PER
+فارس	I-PER
+''	O
+'	O
+
+حيث	O
+يُعطى	O
+المسافرون	O
+بشكل	O
+تلقائي	O
+رقم	O
+حجز	O
+ورقماً	O
+للأمتعة	O
+بواسطة	O
+الكومبيوتر	B-LOC
+.	O
+
+تحويل	O
+جاي	B-LOC
+(	I-LOC
+مين	I-LOC
+)	I-LOC
+
+تحويل	O
+إنابه	B-LOC
+(	I-LOC
+ميه	I-LOC
+)	I-LOC
+
+ليلا	O
+ليبسكومب	O
+مع	O
+زوجها	O
+وعائلتها	O
+تتحدث	O
+عن	O
+ابنها	O
+المتوفى	O
+أثناء	O
+خدمته	O
+في	O
+العراق	B-LOC
+.	O
+
+ستاد	B-ORG
+المقاولون	I-ORG
+العرب	I-ORG
+,	O
+القاهرة	B-LOC
+,	O
+مصر	B-LOC
+
+طائر	B-LOC
+نوء	I-LOC
+ماديران	I-LOC
+''Oceanodroma	O
+castro	O
+''	O
+(	O
+A	O
+)	O
+
+تحويل	O
+هافانا	B-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC
+
+تحويل	O
+شمشاد	B-LOC
+دائم	I-LOC
+الخضرة	I-LOC
+
+تحويل	O
+المنظمة	B-ORG
+من	I-ORG
+أجل	I-ORG
+التنمية	I-ORG
+الوطنية	I-ORG
+
+سالاميس	B-LOC
+(	I-LOC
+جزيرة	I-LOC
+)	I-LOC
+
+رسالة	O
+البيروني	B-ORG
+.	O
+
+تحويل	O
+وينستد	B-LOC
+(	I-LOC
+مينيسوتا	I-LOC
+)	I-LOC
+
+تحويل	O
+إنسان	B-LOC
+الغاب	I-LOC
+البورنيوي	I-LOC
+
+تحويل	O
+ماريون	B-LOC
+(	I-LOC
+لويزيانا	I-LOC
+)	I-LOC
+
+'	O
+''	O
+كيم	B-PER
+كلايسترز	I-PER
+''	O
+'	O
+(	O
+2	O
+)	O
+
+أبو	B-PER
+جهل	I-PER
+أية	O
+غرابة	O
+في	O
+ذلك	O
+!	O
+''	O
+.	O
+
+تحويل	O
+بيلي	B-LOC
+(	I-LOC
+الألب	I-LOC
+الجبلية	I-LOC
+)	I-LOC
+
+تحويل	O
+تل	B-LOC
+(	I-LOC
+فلسطين	I-LOC
+)	I-LOC
+
+تحويل	O
+سير	B-LOC
+سفلي	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+ديواندرة	I-LOC
+)	I-LOC
+
+تحويل	O
+قصرعاصم	B-LOC
+(	I-LOC
+مقاطعة	I-LOC
+فيروزآباد	I-LOC
+)	I-LOC
+
+تحويل	O
+أشین	B-LOC
+السفلی	I-LOC
+(	I-LOC
+صوغان	I-LOC
+)	I-LOC
+
+تحويل	O
+مقاطعة	B-LOC
+ميامي	I-LOC
+(	I-LOC
+كانساس	I-LOC
+)	I-LOC
+
+تحويل	O
+سكريبنير	B-LOC
+(	I-LOC
+نبراسكا	I-LOC
+)	I-LOC
+
+ويعد	O
+هذا	O
+الضريحُ	O
+واحداً	O
+من	O
+أكبر	O
+الأضرحة	O
+المفردة	O
+في	O
+مصر	B-LOC
+.	O
+
+تحويل	O
+بي	B-ORG
+بي	B-ORG
+سي	I-ORG
+
+تحويل	O
+بلدة	B-LOC
+سبولدينغ	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+تحويل	O
+بينغهام	B-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+مونت	B-LOC
+فيرنون	I-LOC
+(	I-LOC
+مين	I-LOC
+)	I-LOC
+
+تحويل	O
+جامعة	B-ORG
+بيلغورود	I-ORG
+الحكومية	I-ORG
+
+تحويل	O
+سان	B-LOC
+ميغيل	I-LOC
+دي	I-LOC
+أغوايو	I-LOC
+(	I-LOC
+كانتابريا	I-LOC
+)	I-LOC
+
+تحويل	O
+أورورا	B-LOC
+(	I-LOC
+مقاطعة	I-LOC
+فلورنس	I-LOC
+)	I-LOC
+
+تحويل	O
+منتخب	B-ORG
+هندوراس	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+
+تحويل	O
+القناة	B-ORG
+الفضائية	I-ORG
+السورية	I-ORG
+
+تحويل	O
+إوينغ	B-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC
+
+تحويل	O
+روسينت	B-LOC
+(	I-LOC
+باد	I-LOC
+كاليه	I-LOC
+)	I-LOC
+
+تحويل	O
+ليف	B-ORG
+باد	I-ORG
+(	I-ORG
+محرر	I-ORG
+نصوص	I-ORG
+)	I-ORG
+
+تحويل	O
+طحلبية	B-LOC
+القبعة	I-LOC
+المكسيكية	I-LOC
+
+باتمان	B-ORG
+:	I-ORG
+النكتة	I-ORG
+القاتلة	I-ORG
+
+موطنه	O
+الأصلي	O
+بلاد	B-LOC
+الشام	I-LOC
+تركيا	B-LOC
+القوقاز	B-LOC
+وكل	O
+مناطق	O
+أوروبا	B-LOC
+.	O
+
+تحويل	O
+دوغلاس	B-LOC
+(	I-LOC
+جورجيا	I-LOC
+)	I-LOC
+
+و	O
+قد	O
+لعب	O
+مع	O
+منتخب	B-ORG
+السنغال	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+.	O
+
+تحويل	O
+بوتني	B-LOC
+(	I-LOC
+فيرمونت	I-LOC
+)	I-LOC
+
+تحويل	O
+سوانتون	B-LOC
+(	I-LOC
+نبراسكا	I-LOC
+)	I-LOC
+
+'	O
+''	O
+بيوس	B-PER
+الثاني	I-PER
+''	O
+'	O
+
+تحويل	O
+قشلاق	B-LOC
+مرشون	I-LOC
+(	I-LOC
+حومة	I-LOC
+أبهر	I-LOC
+)	I-LOC
+
+انظر	O
+إلى	O
+تحليل	B-ORG
+عدد	I-ORG
+صحيح	I-ORG
+باستعمال	I-ORG
+منحنى	I-ORG
+لنسترا	I-ORG
+الإهليلجي	I-ORG
+.	O
+
+'	O
+''	O
+بابلو	B-PER
+كويفاس	I-PER
+''	O
+'	O
+و	O
+'	O
+''	O
+لويس	B-PER
+هورنا	I-PER
+''	O
+'	O
+هزم	O
+دانييل	B-PER
+نيستور	I-PER
+و	O
+نيناد	B-PER
+زيمونيتش،	I-PER
+النتيجة:6–2	O
+,	O
+6–3	O
+
+بلقين	B-PER
+بن	I-PER
+زيري	I-PER
+.	O
+
+وكما	O
+أن	O
+شقيقه	O
+الأصغر	O
+نايف	B-PER
+لاعب	O
+أيضًا	O
+.	O
+
+تحويل	O
+بسام	B-PER
+عبد	I-PER
+المجيد	I-PER
+
+تحويل	O
+شرلوك	B-PER
+هولمز	I-PER
+(	I-PER
+أنمي	I-PER
+)	I-PER
+
+تحويل	O
+حزب	B-ORG
+من	I-ORG
+أجل	I-ORG
+الحيوانات	I-ORG
+
+تحويل	O
+فيصل	B-PER
+بن	I-PER
+شملان	I-PER
+
+تحويل	O
+ساوث	B-LOC
+شور	I-LOC
+(	I-LOC
+داكوتا	I-LOC
+الجنوبية	I-LOC
+)	I-LOC
+
+والعقيق	O
+وادٍ	O
+خصيب	O
+في	O
+المدينة	B-LOC
+المنورة	I-LOC
+.	O
+
+تحويل	O
+باكنر	B-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC
+
+تبعد	O
+4	O
+كلم	O
+عن	O
+صيدا	B-LOC
+.	O
+
+تحويل	O
+والدو	B-LOC
+(	I-LOC
+فلوريدا	I-LOC
+)	I-LOC
+
+تحويل	O
+بربيت	B-LOC
+أخضر	I-LOC
+غربي	I-LOC
+
+تنقل	O
+بين	O
+السنغال	B-LOC
+غينيا	B-LOC
+ساحل	B-LOC
+العاج	I-LOC
+.	O
+
+تنتشر	O
+في	O
+المغرب	B-LOC
+العربي	I-LOC
+.	O
+
+موطن	O
+هذا	O
+النوع	O
+بلاد	B-LOC
+الشام	I-LOC
+تركيا	B-LOC
+القوقاز	B-LOC
+أوكرانيا	B-LOC
+.	O
+
+تحويل	O
+مقبرة	B-ORG
+أمنا	I-ORG
+حواء	I-ORG
+
+تحويل	O
+كلينتون	B-LOC
+(	I-LOC
+تينيسي	I-LOC
+)	I-LOC
+
+فاز	O
+به	O
+أندي	B-PER
+شليك	I-PER
+.	O
+
+تحويل	O
+ألموند	B-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+تحويل	O
+سليم	B-PER
+بن	I-PER
+جميعة	I-PER
+
+تحويل	O
+ميدلتاون	B-LOC
+سبرينغز	I-LOC
+(	I-LOC
+فيرمونت	I-LOC
+)	I-LOC
+
+بشرى	B-PER
+بدور	O
+''فكرية	O
+''	O
+
+وكان	O
+هذا	O
+مصدرا	O
+للتوتر	O
+خاصة	O
+مع	O
+تركيا	B-LOC
+.	O
+
+تحويل	O
+باغ	B-LOC
+غمرك	I-LOC
+(	I-LOC
+مهر	I-LOC
+أباد	I-LOC
+)	I-LOC
+
+تحويل	O
+فليمينغ	B-LOC
+(	I-LOC
+كولورادو	I-LOC
+)	I-LOC
+
+تحويل	O
+خزر	B-LOC
+أباد	I-LOC
+أعتمادي	I-LOC
+(	I-LOC
+اسفندار	I-LOC
+)	I-LOC
+
+تحويل	O
+كوتشك	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+فيروزكوه	I-LOC
+)	I-LOC
+
+'	O
+''	O
+الاتحاد	B-ORG
+الاشتراكي	I-ORG
+للقوات	I-ORG
+الشعبية	I-ORG
+''	O
+'	O
+(	O
+USFP	O
+)	O
+
+تحويل	O
+إيرين	B-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+تحويل	O
+خررود	B-LOC
+(	I-LOC
+أمجز	I-LOC
+)	I-LOC
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO242262	O
+
+مؤسسة	B-ORG
+الإذاعة	I-ORG
+والتلفزيون	I-ORG
+التركية	I-ORG
+
+**	O
+لشبونة	B-LOC
+(	O
+السفارة	O
+)	O
+
+'	O
+''	O
+جوزيف	B-PER
+كابيلا	I-PER
+''	O
+'،	O
+رئيس	O
+مؤقت	O
+
+ديزل	B-ORG
+(	I-ORG
+علامة	I-ORG
+تجارية	I-ORG
+)	I-ORG
+
+تحويل	O
+أكبر	B-LOC
+أباد	I-LOC
+هشيوار	I-LOC
+(	I-LOC
+هشيوار	I-LOC
+)	I-LOC
+
+``	O
+موال	O
+حواري	O
+اللي	O
+حبها	O
+قلبي،	O
+وديع	B-PER
+الصافي	I-PER
+''	O
+
+كولومبوس	B-LOC
+(	I-LOC
+مونتانا	I-LOC
+)	I-LOC
+
+ساموراي	B-ORG
+تشامبلو	I-ORG
+-	O
+شيغي	O
+
+شركة	O
+كاواي	B-LOC
+لصناعة	O
+الآلات	O
+الموسيقية	O
+
+سلطان	B-LOC
+أباد	I-LOC
+درة	I-LOC
+ویران	I-LOC
+(	I-LOC
+سيلتان	I-LOC
+)	I-LOC
+
+13-	O
+أبو	B-PER
+عبيدة	I-PER
+بن	I-PER
+الجراح	I-PER
+
+ويذكر	O
+ابن	B-PER
+إياس	I-PER
+أن	O
+عدد	O
+القتلى	O
+من	O
+الجانبين	O
+كان	O
+ضخماً	O
+.	O
+
+من	O
+صناعة	O
+مجموعة	B-ORG
+هونغدو	I-ORG
+لصناعة	I-ORG
+الطيران	I-ORG
+.	O
+
+تحويل	O
+مؤسسة	B-ORG
+المياه	I-ORG
+العالمية	I-ORG
+
+تحويل	O
+زریا	B-LOC
+(	I-LOC
+ده	I-LOC
+کردي	I-LOC
+)	I-LOC
+
+الحافظ	O
+جلال	B-PER
+الدين	I-PER
+السيوطي	I-PER
+.	O
+
+دينيس	B-PER
+رالستون	I-PER
+''	O
+(	O
+النهائي	O
+)	O
+''	O
+
+تظهر	O
+أهمية	O
+المدينة	O
+بقام	O
+تيمورلنك	B-PER
+بوضع	O
+حامية	O
+كبيرة	O
+عليها	O
+عقب	O
+قيامه	O
+بغزوها	O
+.	O
+
+تحويل	O
+القصف	B-ORG
+الأمريكي	I-ORG
+على	I-ORG
+السفارة	I-ORG
+الصينية	I-ORG
+في	I-ORG
+بلغراد	I-ORG
+
+**	O
+لييج	B-LOC
+(	O
+قنصلية	O
+عامة	O
+)	O
+
+فكتوريا	B-LOC
+(	I-LOC
+كولومبيا	I-LOC
+البريطانية	I-LOC
+)	I-LOC
+
+ألبلاسردام،	B-LOC
+دوردريخت،	B-LOC
+خيسينلاندن،	B-LOC
+خوريكوم،	B-LOC
+هاردينكسفيلد-	B-LOC
+خيسيندام،	I-LOC
+هندريك-	B-LOC
+إيدو-	I-LOC
+أمباخت،	I-LOC
+ليردام،	B-LOC
+مولنفارد،	B-LOC
+بابندريخت،	B-LOC
+سليدريخت،	B-LOC
+زيدريك،	B-LOC
+زفايندريخت	B-LOC
+
+تحويل	O
+إيرين	B-LOC
+(	I-LOC
+نيويورك	I-LOC
+)	I-LOC
+
+تحويل	O
+دانيس	B-LOC
+(	I-LOC
+باد	I-LOC
+كاليه	I-LOC
+)	I-LOC
+
+تحويل	O
+أنثيا	B-LOC
+(	I-LOC
+إفروس	I-LOC
+)	I-LOC
+
+تحويل	O
+يوسف	B-PER
+صديق	I-PER
+(	I-PER
+فيلسوف	I-PER
+تونسي	I-PER
+)	I-PER
+
+تحويل	O
+مصرف	B-ORG
+البحرين	I-ORG
+المركزي	I-ORG
+
+تحويل	O
+مقاطعة	B-LOC
+كروفورد	I-LOC
+(	I-LOC
+آيوا	I-LOC
+)	I-LOC
+
+تحويل	O
+أناي	B-LOC
+(	I-LOC
+باد	I-LOC
+كاليه	I-LOC
+)	I-LOC
+
+حقق	O
+المركز	O
+الـ	O
+7	O
+في	O
+طواف	B-ORG
+سويسرا	I-ORG
+2013	I-ORG
+
+حيث	O
+يتلقى	O
+دعوة	O
+من	O
+صديقه	O
+د.سامي	O
+للقدوم	O
+إلى	O
+الإسكندرية	B-LOC
+.	O
+
+وبُذلت	O
+المحاولات	O
+العديدة	O
+لزراعتها	O
+في	O
+أوروبا	B-LOC
+بالمثل	O
+.	O
+
+تحويل	O
+سانتا	B-LOC
+كروث	I-LOC
+دي	I-LOC
+بيناريس	I-LOC
+
+تحويل	O
+بلك	B-LOC
+إرث	I-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+تحويل	O
+جان	B-PER
+فرانسوا	I-PER
+بالمير	I-PER
+
+تحويل	O
+أندريس	B-PER
+فيرنانديز	I-PER
+مورينو	I-PER
+
+تحويل	O
+غلنوود	B-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC
+
+'	O
+''	O
+إيلي	B-PER
+ناستاسي	I-PER
+''	O
+'	O
+(	O
+3	O
+/	O
+4	O
+)	O
+
+تحويل	O
+غرانتوود	B-LOC
+(	I-LOC
+ميزوري	I-LOC
+)	I-LOC
+
+كنيسة	B-ORG
+المشرق	I-ORG
+الآشورية	I-ORG
+.	O
+
+'	O
+''	O
+مع	O
+نادي	B-ORG
+الرجاء	I-ORG
+البيضاوي	I-ORG
+'	O
+''	O
+
+بي	I-ORG
+أكشن	I-ORG
+
+تحويل	O
+اورلاند	B-LOC
+بارك	I-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC
+
+أبو	B-PER
+سهل	I-PER
+ويجن	I-PER
+بن	I-PER
+رستم	I-PER
+الكوهي	I-PER
+.	O
+
+تحويل	O
+غبيراء	B-LOC
+فنلندية	I-LOC
+كاذبة	I-LOC
+
+لم	O
+يتطلع	O
+لأي	O
+منصب،	O
+ولم	O
+يشتغل	O
+بالسياسة	O
+بعد	O
+وفاة	O
+الملك	B-PER
+عبد	I-PER
+العزيز	I-PER
+.	O
+
+تحويل	O
+بريجان	B-LOC
+(	I-LOC
+دودانغة	I-LOC
+)	I-LOC
+
+ولد	O
+للنبي	O
+يعقوب	B-PER
+الذي	O
+سمي	O
+باسرائيل،	O
+اثني	O
+عشر	O
+ولدا	O
+هم	O
+اباء	O
+كل	O
+القبائل	O
+الاسرائيلية	O
+(	O
+تكوين	O
+35:10	O
+)	O
+من	O
+زوجتين	O
+ومحظيتين	O
+.	O
+
+تحويل	O
+مقاطعة	B-LOC
+واشنطن	I-LOC
+(	I-LOC
+مينيسوتا	I-LOC
+)	I-LOC
+
+تحويل	O
+أمقيد	B-LOC
+(	I-LOC
+أدلس	I-LOC
+)	I-LOC
+
+''Bathers	O
+''	O
+لبول	B-PER
+سيزان	I-PER
+1896-1898	O
+
+تحويل	O
+دائرة	B-LOC
+زيغود	I-LOC
+يوسف	I-LOC
+
+تحويل	O
+قوة	B-ORG
+الدفاع	I-ORG
+الذاتي	I-ORG
+الجوية	I-ORG
+اليابانية	I-ORG
+
+Royal	O
+Embassy	O
+of	O
+Saudi	O
+Arabia	O
+in	O
+واشنطن	B-LOC
+العاصمة	I-LOC
+
+النسخة	O
+العائلية	O
+كانت	O
+متاحة	O
+فقط	O
+في	O
+الأسواق	O
+اليابانية	B-LOC
+.	O
+
+تحويل	O
+مقاطعة	B-LOC
+إليوت	I-LOC
+(	I-LOC
+كنتاكي	I-LOC
+)	I-LOC
+
+تحويل	O
+نيقولا	B-PER
+فاشيو	I-PER
+دي	I-PER
+دوييه	I-PER
+
+تحويل	O
+سوف	B-LOC
+(	I-LOC
+مدينة	I-LOC
+)	I-LOC
+
+المهندس	O
+عبد	B-PER
+الله	I-PER
+بن	I-PER
+حمود	I-PER
+الطريقي	I-PER
+
+تحويل	O
+لويس	B-PER
+الثاني	I-PER
+دوق	I-PER
+أنجو	I-PER
+
+'	O
+''	O
+مانويل	B-PER
+بينتو	I-PER
+دا	I-PER
+كوستا	I-PER
+''	O
+'،	O
+الرئيس	O
+
+اسم	O
+المنطقة	O
+=	O
+محافظة	B-LOC
+حلب	I-LOC
+
+'	O
+''	O
+غنوين	O
+''	O
+'	O
+هي	O
+بلدة	B-LOC
+ألمانية	I-LOC
+تقع	O
+في	O
+ألمانيا	B-LOC
+في	O
+مكلنبورغ	B-LOC
+فوربومرن	I-LOC
+.	O
+
+تحويل	O
+بلدة	B-LOC
+فريدوم	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+وقد	O
+انعمت	O
+عليه	O
+إليزابيث	B-PER
+الأولى	I-PER
+ملكة	I-PER
+إنجلترا	I-PER
+بلقب	O
+السر	O
+تكريماً	O
+له	O
+على	O
+خدماته	O
+.	O
+
+تحويل	O
+دوفر	B-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+تحويل	O
+فورهيسفيل	B-LOC
+(	I-LOC
+نيويورك	I-LOC
+)	I-LOC
+
+تحويل	O
+ألبرت	B-PER
+جون	I-PER
+لوتولي	I-PER
+
+تحويل	O
+میمون	B-LOC
+درة	I-LOC
+(	I-LOC
+أبهررود	I-LOC
+)	I-LOC
+
+وساعدت	O
+أيضا	O
+الخطوط	B-ORG
+الجوية	I-ORG
+الأمريكية	I-ORG
+إلى	O
+العودة	O
+إلى	O
+المسار	O
+الصحيح	O
+بسبب	O
+الديون	O
+الرديئة	O
+التي	O
+تخيم	O
+حاليا	O
+على	O
+ممارستها	O
+لأعمالها	O
+التجارية	O
+.	O
+
+تحويل	O
+نيفادا	B-LOC
+(	I-LOC
+أوهايو	I-LOC
+)	I-LOC
+
+أنه	O
+يتصل	O
+إلى	O
+الشمال	O
+بخليج	B-LOC
+بافن	I-LOC
+من	O
+خلال	O
+مضيق	B-LOC
+دافيس	I-LOC
+.	O
+
+تحويل	O
+هوثورن	B-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+تحويل	O
+نقدي	B-LOC
+(	I-LOC
+دودانغة	I-LOC
+)	I-LOC
+
+تحويل	O
+دورتشستر	B-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+جزر	B-LOC
+القنال	I-LOC
+الإنجليزي	I-LOC
+(	O
+and	O
+)	O
+(	O
+)	O
+
+تحويل	O
+ديشامبو	B-LOC
+غروندين	I-LOC
+(	I-LOC
+كيبك	I-LOC
+)	I-LOC
+
+**	O
+أوتاوا	B-LOC
+(	O
+السفارة	B-ORG
+السعودية	I-ORG
+في	I-ORG
+أوتاوا	I-ORG
+)	O
+
+تحويل	O
+کرة	B-LOC
+توتوبردي	I-LOC
+(	I-LOC
+بهمئي	I-LOC
+غرمسیري	I-LOC
+الشمالي	I-LOC
+)	I-LOC
+
+'	O
+''	O
+نتسشكاو	O
+''	O
+'	O
+هي	O
+بلدة	B-LOC
+ألمانية	I-LOC
+تقع	O
+في	O
+ألمانيا	B-LOC
+في	O
+ساكسونيا	B-LOC
+.	O
+
+'	O
+''	O
+الحامة	B-LOC
+''	O
+'	O
+بلدية	O
+ولاية	B-LOC
+خنشلة	I-LOC
+في	O
+الجزائر	B-LOC
+.	O
+
+تحويل	O
+سلجوق	B-PER
+بن	I-PER
+دقاق	I-PER
+
+تحويل	O
+بیش	B-LOC
+محلة	I-LOC
+(	I-LOC
+دابوي	I-LOC
+الجنوبی	I-LOC
+)	I-LOC
+
+يوهان	B-PER
+كريك	I-PER
+,	O
+''	O
+(	O
+ربع	O
+النهائي	O
+)	O
+''	O
+
+قضية	B-PER
+طل	I-PER
+الملوحي	I-PER
+.	O
+
+تحويل	O
+ذا	B-ORG
+إمينم	I-ORG
+شو	I-ORG
+
+تحويل	O
+إمرسون	B-LOC
+(	I-LOC
+أركنساس	I-LOC
+)	I-LOC
+
+تحويل	O
+إيرفينغ	B-LOC
+(	I-LOC
+ماساتشوستس	I-LOC
+)	I-LOC
+
+سفر	B-PER
+الحوالي،	I-PER
+من	O
+المعاصرين	O
+.	O
+
+وينتهي	O
+نسبه	O
+إلى	O
+الزبير	B-PER
+بن	I-PER
+العوام؛	I-PER
+لذلك	O
+نسب	O
+إليه	O
+.	O
+
+تحويل	O
+هولي	B-LOC
+هيل	I-LOC
+(	I-LOC
+كارولاينا	I-LOC
+الجنوبية	I-LOC
+)	I-LOC
+
+شهادة	B-ORG
+عضوية	I-ORG
+كلية	I-ORG
+الجراحين	I-ORG
+الملكية	I-ORG
+
+تحويل	O
+الدفاع	B-ORG
+الجوي	I-ORG
+الملكي	I-ORG
+السعودي	I-ORG
+
+تحويل	O
+جامعة	B-ORG
+الحدود	I-ORG
+الشمالية	I-ORG
+
+تحويل	O
+فقمة	B-LOC
+آكلة	I-LOC
+السرطان	I-LOC
+
+تحويل	O
+وكالة	B-ORG
+الأنباء	I-ORG
+اليمنية	I-ORG
+-	I-ORG
+سبأ	I-ORG
+
+تحويل	O
+دايسس	B-LOC
+(	I-LOC
+أركنساس	I-LOC
+)	I-LOC
+
+تحويل	O
+مقاطعة	B-LOC
+تيلير	I-LOC
+(	I-LOC
+كولورادو	I-LOC
+)	I-LOC
+
+تحويل	O
+مونتروز	B-LOC
+(	I-LOC
+مسيسيبي	I-LOC
+)	I-LOC
+
+الحرب	B-ORG
+الرومانية	I-ORG
+السورية	I-ORG
+(	O
+192	O
+ق.م	O
+-	O
+188	O
+ق.م	O
+)	O
+
+تحويل	O
+أغتشة	B-LOC
+کهل	I-LOC
+رجبانلو	I-LOC
+(	I-LOC
+عباس	I-LOC
+الغربي	I-LOC
+)	I-LOC
+
+تقع	O
+في	O
+الشمال	O
+الغربي	O
+للولاية	B-LOC
+.	O
+
+مدينة	B-ORG
+الملك	I-ORG
+عبد	I-ORG
+العزيز	I-ORG
+للعلوم	I-ORG
+و	I-ORG
+التقنية	I-ORG
+.	O
+
+تحويل	O
+إي	B-PER
+أون	I-PER
+جو	I-PER
+
+تحويل	O
+القاسم	B-PER
+أحمد	I-PER
+يحيى	I-PER
+الحسين	I-PER
+
+تحويل	O
+ساوث	B-LOC
+لانكستر	I-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+مولودية	B-ORG
+وجدة	I-ORG
+''	O
+'	O
+
+تحويل	O
+خوان	B-PER
+بابلو	I-PER
+اسبينوزا	I-PER
+
+ارتشي	B-ORG
+سونيك	I-ORG
+ذا	I-ORG
+هيدجهوج	I-ORG
+منذ	O
+الإصدار	O
+160	O
+
+تحويل	O
+كيف	B-ORG
+قابلت	I-ORG
+أمكما	I-ORG
+(	I-ORG
+مسلسل	I-ORG
+)	I-ORG
+
+**	O
+الملك	B-PER
+غوانغجونغ	I-PER
+(	O
+광종	O
+)	O
+.	O
+
+'	O
+''	O
+مونشبرغ	O
+''	O
+'	O
+هي	O
+بلدة	B-LOC
+ألمانية	I-LOC
+تقع	O
+في	O
+ألمانيا	B-LOC
+في	O
+بافاريا	B-LOC
+.	O
+
+تحويل	O
+برينستون	B-LOC
+(	I-LOC
+نيو	I-LOC
+جيرسي	I-LOC
+)	I-LOC
+
+``	O
+سينقضي	O
+وقت	O
+طويل	O
+–	O
+طويل	O
+جدًّا	O
+–	O
+قبل	O
+أن	O
+تجد	O
+مصر	B-LOC
+من	O
+أبنائها	O
+شخصية	O
+تجمع	O
+كل	O
+هذه	O
+السمات،	O
+وتخلّف	O
+كل	O
+هذه	O
+الآثار	O
+.	O
+
+20px]]	O
+كارلو	B-PER
+أنشيلوتي	I-PER
+(	O
+مدرب	O
+)	O
+
+تحويل	O
+فرناندو	B-PER
+الأول	I-PER
+ملك	I-PER
+البرتغال	I-PER
+
+تحويل	O
+ليو	B-PER
+بولد	I-PER
+روزيتشكا	I-PER
+
+الديوان	O
+الغربي	O
+الشرقي،	O
+على	O
+أرشيف	B-ORG
+الإنترنت	I-ORG
+.	O
+
+*177	O
+عدد	B-ORG
+مضلعي	I-ORG
+(	O
+60	O
+أضلاع-	O
+...	O
+)	O
+
+تحويل	O
+عبد	B-PER
+المجيد	I-PER
+الأول	I-PER
+
+تحويل	O
+محمد	B-PER
+علي	I-PER
+العابد	I-PER
+
+تحويل	O
+أخضر	B-ORG
+ربيعي	I-ORG
+(	I-ORG
+لون	I-ORG
+)	I-ORG
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO250466	O
+
+العقيد	O
+المصطفي	B-PER
+ولد	I-PER
+محمد	I-PER
+السالك	I-PER
+
+'	O
+''	O
+بني	B-LOC
+مزار	I-LOC
+''	O
+'	O
+
+بطولة	B-ORG
+أمم	I-ORG
+أوروبا	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+2000	I-ORG
+
+*روجر	O
+كونراي	O
+(	O
+فرنسا	B-LOC
+)	O
+
+تحويل	O
+أنا	B-LOC
+(	I-LOC
+أوهايو	I-LOC
+)	I-LOC
+
+تحويل	O
+التيار	B-ORG
+الوطني	I-ORG
+الحر	I-ORG
+
+تحويل	O
+ملعب	B-ORG
+برمودا	I-ORG
+الوطني	I-ORG
+
+كي	B-ORG
+بي	I-ORG
+إس	I-ORG
+وورلد	I-ORG
+
+تحويل	O
+مثلث	B-ORG
+ذهبي	I-ORG
+(	I-ORG
+رياضيات	I-ORG
+)	I-ORG
+
+تحويل	O
+جون	B-PER
+فان	I-PER
+إت	I-PER
+شخيب	I-PER
+
+تحويل	O
+دلمار	B-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+تحويل	O
+الشمال	B-LOC
+(	I-LOC
+محافظة	I-LOC
+)	I-LOC
+
+تحويل	O
+تفجيرات	B-ORG
+العراق	I-ORG
+23	I-ORG
+يوليو	I-ORG
+2012	I-ORG
+
+تحويل	O
+فيلا	B-ORG
+دوريا	I-ORG
+بامبيلي	I-ORG
+
+'	O
+''	O
+ستيفن	B-PER
+بلوم	I-PER
+''	O
+'	O
+
+تحويل	O
+نهائي	B-ORG
+كأس	I-ORG
+العالم	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+2006	I-ORG
+
+تحويل	O
+عضلة	B-LOC
+طويلة	I-LOC
+باسطة	I-LOC
+لإبهام	I-LOC
+اليد	I-LOC
+
+وكلما	O
+زادت	O
+انعكاسية	B-ORG
+المادة،	O
+كانت	O
+انبعاثيتها	O
+أقل	O
+.	O
+
+'	O
+''	O
+إيفان	B-PER
+ليندل	I-PER
+''	O
+'	O
+(	O
+1	O
+/	O
+5	O
+)	O
+
+الاتحاد	B-ORG
+الأوروبي	I-ORG
+'	O
+''	O
+مجموع	O
+''	O
+'	O
+
+تحويل	O
+ملعب	B-ORG
+سالت	I-ORG
+ليك	I-ORG
+
+'	O
+''	O
+حي	B-LOC
+الساحل	I-LOC
+''	O
+'	O
+
+العباس	B-PER
+بن	I-PER
+الوليد	I-PER
+بن	I-PER
+عبد	I-PER
+الملك	I-PER
+
+مايكل	B-PER
+تشانج	I-PER
+''	O
+(	O
+الجولة	O
+الثالثة	O
+)	O
+''	O
+
+تحويل	O
+هيل	B-LOC
+فيو	I-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC
+
+تحويل	O
+باركتون	B-LOC
+(	I-LOC
+كارولاينا	I-LOC
+الشمالية	I-LOC
+)	I-LOC
+
+عون	B-PER
+القدومي،	I-PER
+أحد	O
+أشهر	O
+الدعاة	O
+في	O
+الأردن	B-LOC
+.	O
+
+تحويل	O
+صالح	B-PER
+مهدي	I-PER
+عماش	I-PER
+
+**	O
+Kingston	B-LOC
+(	O
+Embassy	O
+)	O
+
+تحويل	O
+قسم	B-LOC
+بیاض	I-LOC
+الريفي	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+أنار	I-LOC
+)	I-LOC
+
+تحويل	O
+بلدة	B-LOC
+بورتر	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+كاس	I-LOC
+)	I-LOC
+
+البيمارستان	B-ORG
+النوري،	I-ORG
+واعيد	O
+ترميم	O
+الكثير	O
+من	O
+القلاع	O
+والأبواب	O
+.	O
+
+بلانكا	B-PER
+القشتالية	I-PER
+زوجة	O
+لويس	B-PER
+الثامن	I-PER
+ملك	I-PER
+فرنسا	I-PER
+
+تحويل	O
+فوجيمينو	B-LOC
+(	I-LOC
+سايتاما	I-LOC
+)	I-LOC
+
+تحويل	O
+جيفرسون	B-LOC
+(	I-LOC
+مقاطعة	I-LOC
+فيرنون	I-LOC
+)	I-LOC
+
+تحويل	O
+إدوارد	B-PER
+الثاني	I-PER
+ملك	I-PER
+إنجلترا	I-PER
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO250442	O
+
+تحويل	O
+الحي	B-LOC
+اليهودي	I-LOC
+في	I-LOC
+القدس	I-LOC
+
+تحويل	O
+رجل	B-ORG
+النساء	I-ORG
+(	I-ORG
+مسلسل	I-ORG
+)	I-ORG
+
+الإكوادور	B-LOC
+(	O
+حكم	B-LOC
+الأمر	I-LOC
+الواقع	I-LOC
+)	O
+
+أستون	B-ORG
+فيلا	I-ORG
+(	O
+2	O
+)	O
+
+حقق	O
+المركز	O
+الـ	O
+2	O
+في	O
+طواف	B-ORG
+إسبانيا	I-ORG
+1985	I-ORG
+
+كما	O
+أنها	O
+غير	O
+قادرة	O
+على	O
+التشتيت	O
+الكامل	O
+للجسيمات	B-PER
+المشحونة	I-PER
+.	O
+
+تحويل	O
+مقاطعات	B-LOC
+جمهورية	I-LOC
+التشيك	I-LOC
+
+تحويل	O
+تشویلان	B-LOC
+(	I-LOC
+ديناران	I-LOC
+)	I-LOC
+
+تحويل	O
+نقدي	B-LOC
+کندي	I-LOC
+(	I-LOC
+أرشق	I-LOC
+)	I-LOC
+
+تحويل	O
+إسكتلندا	B-LOC
+(	I-LOC
+داكوتا	I-LOC
+الجنوبية	I-LOC
+)	I-LOC
+
+تحويل	O
+قرية	B-LOC
+كاتسكيل	I-LOC
+(	I-LOC
+نيويورك	I-LOC
+)	I-LOC
+
+تحويل	O
+باينهيم	B-LOC
+ليه	I-LOC
+إيبرليهكيوس	I-LOC
+
+تحويل	O
+علي	B-PER
+أبو	I-PER
+حسون	I-PER
+
+كما	O
+أنها	O
+مقر	O
+لحاكم	B-PER
+أبوظبي	I-PER
+ولولي	B-PER
+عهده	I-PER
+ورئيس	I-PER
+المجلس	I-PER
+التنفيذي	I-PER
+.	O
+
+تحويل	O
+ويستون	B-LOC
+(	I-LOC
+فيرمونت	I-LOC
+)	I-LOC
+
+''أقيمت	O
+جميع	O
+المباريات	O
+في	O
+كلكتا	B-LOC
+,	O
+الهند	B-LOC
+''	O
+
+تحويل	O
+منتخب	B-ORG
+الجزائر	I-ORG
+لكرة	I-ORG
+اليد	I-ORG
+للسيدات	I-ORG
+
+بناء	O
+مسجد	B-ORG
+قباء	I-ORG
+.	O
+
+وقال	O
+إنه	O
+يرفض	O
+تسميتها	O
+``	O
+البديل	O
+''	O
+وأن	O
+وسائل	O
+الإعلام	O
+الكبيرة	O
+(	O
+مثل	O
+نيويورك	B-ORG
+تايمز	I-ORG
+)	O
+هي	O
+البديل	O
+الفعلي	O
+للصحافة	O
+الحقيقية	O
+للأسباب	O
+المذكورة	O
+أعلاه	O
+''	O
+.	O
+
+'	O
+''	O
+عباس	B-PER
+فارس	I-PER
+''	O
+'	O
+في	O
+دور	O
+''جحا	O
+''	O
+
+تحويل	O
+ديربي	B-LOC
+(	I-LOC
+كانساس	I-LOC
+)	I-LOC
+
+تحويل	O
+مندن	B-LOC
+(	I-LOC
+آيوا	I-LOC
+)	I-LOC
+
+أنس	B-PER
+بن	I-PER
+مالك	I-PER
+.	O
+
+الخطوط	B-ORG
+الجوية	I-ORG
+السودانية	I-ORG
+(	O
+الدوحة،	B-LOC
+الخرطوم	B-LOC
+)	O
+
+شركة	B-ORG
+موريتانيا	I-ORG
+للطيران	I-ORG
+ومقرها	O
+في	O
+المدينة	O
+.	O
+
+تحويل	O
+سمارجان	B-LOC
+(	I-LOC
+سیمکان	I-LOC
+)	I-LOC
+
+**	O
+ريسيفي	B-LOC
+(	O
+Consulate	O
+)	O
+
+تحويل	O
+فرانكلين	B-LOC
+(	I-LOC
+فيرجينيا	I-LOC
+الغربية	I-LOC
+)	I-LOC
+
+الخطوط	B-ORG
+الجوية	I-ORG
+السودانية	I-ORG
+(	O
+الخرطوم-	O
+بورتسوادن	O
+)	O
+.	O
+
+أحمد	B-PER
+بن	I-PER
+راشد	I-PER
+المعلا	I-PER
+
+تحويل	O
+سليمان	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+تشابهار	I-LOC
+)	I-LOC
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO238782	O
+
+يبلغ	O
+عدد	O
+سكانها	O
+7,000	O
+نسمة	O
+من	O
+المغتربين	O
+والمقيمين،	O
+وينتشر	O
+مغتربوها	O
+في	O
+ألمانيا	B-LOC
+أفريقيا	B-LOC
+الولايات	B-LOC
+المتحدة	I-LOC
+البرازيل	B-LOC
+.	O
+
+تتواجد	O
+في	O
+بلاد	B-LOC
+الشام	I-LOC
+مصر	B-LOC
+المغرب	B-LOC
+العربي	I-LOC
+قبرص	B-LOC
+تركيا	B-LOC
+القوقاز	B-LOC
+ومعظم	O
+مناطق	O
+أوروبا	B-LOC
+.	O
+
+تحويل	O
+أورلاند	B-LOC
+(	I-LOC
+كاليفورنيا	I-LOC
+)	I-LOC
+
+كان	O
+جده	O
+مملوكًا	O
+للسلطان	O
+جلال	B-PER
+الدولة	I-PER
+ملك	I-PER
+شاه،	I-PER
+وكان	O
+عسكريًا	O
+وملاصقًا	O
+للسلطان	O
+.	O
+
+منظمة	B-ORG
+الصليب	I-ORG
+الأخضر	I-ORG
+الدولية	I-ORG
+
+'	O
+''	O
+ناسا	B-ORG
+''	O
+'	O
+
+إدارة	B-ORG
+المخابرات	I-ORG
+الحربية	I-ORG
+والاستطلاع	I-ORG
+.	O
+
+وسرعان	O
+ما	O
+تبعه	O
+مصنع	O
+للتجميع	O
+في	O
+البرازيل	B-LOC
+.	O
+
+ما	O
+زال	O
+يعتقد	O
+أن	O
+سنور	B-LOC
+معرق	I-LOC
+ينتمي	O
+إلى	O
+هذا	O
+الجنس	O
+إلا	O
+أنه	O
+يتباين	O
+مع	O
+النوعين	O
+الآخرين	O
+في	O
+مجموعة	O
+من	O
+المميزات	O
+.	O
+
+ماريا	B-PER
+شارابوفا	I-PER
+''	O
+(	O
+الجولة	O
+الرابعة	O
+)	O
+
+تحويل	O
+اتحاد	B-LOC
+ناميبيا	I-LOC
+لكرة	I-LOC
+القدم	I-LOC
+
+يعرف	O
+التزامن	O
+(	O
+synchronicity	O
+)	O
+لمنشئه	O
+كارل	B-PER
+يونج	I-PER
+“Carl	O
+Jung”	O
+بأنه	O
+“صدفة	O
+ذات	O
+مغزى”	O
+.	O
+
+يمر	O
+فيها	O
+نهر	B-LOC
+فراه	I-LOC
+ويبلغ	O
+عدد	O
+سكانها	O
+حوالي	O
+37	O
+ألف	O
+نسمة	O
+.	O
+
+تحويل	O
+مونتيري	B-LOC
+(	I-LOC
+كاليفورنيا	I-LOC
+)	I-LOC
+
+'	O
+''	O
+إينوسنت	B-PER
+الثامن	I-PER
+''	O
+'	O
+
+فينتاب	O
+المرء	O
+سعال	B-ORG
+جاف	O
+مؤلم،	O
+وآلام	O
+في	O
+التنفس	O
+العميق	O
+.	O
+
+شرحٌ	O
+على	O
+أوائل	O
+رسالة	O
+''البراءة	O
+''	O
+لمُصنّفها	O
+مرتضى	B-PER
+الأنصاري	I-PER
+.	O
+
+وهو	O
+التطبيق	O
+العملي	O
+لعلم	B-ORG
+الأصوات	I-ORG
+.	O
+
+قسم	B-LOC
+المركزي	I-LOC
+(	I-LOC
+سقز	I-LOC
+)	I-LOC
+
+تحويل	O
+هاليفاكس	B-LOC
+(	I-LOC
+كارولاينا	I-LOC
+الشمالية	I-LOC
+)	I-LOC
+
+تولى	O
+منصب	O
+نائب	B-ORG
+عام	I-ORG
+الولايات	I-ORG
+المتحدة	I-ORG
+(	O
+1973-10-20–1973-12-17	O
+)	O
+.وهو	O
+عضو	O
+في	O
+الحزب	B-ORG
+الجمهوري	I-ORG
+.	O
+
+;	O
+'	O
+''	O
+ريال	B-ORG
+مدريد	I-ORG
+'	O
+''	O
+
+يقع	O
+جزء	O
+منها	O
+في	O
+تونس	B-LOC
+ولاية	B-LOC
+تطاوين	I-LOC
+والجزء	O
+الأكبر	O
+منها	O
+في	O
+ليبيا	B-LOC
+.	O
+
+'	O
+''	O
+نيناد	B-PER
+زيمونيتش	I-PER
+فابريس	B-PER
+سانتورو	I-PER
+
+``	O
+(	O
+Archive	O
+)	O
+روز	B-ORG
+اليوسف	I-ORG
+.	O
+
+شاركت	O
+بالعديد	O
+من	O
+المهرجانات	O
+الشعرية	O
+على	O
+مستوى	O
+الوطن	B-LOC
+العربي	I-LOC
+.	O
+
+كما	O
+أنها	O
+تستخدم	O
+كرمز	O
+على	O
+العلم	O
+غير	O
+الاحتفالية	O
+في	O
+الجيش	B-ORG
+البريطاني	I-ORG
+.	O
+
+علي	B-PER
+محسن	I-PER
+الأحمر	I-PER
+.	O
+
+'	O
+''	O
+السيد	B-ORG
+روبوت	I-ORG
+''	O
+'	O
+
+تحويل	O
+هوارد	B-LOC
+(	I-LOC
+داكوتا	I-LOC
+الجنوبية	I-LOC
+)	I-LOC
+
+موطنها	O
+المغرب	B-LOC
+العربي	I-LOC
+القوقاز	B-LOC
+.	O
+
+تحويل	O
+المبرهنة	B-ORG
+الأساسية	I-ORG
+للتفاضل	I-ORG
+والتكامل	I-ORG
+
+تحويل	O
+غرانتس	B-LOC
+(	I-LOC
+نيومكسيكو	I-LOC
+)	I-LOC
+
+حيث	O
+قام	O
+أمارتيا	B-PER
+سن	I-PER
+بتطبيق	O
+تلك	O
+الأفكار	O
+لمواجهة	O
+الملامح	O
+والسمات	O
+المحورية	O
+للعدالة	O
+الصحية	O
+.	O
+
+تحويل	O
+شکر	B-LOC
+أباد	I-LOC
+(	I-LOC
+شليل	I-LOC
+)	I-LOC
+
+تاكسين	B-PER
+شيناواترا	I-PER
+ينغلاك	B-PER
+شيناواترا	I-PER
+
+الفيلم	O
+من	O
+إخراج	O
+هارولد	B-PER
+لويد	I-PER
+.	O
+
+فائز	O
+كأس	B-ORG
+التحدي	I-ORG
+الآسيوي	I-ORG
+2012	I-ORG
+
+روسيا	B-LOC
+حيث	O
+تعرف	O
+باسم	O
+كيزياك	O
+
+مقاطعة	B-LOC
+هوكينز	I-LOC
+(	I-LOC
+تينيسي	I-LOC
+)	I-LOC
+
+الاتحاد	B-ORG
+الدولي	I-ORG
+للكيمياء	I-ORG
+البحتة	I-ORG
+والتطبيقية	I-ORG
+
+تحويل	O
+تختية	B-LOC
+(	I-LOC
+إسماعيلية	I-LOC
+)	I-LOC
+
+أبو	B-LOC
+صير	I-LOC
+(	I-LOC
+الإسكندرية	I-LOC
+)	I-LOC
+،	I-LOC
+
+تحويل	O
+نواف	B-PER
+الأحمد	I-PER
+الجابر	I-PER
+الصباح	I-PER
+
+الظاهر	B-LOC
+(	I-LOC
+القاهرة	I-LOC
+)	I-LOC
+
+وإداريًا	O
+مديرية	B-LOC
+كتاف	I-LOC
+والبقع	I-LOC
+.	O
+
+بوبو	B-PER
+من	I-PER
+تريفين	I-PER
+.	O
+
+تحويل	O
+فيريسبور	B-LOC
+(	I-LOC
+فيرمونت	I-LOC
+)	I-LOC
+
+تحويل	O
+سكايلاين	B-LOC
+(	I-LOC
+مينيسوتا	I-LOC
+)	I-LOC
+
+تحويل	O
+خوان	B-PER
+بابلو	I-PER
+كانتيرو	I-PER
+
+تعلم	O
+في	O
+جامعة	B-ORG
+ستانفورد،	I-ORG
+جامعة	B-ORG
+ولاية	I-ORG
+بنسلفانيا،	I-ORG
+جامعة	B-ORG
+كارنيجي	I-ORG
+ميلون	I-ORG
+.	O
+
+وأجابه	O
+عليها	O
+حسان	B-PER
+بن	I-PER
+ثابت	I-PER
+.	O
+
+'	O
+''	O
+أسريلانديا	O
+''	O
+'	O
+هي	O
+بلدية	B-LOC
+تقع	O
+في	O
+البرازيل	B-LOC
+في	O
+أكري	B-LOC
+.	O
+
+تحويل	O
+ستافان	B-PER
+دي	I-PER
+ميستورا	I-PER
+
+تحويل	O
+فنتستيك	B-PER
+بلستيك	I-PER
+مشين	I-PER
+
+خلف	B-PER
+دميثير	I-PER
+15	O
+صوت	O
+
+تحويل	O
+عبدالله	B-LOC
+أباد	I-LOC
+اران	I-LOC
+(	I-LOC
+سفید	I-LOC
+دشت	I-LOC
+)	I-LOC
+
+تحويل	O
+كاترهام	B-ORG
+(	I-ORG
+شركة	I-ORG
+)	I-ORG
+
+جبل	B-LOC
+إتنا	I-LOC
+في	O
+إيطاليا	B-LOC
+.	O
+
+تحويل	O
+أليس	B-LOC
+(	I-LOC
+داكوتا	I-LOC
+الشمالية	I-LOC
+)	I-LOC
+
+وهناك	O
+التقى	O
+بتريزا	O
+مانشا	O
+حيث	O
+عاش	O
+معها	O
+في	O
+لندن	B-LOC
+.	O
+
+تحويل	O
+موتور	B-LOC
+عشایري	I-LOC
+غروه	I-LOC
+۱۱۲	I-LOC
+(	I-LOC
+أرزوئیة	I-LOC
+)	I-LOC
+
+أوربانو	B-PER
+راتاتسي	I-PER
+(	O
+1808–1873	O
+)	O
+
+محمد	B-PER
+سعد	I-PER
+(	O
+مقدم	O
+السرك	O
+)	O
+
+تحويل	O
+مقاطعة	B-LOC
+كومبرلاند	I-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC
+
+'	O
+''	O
+جوليا	B-PER
+جورجيس	I-PER
+''	O
+'	O
+
+لا	B-LOC
+غرانغ	I-LOC
+(	I-LOC
+تينيسي	I-LOC
+)	I-LOC
+
+البنك	B-ORG
+الصناعي	I-ORG
+والتجاري	I-ORG
+الصيني	I-ORG
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO250260	O
+
+تحويل	O
+سانتاآنا	B-LOC
+(	I-LOC
+تكساس	I-LOC
+)	I-LOC
+
+كولورادو	B-LOC
+سبرينغس	I-LOC
+(	I-LOC
+كولورادو	B-LOC
+)	I-LOC
+
+ففي	O
+الاتحاد	B-ORG
+الأوروبي	I-ORG
+الولايات	B-LOC
+المتحدة	I-LOC
+كندا	B-LOC
+اليابان	B-LOC
+وبلدان	O
+أخرى،	O
+يتوجّب	O
+على	O
+المنتجين	O
+أن	O
+يحصلوا	O
+على	O
+ليسوّقوا	O
+منتجاتهم	O
+تحت	O
+هذا	O
+المسمى	O
+داخل	O
+حدود	O
+تلك	O
+البلدان	O
+.	O
+
+تحويل	O
+مقاطعة	B-LOC
+موريل	I-LOC
+(	I-LOC
+نبراسكا	I-LOC
+)	I-LOC
+
+ابن	B-LOC
+عرس	I-LOC
+مخطط	I-LOC
+الظهر	I-LOC
+
+تعلم	O
+في	O
+دارتموث،	B-ORG
+جامعة	B-ORG
+برنستون	I-ORG
+.	O
+
+تنتشر	O
+في	O
+المغرب	B-LOC
+العربي	I-LOC
+تركيا	B-LOC
+القوقاز	B-LOC
+ومعظم	O
+مناطق	O
+أوروبا	B-LOC
+.	O
+
+تحويل	O
+مبنى	B-LOC
+السكرتارية	I-LOC
+(	I-LOC
+شانديغار	I-LOC
+)	I-LOC
+
+تحويل	O
+فولفرام	B-PER
+فريهر	I-PER
+فون	I-PER
+ريختهوفن	I-PER
+
+تحويل	O
+مقاطعة	B-LOC
+كالافيراس	I-LOC
+(	I-LOC
+كاليفورنيا	I-LOC
+)	I-LOC
+
+إي	B-ORG
+آر	I-ORG
+(	I-ORG
+مسلسل	I-ORG
+)	I-ORG
+''	O
+
+تحويل	O
+ميدايونا	B-LOC
+(	I-LOC
+برشلونة	I-LOC
+)	I-LOC
+
+تحويل	O
+بلدة	B-LOC
+بروكواي	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+تحويل	O
+نادي	B-ORG
+أولمبيك	I-ORG
+خريبكة	I-ORG
+
+تحويل	O
+سايلنت	B-ORG
+هيل	I-ORG
+4	I-ORG
+:	I-ORG
+ذا	I-ORG
+رووم	I-ORG
+
+تحويل	O
+سعود	B-PER
+بن	I-PER
+عبد	I-PER
+المحسن	I-PER
+بن	I-PER
+عبد	I-PER
+العزيز	I-PER
+آل	I-PER
+سعود	B-PER
+
+تحويل	O
+بلدة	B-LOC
+كاسنوفيا	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+أبلق	B-LOC
+أسود	I-LOC
+الأذن	I-LOC
+.	O
+
+جوليان	B-PER
+مور	I-PER
+بدور	O
+إستير	O
+
+رحل	O
+إلى	O
+براغ	B-LOC
+ثم	O
+موسكو	B-LOC
+.	O
+
+حلّ	O
+النيوزلندي	O
+بروس	B-PER
+ماكلارين	I-PER
+أولا	O
+.	O
+
+تحويل	O
+مقاطعة	B-LOC
+سامبسون	I-LOC
+(	I-LOC
+كارولاينا	I-LOC
+الشمالية	I-LOC
+)	I-LOC
+
+تحويل	O
+مثلجة	B-LOC
+بيريتو	I-LOC
+مورينو	I-LOC
+
+الجمهورية	B-LOC
+الفرنسية	I-LOC
+الثالثة	I-LOC
+(	O
+الإمبراطورية	B-ORG
+الفرنسية	I-ORG
+الاستعمارية	I-ORG
+)	O
+
+تحويل	O
+جانداران	B-LOC
+(	I-LOC
+مهاباد	I-LOC
+)	I-LOC
+
+1	O
+فرسخ	B-ORG
+=	O
+3	O
+ميلي	O
+
+تحويل	O
+تيم	B-PER
+سويني	I-PER
+(	I-PER
+مطور	I-PER
+ألعاب	I-PER
+)	I-PER
+
+تحويل	O
+مقاطعة	B-LOC
+كيدر	I-LOC
+(	I-LOC
+داكوتا	I-LOC
+الشمالية	I-LOC
+)	I-LOC
+
+تحويل	O
+فيسيولويي	B-ORG
+(	I-ORG
+كراسنودار	I-ORG
+)	I-ORG
+
+تحويل	O
+فيلاس	B-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+تحويل	O
+عزيز	B-PER
+كور	I-PER
+نيانغ	I-PER
+
+المسجد	B-ORG
+الكبير	I-ORG
+(	I-ORG
+تلمسان	I-ORG
+)	I-ORG
+.	O
+
+'	O
+''	O
+دانيال	B-PER
+رادكليف	I-PER
+''	O
+'	O
+
+هي	O
+إبنة	O
+إنغريد	B-PER
+برغمان	I-PER
+الموجودة	O
+على	O
+الملصق	O
+الرسمي	O
+لهذه	O
+الدورة	O
+.	O
+
+جيك	B-PER
+جيلنهال	I-PER
+مايكل	B-PER
+بينا	I-PER
+اللذان	O
+يقومان	O
+بدور	O
+شرطيين	O
+في	O
+لوس	B-LOC
+أنجلوس	I-LOC
+وصديقين	O
+مقربين	O
+.	O
+
+تحويل	O
+كلود	B-PER
+إتيان	I-PER
+سافاري	I-PER
+
+تحويل	O
+منتخب	B-ORG
+تايبيه	I-ORG
+الصينية	I-ORG
+الوطني	I-ORG
+لكرة	I-ORG
+القاعدة	I-ORG
+
+مديرية	B-LOC
+جبن	I-LOC
+217	O
+كيلو	O
+متر	O
+
+تحويل	O
+علي	B-PER
+جواد	I-PER
+الشيخ	I-PER
+
+تحويل	O
+مونيا	B-LOC
+رمادي	I-LOC
+الخطوط	I-LOC
+
+تحويل	O
+جيمس	B-PER
+جي	I-PER
+بلين	I-PER
+
+تحويل	O
+جوناتان	B-PER
+دي	I-PER
+غوزمان	I-PER
+
+تحويل	O
+سنتر	B-LOC
+(	I-LOC
+داكوتا	I-LOC
+الشمالية	I-LOC
+)	I-LOC
+
+أعلى	O
+قمة	O
+في	O
+السلسلة	O
+هي	O
+جبل	B-LOC
+شيليا	I-LOC
+(	O
+2328م	O
+)	O
+
+تحويل	O
+ذا	B-ORG
+فيرف	I-ORG
+(	I-ORG
+فرقة	I-ORG
+موسيقية	I-ORG
+)	I-ORG
+
+تحويل	O
+مقاطعة	B-LOC
+مونونا	I-LOC
+(	I-LOC
+آيوا	I-LOC
+)	I-LOC
+
+تحويل	O
+ريليانس	B-LOC
+(	I-LOC
+داكوتا	I-LOC
+الجنوبية	I-LOC
+)	I-LOC
+
+وهو	O
+والد	O
+جون	B-PER
+سنو	I-PER
+أحد	O
+أبرز	O
+الشخصيات	O
+في	O
+السلسلة	O
+.	O
+
+''	O
+'منهاج	O
+الصالحين	O
+''	O
+'	O
+للسيد	O
+أبو	B-PER
+القاسم	I-PER
+الخوئي،	I-PER
+ويقع	O
+في	O
+مُجلَّدين	O
+.	O
+
+تحويل	O
+المنتدى	B-ORG
+الدولي	I-ORG
+للنشر	I-ORG
+الرقمي	I-ORG
+
+سلام	B-PER
+بن	I-PER
+أبي	I-PER
+الحقيق	I-PER
+
+تحويل	O
+أنطونيو	B-PER
+غوزمان	I-PER
+نونيز	I-PER
+
+تحويل	O
+المكتب	B-ORG
+الوطني	I-ORG
+للبريد	I-ORG
+والإتصالات	I-ORG
+
+تحويل	O
+سانت	B-ORG
+لويس	I-ORG
+رامس	I-ORG
+
+باتريك	B-ORG
+رافتر	I-ORG
+''	O
+(	O
+النهائي	O
+)	O
+''	O
+
+تحويل	O
+كارل	B-PER
+هينرش	I-PER
+بكر	I-PER
+
+'	O
+''	O
+أسرة	B-LOC
+مينغ	I-LOC
+''	O
+'	O
+
+Yugyeom	O
+(	O
+جوت	B-ORG
+سفن	I-ORG
+)	O
+
+هدرسفيلد	B-ORG
+تاون	I-ORG
+(	O
+2	O
+)	O
+
+تحويل	O
+موكو	B-ORG
+(	I-ORG
+كيوتو	I-ORG
+)	I-ORG
+
+'	O
+''	O
+بيت	B-LOC
+مسكون	I-LOC
+''	O
+'	O
+.	O
+
+ولد	O
+في	O
+مانتشستر	B-LOC
+,	I-LOC
+نيو	I-LOC
+هامبشير	I-LOC
+.	O
+
+تحويل	O
+كاستيلار	B-LOC
+دي	I-LOC
+سانتياغو	I-LOC
+(	I-LOC
+سيوداد	I-LOC
+ريال	I-LOC
+)	I-LOC
+
+تحويل	O
+فارمنغتون	B-LOC
+(	I-LOC
+مسيسيبي	I-LOC
+)	I-LOC
+
+تحويل	O
+ساكورا	B-LOC
+(	I-LOC
+توتشيغي	I-LOC
+)	I-LOC
+
+قامت	O
+إيران	B-LOC
+بسحب	O
+سفيرها	O
+في	O
+الدنمارك	B-LOC
+.	O
+
+===	O
+الولايات	B-LOC
+المتحدة	I-LOC
+كندا	B-LOC
+===	O
+
+هي	O
+البردة	O
+التي	O
+أهداها	O
+محمد	B-PER
+``	O
+''	O
+إلى	O
+الشاعر	O
+كعب	B-PER
+بن	I-PER
+زهير	I-PER
+.	O
+
+أبو	B-PER
+محمد	I-PER
+القاسم	I-PER
+السجلماسي	I-PER
+(	O
+ت	O
+.	O
+
+'	O
+''	O
+فلتسوف	O
+''	O
+'	O
+هي	O
+بلدة	B-LOC
+ألمانية	I-LOC
+تقع	O
+في	O
+براندنبورغ	B-LOC
+في	O
+ألمانيا	B-LOC
+.	O
+
+تحويل	O
+نيلز	B-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+===	O
+عائلة	B-ORG
+أوراني	I-ORG
+-	I-ORG
+ناساو	I-ORG
+(	O
+1815–1890	O
+)	O
+===	O
+
+تحويل	O
+مقاطعة	B-LOC
+إنديبيندينس	I-LOC
+(	I-LOC
+أركنساس	I-LOC
+)	I-LOC
+
+تحويل	O
+بريستون	B-LOC
+(	I-LOC
+آيوا	I-LOC
+)	I-LOC
+
+أحمد	B-ORG
+بن	I-ORG
+كثير	I-ORG
+الفرغاني	I-ORG
+,	O
+
+لم	O
+تثبت	O
+المصادر	O
+على	O
+استلامه	O
+أي	O
+رد	O
+مع	O
+ذلك	O
+استمر	O
+بالمضي	O
+جنوباً	O
+صوب	O
+حلب	B-LOC
+فاحتلها	O
+.	O
+
+تحويل	O
+سوني	B-ORG
+للترفيه	I-ORG
+والتلفزيون	I-ORG
+
+الجيش	B-ORG
+الإسلامي	I-ORG
+في	I-ORG
+العراق	I-ORG
+
+مصب	O
+النهر	O
+رسميًا	O
+هو	O
+نهر	B-LOC
+فولتا	I-LOC
+لكنه	O
+الآن	O
+أصبح	O
+بحيرة	B-LOC
+فولتا	I-LOC
+في	O
+دولة	O
+غانا	B-LOC
+.	O
+
+تحويل	O
+فيليب	B-PER
+الأول	I-PER
+(	I-PER
+لاندغراف	I-PER
+هسن	I-PER
+)	I-PER
+
+تحويل	O
+شركة	B-ORG
+الطائرات	I-ORG
+المتحدة	I-ORG
+
+كما	O
+أنه	O
+كان	O
+زعيم	O
+مجلس	B-ORG
+شورى	I-ORG
+المجاهدين	I-ORG
+في	I-ORG
+العراق	I-ORG
+حتى	O
+إغتياله	O
+.	O
+
+تحويل	O
+اتحاد	B-ORG
+بولندا	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+
+**	O
+دار	B-LOC
+السلام	I-LOC
+(	I-LOC
+تنزانيا	I-LOC
+)	I-LOC
+(	O
+السفارة	O
+)	O
+
+ولا	O
+يزال	O
+القصر	O
+مقراً	O
+رسمياً	O
+لإقامة	O
+الزوار	O
+الرسميين	O
+لمصر	B-LOC
+.	O
+
+تحويل	O
+مقاطعة	B-LOC
+مارشال	I-LOC
+(	I-LOC
+داكوتا	I-LOC
+الجنوبية	I-LOC
+)	I-LOC
+
+تحويل	O
+ليلبورن	B-LOC
+(	I-LOC
+جورجيا	I-LOC
+)	I-LOC
+
+تحويل	O
+لجاير	B-LOC
+(	I-LOC
+مقاطعة	I-LOC
+غرمي	I-LOC
+)	I-LOC
+
+تحويل	O
+صلاح	B-ORG
+الدين	I-ORG
+(	I-ORG
+سلسلة	I-ORG
+رسوم	I-ORG
+متحركة	I-ORG
+)	I-ORG
+
+'	O
+''	O
+رافاييل	B-PER
+نادال	I-PER
+''	O
+'	O
+هزم	O
+.	O
+
+لا	B-LOC
+كورونيا	I-LOC
+246.028	O
+نسمة	O
+
+تحويل	O
+سانت	B-LOC
+ماريز	I-LOC
+(	I-LOC
+جورجيا	I-LOC
+)	I-LOC
+
+ليون]]	O
+(	O
+13	O
+)	O
+،	O
+ريال	B-ORG
+مدريد	I-ORG
+(	O
+33	O
+)	O
+،	O
+
+عاصمة	O
+المقاطعة	O
+هي	O
+خوانسار	B-LOC
+.	O
+
+تحويل	O
+متعددة	B-ORG
+حدود	I-ORG
+متعامدة	I-ORG
+
+تحويل	O
+باك	B-PER
+أون	I-PER
+هي	I-PER
+
+تحويل	O
+مهر	B-LOC
+أباد	I-LOC
+(	I-LOC
+بیاض	I-LOC
+)	I-LOC
+
+ثم	O
+شاركت	O
+في	O
+بطولة	B-ORG
+الامم	I-ORG
+الاوروبية	I-ORG
+2009	I-ORG
+.	O
+
+تحويل	O
+دوغلاس	B-LOC
+(	I-LOC
+نبراسكا	I-LOC
+)	I-LOC
+
+تحويل	O
+ضفدع	B-LOC
+الشجر	I-LOC
+المشترك	I-LOC
+
+تحويل	O
+أوبورن	B-LOC
+(	I-LOC
+كنتاكي	I-LOC
+)	I-LOC
+
+تحويل	O
+غز	B-LOC
+أباد	I-LOC
+منوتشهري	I-LOC
+(	I-LOC
+حسین	I-LOC
+أباد	I-LOC
+كرمان	I-LOC
+)	I-LOC
+
+'	O
+''	O
+ثيليما	B-ORG
+''	O
+'	O
+
+تحويل	O
+كشقك	B-LOC
+(	I-LOC
+تایباد	I-LOC
+)	I-LOC
+
+تحويل	O
+مقاطعة	B-LOC
+تونر	I-LOC
+(	I-LOC
+داكوتا	I-LOC
+الشمالية	I-LOC
+)	I-LOC
+
+وفي	O
+الأرجنتين،	B-LOC
+تم	O
+العثور	O
+أيضًا	O
+على	O
+حفريات	O
+للنوع	O
+''إس	O
+.	O
+
+انتسب	O
+إليها	O
+في	O
+بنت	B-LOC
+جبيل	I-LOC
+أكثر	O
+من	O
+300	O
+عضو	O
+.	O
+
+Mark	O
+(	O
+جوت	B-ORG
+سفن	I-ORG
+)	O
+
+وست	B-LOC
+مونت	I-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC
+
+تحويل	O
+بريان	B-LOC
+(	I-LOC
+تكساس	I-LOC
+)	I-LOC
+
+مكسيم	B-PER
+غوركي	I-PER
+(	O
+1868–1936	O
+)	O
+
+'	O
+''	O
+كارين	B-PER
+كناب	I-PER
+''	O
+'	O
+
+'	O
+''	O
+نايا	B-PER
+''	O
+'	O
+
+بلغت	O
+مساحة	O
+أراضيها	O
+حوالي	O
+77,242	O
+دونمًا،	B-ORG
+وهي	O
+جزء	O
+من	O
+أراضي	O
+أم	B-LOC
+الفحم	I-LOC
+.	O
+
+حزب	B-ORG
+التجمع	I-ORG
+المعتدل	I-ORG
+في	I-ORG
+السويد	I-ORG
+
+الأساتذة	O
+الأربعة	O
+الكبار	O
+في	O
+عهد	O
+حكم	B-PER
+يوان	I-PER
+.	O
+
+تحويل	O
+هاتفيلد	B-LOC
+(	I-LOC
+أركنساس	I-LOC
+)	I-LOC
+
+يرى	O
+المؤرخ	O
+بروسوس	O
+أنهم	O
+جاءوا	O
+عبر	O
+الخليج	B-LOC
+العربي	I-LOC
+بقيادة	O
+زعيم	O
+يدعى	O
+أوانس	O
+.	O
+
+برهان	B-PER
+غليون،	I-PER
+ثم	O
+د	O
+.	O
+
+==	O
+إجراءات	O
+مصاحبة	O
+لعزل	O
+محمد	B-PER
+مرسي	I-PER
+==	O
+
+هذه	O
+المنطقة	O
+هي	O
+النظير	O
+الإقليم	B-ORG
+الكشفي	I-ORG
+الأفريقي	I-ORG
+التابع	O
+منظمة	B-ORG
+العالمية	I-ORG
+للحركة	I-ORG
+الكشفية	I-ORG
+.	O
+
+كلارنس	B-LOC
+(	I-LOC
+ميزوري	I-LOC
+)	I-LOC
+
+تحويل	O
+غالفا	B-LOC
+(	I-LOC
+كانساس	I-LOC
+)	I-LOC
+
+تحويل	O
+فوجيوشيدا	B-LOC
+(	I-LOC
+ياماناشي	I-LOC
+)	I-LOC
+
+مثّل	O
+منتخب	B-ORG
+ألبانيا	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+.	O
+
+تحويل	O
+بيلهام	B-LOC
+(	I-LOC
+نيويورك	I-LOC
+)	I-LOC
+
+ميمي	B-PER
+شكيب	I-PER
+(	O
+برلانتا	O
+)	O
+
+كان	O
+ينظم	O
+الشعر	O
+وكتب	O
+ما	O
+يقارب	O
+من	O
+تسعة	O
+آلاف	O
+ترتيلة	B-ORG
+حسب	O
+بعض	O
+المصادر	O
+.	O
+
+جوزيف	B-PER
+غوردون-ليفيت	I-PER
+بدور	O
+فيليب	B-PER
+بوتي	I-PER
+.	O
+
+مؤلفاته	O
+في	O
+أرشيف	B-ORG
+الإنترنت	I-ORG
+
+ومن	O
+أمثلة	O
+ذلك	O
+ونستون	B-PER
+تشرشل،	I-PER
+الذي	O
+نُسبت	O
+إليه	O
+العديد	O
+من	O
+الاقتباسات	O
+السياسية	O
+غير	O
+مؤكدة	O
+المنشأ،	O
+أوسكار	B-PER
+وايلد،	I-PER
+الذي	O
+يُنسب	O
+إليه	O
+أحيانًا	O
+اقتباسات	O
+فكاهية	O
+مجهولة	O
+.	O
+
+تحويل	O
+بنابدان	B-LOC
+(	I-LOC
+دهسرد	I-LOC
+)	I-LOC
+
+تحويل	O
+عزیز	B-LOC
+أباد	I-LOC
+السفلی	I-LOC
+(	I-LOC
+ديناران	I-LOC
+)	I-LOC
+
+تحويل	O
+وفاة	B-PER
+فاضل	I-PER
+المتروك	I-PER
+
+اختبار	B-LOC
+الكفاءة	I-LOC
+في	I-LOC
+اللغة	I-LOC
+اليابانية	I-LOC
+
+تحويل	O
+إيفون	B-PER
+لو	I-PER
+رو	I-PER
+
+تحويل	O
+مقاطعة	B-LOC
+كلارك	I-LOC
+(	I-LOC
+فيرجينيا	I-LOC
+)	I-LOC
+
+تحويل	O
+بويبلو	B-ORG
+نويبو	I-ORG
+(	I-ORG
+محطة	I-ORG
+مترو	I-ORG
+أنفاق	I-ORG
+مدريد	I-ORG
+)	I-ORG
+
+تحويل	O
+استشراب	B-ORG
+التبادل	I-ORG
+الأيوني	I-ORG
+
+تحويل	O
+هونتر	B-ORG
+(	I-ORG
+ميزوري	I-ORG
+)	I-ORG
+
+تحويل	O
+جاكسون	B-LOC
+(	I-LOC
+مسيسيبي	I-LOC
+)	I-LOC
+
+تحويل	O
+ميناء	B-ORG
+البصرة	I-ORG
+النفطي	I-ORG
+
+وحرر	O
+الفيلم	O
+بواسطة	O
+براين	B-PER
+كيث	I-PER
+.	O
+
+تحويل	O
+دم	B-LOC
+تنغ	I-LOC
+کب	I-LOC
+(	I-LOC
+سر	I-LOC
+أسياب	I-LOC
+يوسفي	I-LOC
+)	I-LOC
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO250236	O
+
+ومطالبة	O
+العراق	B-LOC
+بسحب	O
+قواته	O
+فورا	O
+إلى	O
+مواقعها	O
+الطبيعية	O
+.	O
+
+تحويل	O
+فاييتفيل	B-LOC
+(	I-LOC
+كارولاينا	I-LOC
+الشمالية	I-LOC
+)	I-LOC
+
+تحويل	O
+مقاطعة	B-LOC
+هوتشينسون	I-LOC
+(	I-LOC
+داكوتا	I-LOC
+الجنوبية	I-LOC
+)	I-LOC
+
+تحويل	O
+سحلية	B-LOC
+غربية	I-LOC
+ثعبانية	I-LOC
+العين	I-LOC
+
+منطقة	B-ORG
+التجارة	I-ORG
+العربية	I-ORG
+الحرة	I-ORG
+الكبرى	I-ORG
+
+تنافس	O
+على	O
+السلطة	O
+مع	O
+حزب	B-ORG
+الطواقي	I-ORG
+.	O
+
+تحويل	O
+إدوارد	B-PER
+لي	I-PER
+غرين	I-PER
+
+تحويل	O
+بلدة	B-LOC
+فينيس	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+'	O
+''	O
+آبي	B-PER
+وامباك	I-PER
+''	O
+'	O
+
+كأس	B-ORG
+العالم	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+1998	I-ORG
+
+تحويل	O
+باك	B-PER
+جونغ	I-PER
+من	I-PER
+
+عبد	B-PER
+الملك	I-PER
+بن	I-PER
+إسماعيل	I-PER
+
+كان	O
+يترأَّسه	O
+القائد	B-PER
+البرايتوري	I-PER
+.	O
+
+'	O
+''	O
+غرمرزهايم	O
+''	O
+'	O
+هي	O
+بلدة	B-LOC
+ألمانية	I-LOC
+تقع	O
+في	O
+ألمانيا	B-LOC
+في	O
+راينلند	B-LOC
+بالاتينات	I-LOC
+.	O
+
+تحويل	O
+رودا	B-ORG
+ياي	I-ORG
+سي	I-ORG
+
+توم	B-PER
+أوكر	I-PER
+''	O
+(	O
+الجولة	O
+الرابعة	O
+)	O
+''	O
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO250507	O
+
+أندي	B-PER
+كول	I-PER
+(	O
+34	O
+)	O
+
+تحويل	O
+لا	B-LOC
+بولت	I-LOC
+(	I-LOC
+داكوتا	I-LOC
+الجنوبية	I-LOC
+)	I-LOC
+
+المتفق	O
+والمفترق،	O
+الخطيب	B-PER
+البغدادي	I-PER
+.	O
+
+تحويل	O
+الدراج	B-ORG
+المقنع	I-ORG
+كيفا	I-ORG
+
+عضو	O
+مجلس	B-ORG
+الشورى	I-ORG
+-	O
+''من	O
+عام	O
+1422-1425هـ	O
+/	O
+2002-2005م	O
+''	O
+.	O
+
+تحويل	O
+هيغاشيكورومه	B-LOC
+(	I-LOC
+طوكيو	I-LOC
+)	I-LOC
+
+**	O
+زينب	B-PER
+بنت	I-PER
+إسحاق	I-PER
+النفزاوية	I-PER
+زوجة	O
+يوسف	B-PER
+بن	I-PER
+تاشفين	I-PER
+.	O
+
+تحويل	O
+خرشتم	B-LOC
+(	I-LOC
+أملش	I-LOC
+الشمالی	I-LOC
+)	I-LOC
+
+جان	B-PER
+بورترا	I-PER
+''	O
+(	O
+ربع	O
+النهائي	O
+)	O
+''	O
+
+إلين	B-PER
+جونسون	I-PER
+سيرليف	I-PER
+(	O
+مشاركة	O
+مع	O
+توكل	B-PER
+كرمان	I-PER
+و	O
+ليما	B-PER
+غبوي	I-PER
+)	O
+
+تحويل	O
+أيل	B-LOC
+كورسيكي	I-LOC
+أحمر	I-LOC
+
+هي	O
+العثور	O
+على	O
+الراحة	O
+والسعاده	O
+في	O
+علاقتها	O
+مع	O
+صديقها	O
+ريان	B-PER
+كابريرا	I-PER
+.	O
+
+يوهان	B-PER
+لودفيك	I-PER
+بركهارت	I-PER
+(	O
+1784–1814	O
+)	O
+،	O
+رحالة	O
+ومستشرق	O
+
+تحويل	O
+مورا	B-LOC
+(	I-LOC
+مينيسوتا	I-LOC
+)	I-LOC
+
+تحويل	O
+مقاطعة	B-LOC
+ميد	I-LOC
+(	I-LOC
+كنتاكي	I-LOC
+)	I-LOC
+
+تحويل	O
+بيثيل	B-LOC
+سبرينغز	I-LOC
+(	I-LOC
+تينيسي	I-LOC
+)	I-LOC
+
+**	O
+باركيت	B-LOC
+برتقالي	I-LOC
+الجبهة	I-LOC
+،	O
+''Cyanoramphus	O
+malherbi	O
+''	O
+
+تحويل	O
+شيفيلد	B-LOC
+(	I-LOC
+آيوا	I-LOC
+)	I-LOC
+
+خلال	O
+حملة	O
+النورماندي	B-LOC
+نحو	O
+ألمانيا	B-LOC
+.	O
+
+تحويل	O
+بيلفيدير	B-ORG
+(	I-ORG
+فيينا	I-ORG
+)	I-ORG
+
+إن	O
+هدوءاً	O
+نسبياً	O
+كالذي	O
+توقفنا	O
+عنده	O
+يكثفه	O
+يوسف	B-PER
+شاهين	I-PER
+لإمكانية	O
+التعبير	O
+المشحون	O
+بالقوة،	O
+وهو	O
+في	O
+كاميرته	O
+عموماً	O
+يبهرنا	O
+بدقة	O
+ملاحقته	O
+للأحداث،	O
+الشخصيات،	O
+مؤثرات	O
+المشهد	O
+وبعجالة	O
+تكاد	O
+تقطع	O
+الأنفاس	O
+.	O
+
+تحويل	O
+ساشين	B-LOC
+(	I-LOC
+باد	I-LOC
+كاليه	I-LOC
+)	I-LOC
+
+كان	O
+عضوًا	O
+في	O
+الأكاديمية	B-ORG
+الملكية	I-ORG
+الإسبانية	I-ORG
+.	O
+
+وقام	O
+أيضاً	O
+بتدريب	O
+المنتخب	B-ORG
+الإسباني	I-ORG
+.	O
+
+تحويل	O
+كانيون	B-LOC
+لاكي	I-LOC
+(	I-LOC
+كاليفورنيا	I-LOC
+)	I-LOC
+
+تحويل	O
+الدولة	B-LOC
+الأموية	I-LOC
+في	I-LOC
+الأندلس	I-LOC
+
+تحويل	O
+سبرينغفيلد	B-LOC
+(	I-LOC
+تينيسي	I-LOC
+)	I-LOC
+
+تحويل	O
+قرية	B-LOC
+برادالبين	I-LOC
+(	I-LOC
+نيويورك	I-LOC
+)	I-LOC
+
+تنتشر	O
+في	O
+بلاد	B-LOC
+الشام	I-LOC
+مصر	B-LOC
+المغرب	B-LOC
+العربي	I-LOC
+قبرص	B-LOC
+تركيا	B-LOC
+حوض	B-LOC
+البحر	I-LOC
+الأبيض	I-LOC
+المتوسط	I-LOC
+وبعض	O
+مناطق	O
+أوروبا	B-LOC
+.	O
+
+محمد	B-PER
+بن	I-PER
+عبد	I-PER
+الرحمن	I-PER
+
+تحويل	O
+راسلفيل	B-LOC
+(	I-LOC
+ألاباما	I-LOC
+)	I-LOC
+
+'	O
+''	O
+زينة	B-PER
+(	I-PER
+ممثلة	I-PER
+)	I-PER
+''	O
+'	O
+
+تحويل	O
+مقاطعة	B-LOC
+تسوين	I-LOC
+وان	I-LOC
+
+خلفه	O
+في	O
+الحكم	O
+ولداه	O
+ريموند	B-PER
+برانجيه	I-PER
+الثاني	I-PER
+برانجيه	B-PER
+ريموند	I-PER
+الثاني	I-PER
+.	O
+
+'	O
+''	O
+مغامرات	B-PER
+سونيك	I-PER
+القنفذ	I-PER
+''	O
+'	O
+
+تحويل	O
+ثمار	B-ORG
+الحب	I-ORG
+(	I-ORG
+مسلسل	I-ORG
+)	I-ORG
+
+وقد	O
+بنيت	O
+ثلاثه	O
+طوابي	O
+حول	O
+طوابي	O
+أم	B-LOC
+درمان	I-LOC
+لزيادة	O
+الضغط	O
+عليها	O
+.	O
+
+تحويل	O
+الشعيبة	B-LOC
+(	I-LOC
+ولاية	I-LOC
+بسكرة	I-LOC
+)	I-LOC
+
+حضارة	B-ORG
+نقادة	I-ORG
+الثالثة	I-ORG
+(	O
+نحو	O
+3300	O
+-	O
+3100	O
+قبل	O
+الميلاد	O
+)	O
+
+درازين	B-PER
+يركوفيتش،	I-PER
+غارينشيا،	B-PER
+فافا،	B-PER
+ليونيل	B-PER
+سانشيز،	I-PER
+فالنتين	B-PER
+إيفانوف،	I-PER
+فلوريان	B-PER
+ألبرت	I-PER
+
+مرحلة	B-ORG
+خروج	I-ORG
+المغلوب	I-ORG
+من	I-ORG
+دوري	I-ORG
+أوروبا	I-ORG
+2011–12	I-ORG
+
+20بك]]	O
+أندريه	B-PER
+أغاسي	I-PER
+''	O
+'	O
+
+تحويل	O
+جامعة	B-ORG
+نبراسكا	I-ORG
+كلية	I-ORG
+الطب	I-ORG
+
+تولى	O
+منصب	O
+قائمة	B-ORG
+رؤساء	I-ORG
+كوستاريكا	I-ORG
+.	O
+
+المجومعة	O
+موجودة	O
+في	O
+13	O
+بلدا	O
+أفريقيا،	B-LOC
+في	O
+فرنسا،	B-LOC
+وبمشاريع	O
+مشتركة	O
+في	O
+الشرق	B-LOC
+الأوسط	I-LOC
+.	O
+
+'	O
+''	O
+برايا	B-LOC
+''	O
+'	O
+
+هيلين	B-PER
+ميرين	I-PER
+لدورها	O
+في	O
+''Phil	O
+Spector	O
+''	O
+
+تحويل	O
+علم	B-PER
+نفس	I-PER
+أنثوي	I-PER
+
+تحويل	O
+عتبة	B-PER
+بن	I-PER
+غزوان	I-PER
+
+فربيون	B-LOC
+جزر	I-LOC
+الكناري	I-LOC
+في	O
+جزر	B-LOC
+الكناري	I-LOC
+
+تحويل	O
+إلينا	B-PER
+دل	I-PER
+مونتينيغرو	I-PER
+
+إقليم	B-LOC
+ليبيريتس	I-LOC
+(	O
+Liberecký	O
+kraj	O
+)	O
+
+تحويل	O
+غويلاوم	B-PER
+داه	I-PER
+زادي	I-PER
+
+لندن	B-LOC
+في	O
+بريطانيا	B-LOC
+.	O
+
+المؤسسة	B-ORG
+الأمريكية	I-ORG
+للأسماك	I-ORG
+والحياة	I-ORG
+البرية	I-ORG
+
+'	O
+''	O
+جامعة	B-ORG
+الملك	I-ORG
+سعود	I-ORG
+بن	I-ORG
+عبد	I-ORG
+العزيز	I-ORG
+للعلوم	I-ORG
+الصحية	I-ORG
+''	O
+'	O
+
+وانتقل	O
+إلى	O
+بغداد	B-LOC
+وفيها	O
+توفي	O
+.	O
+
+تحويل	O
+رانج	B-LOC
+دو	I-LOC
+فليرس	I-LOC
+
+عصفور	B-LOC
+الدوري	I-LOC
+المغرد	I-LOC
+''Melospiza	O
+melodia	O
+''	O
+
+موطنه	O
+الأصلي	O
+بلاد	B-LOC
+الشام	I-LOC
+تركيا	B-LOC
+أوروبا	B-LOC
+.	O
+
+تحويل	O
+حسین	B-LOC
+أباد	I-LOC
+(	I-LOC
+غرمسار	I-LOC
+كرمان	I-LOC
+)	I-LOC
+
+تحويل	O
+لورل	B-LOC
+هالو	I-LOC
+(	I-LOC
+نيويورك	I-LOC
+)	I-LOC
+
+اللعبة	B-ORG
+الكبرى	I-ORG
+(	O
+الرسوم	O
+المفتاحية	O
+)	O
+
+حقق	O
+المركز	O
+الـ	O
+9	O
+في	O
+فولتا	B-ORG
+كاتالونيا	I-ORG
+2012	I-ORG
+
+تحويل	O
+برواي	B-LOC
+لا	I-LOC
+بويسير	I-LOC
+
+تحويل	O
+زغبة	B-LOC
+مسطحة	I-LOC
+الرأس	I-LOC
+
+ومدت	O
+قرطاج	B-LOC
+نفوذها	O
+إلى	O
+مساحات	O
+واسعة	O
+
+عزام	B-PER
+التميمي	I-PER
+مع	O
+أ	O
+.	O
+
+ويتركزون	O
+في	O
+المدن	O
+الساحلية	O
+ولا	O
+سيما	O
+في	O
+مقديشو	B-LOC
+.	O
+
+'	O
+''	O
+أسامة	B-PER
+أومري	I-PER
+''	O
+'	O
+
+وهو	O
+أحد	O
+المعنيين	O
+بدراسة	O
+الصراع	B-ORG
+العربي	I-ORG
+الإسرائيلي	I-ORG
+.	O
+
+تحويل	O
+كارل	B-PER
+موريتز	I-PER
+شومان	I-PER
+
+**	O
+الجزائر	B-LOC
+(	O
+السفارة	O
+)	O
+
+تحويل	O
+أتال	B-PER
+بيهاري	I-PER
+فاجبايي	I-PER
+
+منتخب	B-LOC
+إسبانيا	I-LOC
+لكرة	I-LOC
+اليد	I-LOC
+للرجال	I-LOC
+
+تحويل	O
+مقاطعة	B-LOC
+والكر	I-LOC
+(	I-LOC
+تكساس	I-LOC
+)	I-LOC
+
+تحويل	O
+مقاطعة	B-LOC
+أورانج	I-LOC
+(	I-LOC
+فيرجينيا	I-LOC
+)	I-LOC
+
+كارل	B-PER
+براون	I-PER
+من	O
+ألمانيا	B-LOC
+
+جناح	B-LOC
+شهری	O
+که	O
+هنوز	O
+روستایش	O
+خوانند،	O
+۱۳۶۵	O
+.	O
+
+تحويل	O
+مقاطعة	B-LOC
+فالز	I-LOC
+(	I-LOC
+تكساس	I-LOC
+)	I-LOC
+
+تحويل	O
+غلاسكو	B-LOC
+(	I-LOC
+فيرجينيا	I-LOC
+)	I-LOC
+
+)	O
+هو	O
+من	O
+الولايات	B-LOC
+المتحدة	I-LOC
+الأمريكية	I-LOC
+ولد	O
+في	O
+هونولولو	B-LOC
+.	O
+
+'	O
+''	O
+محمد	B-PER
+الشيخ	I-PER
+بيد	I-PER
+الله	I-PER
+''	O
+'	O
+
+أدارت	O
+جامعة	B-ORG
+ويسترن	I-ORG
+أستراليا	I-ORG
+.	O
+
+تحويل	O
+فيليبي	B-PER
+أليستي	I-PER
+لوبيس	I-PER
+
+صدر	B-PER
+الدين	I-PER
+الشيرازي	I-PER
+.	O
+
+تحويل	O
+يوم	B-ORG
+عالمي	I-ORG
+لمكافحة	I-ORG
+الرقابة	I-ORG
+الإلكترونية	I-ORG
+
+جنك	B-LOC
+داكن	I-LOC
+العيون،	I-LOC
+''Junco	O
+hyemalis	O
+''	O
+Rare	O
+/	O
+Accidental	O
+
+المكتبة	B-ORG
+الوطنية	I-ORG
+اليونانية	I-ORG
+(	O
+''Εθνική	O
+Βιβλιοθήκη	O
+της	O
+Ελλάδος	O
+''	O
+)	O
+
+تحويل	O
+دهنو	B-LOC
+مقدسي	I-LOC
+(	I-LOC
+والانجرد	I-LOC
+)	I-LOC
+
+حقق	O
+أعلى	O
+ربح	O
+لفيلم	O
+طويل	O
+أصدر	O
+بصورة	O
+تقليدية	O
+في	O
+الولايات	B-LOC
+المتحدة	I-LOC
+.	O
+
+تحويل	O
+إيلام	B-LOC
+(	I-LOC
+مدينة	I-LOC
+)	I-LOC
+
+سمو	B-PER
+الشيخ	I-PER
+هزاع	I-PER
+بن	I-PER
+زايد	I-PER
+آل	I-PER
+نهيان	I-PER
+مستشار	I-PER
+الأمن	I-PER
+الوطني	I-PER
+رئيساً	O
+للمجلس	O
+.	O
+
+ثقب	B-LOC
+أسود	I-LOC
+فائق	I-LOC
+الضخامة	I-LOC
+
+ليندسي	B-PER
+دافينبورت	I-PER
+''	O
+(	O
+ربع	O
+النهائي	O
+)	O
+''	O
+
+تحويل	O
+جراهوفيت	B-LOC
+(	I-LOC
+أرارات	I-LOC
+)	I-LOC
+
+****	O
+أيل	B-LOC
+أحمر	I-LOC
+''Cervus	O
+elaphus	O
+''	O
+LR	O
+/	O
+lc	O
+
+موطنه	O
+المغرب	B-LOC
+العربي	I-LOC
+إيطاليا	B-LOC
+البرتغال	B-LOC
+.	O
+
+تحويل	O
+متحف	B-ORG
+إسطنبول	I-ORG
+الأثري	I-ORG
+
+تحويل	O
+تیغ	B-LOC
+سیاه	I-LOC
+(	I-LOC
+نرغسان	I-LOC
+)	I-LOC
+
+تحويل	O
+كاستيون	B-LOC
+(	I-LOC
+مقاطعة	I-LOC
+)	I-LOC
+
+تحويل	O
+أحمد	B-PER
+محمد	I-PER
+محمود	I-PER
+سيلانيو	I-PER
+
+''	O
+'الفائز	O
+-	O
+كريستين	B-PER
+ستيوارت	I-PER
+''	O
+'	O
+
+'	O
+''	O
+إقليم	B-LOC
+سيدي	I-LOC
+سليمان	I-LOC
+''	O
+'	O
+وتبلغ	O
+مساحته	O
+1.492	O
+كلم2	O
+.	O
+
+فاز	O
+بهذا	O
+الموسم	O
+النادي	B-ORG
+الرياضي	I-ORG
+الصفاقسي،	I-ORG
+وجاء	O
+ثانيا	O
+الاتحاد	B-ORG
+الرياضي	I-ORG
+المنستيري	I-ORG
+.	O
+
+تحويل	O
+نادي	B-PER
+مضيفي	I-PER
+ثانوية	I-PER
+أوران	I-PER
+
+تحويل	O
+كامارون	B-PER
+ديلا	I-PER
+إيسلا	I-PER
+
+إكس	B-PER
+(	I-PER
+محرر	I-PER
+نصوص	I-PER
+)	I-PER
+
+تحويل	O
+جامعة	B-ORG
+دونيتسك	I-ORG
+الوطنية	I-ORG
+
+تحويل	O
+هيدا	B-ORG
+حكي	I-ORG
+(	I-ORG
+ألبوم	I-ORG
+)	I-ORG
+
+تحويل	O
+کوشك	B-LOC
+(	I-LOC
+درة	I-LOC
+صیدي	I-LOC
+)	I-LOC
+
+تحويل	O
+مونتيزوما	B-LOC
+(	I-LOC
+كانساس	I-LOC
+)	I-LOC
+
+تحويل	O
+ناتئ	B-LOC
+وجني	I-LOC
+للعظم	I-LOC
+الجبهي	I-LOC
+
+مستشار	B-LOC
+الاتحاد	I-LOC
+الألماني	I-LOC
+
+**	O
+لويس	B-PER
+سيكيلي	I-PER
+-	O
+''Louie	O
+''	O
+
+'	O
+''	O
+حماس	B-ORG
+العراق	I-ORG
+''	O
+'	O
+.	O
+
+الولايات	B-LOC
+المتحدةفازت	I-LOC
+بالبطولة	O
+ثلاث	O
+مرات	O
+ألمانيا	B-LOC
+قد	O
+فازت	O
+في	O
+البطولة	O
+مرتين،	O
+مرة	O
+واحدة،	O
+و	O
+.	O
+
+السادس	B-LOC
+من	I-LOC
+أكتوبر	I-LOC
+(	I-LOC
+مدينة	I-LOC
+)	I-LOC
+
+تحويل	O
+عليه	B-LOC
+(	I-LOC
+أرومية	I-LOC
+)	I-LOC
+
+تحويل	O
+بلدة	B-LOC
+ساوث	I-LOC
+هيفين	I-LOC
+تشارتر	I-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+إبراهيم	B-PER
+محمد	I-PER
+علي	I-PER
+باشا	I-PER
+
+رئيس	B-ORG
+إقليم	I-ORG
+كردستان	I-ORG
+العراق	I-ORG
+
+تحويل	O
+كاستلتون	B-LOC
+أن	I-LOC
+هادسون	I-LOC
+(	I-LOC
+نيويورك	I-LOC
+)	I-LOC
+
+تحويل	O
+فرانكلين	B-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC
+
+تحويل	O
+كيتامي	B-LOC
+(	I-LOC
+هوكايدو	I-LOC
+)	I-LOC
+
+تحويل	O
+أحمد	B-PER
+عبد	I-PER
+الغفور	I-PER
+
+تحويل	O
+غازارافين	B-LOC
+(	I-LOC
+آراغاتسوتن	I-LOC
+)	I-LOC
+
+تحويل	O
+سادل	B-LOC
+روك	I-LOC
+(	I-LOC
+نيويورك	I-LOC
+)	I-LOC
+
+تحويل	O
+مورلي	B-LOC
+(	I-LOC
+ميشيغان	I-LOC
+)	I-LOC
+
+نادي	B-ORG
+النجم	I-ORG
+الأحمر	I-ORG
+سانت	I-ORG
+أوين	I-ORG
+
+تشير	O
+بشكل	O
+غير	O
+رسمي	O
+(	O
+وفي	O
+السابق	O
+أيضاً	O
+كانت	O
+تستخدم	O
+رسمياً	O
+في	O
+الأحداث	O
+الرياضية	O
+)	O
+إلى	O
+كل	O
+هولندا	B-LOC
+
+تعلم	O
+في	O
+جامعة	B-ORG
+نيويورك،	I-ORG
+كلية	B-ORG
+كينيدي	I-ORG
+بجامعة	I-ORG
+هارفارد،	I-ORG
+جامعة	B-ORG
+هارفارد،	I-ORG
+جامعة	B-ORG
+كولومبيا	I-ORG
+.	O
+
+تحويل	O
+توبزافا	B-LOC
+(	I-LOC
+أرومية	I-LOC
+)	I-LOC
+
+تحويل	O
+أوبهايم	B-LOC
+(	I-LOC
+مونتانا	I-LOC
+)	I-LOC
+
+تحويل	O
+سانتياغو	B-LOC
+ديل	I-LOC
+تيدي	I-LOC
+
+تحويل	O
+لوكون	B-LOC
+(	I-LOC
+باد	I-LOC
+كاليه	I-LOC
+)	I-LOC
+
+تحويل	O
+سيتونفيل	B-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO223464	O
+
+حيث	O
+تشير	O
+''ζ	O
+''	O
+إلى	O
+دالة	B-ORG
+زيتا	I-ORG
+لريمان	I-ORG
+.	O
+
+تحويل	O
+صلاح	B-PER
+الدين	I-PER
+سعيد	I-PER
+
+تحويل	O
+قسم	B-LOC
+وحدتية	I-LOC
+الريفي	I-LOC
+(	I-LOC
+مقاطعة	I-LOC
+دشتستان	I-LOC
+)	I-LOC
+
+تحويل	O
+مسار	B-LOC
+فوسفات	I-LOC
+البنتوز	I-LOC
+
+زيادة	O
+الثقة	O
+في	O
+الأبحاث	O
+والتطبيقات	O
+العلمية	O
+السعودية،	B-LOC
+من	O
+أجل	O
+بناء	O
+التقاليد	O
+البحثية	O
+و	O
+تحقيق	O
+توطين	O
+و	O
+تملك	O
+المعرفة	O
+قدر	O
+المستطاع	O
+.	O
+
+تحويل	O
+سان	B-ORG
+ستيفانو	I-ORG
+جراند	I-ORG
+بلازا	I-ORG
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO241699	O
+
+'	O
+''	O
+أحمد	B-PER
+حسن	I-PER
+''	O
+'	O
+
+4-	O
+عبد	B-LOC
+الله	I-LOC
+بن	I-LOC
+عباس	I-LOC
+.	O
+
+ليغا	B-ORG
+باسكيت	I-ORG
+الدرجة	I-ORG
+الأولى	I-ORG
+
+تحويل	O
+بروكلين	B-LOC
+(	I-LOC
+آيوا	I-LOC
+)	I-LOC
+
+===	O
+أسترالاسيا	B-LOC
++	O
+أقيانوسيا	B-LOC
+===	O
+
+تحويل	O
+آرثر	B-PER
+ستانلي	I-PER
+إدنغتون	I-PER
+
+عضلة	B-LOC
+طويلة	I-LOC
+باسطة	I-LOC
+لإبهام	I-LOC
+اليد	I-LOC
+
+تحويل	O
+نوتر	B-LOC
+فورت	I-LOC
+(	I-LOC
+فيرجينيا	I-LOC
+الغربية	I-LOC
+)	I-LOC
+
+تحويل	O
+قصر	B-ORG
+طوب	I-ORG
+قابي	I-ORG
+
+تحويل	O
+برنامج	B-ORG
+اكتشاف	I-ORG
+التيمز	I-ORG
+
+تحويل	O
+كيروفسك	B-LOC
+(	I-LOC
+مورمانسك	I-LOC
+أوبلاست	I-LOC
+)	I-LOC
+
+تولى	O
+مناصب	O
+جامعة	B-ORG
+تينيسي	I-ORG
+.	O
+
+جلم	B-LOC
+ماء	I-LOC
+وتدي	I-LOC
+الذيل	I-LOC
+''Puffinus	O
+pacificus	O
+''	O
+
+المغني	O
+ابن	B-PER
+قدامة	I-PER
+بالاشتراك	O
+
+تحويل	O
+راتلاند	B-LOC
+(	I-LOC
+أوهايو	I-LOC
+)	I-LOC
+
+شروط	O
+الحصول	O
+على	O
+الترخيص	O
+تحدد	O
+من	O
+قبل	O
+المنظمة	B-ORG
+الدولية	I-ORG
+للطيران	I-ORG
+المدني،	I-ORG
+ولكن	O
+يختلف	O
+التنفيذ	O
+من	O
+بلد	O
+إلى	O
+أخر	O
+.	O
+
+يعتبر	O
+حالياً	O
+الملعب	O
+البيتي	O
+لنادي	O
+كريستال	B-ORG
+بالاس	I-ORG
+الذي	O
+يلعب	O
+في	O
+الدوري	B-ORG
+الإنجليزي	I-ORG
+الممتاز	I-ORG
+.	O
+
+تحويل	O
+مؤسسة	B-ORG
+القذافي	I-ORG
+العالمية	I-ORG
+للجمعيات	I-ORG
+الخيرية	I-ORG
+والتنمية	I-ORG
+
+كيميكو	B-PER
+داتي	I-PER
+كروم	I-PER
+''	O
+(	O
+الجولة	O
+الرابعة	O
+)	O
+''	O
+
+تحويل	O
+فيلي	B-LOC
+(	I-LOC
+أتيكي	I-LOC
+)	I-LOC
+
+***	O
+أبو	B-LOC
+منجل	I-LOC
+أسود	I-LOC
+الرأس	I-LOC
+
+تحويل	O
+غي	B-PER
+دي	I-PER
+لوزينيان	I-PER
+
+تحويل	O
+بورهوس	B-PER
+فريدريك	I-PER
+سكينر	I-PER
+
+18-	O
+مهدي	B-PER
+كريم	I-PER
+أبولون	B-ORG
+ليماسول	I-ORG
+
+جنزور	B-LOC
+(	O
+2500	O
+إلى	O
+3000	O
+مسلح	O
+)	O
+
+ويقع	O
+نهر	B-LOC
+الأردن	I-LOC
+على	O
+مسافة	O
+45	O
+كيلومتر	O
+إلى	O
+الغرب	O
+منها	O
+.	O
+
+تحويل	O
+نظرية	B-ORG
+كونيغ	I-ORG
+(	I-ORG
+حركيات	I-ORG
+)	I-ORG
+
+راند	B-LOC
+ليك	I-LOC
+بيتش	I-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC
+
+ثالث	O
+واحد	O
+هو	O
+``	O
+ما	O
+Meilleure	O
+''	O
+في	O
+يضم	O
+زاهو	B-PER
+.	O
+
+تحويل	O
+كاسوغا	B-LOC
+(	I-LOC
+فوكوكا	I-LOC
+)	I-LOC
+
+الإشارة	O
+المرجعية	O
+له	O
+وفق	O
+الملحق	B-ORG
+الدوري	I-ORG
+لمدارات	I-ORG
+الكويكبات	I-ORG
+هي	O
+MPO198850	O
+
+مقاطعة	B-LOC
+ميرسر	I-LOC
+(	I-LOC
+بنسيلفانيا	I-LOC
+)	I-LOC
+
+تحويل	O
+زلزال	B-ORG
+سيتشوان	I-ORG
+2013	I-ORG
+
+تحويل	O
+غاولي	B-LOC
+بريدج	I-LOC
+(	I-LOC
+فيرجينيا	I-LOC
+الغربية	I-LOC
+)	I-LOC
+
+القفاز،	O
+على	O
+أرشيف	B-ORG
+الإنترنت	I-ORG
+.	O
+
+من	O
+اسم	O
+مكان	O
+انتشاره	O
+مثل	O
+الفصة	B-LOC
+العربية	I-LOC
+
+تحويل	O
+بومفريت	B-LOC
+(	I-LOC
+فيرمونت	I-LOC
+)	I-LOC
+
+وقد	O
+يطلق	O
+على	O
+ما	O
+لا	O
+يدرك	O
+هو	O
+ولا	O
+مادته	B-LOC
+بتمامها	O
+بإحدى	O
+الحواس	O
+الظاهرة،	O
+سواء	O
+أدرك	O
+بعض	O
+مادته	O
+أو	O
+لا	O
+.	O
+
+'	O
+''	O
+أندريه	B-PER
+أغاسي	I-PER
+''	O
+'	O
+هزم	O
+تود	B-PER
+مارتن	I-PER
+,	O
+6-4	O
+,	O
+6-7	O
+(	O
+5	O
+)	O
+,	O
+6-7	O
+(	O
+2	O
+)	O
+,	O
+6-3	O
+,	O
+6-2	O
+
+الاتحادية	B-ORG
+الجزائرية	I-ORG
+لكرة	I-ORG
+القدم	I-ORG
+
+فسافرت	O
+معه	O
+إلى	O
+ألمانيا	B-LOC
+لكنها	O
+كانت	O
+تعود	O
+إلى	O
+مصر	B-LOC
+من	O
+وقت	O
+لآخر	O
+.	O
+
+تحويل	O
+خوزنان	B-LOC
+(	I-LOC
+زیاران	I-LOC
+)	I-LOC
+
+الذئب	B-LOC
+الأعرف	I-LOC
+(	O
+''Chrysocyon	O
+brachyurus	O
+''	O
+)	O
+
+سيدني	B-PER
+وود	I-PER
+''	O
+(	O
+النهائي	O
+)	O
+''	O
+
+تحويل	O
+سلاح	B-ORG
+الجو	I-ORG
+التشيلي	I-ORG
+
+تحويل	O
+ماسو	B-PER
+دي	I-PER
+بانكو	I-PER
+
+تحويل	O
+بلدة	B-LOC
+فيروكوا	I-LOC
+(	I-LOC
+ويسكونسن	I-LOC
+)	I-LOC
+
+تحويل	O
+كاولكسفيل	B-LOC
+(	I-LOC
+أركنساس	I-LOC
+)	I-LOC
+
+تحويل	O
+ملعب	B-LOC
+أوتونبا	I-LOC
+ديبو	I-LOC
+دينا	I-LOC
+الدولي	I-LOC
+
+تحويل	O
+رشکان	B-LOC
+(	I-LOC
+زاز	I-LOC
+الشرقي	I-LOC
+)	I-LOC
+
+تحويل	O
+أشکیت	B-LOC
+(	I-LOC
+أملش	I-LOC
+الشمالی	I-LOC
+)	I-LOC
+
+تحويل	O
+سان	B-LOC
+نابور	I-LOC
+(	I-LOC
+الراين	I-LOC
+الأسفل	I-LOC
+)	I-LOC
+
+تحويل	O
+المعهد	B-ORG
+الفدرالي	I-ORG
+السويسري	I-ORG
+للتكنولوجيا	I-ORG
+في	I-ORG
+زيورخ	I-ORG
+
+تحويل	O
+سباق	B-ORG
+باريس	I-ORG
+روبيه	I-ORG
+1983	I-ORG
+
+تحويل	O
+بطولة	B-ORG
+ويمبلدون	I-ORG
+1913	I-ORG
+
+تحويل	O
+كينكاردين	B-LOC
+(	I-LOC
+أونتاريو	I-LOC
+)	I-LOC
+
+هي	O
+ابنة	O
+الأخضر	B-PER
+الإبراهيمي	I-PER
+وزير	O
+الخارجية	O
+الجزائري	B-LOC
+الأسبق	O
+والمبعوث	O
+الخاص	O
+السابق	O
+لأمين	O
+عام	O
+الأمم	B-ORG
+المتحدة	I-ORG
+في	O
+سوريا	B-LOC
+.	O
+
+تحويل	O
+أوناغاوا	B-LOC
+(	I-LOC
+مياغي	I-LOC
+)	I-LOC
+
+القوة	B-ORG
+البحرية	I-ORG
+الكويتية	I-ORG
+.	O
+
+تحويل	O
+ويك	B-LOC
+(	I-LOC
+سنبل	I-LOC
+أباد	I-LOC
+)	I-LOC
+
+يوجد	O
+في	O
+المدينة	O
+جالية	O
+أفريقية	B-LOC
+ضخمة	O
+قدمت	O
+من	O
+أنغولا	B-LOC
+الرأس	B-LOC
+الأخضر	I-LOC
+.	O
+
+ويقوم	O
+اهل	O
+نجد	B-LOC
+خاصه	O
+باستعماله	O
+بديلا	O
+للشاي	O
+
+الفيلم	O
+من	O
+إخراج	O
+تايلر	B-PER
+بيري	I-PER
+وكتابة	O
+تايلر	B-PER
+بيري	I-PER
+.	O
+
+تحويل	O
+برنار	B-PER
+هنري	I-PER
+ليفي	I-PER
+
+تحويل	O
+أزنا	B-LOC
+محلمك	I-LOC
+(	I-LOC
+بربرود	I-LOC
+الشرقي	I-LOC
+)	I-LOC
+
+تحويل	O
+أبو	B-PER
+زكرياء	I-PER
+الأول	I-PER
+
+جمعية	B-ORG
+العمل	I-ORG
+الوطني	I-ORG
+الديمقراطي	I-ORG
+
+تحويل	O
+مقاطعة	B-LOC
+سوسيكس	I-LOC
+(	I-LOC
+فيرجينيا	I-LOC
+)	I-LOC
+
+تحويل	O
+فضاء	B-ORG
+جديد	I-ORG
+لصحة	I-ORG
+المرأة	I-ORG
+
+تحويل	O
+بحرية	B-ORG
+جيش	I-ORG
+التحرير	I-ORG
+الشعبي	I-ORG
+
+تحويل	O
+غلوستر	B-LOC
+(	I-LOC
+ماساتشوستس	I-LOC
+)	I-LOC
+
+تحويل	O
+إيغل	B-LOC
+(	I-LOC
+كولورادو	I-LOC
+)	I-LOC
+
+تحويل	O
+فريبورغ	B-LOC
+(	I-LOC
+إلينوي	I-LOC
+)	I-LOC
+
+تحويل	O
+مايكل	B-PER
+هوفمان	I-PER
+(	I-PER
+مخرج	I-PER
+)	I-PER
+
+تحويل	O
+مكتبة	B-ORG
+ألمانيا	I-ORG
+الوطنية	I-ORG
+
+وسيزيد	O
+علو	O
+البرج	O
+عن	O
+علو	O
+مبنى	O
+تايبيه	B-ORG
+101	I-ORG
+في	O
+تايوان	B-LOC
+.	O
+
+سعد	B-LOC
+أباد	I-LOC
+(	I-LOC
+غرکان	I-LOC
+)	I-LOC
+
+جائزة	B-ORG
+كندا	I-ORG
+الكبرى	I-ORG
+1991	I-ORG
+
+الدوري	B-LOC
+الإسباني	I-LOC
+لكرة	I-LOC
+القدم	I-LOC
+2013–14	I-LOC
+
+'	O
+''	O
+ولاية	B-LOC
+بومرداس	I-LOC
+''	O
+'	O
+
+تحويل	O
+جان	B-PER
+لورينزو	I-PER
+برنيني	I-PER
+
+-	O
+إخراج	O
+فادي	B-PER
+حداد	I-PER
+
+غرافتون	B-LOC
+(	I-LOC
+نيوهامشير	I-LOC
+)	I-LOC
+
+تحويل	O
+الجامعة	B-ORG
+الغريغورية	I-ORG
+الحبرية	I-ORG
+
+(	I-LOC
+مقاطعة	I-LOC
+تشابهار	I-LOC
+)	I-LOC
+
+تحويل	O
+ألكتون	B-LOC
+(	I-LOC
+فيرجينيا	I-LOC
+)	I-LOC
+
+جامعة	B-ORG
+آرهوس،	I-ORG
+في	O
+آرهوس	B-LOC
+
+تحويل	O
+حمادة	B-PER
+بن	I-PER
+عمر	I-PER
+
+تحويل	O
+جلیل	B-LOC
+أباد	I-LOC
+(	I-LOC
+كهن	I-LOC
+أباد	I-LOC
+)	I-LOC
+
+توماس	B-PER
+بيرديتش	I-PER
+''	O
+(	O
+الجولة	O
+الرابعة	O
+)	O
+''	O
+
+تحويل	O
+وست	B-LOC
+كارثاغ	I-LOC
+(	I-LOC
+نيويورك	I-LOC
+)	I-LOC
+
+تحويل	O
+روبرت	B-PER
+أ.	I-PER
+براون	I-PER
+
+تحويل	O
+أسرة	B-ORG
+مصرية	I-ORG
+ثالثة	I-ORG
+
+'	O
+''	O
+ديكر	B-LOC
+أسود	I-LOC
+الجبهة	I-LOC
+''	O
+'	O
+
+تحويل	O
+عبد	B-PER
+الحميد	I-PER
+كرامي	I-PER

@@ -1,0 +1,17398 @@
+Parmi	O
+les	O
+voix	O
+célèbres	O
+qui	O
+interprétèrent	O
+ses	O
+textes	O
+,	O
+on	O
+peut	O
+citer	O
+Fred	B-PER
+Astaire	I-PER
+,	O
+Ginger	B-PER
+Rogers	I-PER
+,	O
+Bing	B-PER
+Crosby	I-PER
+,	O
+Audrey	B-PER
+Hepburn	I-PER
+,	O
+Frank	B-PER
+Sinatra	I-PER
+et	O
+tant	O
+d'autres	O
+.	O
+
+Deux	O
+ans	O
+plus	O
+tard	O
+,	O
+l'équipe	O
+accède	O
+à	O
+la	O
+SM-liiga	B-ORG
+.	O
+
+Il	O
+côtoie	O
+notamment	O
+Éric	B-PER
+Meloche	I-PER
+.	O
+
+''	O
+Marvin	B-PER
+Williams	I-PER
+''	O
+'	O
+
+Élisabeth	B-PER
+Ire	I-PER
+(	I-PER
+impératrice	I-PER
+de	I-PER
+Russie	I-PER
+)	I-PER
+,	O
+le	O
+.	O
+
+Le	O
+Parti	B-ORG
+démocrate	I-ORG
+d'Albanie	I-ORG
+est	O
+formé	O
+le	O
+lendemain	O
+.	O
+
+Bateau	B-LOC
+de	I-LOC
+Ladby	I-LOC
+(	O
+Danemark	B-LOC
+)	O
+
+Régiment	B-ORG
+des	I-ORG
+Gardes	I-ORG
+françaises	I-ORG
+(	O
+4	O
+bataillons	O
+)	O
+
+AIK]]	O
+''	O
+'	O
+-	O
+Örgryte	B-ORG
+IS	I-ORG
+
+L'endroit	O
+est	O
+maintenant	O
+géré	O
+et	O
+entretenu	O
+par	O
+le	O
+National	B-ORG
+Park	I-ORG
+Service	I-ORG
+.	O
+
+William	B-PER
+Coales	I-PER
+,	O
+Joseph	B-PER
+Deakin	I-PER
+,	O
+Archie	B-PER
+Robertson	I-PER
+
+Travailla	O
+notamment	O
+avec	O
+Billie	B-PER
+Holiday	I-PER
+.	O
+
+Il	O
+n'est	O
+pas	O
+impossible	O
+que	O
+d'autres	O
+soient	O
+vendues	O
+à	O
+l'étranger	O
+(	O
+''projet	O
+956E	O
+''	O
+)	O
+,	O
+à	O
+Inde	B-LOC
+par	O
+exemple	O
+,	O
+ou	O
+à	O
+la	O
+Corée	B-LOC
+du	I-LOC
+Nord	I-LOC
+.	O
+
+Essex	B-ORG
+County	I-ORG
+Cricket	I-ORG
+Club	I-ORG
+
+Motta	B-LOC
+di	I-LOC
+Livenza	I-LOC
+
+En	O
+Europe	B-LOC
+,	O
+il	O
+dépasse	O
+également	O
+le	O
+million	O
+d'entrées	O
+au	O
+Royaume-Uni	B-LOC
+(	O
+)	O
+et	O
+en	O
+Allemagne	B-LOC
+(	O
+)	O
+.	O
+
+Johnny	B-PER
+Dutch	I-PER
+48	O
+s	O
+20	O
+
+Il	O
+se	O
+rend	O
+à	O
+Barcelone	B-LOC
+pour	O
+raconter	O
+ce	O
+qu'il	O
+a	O
+vu	O
+aux	O
+autorités	O
+puis	O
+à	O
+Marseille	B-LOC
+pour	O
+retrouver	O
+l'armateur	O
+.	O
+
+Piero	B-PER
+Taruffi	I-PER
+(	O
+Ferrari	B-ORG
+)	O
+-	O
+13	O
+points	O
+
+Lyon	B-LOC
+-	O
+Grenoble	B-LOC
+(	O
+F	O
+)	O
+
+Caquetá	B-LOC
+ou	I-LOC
+Japurá	I-LOC
+(	O
+,	O
+/	O
+s	O
+)	O
+
+'	O
+''	O
+Anton	B-PER
+Cooper	I-PER
+'	O
+''	O
+
+Florestano	B-PER
+Di	I-PER
+Fausto	I-PER
+,	O
+aujourd’hui	O
+Préfecture	B-LOC
+;	O
+
+Conséquences	B-ORG
+de	I-ORG
+la	I-ORG
+Première	I-ORG
+Guerre	I-ORG
+mondiale	I-ORG
+
+Tony	B-PER
+Skinn	I-PER
+(	O
+Gravelines-Dunkerque	B-ORG
+)	O
+
+Myconos	B-LOC
+''	O
+(	O
+Dimos	O
+Mykonou	O
+)	O
+''	O
+
+Elle	O
+se	O
+trouve	O
+dans	O
+Adrar	B-LOC
+des	I-LOC
+Ifoghas	I-LOC
+.	O
+
+Los	B-LOC
+Angeles	I-LOC
+,	O
+par	O
+ses	O
+initiales	O
+;	O
+
+Viola	B-PER
+Kibiwot	I-PER
+(	O
+SB	O
+)	O
+
+Marcos	B-PER
+Martín	I-PER
+et	O
+Brian	B-PER
+K.	I-PER
+Vaughan	I-PER
+
+Oryx	B-LOC
+d'Arabie	I-LOC
+(	O
+Arabie	B-LOC
+saoudite	I-LOC
+)	O
+,	O
+
+Do	B-ORG
+n't	I-ORG
+Cha	I-ORG
+''	O
+(	O
+reprise	O
+des	O
+Pussycat	B-ORG
+Dolls	I-ORG
+)	O
+
+la	O
+Bibliothèque	B-ORG
+nationale	I-ORG
+de	I-ORG
+Chine	I-ORG
+
+La	O
+'	O
+''	O
+chapelle	O
+d'Épaisse	O
+''	O
+'	O
+est	O
+une	O
+chapelle	O
+située	O
+à	O
+Bâgé-la-Ville	B-LOC
+,	O
+en	O
+France	B-LOC
+.	O
+
+Heuqueville]]	O
+,	O
+Manéglise	B-LOC
+,	O
+Mannevillette	B-LOC
+,	O
+Notre-Dame-du-Bec	B-LOC
+,	O
+Octeville-sur-Mer	B-LOC
+,	O
+Pierrefiques	B-LOC
+,	O
+La	B-LOC
+Poterie-Cap-d'Antifer	I-LOC
+,	O
+Rolleville	B-LOC
+,	O
+Saint-Jouin-Bruneval	B-LOC
+,	O
+Saint-Martin-du-Bec	B-LOC
+,	O
+Saint-Martin-du-Manoir	B-LOC
+,	O
+Sainte-Marie-au-Bosc	B-LOC
+,	O
+Le	B-LOC
+Tilleul	I-LOC
+,	O
+Turretot	B-LOC
+,	O
+Vergetot	B-LOC
+,	O
+Villainville	B-LOC
+.	O
+
+Horace	B-PER
+Rice	I-PER
+(	O
+1	O
+/	O
+3	O
+)	O
+
+Daniele	B-PER
+Garozzo	I-PER
+Erwann	B-PER
+Le	I-PER
+Péchoux	I-PER
+
+Mathieu	B-PER
+Madénian	I-PER
+(	O
+«	O
+Portrait	O
+»	O
+)	O
+
+Fulco	B-PER
+Ruffo	I-PER
+di	I-PER
+Calabria	I-PER
+,	O
+pilote	B-ORG
+de	I-ORG
+chasse	I-ORG
+,	I-ORG
+As	I-ORG
+
+**	O
+Jacques	B-PER
+Carette	I-PER
+,	O
+athlète	B-ORG
+de	I-ORG
+sprint	I-ORG
+français	B-LOC
+.	O
+
+Saumane]]	O
+,	O
+Simiane-la-Rotonde	B-LOC
+,	O
+Vachères	B-LOC
+,	O
+Villemus	B-LOC
+.	O
+
+Ryne	B-PER
+Sandberg	I-PER
+(	O
+9	O
+)	O
+
+REDIRECTION	O
+Deuxième	B-ORG
+Match	I-ORG
+des	I-ORG
+étoiles	I-ORG
+de	I-ORG
+la	I-ORG
+Ligue	I-ORG
+continentale	I-ORG
+de	I-ORG
+hockey	I-ORG
+
+L'Australie	O
+est	O
+menée	O
+par	O
+son	O
+capitaine	O
+Bill	B-PER
+Woodfull	I-PER
+.	O
+
+Son	O
+frère	O
+Pierre-Stanislas	B-PER
+Bédard	I-PER
+et	O
+ses	O
+neveux	O
+Elzéar	B-PER
+Bédard	I-PER
+et	O
+Joseph-Isidore	B-PER
+Bédard	I-PER
+a	O
+également	O
+siégé	O
+à	O
+l'Assemblée	O
+.	O
+
+Il	O
+vit	O
+alors	O
+sur	O
+''Strivers	O
+'	O
+Row	O
+''	O
+à	O
+Harlem	B-LOC
+.	O
+
+L'éclipse	O
+était	O
+visible	O
+en	O
+totalité	O
+en	O
+Afrique	B-LOC
+,	O
+en	O
+Europe	B-LOC
+et	O
+au	O
+Moyen-Orient	B-LOC
+.	O
+
+Gazelle	B-ORG
+(	I-ORG
+entreprise	I-ORG
+)	I-ORG
+
+Cetona	B-LOC
+,	O
+Chianciano	B-LOC
+Terme	I-LOC
+,	O
+Chiusi	B-LOC
+,	O
+Pienza	B-LOC
+,	O
+Radicofani	B-ORG
+,	O
+San	B-LOC
+Casciano	I-LOC
+dei	I-LOC
+Bagni	I-LOC
+
+Wilson	B-PER
+Kipketer1	I-PER
+min	O
+45	O
+s	O
+87	O
+
+''	O
+,	O
+préfacé	O
+par	O
+Nicolas	B-PER
+Hulot	I-PER
+.	O
+
+Money	B-ORG
+''	O
+(	O
+Yortoise	O
+)	O
+–	O
+3:18	O
+
+Svenja	B-PER
+Schlicht	I-PER
+1	O
+min	O
+2	O
+s	O
+21	O
+
+Il	O
+joue	O
+ensuite	O
+1	O
+année	O
+au	O
+FCM	B-ORG
+Aubervilliers	I-ORG
+.	O
+
+Jean	B-PER
+Moulin	I-PER
+est	O
+ainsi	O
+''Rex	O
+''	O
+puis	O
+''Max	O
+''	O
+.	O
+
+Everything	B-ORG
+Is	I-ORG
+Different	I-ORG
+Now	I-ORG
+''	O
+
+Il	O
+jouait	O
+avec	O
+le	O
+SU	B-ORG
+Agen	I-ORG
+.	O
+
+Elle	O
+se	O
+rencontre	O
+sur	O
+Ovalau	B-LOC
+,	O
+sur	O
+Gau	B-LOC
+,	O
+sur	O
+Kadavu	B-LOC
+et	O
+sur	O
+Viti	B-LOC
+Levu	I-LOC
+.	O
+
+Robert	B-PER
+Lindstedt	I-PER
+Horia	B-PER
+Tecău	I-PER
+(	O
+16	O
+)	O
+
+Violence	B-PER
+contre	I-PER
+les	I-PER
+personnes	I-PER
+LGBT	I-PER
+
+Il	O
+est	O
+maintenant	O
+exposé	O
+au	O
+National	B-ORG
+Air	I-ORG
+and	I-ORG
+Space	I-ORG
+Museum	I-ORG
+à	O
+Washington	B-LOC
+,	I-LOC
+D.C	I-LOC
+.	I-LOC
+.	O
+
+C'est	O
+aux	O
+Invalides	B-ORG
+où	O
+il	O
+est	O
+en	O
+rééducation	O
+qu'il	O
+découvre	O
+l'escrime	O
+.	O
+
+Fred	B-PER
+Astaire	I-PER
+,	O
+Rita	B-PER
+Hayworth	I-PER
+,	O
+Robert	B-PER
+Benchley	I-PER
+
+'	O
+''	O
+Ayyavazhi	B-ORG
+''	O
+'	O
+
+Brooklyn-Manhattan	B-ORG
+Transit	I-ORG
+Corporation	I-ORG
+
+REDIRECTION	O
+East	B-LOC
+Grand	I-LOC
+Rapids	I-LOC
+(	I-LOC
+Michigan	I-LOC
+)	I-LOC
+
+Demi	B-PER
+Lovato	I-PER
+,	O
+Kim	B-PER
+Kardashian	I-PER
+,	O
+Khloé	B-PER
+Kardashian	I-PER
+
+REDIRECTION	O
+5	B-ORG
+000	I-ORG
+mètres	I-ORG
+masculin	I-ORG
+aux	I-ORG
+Jeux	I-ORG
+olympiques	I-ORG
+d'été	I-ORG
+de	I-ORG
+2008	I-ORG
+
+REDIRECTION	O
+FC	B-ORG
+Tobol	I-ORG
+Kostanaï	I-ORG
+
+'	O
+''	O
+Guerville	B-LOC
+''	O
+'	O
+
+New	B-LOC
+Hampton	I-LOC
+(	I-LOC
+New	B-LOC
+Hampshire	I-LOC
+)	I-LOC
+
+Son	O
+frère	O
+Tony	B-PER
+Scott	I-PER
+y	O
+joue	O
+.	O
+
+Musée	B-ORG
+de	I-ORG
+la	I-ORG
+pharmacie	I-ORG
+de	I-ORG
+Université	I-ORG
+de	I-ORG
+Bâle	I-ORG
+
+Là	O
+elle	O
+croise	O
+la	O
+Sturt	B-ORG
+Highway	I-ORG
+''	O
+,	O
+reliant	O
+Adélaïde	B-LOC
+et	O
+Sydney	B-LOC
+.	O
+
+Khris	B-PER
+Middleton	I-PER
+(	O
+25	O
+)	O
+
+Coca-Cola	B-ORG
+(	O
+avec	O
+Zhang	B-PER
+Ziyi	I-PER
+)	O
+
+'	O
+''	O
+Claude	B-PER
+François	I-PER
+''	O
+'	O
+
+Jim	B-PER
+Carrey	I-PER
+et	O
+Jennifer	B-PER
+Aniston	I-PER
+
+Broglie	B-LOC
+(	O
+France	B-LOC
+)	O
+
+Ceci	O
+lui	O
+vaut	O
+à	O
+la	O
+mi-saison	O
+une	O
+première	O
+invitation	O
+au	O
+match	B-ORG
+des	I-ORG
+étoiles	I-ORG
+.	O
+
+Musée	B-ORG
+de	I-ORG
+Marrakech	I-ORG
+(	O
+)	O
+
+Alan	B-PER
+Grant	I-PER
+(	O
+1949-	O
+)	O
+
+;	O
+Juncus	B-LOC
+acutus	I-LOC
+''	O
+L	O
+.	O
+
+'	O
+''	O
+Ahmed	B-PER
+Attoumani	I-PER
+Douchina	I-PER
+''	O
+'*	O
+
+Nicktoons	B-ORG
+(	I-ORG
+chaîne	I-ORG
+de	I-ORG
+télévision	I-ORG
+)	I-ORG
+
+Championnat	B-ORG
+de	I-ORG
+France	I-ORG
+D2	I-ORG
+(	O
+2	O
+)	O
+
+Jules	B-PER
+Renkin	I-PER
+(	O
+Cath	B-ORG
+)	O
+
+Mark	B-PER
+Messier	I-PER
+,	O
+Mike	B-PER
+Richter	I-PER
+et	O
+Jim	B-PER
+Devellano	I-PER
+
+Il	O
+entraine	O
+actuellement	O
+Clube	B-ORG
+Náutico	I-ORG
+Capibaribe	I-ORG
+.	O
+
+Guus	B-PER
+Hiddink	I-PER
+(	O
+Équipe	B-ORG
+des	I-ORG
+Pays-Bas	I-ORG
+/	O
+Real	B-ORG
+Madrid	I-ORG
+)	O
+
+'	O
+''	O
+Graz	B-ORG
+99ers	I-ORG
+''	O
+'	O
+
+===	O
+The	B-ORG
+Pussycat	I-ORG
+Dolls	I-ORG
+-	O
+PCD	B-ORG
+''	O
+===	O
+
+Des	O
+ouvrières	O
+manifestent	O
+contre	O
+la	O
+faim	O
+à	O
+Zurich	B-LOC
+.	O
+
+'	O
+''	O
+Gare	B-ORG
+de	I-ORG
+Besançon-Viotte	I-ORG
+''	O
+'	O
+
+Lac	B-LOC
+Mälar	I-LOC
+-	O
+Mer	B-LOC
+Baltique	I-LOC
+''	O
+
+===	O
+Département	B-ORG
+de	I-ORG
+Podor	I-ORG
+===	O
+
+Christian	B-PER
+Auguste	I-PER
+de	I-PER
+Schleswig-Holstein-Sonderbourg-Augustenbourg	I-PER
+
+La	O
+Comédie-Française	B-ORG
+est	O
+née	O
+.	O
+
+Gvozd	B-LOC
+,	O
+3	O
+779	O
+
+REDIRECTION	O
+Guui	B-ORG
+(	I-ORG
+métro	I-ORG
+de	I-ORG
+Séoul	I-ORG
+)	I-ORG
+
+Eddy	B-PER
+Planckaert	I-PER
+(	O
+BEL	B-LOC
+)	O
+(	O
+A	O
+)	O
+
+NFC	O
+Giants	B-ORG
+de	I-ORG
+New	I-ORG
+York	I-ORG
+(	O
+1	O
+)	O
+
+Anhaux	B-LOC
+et	O
+Lasse	B-LOC
+au	O
+nord-est	O
+
+REDIRECTION	O
+Merry	B-ORG
+Christmas	I-ORG
+for	I-ORG
+You	I-ORG
+
+'	O
+''	O
+Al	B-ORG
+Najma	I-ORG
+Club	I-ORG
+''	O
+'	O
+
+Guillaume-Henri	B-PER
+Dufour	I-PER
+(	O
+1863-1864	O
+)	O
+
+**	O
+Michael	B-PER
+Jordan	I-PER
+avec	O
+,	O
+et	O
+.	O
+
+'	O
+''	O
+Mary	B-PER
+Pierce	I-PER
+''	O
+'	O
+'	O
+''	O
+Sandrine	B-PER
+Testud	I-PER
+''	O
+'	O
+'	O
+''	O
+Nathalie	B-PER
+Tauziat	I-PER
+''	O
+'	O
+'	O
+''	O
+Alexandra	B-PER
+Fusai	I-PER
+''	O
+'	O
+
+Plus	O
+tard	O
+il	O
+rencontrera	O
+Ventus	B-PER
+,	O
+puis	O
+Aqua	B-PER
+,	O
+et	O
+les	O
+autorisa	O
+à	O
+utiliser	O
+le	O
+livre	O
+.	O
+
+Il	O
+dessert	O
+Université	B-ORG
+de	I-ORG
+Debrecen	I-ORG
+.	O
+
+'	O
+''	O
+Nempont-Saint-Firmin	B-LOC
+''	O
+'	O
+
+Il	O
+est	O
+suivi	O
+ou	O
+précédé	O
+dans	O
+cette	O
+recherche	O
+par	O
+Isaac	B-PER
+Newton	I-PER
+.	O
+
+Il	O
+remporte	O
+le	O
+championnat	B-ORG
+les	O
+deux	O
+saisons	O
+qui	O
+suivent	O
+son	O
+arrivée	O
+.	O
+
+'	O
+''	O
+Barbara	B-PER
+Schett	I-PER
+Patricia	B-PER
+Wartusch	I-PER
+''	O
+'	O
+
+C'est	O
+sous	O
+ses	O
+mandatures	O
+que	O
+le	O
+arrondissement	B-LOC
+de	I-LOC
+Paris	I-LOC
+va	O
+profondément	O
+changer	O
+.	O
+
+La	O
+[[Sarine	O
+,	O
+ici	O
+à	O
+Fribourg	B-LOC
+,	O
+marque	O
+le	O
+''Röstigraben	O
+''	O
+.	O
+
+Canada	B-ORG
+(	O
+262	O
+)	O
+
+Brown	B-LOC
+(	I-LOC
+cratère	I-LOC
+)	I-LOC
+
+Elle	O
+se	O
+rencontre	O
+aux	O
+Açores	B-LOC
+et	O
+à	O
+Madère	B-LOC
+.	O
+
+,	O
+DNVP	B-ORG
+,	O
+Wahlkreis	O
+10	O
+(	O
+Magdeburg	B-LOC
+)	O
+
+Boycottée	O
+par	O
+certains	O
+réformateurs	O
+,	O
+dont	O
+beaucoup	O
+sont	O
+par	O
+ailleurs	O
+disqualifiés	O
+par	O
+le	O
+Conseil	B-ORG
+des	I-ORG
+gardiens	I-ORG
+de	I-ORG
+la	I-ORG
+Constitution	I-ORG
+,	O
+l'élection	O
+est	O
+remportée	O
+par	O
+les	O
+conservateurs	O
+.	O
+
+Akeo	B-PER
+Watanabe	I-PER
+(	O
+1984-1986	O
+)	O
+
+REDIRECTION	O
+Département	B-ORG
+des	I-ORG
+Transports	I-ORG
+de	I-ORG
+Californie	I-ORG
+
+Aaron	B-PER
+de	I-PER
+Raguse	I-PER
+
+Ronchin	B-LOC
+1	O
+,	O
+8	O
+.	O
+
+'	O
+''	O
+Ligue	B-ORG
+départementale	I-ORG
+''	O
+'	O
+'	O
+''	O
+(	O
+3	O
+)	O
+'	O
+''	O
+
+Le	O
+Robert]]	O
+(	O
+Martinique	B-LOC
+)	O
+
+Il	O
+a	O
+étudié	O
+à	O
+Académie	B-ORG
+des	I-ORG
+beaux-arts	I-ORG
+de	I-ORG
+Düsseldorf	I-ORG
+avec	O
+Bernd	B-PER
+et	I-PER
+Hilla	I-PER
+Becher	I-PER
+.	O
+
+Eduard	B-PER
+von	I-PER
+Steiger	I-PER
+
+Airuno	B-LOC
+,	O
+Castello	B-LOC
+di	I-LOC
+Brianza	I-LOC
+,	O
+Dolzago	B-LOC
+,	O
+Ello	B-LOC
+,	O
+Galbiate	B-LOC
+,	O
+Olgiate	B-LOC
+Molgora	I-LOC
+,	O
+Santa	B-LOC
+Maria	I-LOC
+Hoè	I-LOC
+,	O
+Valgreghentino	B-LOC
+
+Première	B-LOC
+circonscription	I-LOC
+du	I-LOC
+Pas-de-Calais	I-LOC
+
+au	O
+préfixe	B-LOC
+des	I-LOC
+noms	I-LOC
+de	I-LOC
+bateau	I-LOC
+Oman	B-LOC
+.	O
+
+''Alabaster	O
+''	O
+par	O
+Caitlín	B-PER
+R.	I-PER
+Kiernan	I-PER
+
+REDIRECTION	O
+Équipe	B-ORG
+des	I-ORG
+Pays-Bas	I-ORG
+féminine	I-ORG
+de	I-ORG
+football	I-ORG
+
+Espoo	B-ORG
+Blues	I-ORG
+(	O
+SM-liiga	O
+)	O
+
+Il	O
+est	O
+produit	O
+par	O
+Bob	B-PER
+Ezrin	I-PER
+,	O
+qui	O
+a	O
+notamment	O
+produit	O
+les	O
+albums	O
+Alice	B-PER
+Cooper	I-PER
+,	O
+Dr.	B-PER
+John	I-PER
+et	O
+aussi	O
+Lou	B-PER
+Reed	I-PER
+(	O
+le	O
+fameux	O
+Berlin	B-ORG
+''	O
+)	O
+.	O
+
+'	O
+''	O
+Genève	B-LOC
+(	I-LOC
+GE	I-LOC
+)	I-LOC
+-	I-LOC
+10	I-LOC
+candidatEs	I-LOC
+''	O
+'	O
+
+**	O
+Thomas	B-PER
+William	I-PER
+Green	I-PER
+,	O
+athlète	B-ORG
+de	I-ORG
+marches	I-ORG
+athlétiques	I-ORG
+américain	B-LOC
+.	O
+
+Marbach	B-LOC
+(	I-LOC
+Saint-Gall	I-LOC
+)	I-LOC
+
+Dean	B-PER
+Martin	I-PER
+et	O
+Frank	B-PER
+Sinatra	I-PER
+sont	O
+ensuite	O
+envisagés	O
+,	O
+avant	O
+que	O
+le	O
+rôle	O
+ne	O
+revienne	O
+à	O
+Jerry	B-PER
+Lewis	I-PER
+.	O
+
+Château	B-ORG
+du	I-ORG
+Loumaing	I-ORG
+.	O
+
+Comgall	B-PER
+mac	I-PER
+Domangairt	I-PER
+
+Guam	B-LOC
+(	O
+dépendance	O
+des	O
+États-Unis	B-LOC
+)	O
+.	O
+
+==	O
+Usage	O
+en	O
+Colombie-Britannique	B-LOC
+==	O
+
+REDIRECTION	O
+Nathalie	B-PER
+de	I-PER
+Sayn-Wittgenstein-Berleburg	I-PER
+
+Clara	B-PER
+Bow	I-PER
+,	O
+Clive	B-PER
+Brook	I-PER
+
+Vira	B-LOC
+(	I-LOC
+Gambarogno	I-LOC
+)	I-LOC
+
+Lac	B-LOC
+des	I-LOC
+Plagnes	I-LOC
+
+Puis	O
+timbres	O
+Afrique	B-LOC
+du	I-LOC
+Sud	I-LOC
+
+Comté	B-LOC
+de	I-LOC
+Boise	I-LOC
+(	O
+est	O
+)	O
+
+Il	O
+rayonne	O
+essentiellement	O
+sur	O
+les	O
+régions	O
+Aquitaine	B-LOC
+et	O
+Poitou-Charentes	B-LOC
+.	O
+
+Baía	B-LOC
+da	I-LOC
+Traição	I-LOC
+
+Favalello	B-LOC
+(	O
+''U	O
+Favalellu	O
+''	O
+)	O
+
+Gray	B-LOC
+''	O
+(	O
+km	O
+0	O
+)	O
+''	O
+
+Robin	B-PER
+Thicke	I-PER
+(	O
+feat	O
+.	O
+
+Juan	B-PER
+Vallejo	I-PER
+Corona	I-PER
+(	O
+1934-	O
+)	O
+(	O
+25	O
+victimes	O
+)	O
+.	O
+
+La	O
+condamnation	O
+sera	O
+portée	O
+en	O
+appel	B-ORG
+.	O
+
+Tarmo	B-PER
+Rüütli	I-PER
+(	O
+1999–2000	O
+)	O
+
+'	O
+''	O
+Primorsko	B-LOC
+''	O
+'	O
+(	O
+Приморско	O
+)	O
+·	O
+
+Premier	B-ORG
+ministre	I-ORG
+,	O
+'	O
+''	O
+Julia	B-PER
+Gillard	I-PER
+''	O
+'	O
+
+Bertha	B-PER
+Teague	I-PER
+(	O
+contributeur	O
+)	O
+
+Académie	B-ORG
+impériale	I-ORG
+des	I-ORG
+beaux-arts	I-ORG
+de	I-ORG
+Saint-Pétersbourg	I-ORG
+
+Missions	B-ORG
+secrètes	I-ORG
+''	O
+(	O
+'	O
+''	O
+'	O
+)	O
+
+Certaines	O
+biographies	O
+laissent	O
+entendre	O
+que	O
+son	O
+avancement	O
+rapide	O
+s'expliquerait	O
+par	O
+son	O
+cousinage	O
+avec	O
+Georges-René	B-PER
+Pléville	I-PER
+Le	I-PER
+Pelley	I-PER
+.	O
+
+**	O
+Jullouville	B-LOC
+(	O
+Manche	B-LOC
+)	O
+
+Elle	O
+produit	O
+entre	O
+autres	O
+les	O
+avions	O
+Soukhoï	B-ORG
+.	O
+
+,	O
+NSDAP	B-ORG
+,	O
+Wahlkreis	O
+17	O
+(	O
+Westfalen	B-LOC
+Nord	I-LOC
+)	O
+
+Tous	O
+les	O
+traînards	O
+que	O
+cette	O
+troupe	O
+rencontre	O
+sont	O
+massacrés	O
+,	O
+la	O
+plupart	O
+par	O
+des	O
+paysans	O
+sarthois	B-LOC
+.	O
+
+Stockwell	B-PER
+Day	I-PER
+(	O
+–	O
+)	O
+
+Médaillée	B-ORG
+de	I-ORG
+bronze	I-ORG
+du	I-ORG
+haut-vol	I-ORG
+à	I-ORG
+10m	I-ORG
+synchronisé	I-ORG
+aux	O
+Jeux	B-ORG
+de	I-ORG
+Londres	I-ORG
+2012	I-ORG
+.	O
+
+**	O
+AS	B-ORG
+Rome	I-ORG
+'	O
+''	O
+1-0	O
+''	O
+'	O
+'	O
+''	O
+Arsenal	B-ORG
+''	O
+'	O
+(	O
+6-7	O
+aux	O
+T.A.B	O
+)	O
+
+Die	B-ORG
+Maske	I-ORG
+des	I-ORG
+Roten	I-ORG
+Todes	I-ORG
+''	O
+-	O
+Feeling	B-ORG
+B	I-ORG
+
+Man	B-ORG
+In	I-ORG
+The	I-ORG
+Mirror	I-ORG
+''	O
+
+Le	O
+territoire	O
+touché	O
+incluait	O
+les	O
+régions	O
+Assam	B-LOC
+,	O
+Odisha	B-LOC
+,	O
+Bihar	B-LOC
+,	O
+et	O
+Jharkhand	B-LOC
+.	O
+
+'	O
+''	O
+10	O
+''	O
+'	O
+Elton	B-PER
+Flatley	I-PER
+-	O
+112	O
+sélections	O
+
+Grimlock	B-PER
+(	I-PER
+robots	I-PER
+in	I-PER
+disguise	I-PER
+)	I-PER
+
+REDIRECTION	O
+Q	B-PER
+(	I-PER
+James	I-PER
+Bond	I-PER
+)	I-PER
+
+République	B-LOC
+socialiste	I-LOC
+soviétique	I-LOC
+,	O
+''Latvija	O
+P.S.R	O
+.	O
+
+Daidō	B-PER
+Moriyama	I-PER
+sans	O
+être	O
+un	O
+fondateur	O
+intègre	O
+le	O
+groupe	O
+Provoke	O
+après	O
+avoir	O
+publié	O
+son	O
+premier	O
+livre	O
+.	O
+
+Zoumtoèga	B-LOC
+(	O
+habitants	O
+)	O
+
+Il	O
+évolue	O
+désormais	O
+à	O
+Orléans	B-ORG
+Loiret	I-ORG
+Basket	I-ORG
+.	O
+
+Craig	B-PER
+Ludwig	I-PER
+(	O
+3	O
+)	O
+
+REDIRECTION	O
+Géographie	B-ORG
+de	I-ORG
+la	I-ORG
+Chine	I-ORG
+
+Antonio	B-PER
+da	I-PER
+Sangallo	I-PER
+en	O
+est	O
+l'architecte	O
+.	O
+
+Gabriel	B-PER
+Celaya	I-PER
+(	O
+1911-1991	O
+)	O
+.	O
+
+**	O
+The	B-ORG
+Dr.	I-ORG
+Oz	I-ORG
+Show	I-ORG
+''	O
+
+Tony	B-PER
+Drago	I-PER
+(	O
+93	O
+)	O
+
+'	O
+''	O
+Barrière	B-LOC
+de	I-LOC
+séparation	I-LOC
+israélienne	I-LOC
+''	O
+'	O
+
+Dès	O
+lors	O
+,	O
+il	O
+est	O
+apparu	O
+dans	O
+FBI	B-ORG
+:	I-ORG
+Portés	I-ORG
+disparus	I-ORG
+''	O
+,	O
+Les	B-ORG
+Experts	I-ORG
+:	I-ORG
+Miami	I-ORG
+''	O
+et	O
+Numbers	B-ORG
+''	O
+.	O
+
+Liste	B-LOC
+des	I-LOC
+communes	I-LOC
+de	I-LOC
+la	I-LOC
+Charente-Maritime	I-LOC
+
+===	O
+The	B-ORG
+Sarah	I-ORG
+Jane	I-ORG
+Adventures	I-ORG
+===	O
+
+Washington	B-LOC
+Heights	I-LOC
+(	O
+quartier	O
+résidentiel	O
+modeste	O
+)	O
+
+Comté	B-LOC
+de	I-LOC
+Kent	I-LOC
+(	I-LOC
+Texas	I-LOC
+)	I-LOC
+
+Elle	O
+utilise	O
+un	O
+moteur	O
+d'origine	O
+Honda	B-ORG
+.	O
+
+Sergueï	B-PER
+Yakovlev	I-PER
+(	O
+193	O
+)	O
+
+,	O
+NSDAP	B-ORG
+,	O
+Wahlkreis	O
+13	O
+(	O
+Schleswig-Holstein	B-LOC
+)	O
+
+3	O
+BPC	B-PER
+(	O
+)	O
+;	O
+
+International	B-ORG
+Information	I-ORG
+Systems	I-ORG
+Security	I-ORG
+Certification	I-ORG
+Consortium	I-ORG
+
+José	B-PER
+Manuel	I-PER
+Abascal	I-PER
+3	O
+min	O
+34	O
+s	O
+30	O
+
+**	O
+Royal	B-ORG
+Saudi	I-ORG
+Air	I-ORG
+Force	I-ORG
+,	O
+
+Villeneuve-sur-Lot	B-LOC
+''	O
+(	O
+km	O
+250	O
+)	O
+''	O
+
+Alexandrie	B-LOC
+(	O
+)	O
+;	O
+
+Raleigh	B-LOC
+,	O
+Caroline	B-LOC
+du	I-LOC
+Nord	I-LOC
+
+Brigitte	B-PER
+Bardot	I-PER
+met	O
+un	O
+terme	O
+à	O
+sa	O
+carrière	O
+d'actrice	O
+.	O
+
+Oh	B-ORG
+S	I-ORG
+!	I-ORG
+T	I-ORG
+''	O
+
+Koura	B-LOC
+(	I-LOC
+fleuve	I-LOC
+)	I-LOC
+
+REDIRECTION	O
+Luís	B-PER
+Henrique	I-PER
+Pereira	I-PER
+dos	I-PER
+Santos	I-PER
+
+2	B-ORG
+of	I-ORG
+Amerikaz	I-ORG
+Most	I-ORG
+Wanted	I-ORG
+''	O
+
+'	O
+''	O
+Wichita	B-LOC
+''	O
+'	O
+
+I	B-ORG
+Get	I-ORG
+Around	I-ORG
+''	O
+-	O
+The	B-ORG
+Beach	I-ORG
+Boys	I-ORG
+
+REDIRECTION	O
+Des	B-ORG
+dinosaures	I-ORG
+dans	I-ORG
+l’espace	I-ORG
+
+Franz	B-ORG
+Ferdinand	I-ORG
+–	O
+Do	B-ORG
+You	I-ORG
+Want	I-ORG
+To	I-ORG
+''	O
+
+Champion	B-ORG
+d'Allemagne	I-ORG
+en	O
+2004	B-LOC
+
+Elle	O
+est	O
+l'un	O
+des	O
+maux	O
+contenus	O
+dans	O
+la	O
+boîte	B-PER
+de	I-PER
+Pandore	I-PER
+.	O
+
+''	O
+Kevin	B-PER
+Durant	I-PER
+''	O
+'	O
+
+;	O
+Championnat	B-ORG
+d’Angleterre	I-ORG
+(	O
+2	O
+)	O
+
+Elle	O
+a	O
+également	O
+donné	O
+lieu	O
+à	O
+l'album	O
+Songs	B-ORG
+of	I-ORG
+Faith	I-ORG
+and	I-ORG
+Devotion	I-ORG
+Live	I-ORG
+''	O
+.	O
+
+Frédéric	B-PER
+de	I-PER
+Basse-Lotharingie	I-PER
+
+'	O
+''	O
+Hellé	B-PER
+Nice	I-PER
+''	O
+'	O
+
+;	O
+Bucarest	B-LOC
+,	O
+Brașov	B-LOC
+,	O
+etc	O
+.	O
+
+Elle	O
+prend	O
+rapidement	O
+une	O
+grande	O
+influence	O
+sur	O
+le	O
+roi	O
+,	O
+ce	O
+qui	O
+scandalise	O
+ses	O
+sujets	O
+et	O
+irrite	O
+ses	O
+courtisans	O
+et	O
+même	O
+son	O
+père	O
+Antigone	B-PER
+le	I-PER
+Borgne	I-PER
+.	O
+
+Le	O
+,	O
+ses	O
+obsèques	O
+se	O
+déroulèrent	O
+dans	O
+la	O
+Nécropole	B-ORG
+du	I-ORG
+mur	I-ORG
+du	I-ORG
+Kremlin	I-ORG
+.	O
+
+Chocola	B-ORG
+et	I-ORG
+Vanilla	I-ORG
+''	O
+,	O
+Moyoko	B-ORG
+Anno	I-ORG
+
+Alpaslan	B-PER
+Öztürk	I-PER
+(	O
+prêt	O
+)	O
+
+Centre	B-ORG
+Georges-Pompidou	I-ORG
+à	O
+Paris	B-LOC
+
+Dominique	B-PER
+Yvon	I-PER
+/	O
+Frédéric	B-PER
+Palluel	I-PER
+
+La	O
+Détourbe	O
+(	O
+Rouperroux-le-Coquet	B-LOC
+)	O
+-	O
+La	B-LOC
+Ferté-Bernard	I-LOC
+
+Adventistes	B-ORG
+du	I-ORG
+septième	I-ORG
+jour	I-ORG
+,	O
+1,69	O
+%	O
+;	O
+
+Théorème	B-ORG
+des	I-ORG
+trois	I-ORG
+cercles	I-ORG
+de	I-ORG
+Hadamard	I-ORG
+
+Gen¹³	B-ORG
+''	O
+vol	O
+.	O
+
+**	O
+Confederación	B-ORG
+de	I-ORG
+Trabajadores	I-ORG
+de	I-ORG
+la	I-ORG
+República	I-ORG
+de	I-ORG
+Panamá	I-ORG
+(	O
+CTRP	O
+)	O
+
+'	O
+''	O
+Sarıveliler	B-LOC
+''	O
+'	O
+
+(	O
+7	O
+sélections	O
+en	O
+Équipe	B-ORG
+de	I-ORG
+France	I-ORG
+de	I-ORG
+rugby	I-ORG
+)	O
+.	O
+
+Il	O
+côtoie	O
+Franchet	B-PER
+d'Espèrey	I-PER
+.	O
+
+''La	O
+Bayadére	O
+''	O
+,	O
+composé	O
+par	O
+Léon	B-PER
+Minkus	I-PER
+
+Abbaye	B-ORG
+Saint-Victor	I-ORG
+de	I-ORG
+Marseille	I-ORG
+,	O
+Primatiale	B-ORG
+Saint-Jean	I-ORG
+de	I-ORG
+Lyon	I-ORG
+
+La	O
+Géorgie	B-LOC
+se	O
+plaint	O
+officiellement	O
+à	O
+Israël	B-LOC
+après	O
+l’incident	O
+.	O
+
+Mark	B-PER
+Webber	I-PER
+améliore	O
+en	O
+quand	O
+Nico	B-PER
+Hülkenberg	I-PER
+semble	O
+particulièrement	O
+en	O
+difficulté	O
+et	O
+part	O
+rapidement	O
+en	O
+tête-à-queue	O
+(	O
+il	O
+en	O
+effectuera	O
+plusieurs	O
+autres	O
+durant	O
+la	O
+séance	O
+)	O
+.	O
+
+REDIRECTION	O
+Joseph	B-PER
+Nicolas	I-PER
+Pancrace	I-PER
+Royer	I-PER
+
+**	O
+Irving	B-PER
+Caesar	I-PER
+,	O
+(	O
+†	O
+)	O
+.	O
+
+Consortium	B-ORG
+pour	I-ORG
+le	I-ORG
+management	I-ORG
+de	I-ORG
+la	I-ORG
+recherche	I-ORG
+fondamentale	I-ORG
+et	I-ORG
+appliquée	I-ORG
+en	I-ORG
+Afrique	I-ORG
+au	I-ORG
+sud	I-ORG
+du	I-ORG
+Sahara	I-ORG
+
+'	O
+''	O
+Hauptmann	B-ORG
+''	O
+'	O
+
+Ces	O
+ETFs	O
+sont	O
+cotés	O
+sur	O
+les	O
+marchés	O
+réglementés	O
+Euronext	B-LOC
+.	O
+
+Oraàs	B-LOC
+et	O
+Athos-Aspis	B-LOC
+à	O
+l'ouest	O
+;	O
+
+kongo]]	O
+,	O
+République	B-LOC
+démocratique	I-LOC
+du	I-LOC
+Congo	I-LOC
+,	O
+début	O
+.	O
+
+Il	O
+dut	O
+se	O
+réfugier	O
+à	O
+l'ambassade	O
+des	O
+États-Unis	B-LOC
+.	O
+
+Son	O
+secrétariat	O
+se	O
+trouve	O
+en	O
+Suisse	B-LOC
+.	O
+
+Warren	B-PER
+Beatty	I-PER
+,	O
+Diane	B-PER
+Keaton	I-PER
+,	O
+Andie	B-PER
+MacDowell	I-PER
+,	O
+Goldie	B-PER
+Hawn	I-PER
+,	O
+Garry	B-PER
+Shandling	I-PER
+
+L'autre	O
+étant	O
+appelée	O
+Flora	B-PER
+Tristan	I-PER
+.	O
+
+'	O
+''	O
+Wagenhausen	B-LOC
+''	O
+'	O
+
+accord	B-ORG
+avec	I-ORG
+note	I-ORG
+altérée	I-ORG
+.	O
+
+Val	B-PER
+Kilmer	I-PER
+cède	O
+sa	O
+place	O
+à	O
+George	B-PER
+Clooney	I-PER
+,	O
+opposé	O
+à	O
+Arnold	B-PER
+Schwarzenegger	I-PER
+et	O
+Uma	B-PER
+Thurman	I-PER
+.	O
+
+Bror	B-PER
+Mellberg	I-PER
+(	O
+6	O
+)	O
+
+Parc	B-LOC
+national	I-LOC
+des	I-LOC
+Virunga	I-LOC
+
+**	O
+Blessing	B-PER
+Okagbare	I-PER
+,	O
+athlète	B-ORG
+de	I-ORG
+sprint	I-ORG
+et	I-ORG
+de	I-ORG
+saut	I-ORG
+en	I-ORG
+longueur	I-ORG
+nigériane	B-LOC
+.	O
+
+Les	O
+'	O
+''	O
+Orléanistes	B-ORG
+''	O
+'	O
+
+La	O
+croyance	O
+(	O
+Henri	B-PER
+Delacroix	I-PER
+)	O
+
+'	O
+''	O
+Motherwell	B-ORG
+FC	I-ORG
+''	O
+'	O
+
+Liste	B-ORG
+8	I-ORG
+Les	I-ORG
+Verts	I-ORG
+Canton	I-ORG
+de	I-ORG
+Berne	I-ORG
+
+REDIRECTION	O
+Chvalkovice	B-LOC
+(	I-LOC
+district	I-LOC
+de	I-LOC
+Náchod	I-LOC
+)	I-LOC
+
+Maria	B-PER
+Selvaggia	I-PER
+Borghini	I-PER
+(	O
+''Filotima	O
+Innia	O
+''	O
+)	O
+
+Lionel	B-PER
+Atwill	I-PER
+,	O
+Fay	B-PER
+Wray	I-PER
+,	O
+Glenda	B-PER
+Farrell	I-PER
+
+Il	O
+ne	O
+reste	O
+que	O
+deux	O
+ans	O
+à	O
+Messine	B-LOC
+.	O
+
+'	O
+''	O
+Ankara	B-ORG
+Şekerspor	I-ORG
+''	O
+'	O
+
+Rapid	B-ORG
+Alert	I-ORG
+System	I-ORG
+for	I-ORG
+Food	I-ORG
+and	I-ORG
+Feed	I-ORG
+
+Anticipée	O
+après	O
+la	O
+démission	O
+Alexandre	B-PER
+Ankvab	I-PER
+.	O
+
+L'ouverture	O
+des	O
+données	O
+scientifiques	O
+et	O
+le	O
+libre	B-ORG
+accès	I-ORG
+sont	O
+deux	O
+sujets	O
+connexes	O
+mais	O
+distincts	O
+.	O
+
+2	O
+-	O
+match	O
+pour	O
+la	O
+place	O
+-	O
+Hong	B-LOC
+Kong	I-LOC
+
+'	O
+''	O
+Finale	O
+''	O
+'	O
+Dorothy	B-ORG
+Round	I-ORG
+
+À	O
+ce	O
+poste	O
+,	O
+il	O
+a	O
+remplacé	O
+Rudolf	B-PER
+Chmel	I-PER
+,	O
+contraint	O
+à	O
+la	O
+démission	O
+.	O
+
+REDIRECTION	O
+Championnat	B-ORG
+d'Italie	I-ORG
+de	I-ORG
+basket-ball	I-ORG
+féminin	I-ORG
+
+I	B-ORG
+Might	I-ORG
+Be	I-ORG
+Wrong	I-ORG
+:	I-ORG
+Live	I-ORG
+Recordings	I-ORG
+''	O
+
+**	O
+Giulio	B-PER
+Campi	I-PER
+(	O
+1502–1572	O
+)	O
+
+Harald	B-PER
+Vollmar	I-PER
+568	O
+pts	O
+.	O
+
+''L'Odyssée	O
+à	O
+contre-temps	O
+''	O
+(	O
+Les	B-ORG
+Humanoïdes	I-ORG
+Associés	I-ORG
+,	O
+1991	B-LOC
+)	O
+
+Lionel	B-PER
+Atwill	I-PER
+,	O
+Raymond	B-PER
+Walburn	I-PER
+,	O
+Irene	B-PER
+Hervey	I-PER
+
+REDIRECTION	O
+D.	B-PER
+M.	I-PER
+Jayaratne	I-PER
+
+Action	B-ORG
+Guns	I-ORG
+''	O
+(	O
+notamment	O
+l'article	O
+d'Y	O
+.	O
+
+Shia	B-PER
+LaBeouf	I-PER
+,	O
+Tom	B-PER
+Hardy	I-PER
+,	O
+Gary	B-PER
+Oldman	I-PER
+,	O
+Mia	B-PER
+Wasikowska	I-PER
+,	O
+Jessica	B-PER
+Chastain	I-PER
+,	O
+Dane	B-PER
+DeHaan	I-PER
+,	O
+Jason	B-PER
+Clarke	I-PER
+et	O
+Guy	B-PER
+Pearce	I-PER
+
+Sa	O
+capitale	O
+est	O
+Bagdad	B-LOC
+.	O
+
+|	O
+Guys	B-ORG
+With	I-ORG
+Kids	I-ORG
+''	O
+
+Santa	B-LOC
+Gadea	I-LOC
+del	I-LOC
+Cid	I-LOC
+
+scope=	O
+''	O
+row	O
+''	O
+|	O
+La	B-LOC
+Roche-Posay	I-LOC
+
+Le	O
+lendemain	O
+,	O
+Dick	B-PER
+Advocaat	I-PER
+présente	O
+sa	O
+démission	O
+au	O
+président	O
+.	O
+
+Oblast	B-LOC
+de	I-LOC
+Kalouga	I-LOC
+(	O
+sud-ouest	O
+)	O
+;	O
+
+Danilo	B-PER
+Dolci	I-PER
+,	O
+politicien	O
+;	O
+
+Todd	B-ORG
+and	I-ORG
+the	I-ORG
+Book	I-ORG
+of	I-ORG
+Pure	I-ORG
+Evil	I-ORG
+''	O
+
+Écouen	B-LOC
+(	O
+FR-95	B-LOC
+)	O
+
+Ces	O
+deux	O
+gouvernements	O
+,	O
+ainsi	O
+que	O
+l’UE	O
+et	O
+ONU	B-ORG
+,	O
+ont	O
+cependant	O
+attendu	O
+la	O
+proclamation	O
+des	O
+résultats	O
+pour	O
+se	O
+prononcer	O
+officiellement	O
+.	O
+
+Cinq	O
+sources	O
+principales	O
+alimentent	O
+le	O
+ruisseau	O
+qui	O
+va	O
+rejoindre	O
+la	O
+Brenne	B-LOC
+à	O
+Uncey-le-Franc	B-LOC
+.	O
+
+**	O
+''Finaliste	O
+''	O
+en	O
+1930	B-ORG
+
+Parc	B-ORG
+national	I-ORG
+Alberto	I-ORG
+de	I-ORG
+Agostini	I-ORG
+
+État	B-LOC
+français	I-LOC
+en	O
+propre	O
+,	O
+
+Barrage	B-ORG
+de	I-ORG
+Sefid	I-ORG
+Roud	I-ORG
+
+Elle	O
+commence	O
+à	O
+publier	O
+dans	O
+Thrilling	B-ORG
+Wonder	I-ORG
+Stories	I-ORG
+&	O
+Astounding	B-ORG
+Stories	I-ORG
+''	O
+.	O
+
+Les	O
+pilotes	O
+qui	O
+ont	O
+couru	O
+pour	O
+l'équipe	O
+sont	O
+,	O
+entre	O
+autres	O
+,	O
+Justin	B-PER
+Wilson	I-PER
+,	O
+Nelson	B-PER
+Philippe	I-PER
+,	O
+Andrew	B-PER
+Ranger	I-PER
+et	O
+Graham	B-PER
+Rahal	I-PER
+.	O
+
+Il	O
+fréquente	O
+École	B-ORG
+militaire	I-ORG
+de	I-ORG
+Coëtquidan	I-ORG
+.	O
+
+Baldur	B-PER
+von	I-PER
+Schirach	I-PER
+(	O
+Vienne	B-LOC
+)	O
+
+Gare	B-ORG
+de	I-ORG
+Ferland	I-ORG
+à	O
+Thunder	B-LOC
+Bay	I-LOC
+dans	O
+Ontario	B-LOC
+;	O
+
+Taylor	B-PER
+Swift	I-PER
+-	O
+Love	B-ORG
+Story	I-ORG
+''	O
+
+Pistacia	B-LOC
+palaestina	I-LOC
+''	O
+,	O
+
+REDIRECTION	O
+Luciano	B-PER
+(	I-PER
+musicien	I-PER
+)	I-PER
+
+IHI	B-ORG
+Kure	I-ORG
+,	O
+Japon	B-LOC
+;	O
+
+===	O
+Dans	O
+la	O
+Rome	B-LOC
+antique	I-LOC
+===	O
+
+Munster	B-LOC
+,	O
+ville	O
+(	O
+)	O
+
+Il	O
+a	O
+marqué	O
+15	O
+points	O
+lors	O
+d'une	O
+victoire	O
+(	O
+96-88	O
+)	O
+après	O
+prolongation	O
+des	O
+Mavericks	B-ORG
+de	I-ORG
+Dallas	I-ORG
+contre	O
+les	O
+Nets	B-ORG
+de	I-ORG
+Brooklyn	I-ORG
+.	O
+
+'	O
+''	O
+Trmice	B-LOC
+''	O
+'	O
+-	O
+
+Breckenridge	B-LOC
+(	I-LOC
+Minnesota	I-LOC
+)	I-LOC
+
+**	O
+Alfred	B-PER
+Shrubb	I-PER
+,	O
+athlète	B-ORG
+de	I-ORG
+fond	I-ORG
+britannique	B-LOC
+.	O
+
+Gert	B-PER
+Verheyen	I-PER
+(	O
+13	O
+)	O
+
+Les	O
+'	O
+''	O
+'	O
+reçoivent	O
+le	O
+Benfica	B-ORG
+Lisbonne	I-ORG
+.	O
+
+'	O
+''	O
+Hosea	B-PER
+Gear	I-PER
+''	O
+'	O
+
+Yasser	B-PER
+Arafat	I-PER
+est	O
+contraint	O
+à	O
+quitter	O
+Beyrouth	B-LOC
+pour	O
+Tunis	B-LOC
+.	O
+
+REDIRECTION	O
+Serviciul	B-ORG
+Român	I-ORG
+de	I-ORG
+Informații	I-ORG
+
+Les	B-LOC
+Allues	I-LOC
+(	O
+73	O
+)	O
+
+Lu	B-LOC
+est	O
+annexé	O
+par	O
+Chu	B-LOC
+.	O
+
+REDIRECTION	O
+Super	B-ORG
+Hero	I-ORG
+Family	I-ORG
+
+Jusqu'à	B-ORG
+ce	I-ORG
+que	I-ORG
+la	I-ORG
+mort	I-ORG
+nous	I-ORG
+sépare	I-ORG
+(	I-ORG
+manga	I-ORG
+)	I-ORG
+
+Monument	B-ORG
+de	I-ORG
+ceux	I-ORG
+qui	I-ORG
+sont	I-ORG
+tombés	I-ORG
+pour	I-ORG
+l'Espagne	I-ORG
+
+Symphonica	O
+–	O
+Nicky	B-PER
+Romero	I-PER
+
+Malo	B-LOC
+Crniće	I-LOC
+(	O
+Crljenac	B-LOC
+)	O
+
+En	O
+demi-finale	O
+,	O
+les	O
+deux	O
+protagonistes	O
+avaient	O
+respectivement	O
+battu	O
+Joyce	B-PER
+Fitch	I-PER
+et	O
+Nancye	B-PER
+Wynne	I-PER
+Bolton	I-PER
+.	O
+
+REDIRECTION	O
+Gianni	B-PER
+De	I-PER
+Magistris	I-PER
+
+``	O
+She	B-ORG
+'s	I-ORG
+My	I-ORG
+Rock	I-ORG
+''	O
+
+REDIRECTION	O
+Göyçay	B-LOC
+(	I-LOC
+raion	I-LOC
+)	I-LOC
+
+Stryn	B-LOC
+(	O
+HS100	O
+/	O
+)	O
+
+et	O
+d'autres	O
+auteurs	O
+(	O
+Valerio	B-PER
+Evangelisti	I-PER
+,	O
+
+Carl	B-PER
+Oesterley	I-PER
+d.J	I-PER
+.	I-PER
+(	O
+1839–1930	O
+)	O
+
+Ben	B-PER
+Moon	I-PER
+(	O
+1966-	O
+)	O
+
+le	O
+Lignon	B-LOC
+du	I-LOC
+Velay	I-LOC
+au	O
+Le	B-LOC
+Chambon-sur-Lignon	I-LOC
+,	O
+
+REDIRECTION	O
+Vargas	B-PER
+(	I-PER
+comics	I-PER
+)	I-PER
+
+et	O
+repos	O
+vers	O
+Longuyon	B-LOC
+.	O
+
+Rheinstadion	B-LOC
+,	O
+Düsseldorf	B-LOC
+Diekman	B-ORG
+Stadion	I-ORG
+,	O
+Enschede	B-LOC
+
+REDIRECTION	O
+Battement	B-ORG
+(	I-ORG
+physique	I-ORG
+)	I-ORG
+
+Les	B-LOC
+Bordes	I-LOC
+(	I-LOC
+Saône-et-Loire	I-LOC
+)	I-LOC
+
+Il	O
+collabore	O
+toujours	O
+à	O
+Avui	B-ORG
+''	O
+et	O
+à	O
+Público	B-ORG
+''	O
+.	O
+
+**	O
+'	O
+''	O
+40	O
+''	O
+'	O
+20px	O
+Andrew	B-PER
+Bailey	I-PER
+
+Elle	O
+s'est	O
+répandue	O
+aussi	O
+à	O
+Halle	B-LOC
+et	O
+Dessau	B-ORG
+.	O
+
+Aurano	B-LOC
+,	O
+Caprezzo	B-LOC
+,	O
+Miazzina	B-LOC
+,	O
+Premeno	B-LOC
+,	O
+Vignone	B-LOC
+
+1	O
+/	O
+2	O
+finale	O
+Pavel	B-PER
+Vízner	I-PER
+
+Le	B-ORG
+Vieil	I-ORG
+Homme	I-ORG
+et	I-ORG
+l'Enfant	I-ORG
+
+'	O
+''	O
+Rüfenach	B-LOC
+''	O
+'	O
+
+Angel	B-ORG
+(	I-ORG
+série	I-ORG
+télévisée	I-ORG
+)	I-ORG
+
+Unitariens	B-ORG
+,	O
+2,58	O
+%	O
+;	O
+
+Elle	O
+s'appelle	O
+depuis	O
+la	O
+Coupe	B-ORG
+de	I-ORG
+la	I-ORG
+mer	I-ORG
+du	I-ORG
+Nord	I-ORG
+de	I-ORG
+rugby	I-ORG
+.	O
+
+Ses	O
+travaux	O
+seront	O
+utilisés	O
+par	O
+Einstein	B-PER
+.	O
+
+**	O
+Spartak	B-ORG
+Moscou	I-ORG
+'	O
+''	O
+1-1	O
+''	O
+'	O
+Sporting	B-ORG
+Portugal	I-ORG
+;	O
+
+REDIRECTION	O
+Bruno	B-PER
+Soriano	I-PER
+Llido	I-PER
+
+Garbage	B-ORG
+au	O
+Parlement	B-ORG
+écossais	I-ORG
+à	O
+Édimbourg	B-LOC
+;	O
+
+Il	O
+devient	O
+son	O
+amant	O
+alors	O
+qu'elle	O
+a	O
+tout	O
+juste	O
+vingt	O
+ans	O
+,	O
+puis	O
+il	O
+disparaît	O
+en	O
+Union	B-LOC
+soviétique	I-LOC
+.	O
+
+Italie	B-LOC
+compte	O
+33	O
+millions	O
+d’habitants	O
+.	O
+
+Champion	B-ORG
+d'Argentine	I-ORG
+2013	B-LOC
+(	I-LOC
+Clôture	I-LOC
+)	I-LOC
+avec	O
+les	O
+Newell	B-ORG
+'s	I-ORG
+Old	I-ORG
+Boys	I-ORG
+
+Wilaya	B-LOC
+de	I-LOC
+Bordj	I-LOC
+Bou	I-LOC
+Arreridj	I-LOC
+
+Tillandsia	B-LOC
+tovarensis	I-LOC
+''	O
+Mez	B-PER
+
+Fabolous	B-PER
+&	O
+André	B-PER
+3000	I-PER
+)	O
+–	O
+4:34	O
+
+REDIRECTION	O
+Sanctuaire	B-ORG
+des	I-ORG
+martyrs	I-ORG
+canadiens	I-ORG
+
+'	O
+''	O
+NMS	O
+''	O
+'	O
+–	O
+Namsang	O
+,	O
+Birmanie	B-ORG
+
+Alfred	B-PER
+Hitchcock	I-PER
+présente	I-PER
+(	I-PER
+série	I-PER
+télévisée	I-PER
+,	I-PER
+1955	I-PER
+)	I-PER
+
+Marguerite	B-PER
+Moreno	I-PER
+,	O
+Mona	B-PER
+Goya	I-PER
+
+Saint-Hippolyte	B-LOC
+(	I-LOC
+Haut-Rhin	I-LOC
+)	I-LOC
+
+**	O
+Ride	B-LOC
+du	I-LOC
+90°	I-LOC
+Est	I-LOC
+
+Liste	B-ORG
+des	I-ORG
+gouverneurs	I-ORG
+de	I-ORG
+l'Idaho	I-ORG
+
+»	O
+(	O
+Poullain	B-PER
+de	I-PER
+La	I-PER
+Barre	I-PER
+)	O
+.	O
+
+Barge	B-LOC
+,	O
+Revello	B-LOC
+,	O
+Rifreddo	B-LOC
+,	O
+Sanfront	B-LOC
+
+Fritz	B-PER
+Honka	I-PER
+(	O
+1935-1998	O
+)	O
+(	O
+4	O
+victimes	O
+)	O
+.	O
+
+Shaquille	B-PER
+O'Neal	I-PER
+,	O
+Hakeem	B-PER
+Olajuwon	I-PER
+,	O
+Alonzo	B-PER
+Mourning	I-PER
+ou	O
+Dikembe	B-PER
+Mutombo	I-PER
+en	O
+ont	O
+par	O
+la	O
+suite	O
+fait	O
+leur	O
+spécialité	O
+.	O
+
+Viennent	O
+ensuite	O
+la	O
+France	B-LOC
+et	O
+le	O
+Royaume-Uni	B-LOC
+avec	O
+chacun	O
+cinquante-neuf	O
+participations	O
+,	O
+en	O
+2016	B-ORG
+.	O
+
+Abhishek	B-PER
+Bachchan	I-PER
+,	O
+Bipasha	B-PER
+Basu	I-PER
+...	O
+
+Université	B-ORG
+de	I-ORG
+la	I-ORG
+Saskatchewan	I-ORG
+(	O
+CIAU	O
+)	O
+
+Elle	O
+a	O
+,	O
+par	O
+la	O
+suite	O
+,	O
+déménagé	O
+à	O
+Los	B-LOC
+Angeles	I-LOC
+.	O
+
+Jan	B-PER
+Van	I-PER
+Steenberghe	I-PER
+FCV	B-ORG
+Dender	I-ORG
+EH	I-ORG
+
+vers	O
+Lens	B-LOC
+et	O
+Merville	B-LOC
+.	O
+
+Les	O
+Américains	O
+remportent	O
+la	O
+poule	O
+A	O
+devant	O
+le	O
+Canada	B-ORG
+.	O
+
+Le	O
+groupe	O
+sort	O
+trois	O
+singles	O
+,	O
+suivi	O
+par	O
+Hō	B-ORG
+''	O
+.	O
+
+'	O
+''	O
+Concarneau	B-LOC
+''	O
+'	O
+
+Alan	B-PER
+Tomes	I-PER
+(	O
+48	O
+)	O
+
+Ma	B-LOC
+On	I-LOC
+Shan	I-LOC
+(	I-LOC
+ville	I-LOC
+)	I-LOC
+
+REDIRECTION	O
+Crise	B-ORG
+politique	I-ORG
+de	I-ORG
+2013-2014	I-ORG
+en	I-ORG
+Thaïlande	I-ORG
+
+Xian	B-LOC
+autonome	I-LOC
+gelao	I-LOC
+et	I-LOC
+miao	I-LOC
+de	I-LOC
+Daozhen	I-LOC
+
+REDIRECTION	O
+Aleaume	B-PER
+de	I-PER
+Burgos	I-PER
+
+Émirats	B-LOC
+arabes	I-LOC
+unis	I-LOC
+(	O
+2	O
+,	O
+T	O
+)	O
+
+12	O
+Charouz	B-ORG
+Racing	I-ORG
+System	I-ORG
+
+Il	O
+y	O
+invite	O
+son	O
+ami	O
+Roger	B-PER
+Bissière	I-PER
+.	O
+
+Restauration	B-LOC
+bourbonienne	I-LOC
+en	I-LOC
+Espagne	I-LOC
+
+22	O
+sélections	O
+avec	O
+Équipe	B-ORG
+des	I-ORG
+Fidji	I-ORG
+de	I-ORG
+rugby	I-ORG
+à	I-ORG
+XV	I-ORG
+
+REDIRECTION	O
+Ligue	B-ORG
+des	I-ORG
+communistes	I-ORG
+de	I-ORG
+Macédoine	I-ORG
+
+Un	O
+Te	B-PER
+Deum	I-PER
+''	O
+est	O
+chanté	O
+le	O
+lendemain	O
+.	O
+
+Peter	B-PER
+Thomson	I-PER
+(	O
+5	O
+/	O
+5	O
+)	O
+
+Elisabetta	B-PER
+de	I-PER
+Gambarini	I-PER
+
+**	O
+'	O
+''	O
+Épopée	B-PER
+de	I-PER
+Sicyone	I-PER
+''	O
+'	O
+,	O
+premier	O
+époux	O
+Antiope	B-PER
+;	O
+
+**	O
+Jaysuma	B-PER
+Saidy	I-PER
+Ndure	I-PER
+,	O
+athlète	B-ORG
+de	I-ORG
+sprint	I-ORG
+norvégien	B-LOC
+.	O
+
+'	O
+''	O
+Genlis	B-LOC
+''	O
+'	O
+
+Adventistes	B-ORG
+du	I-ORG
+septième	I-ORG
+jour	I-ORG
+,	O
+0,35	O
+%	O
+.	O
+
+Aywaille	B-LOC
+(	O
+partiellement	O
+)	O
+
+In	B-ORG
+Through	I-ORG
+the	I-ORG
+Out	I-ORG
+Door	I-ORG
+
+L'occupant	O
+a	O
+3	O
+blessés	O
+légers	O
+alors	O
+que	O
+les	O
+FTP	B-ORG
+perdent	O
+2	O
+hommes	O
+.	O
+
+'	O
+''	O
+Donald	B-PER
+Coggan	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Sarreguemines	B-LOC
+''	O
+'	O
+''	O
+(	O
+km	O
+49	O
+)	O
+''	O
+
+Standard	B-ORG
+de	I-ORG
+Liège	I-ORG
+(	O
+25.440	O
+)	O
+
+École	B-ORG
+nationale	I-ORG
+supérieure	I-ORG
+des	I-ORG
+arts	I-ORG
+et	I-ORG
+industries	I-ORG
+textiles	I-ORG
+(	O
+TSI	O
+)	O
+,	O
+
+'	O
+''	O
+Pont-l'Évêque	B-LOC
+''	O
+'	O
+''	O
+(	O
+km	O
+16	O
+)	O
+''	O
+
+Du	B-PER
+Perron	I-PER
+,	I-PER
+Edgar	I-PER
+,	O
+''Le	O
+pays	O
+d'origine	O
+''	O
+
+Mickey	B-PER
+Rourke	I-PER
+,	O
+Jason	B-PER
+Statham	I-PER
+,	O
+Ray	B-PER
+Liotta	I-PER
+
+Luca	B-PER
+Cordero	I-PER
+di	I-PER
+Montezemolo	I-PER
+
+Musée	B-ORG
+Goya	I-ORG
+,	O
+Castres	B-LOC
+.	O
+
+Steven	B-PER
+O'Donnell	I-PER
+(	O
+V.Q	O
+.	O
+
+Marisol	B-PER
+Touraine	I-PER
+,	O
+Pascal	B-PER
+Obispo	I-PER
+,	O
+Patrick	B-PER
+Sabatier	I-PER
+,	O
+Christine	B-PER
+Ockrent	I-PER
+,	O
+Riad	B-PER
+Sattouf	I-PER
+
+UPC	B-ORG
+Romania	I-ORG
+(	O
+Liberty	B-ORG
+Global	I-ORG
+)	O
+
+São	B-LOC
+Francisco	I-LOC
+de	I-LOC
+Goiás	I-LOC
+
+Le	O
+public	O
+est	O
+invité	O
+à	O
+défiler	O
+devant	O
+son	O
+cercueil	O
+à	O
+Montréal	B-LOC
+,	O
+puis	O
+à	O
+Québec	B-LOC
+,	O
+sa	O
+ville	O
+natale	O
+.	O
+
+En	O
+finale	O
+,	O
+elle	O
+bat	O
+Sharon	B-PER
+Walsh	I-PER
+.	O
+
+Lauryn	B-PER
+Williams11	I-PER
+s	O
+01	O
+'	O
+''	O
+SB	O
+
+Réserve	B-LOC
+de	I-LOC
+biosphère	I-LOC
+de	I-LOC
+Fundy	I-LOC
+
+''Wonderworld	O
+''	O
+(	O
+Ken	B-PER
+Hensley	I-PER
+)	O
+-	O
+4:29	O
+
+==	O
+District	B-LOC
+de	I-LOC
+Kronstadt	I-LOC
+==	O
+
+Francfort	B-ORG
+Skyliners	I-ORG
+''	O
+(	O
+11	O
+)	O
+''	O
+
+Îles	B-LOC
+Caïmans	I-LOC
+(	O
+Royaume-Uni	B-LOC
+)	O
+
+Toutes	O
+les	O
+chansons	O
+ont	O
+été	O
+écrites	O
+par	O
+Ray	B-PER
+Charles	I-PER
+sauf	O
+celles	O
+indiquées	O
+.	O
+
+Elle	O
+est	O
+diffusée	O
+chaque	O
+lundi	O
+à	O
+8	O
+h	O
+30	O
+et	O
+rediffusée	O
+le	O
+samedi	O
+à	O
+23	O
+h	O
+00	O
+sur	O
+France	B-PER
+5	I-PER
+.	O
+
+Chahains	B-LOC
+(	O
+source	O
+)	O
+,	O
+
+===	O
+Van	B-ORG
+'s	I-ORG
+Aircraft	I-ORG
+===	O
+
+Saint-André]]	O
+,	O
+Saint-Antonin-de-Lacalm	B-LOC
+,	O
+Saint-Lieux-Lafenasse	B-LOC
+,	O
+Sieurac	B-LOC
+,	O
+Teillet	B-LOC
+,	O
+Terre-Clapier	B-LOC
+,	O
+Le	B-LOC
+Travet	I-LOC
+,	O
+Villefranche-d'Albigeois	B-LOC
+.	O
+
+Alan	B-PER
+Parsons	I-PER
+,	O
+producteur	B-PER
+britannique	B-LOC
+(	O
+conférencier	O
+)	O
+;	O
+
+Marsico	B-LOC
+Nuovo	I-LOC
+,	O
+Marsicovetere	B-LOC
+,	O
+Padula	B-LOC
+,	O
+Tramutola	B-LOC
+
+Ali	B-PER
+Bongo	I-PER
+,	O
+président	B-ORG
+de	I-ORG
+la	I-ORG
+République	I-ORG
+gabonaise	I-ORG
+
+Il	O
+rejoint	O
+le	O
+à	O
+Liverpool	B-LOC
+.	O
+
+Il	O
+appelle	O
+aussi	O
+à	O
+l'amnistie	O
+dans	O
+Rivarol	B-ORG
+''	O
+la	O
+même	O
+année	O
+.	O
+
+Vanneau	B-LOC
+à	I-LOC
+queue	I-LOC
+blanche	I-LOC
+
+le	O
+Cervin	B-LOC
+-	O
+;	O
+
+Kenneth	B-PER
+Anderson	I-PER
+(	I-PER
+catcheur	I-PER
+)	I-PER
+
+Al-Mutawakkil	B-PER
+II	I-PER
+(	O
+1479-1497	O
+)	O
+
+Ministère	B-ORG
+des	I-ORG
+Finances	I-ORG
+(	I-ORG
+Japon	I-ORG
+)	I-ORG
+
+L'Espagnole	O
+Blanca	B-PER
+Fernández	I-PER
+Ochoa	I-PER
+est	O
+en	O
+tête	O
+.	O
+
+'	O
+''	O
+Suicidal	B-ORG
+Tendencies	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+Mahendra	B-PER
+Chaudhry	I-PER
+''	O
+'	O
+
+''	O
+Kamen	B-ORG
+Rider	I-ORG
+Den-O	I-ORG
+''	O
+
+Affile	B-LOC
+,	O
+Bellegra	B-LOC
+,	O
+Canterano	B-LOC
+,	O
+Gerano	B-LOC
+,	O
+Subiaco	B-LOC
+
+Comté	B-LOC
+de	I-LOC
+Newaygo	I-LOC
+(	O
+sud-est	O
+)	O
+
+Armaan	B-PER
+Ebrahim	I-PER
+,	O
+Andy	B-PER
+Soucek	I-PER
+,	O
+Diego	B-PER
+Nunes	I-PER
+
+Trolls	B-PER
+de	I-PER
+Troy	I-PER
+,	O
+
+Blanice	B-LOC
+(	I-LOC
+affluent	I-LOC
+de	I-LOC
+la	I-LOC
+Sázava	I-LOC
+)	I-LOC
+
+Renée	B-PER
+Saint-Cyr	I-PER
+,	O
+Roger	B-PER
+Pigaut	I-PER
+,	O
+André	B-PER
+Brulé	I-PER
+
+REDIRECTION	O
+Never	B-ORG
+Say	I-ORG
+Never	B-ORG
+(	I-ORG
+album	I-ORG
+de	I-ORG
+Kim	I-ORG
+Wilde	I-ORG
+)	I-ORG
+
+Sestrières	B-LOC
+(	O
+4	O
+)	O
+
+Kirchworbis	B-LOC
+(	O
+)	O
+.	O
+
+Bundesautobahn	B-ORG
+1	I-ORG
+''	O
+Rhin	B-LOC
+''	O
+
+Philip	B-PER
+Madoc	I-PER
+—	O
+''Eelek	O
+''	O
+
+André	B-PER
+Chalmel	I-PER
+(	O
+FRA	B-LOC
+)	O
+
+)	O
+,	O
+3	O
+Salvatore	B-PER
+Perugini	I-PER
+puis	O
+Jean-Baptiste	B-PER
+Poux	I-PER
+(	O
+)	O
+,	O
+2	O
+William	B-PER
+Servat	I-PER
+,	O
+1	O
+Daan	B-PER
+Human	I-PER
+.	O
+
+''	O
+One	B-ORG
+Piece	I-ORG
+''	O
+(	O
+''Budak	O
+Getah	O
+''	O
+)	O
+
+dix	O
+délégués	O
+pour	O
+Mennecy	B-LOC
+
+Paul	B-PER
+Bley	I-PER
+(	O
+p	O
+)	O
+,	O
+Paul	B-PER
+Motian	I-PER
+(	O
+dm	O
+)	O
+
+Il	O
+vit	O
+et	O
+travaille	O
+entre	O
+Paris	B-LOC
+,	O
+Rome	B-LOC
+,	O
+New	B-LOC
+York	I-LOC
+et	O
+Mysore	B-LOC
+.	O
+
+REDIRECTION	O
+Cour	B-ORG
+constitutionnelle	I-ORG
+de	I-ORG
+la	I-ORG
+République	I-ORG
+démocratique	I-ORG
+du	I-ORG
+Congo	I-ORG
+
+**	O
+Dixmude	B-LOC
+(	O
+''Diksmuide	O
+''	O
+)	O
+
+==	O
+Formé	O
+au	O
+ŠK	B-ORG
+Slovan	I-ORG
+Bratislava	I-ORG
+==	O
+
+Rikke	B-PER
+Schmidt	I-PER
+(	O
+2012-2014	O
+)	O
+
+Personnage	O
+joué	O
+par	O
+Rita	B-PER
+Moreno	I-PER
+
+Fièvre	B-LOC
+pourprée	I-LOC
+des	I-LOC
+Montagnes	I-LOC
+Rocheuses	I-LOC
+
+Université	B-ORG
+du	I-ORG
+Sannio	I-ORG
+(	O
+Bénévent	B-LOC
+)	O
+|	O
+
+''Jésus	O
+et	O
+ses	O
+disciples	O
+''	O
+,	O
+Cathédrale	B-ORG
+Notre-Dame	I-ORG
+de	I-ORG
+Dax	I-ORG
+.	O
+
+La	B-ORG
+SNCB	I-ORG
+(	I-ORG
+Société	I-ORG
+Nationale	I-ORG
+des	I-ORG
+Chemins	I-ORG
+de	I-ORG
+fer	I-ORG
+Belge	I-ORG
+)	I-ORG
+
+Montaigu]]	O
+,	O
+Saint-Georges-de-Montaigu	B-LOC
+et	O
+Saint-Hilaire-de-Loulay	B-LOC
+
+Adventistes	B-ORG
+du	I-ORG
+septième	I-ORG
+jour	I-ORG
+,	O
+0,74	O
+%	O
+.	O
+
+;	O
+Récompenses	O
+aux	O
+championnats	B-ORG
+du	I-ORG
+monde	I-ORG
+
+entre	O
+Égypte	B-LOC
+,	O
+la	O
+Grèce	B-LOC
+et	O
+Chypre	B-LOC
+;	O
+
+**	O
+Importation	O
+des	O
+premiers	O
+esclaves	O
+originaires	O
+Afrique	B-LOC
+.	O
+
+Musée	B-ORG
+Bourdelle	I-ORG
+(	O
+VP	O
+)	O
+
+Antillo	B-LOC
+,	O
+Casalvecchio	B-LOC
+Siculo	I-LOC
+,	O
+Forza	B-LOC
+d'Agrò	I-LOC
+,	O
+Mongiuffi	B-LOC
+Melia	I-LOC
+,	O
+Roccafiorita	B-LOC
+
+en	O
+Angola	B-LOC
+,	O
+en	O
+Namibie	B-LOC
+,	O
+au	O
+Botswana	B-LOC
+,	O
+au	O
+Zimbabwe	B-LOC
+,	O
+en	O
+Zambie	B-LOC
+,	O
+au	O
+Malawi	B-LOC
+,	O
+au	O
+Mozambique	B-LOC
+et	O
+au	O
+Swaziland	B-LOC
+.	O
+
+Elle	O
+a	O
+fini	O
+2	O
+à	O
+Lake	B-LOC
+Placid	I-LOC
+et	O
+La	B-LOC
+Molina	I-LOC
+.	O
+
+Turnera	B-LOC
+''	O
+L	O
+.	O
+
+C'est	O
+ainsi	O
+qu'il	O
+connut	O
+plus	O
+particulièrement	O
+Max	B-PER
+Ernst	I-PER
+,	O
+Man	B-PER
+Ray	I-PER
+et	O
+René	B-PER
+Crevel	I-PER
+.	O
+
+REDIRECTION	O
+New	B-ORG
+Orleans	I-ORG
+Police	I-ORG
+Department	I-ORG
+
+Gregory	B-PER
+Peck	I-PER
+,	O
+Joseph	B-PER
+Cotten	I-PER
+,	O
+Jennifer	B-PER
+Jones	I-PER
+,	O
+Lionel	B-PER
+Barrymore	I-PER
+
+Il	O
+obtient	O
+un	O
+diplôme	O
+d'architecte	O
+à	O
+Université	B-ORG
+Columbia	I-ORG
+,	O
+à	O
+New	B-LOC
+York	I-LOC
+.	O
+
+Ikoma	B-PER
+Takatoshi	I-PER
+(	O
+生駒高俊	O
+)	O
+
+====	O
+Hyperfonction	B-ORG
+de	I-ORG
+Heaviside	I-ORG
+====	O
+
+Gautier	B-PER
+de	I-PER
+Coutances	I-PER
+lui	O
+succède	O
+à	O
+l'archevêché	O
+.	O
+
+Peniche	B-LOC
+(	O
+Portugal	B-LOC
+)	O
+
+Champion	B-ORG
+olympique	I-ORG
+du	I-ORG
+1	I-ORG
+000	I-ORG
+m	I-ORG
+et	I-ORG
+médaillé	I-ORG
+d'argent	I-ORG
+du	I-ORG
+relais	I-ORG
+4×5	I-ORG
+000	I-ORG
+m	I-ORG
+aux	O
+Jeux	B-ORG
+de	I-ORG
+Nagano	I-ORG
+1998	I-ORG
+.	O
+
+**	O
+5	O
+participations	O
+(	O
+2000	B-ORG
+,	O
+2002	B-ORG
+,	O
+2003	B-ORG
+,	O
+2004	B-ORG
+,	O
+2005	B-ORG
+)	O
+
+Saint-Victor	B-LOC
+(	I-LOC
+Ardèche	I-LOC
+)	I-LOC
+
+Romilly-sur-Seine	B-LOC
+''	O
+(	O
+km	O
+120	O
+)	O
+''	O
+
+REDIRECTION	O
+Possessed	B-ORG
+(	I-ORG
+démo	I-ORG
+)	I-ORG
+
+Grecs-Catholiques	B-LOC
+,	O
+5,52	O
+%	O
+;	O
+
+Classée	O
+2.2	O
+à	O
+UCI	B-ORG
+America	I-ORG
+Tour	I-ORG
+2009	I-ORG
+,	O
+elle	O
+a	O
+été	O
+remportée	O
+par	O
+le	O
+Chilien	B-LOC
+Luis	B-PER
+Fernando	I-PER
+Sepúlveda	I-PER
+.	O
+
+La	O
+Centrale	B-ORG
+solaire	I-ORG
+Thémis	I-ORG
+
+Adolf	B-PER
+Galland	I-PER
+,	O
+''Les	O
+Premiers	O
+et	O
+les	O
+derniers	O
+''	O
+
+Domfessel	B-LOC
+''	O
+(	O
+km	O
+21	O
+)	O
+''	O
+
+Finale	B-ORG
+de	I-ORG
+la	I-ORG
+Coupe	I-ORG
+d'Europe	I-ORG
+des	I-ORG
+vainqueurs	I-ORG
+de	I-ORG
+coupe	I-ORG
+1998-1999	I-ORG
+
+C’est	O
+lui	O
+qui	O
+défend	O
+Antoine	B-PER
+Lavoisier	I-PER
+à	O
+son	O
+procès	O
+devant	O
+la	O
+Convention	B-ORG
+nationale	I-ORG
+.	O
+
+Ligne	B-ORG
+50	I-ORG
+,	I-ORG
+de	I-ORG
+Bruxelles-Nord	I-ORG
+à	I-ORG
+Gand-Saint-Pierre	I-ORG
+
+'	O
+''	O
+Säg	B-ORG
+ingenting	I-ORG
+till	I-ORG
+mig	I-ORG
+''	O
+'	O
+''	O
+
+112	O
+,	O
+106	O
+,	O
+103	O
+Matthew	B-PER
+Stevens	I-PER
+
+REDIRECTION	O
+Nu	B-ORG
+Skin	I-ORG
+Enterprises	I-ORG
+
+Jean	B-PER
+Henri	I-PER
+Jaume	I-PER
+Saint-Hilaire	I-PER
+
+Des	O
+Arc]]	O
+et	O
+DeValls	B-LOC
+Bluff	I-LOC
+
+Calabritto	B-LOC
+,	O
+Caposele	B-LOC
+,	O
+Colliano	B-LOC
+,	O
+Laviano	B-LOC
+,	O
+Oliveto	B-LOC
+Citra	I-LOC
+,	O
+Senerchia	B-LOC
+
+Candy	B-PER
+Costie	I-PER
+&	O
+Tracie	B-PER
+Ruiz	I-PER
+
+Aurillac	B-LOC
+-	O
+Puy	B-LOC
+de	I-LOC
+Dôme	I-LOC
+
+Dans	O
+le	O
+même	O
+temps	O
+,	O
+il	O
+adhéra	O
+à	O
+la	O
+loge	B-ORG
+londonienne	O
+.	O
+
+Barret	B-PER
+Ehgoetz	I-PER
+,	O
+Cyclones	B-ORG
+de	I-ORG
+Cincinnati	I-ORG
+
+Son	O
+fils	O
+Daozong	B-PER
+lui	O
+a	O
+succédé	O
+.	O
+
+Albert	B-PER
+Collins	I-PER
+,	O
+Elisabeth	B-PER
+Shue	I-PER
+,	O
+Maia	B-PER
+Brewton	I-PER
+,	O
+Keith	B-PER
+Coogan	I-PER
+et	O
+Anthony	B-PER
+Rapp	I-PER
+
+**	O
+la	O
+jaunisse	B-LOC
+létale	I-LOC
+des	I-LOC
+palmiers	I-LOC
+,	O
+
+Comté	B-LOC
+de	I-LOC
+San	I-LOC
+Miguel	I-LOC
+,	O
+Nouveau-Mexique	B-LOC
+(	O
+est	O
+)	O
+
+»	O
+Finalement	O
+,	O
+il	O
+est	O
+une	O
+deuxième	O
+fois	O
+condamné	O
+et	O
+exilé	O
+à	O
+Cucusus	O
+,	O
+en	O
+Arménie	B-LOC
+.	O
+
+'	O
+''	O
+Michèle	B-PER
+Jacot	I-PER
+''	O
+'	O
+
+Bibliothèque	B-ORG
+universitaire	I-ORG
+centrale	I-ORG
+Lucian-Blaga	I-ORG
+
+redirection	O
+Sticks	B-ORG
+and	I-ORG
+Stones	I-ORG
+
+Egidio	B-PER
+Romualdo	I-PER
+Duni	I-PER
+
+Il	O
+s'incline	O
+cependant	O
+en	O
+demi-finale	O
+contre	O
+Nicolas	B-PER
+Kiefer	I-PER
+6-7	O
+,	O
+6-3	O
+,	O
+7-6	O
+.	O
+
+Julien	B-PER
+Bonnaire	I-PER
+(	O
+Bourgoin	B-ORG
+)	O
+
+Neuendorf	B-LOC
+,	O
+Arrondissement	B-LOC
+de	I-LOC
+Main-Spessart	I-LOC
+,	O
+Bavière	B-LOC
+
+REDIRECTION	O
+Abashiri	B-LOC
+(	I-LOC
+Hokkaidō	I-LOC
+)	I-LOC
+
+Invisible	B-ORG
+Sun	I-ORG
+''	O
+-	O
+3:44	O
+
+Lac	B-LOC
+de	I-LOC
+Bious-Artigues	I-LOC
+dans	O
+les	O
+Pyrénées-Atlantiques	B-LOC
+
+Nwal-Endéné	B-PER
+Miyem	I-PER
+(	O
+21	O
+points	O
+)	O
+
+Notamment	O
+le	O
+pape	O
+Paul	B-PER
+VI	I-PER
+,	O
+inquiet	O
+des	O
+nouvelles	O
+politiques	O
+agricoles	O
+.	O
+
+Il	O
+est	O
+appelé	O
+Sangiovese	B-LOC
+en	O
+Toscane	B-LOC
+.	O
+
+Dragan	B-PER
+Lukić	I-PER
+(	O
+1928-2006	O
+)	O
+
+**	O
+''La	O
+Pensée	O
+''	O
+,	O
+Jean-Jules	B-PER
+Allasseur	I-PER
+
+**	O
+Stanislav	B-PER
+Jungwirth	I-PER
+,	O
+athlète	B-ORG
+de	I-ORG
+demi-fond	I-ORG
+tchécoslovaque	B-LOC
+.	O
+
+Bénévent	B-LOC
+,	O
+Campoli	B-LOC
+del	I-LOC
+Monte	I-LOC
+Taburno	I-LOC
+,	O
+Castelpoto	B-LOC
+,	O
+Ceppaloni	B-LOC
+,	O
+Montesarchio	B-LOC
+,	O
+San	B-LOC
+Leucio	I-LOC
+del	I-LOC
+Sannio	I-LOC
+
+Véran	B-PER
+de	I-PER
+Cavaillon	I-PER
+
+Refuge	B-ORG
+Quintino	I-ORG
+Sella	I-ORG
+au	I-ORG
+Félik	I-ORG
+-	O
+
+'	O
+''	O
+Drahitchyn	B-LOC
+''	O
+'	O
+
+Jorma	B-PER
+Härkönen1	I-PER
+min	O
+46	O
+s	O
+90	O
+
+Kratzeburg	B-LOC
+(	O
+527	O
+)	O
+
+Kai	B-PER
+Manne	I-PER
+Börje	I-PER
+Siegbahn	I-PER
+
+Landaagiraavaru.JPG|Un	O
+crabe-taupe	O
+(	O
+Emerita	B-LOC
+sp	O
+.	O
+
+Côté	O
+joueurs	O
+,	O
+la	O
+plupart	O
+repartent	O
+,	O
+alors	O
+que	O
+Wilson	B-PER
+Oruma	I-PER
+,	O
+Sabri	B-PER
+Lamouchi	I-PER
+,	O
+Mamadou	B-PER
+Niang	I-PER
+ou	O
+Franck	B-PER
+Ribéry	I-PER
+arrivent	O
+.	O
+
+Elle	O
+collabore	O
+à	O
+différentes	O
+revues	O
+dont	O
+Les	B-ORG
+Temps	I-ORG
+modernes	I-ORG
+.	O
+
+Chrétien	B-PER
+François	I-PER
+de	I-PER
+Lamoignon	I-PER
+de	I-PER
+Bâville	I-PER
+
+**	O
+Edward	B-PER
+James	I-PER
+Olmos	I-PER
+pour	O
+Battlestar	B-ORG
+Galactica	I-ORG
+''	O
+
+Tour	B-ORG
+Cabot	I-ORG
+(	I-ORG
+Bristol	I-ORG
+)	I-ORG
+
+REDIRECTION	O
+Roll	B-ORG
+On	I-ORG
+(	I-ORG
+album	I-ORG
+de	I-ORG
+JJ	I-ORG
+Cale	I-ORG
+)	I-ORG
+
+===	O
+Avec	O
+SpVgg	B-ORG
+Unterhaching	I-ORG
+===	O
+
+Lac	B-LOC
+Balsam	I-LOC
+(	O
+C	O
+)	O
+
+Puis	O
+ils	O
+s'inclinent	O
+à	O
+domicile	O
+contre	O
+Montpellier	B-ORG
+.	O
+
+Medusa	B-ORG
+''	O
+-	O
+Annie	B-PER
+Lennox	I-PER
+
+Jacques	B-PER
+Frantz	I-PER
+(	O
+VF	O
+)	O
+
+Club	B-ORG
+Atlético	I-ORG
+Rentistas	I-ORG
+
+Manéthon	B-PER
+l’appelle	O
+Aî	O
+(	O
+)	O
+(	O
+Acherres	O
+)	O
+.	O
+
+Tōru	B-PER
+Takemitsu	I-PER
+(	O
+1995–1996	O
+)	O
+
+Deportivo	B-ORG
+Árabe	I-ORG
+Unido	I-ORG
+
+Ramallah	B-LOC
+,	O
+Autorité	B-LOC
+palestinienne	I-LOC
+
+REDIRECTION	O
+Parti	B-ORG
+socialiste	I-ORG
+du	I-ORG
+Pays	I-ORG
+basque-Gauche	I-ORG
+basque-PSOE	I-ORG
+
+Mouvement	B-ORG
+de	I-ORG
+jeunesse	I-ORG
+des	I-ORG
+soixante-quatre	I-ORG
+comitats	I-ORG
+
+Michael	B-PER
+Spence	I-PER
+(	I-PER
+économiste	I-PER
+)	I-PER
+
+Province	B-LOC
+de	I-LOC
+Yacuma	I-LOC
+
+Cadfael	B-ORG
+(	I-ORG
+série	I-ORG
+télévisée	I-ORG
+)	I-ORG
+
+Bray-sur-Somme	B-LOC
+résista	O
+mais	O
+fut	O
+détruit	O
+par	O
+les	O
+bombardements	O
+.	O
+
+===	O
+Église	B-ORG
+de	I-ORG
+Norvège	I-ORG
+===	O
+
+Valencina	B-LOC
+de	I-LOC
+la	I-LOC
+Concepción	I-LOC
+
+Hintertux]]	O
+(	O
+x2	O
+)	O
+La	B-LOC
+Plagne	I-LOC
+Les	B-LOC
+Contamines-Montjoie	I-LOC
+Espot	B-LOC
+Bad	B-LOC
+Hindelang	I-LOC
+
+Francis	B-PER
+Hunter	I-PER
+(	O
+2	O
+/	O
+3	O
+)	O
+
+Prem	B-PER
+Chopra	I-PER
+...	O
+Mantri	O
+
+Baba	B-ORG
+Yara	I-ORG
+Stadium	I-ORG
+,	O
+Kumasi	B-LOC
+(	O
+Ghana	B-LOC
+)	O
+
+REDIRECTION	O
+Conseil	B-ORG
+de	I-ORG
+l'Atlantique	I-ORG
+nord	I-ORG
+
+Liste	B-ORG
+des	I-ORG
+soixante-douze	I-ORG
+noms	I-ORG
+de	I-ORG
+savants	I-ORG
+inscrits	I-ORG
+sur	I-ORG
+la	I-ORG
+tour	I-ORG
+Eiffel	I-ORG
+
+Université	B-ORG
+de	I-ORG
+Mons-Hainaut	I-ORG
+
+Edgar	B-PER
+Allan	I-PER
+Poe	I-PER
+,	O
+qu’il	O
+admirait	O
+;	O
+
+Il	O
+vend	O
+ses	O
+premières	O
+œuvres	O
+à	O
+Michael	B-PER
+Jackson	I-PER
+.	O
+
+Ukraine	B-LOC
+de	I-LOC
+la	I-LOC
+rive	I-LOC
+droite	I-LOC
+
+Château	B-ORG
+de	I-ORG
+Vaulogé	I-ORG
+,	O
+à	O
+Fercé-sur-Sarthe	B-LOC
+
+REDIRECTION	O
+Bec-en-croc	B-LOC
+de	I-LOC
+Cayenne	I-LOC
+
+(	O
+Lyon	B-LOC
+,	O
+Dole-Centre	B-LOC
+;	O
+Paris	B-LOC
+,	O
+Dijon	B-LOC
+)	O
+
+Abdelhamid	B-PER
+Chabat	I-PER
+depuis	O
+le	O
+.	O
+
+'	O
+''	O
+''	O
+Elf	B-ORG
+''	O
+'	O
+''	O
+
+Radomir	B-PER
+Šaper	I-PER
+,	O
+contributeur	O
+(	O
+honneur	O
+posthume	O
+)	O
+
+REDIRECTION	O
+Misr	B-ORG
+El	I-ORG
+Maqasa	I-ORG
+
+''	O
+Mounes-Prohencoux	B-LOC
+''	O
+'	O
+
+Sven	B-PER
+Erik	I-PER
+Bystrøm	I-PER
+(	O
+)	O
+
+Coxim	B-ORG
+Atlético	I-ORG
+Clube	I-ORG
+
+Suzy	B-PER
+Prim	I-PER
+,	O
+Renée	B-PER
+Carl	I-PER
+
+Marinha	B-LOC
+Grande	I-LOC
+(	O
+)	O
+-	O
+Leiria	B-LOC
+(	O
+)	O
+
+Serge	B-PER
+de	I-PER
+Beketch	I-PER
+;	O
+
+battent	O
+Jennifer	B-PER
+Kessy	I-PER
+et	O
+April	B-PER
+Ross	I-PER
+'	O
+''	O
+2	O
+''	O
+'	O
+-	O
+0	O
+(	O
+21-16,21-16	O
+)	O
+
+Loch	B-LOC
+Tay	I-LOC
+,	O
+le	O
+6ème	O
+par	O
+la	O
+surface	O
+
+1080-1089	O
+Fujiwara	B-PER
+no	I-PER
+Nobunaga	I-PER
+(	O
+藤原信長	O
+)	O
+(	O
+1022-1094	O
+)	O
+
+Les	O
+kleiniens	B-PER
+et	O
+postkleiniens	O
+;	O
+
+===	O
+Observatoire	B-ORG
+de	I-ORG
+Kitt	I-ORG
+Peak	I-ORG
+''	O
+===	O
+
+District	B-LOC
+municipal	I-LOC
+de	I-LOC
+Kwahu	I-LOC
+ouest	I-LOC
+
+Pedro	B-PER
+Pablo	I-PER
+Pichardo	I-PER
+16,94	O
+m	O
+
+REDIRECTION	O
+Dimitri	B-PER
+II	I-PER
+de	I-PER
+Vladimir	I-PER
+.	O
+
+Situé	O
+à	O
+8	O
+km	O
+à	O
+l'est	O
+Avignon	B-LOC
+,	O
+il	O
+est	O
+essentiellement	O
+résidentiel	O
+,	O
+
+'	O
+''	O
+Antoine	B-PER
+Rufenacht	I-PER
+'	O
+''	O
+
+Eclipse	B-ORG
+(	I-ORG
+chanson	I-ORG
+)	I-ORG
+
+**	O
+'	O
+''	O
+Sofiane	B-PER
+Boufal	I-PER
+''	O
+'	O
+pour	O
+le	O
+LOSC	B-ORG
+Lille	I-ORG
+contre	O
+le	O
+GFC	B-ORG
+Ajaccio	I-ORG
+(	O
+2-	O
+''	O
+'4	O
+''	O
+'	O
+)	O
+,	O
+le	O
+.	O
+
+Yves	B-PER
+Colin	I-PER
+de	I-PER
+Verdière	I-PER
+
+Ninive	B-LOC
+(	O
+''Ninua	O
+''	O
+)	O
+
+Kieran	B-PER
+de	I-PER
+Clonmacnoise	I-PER
+
+Boris	B-PER
+Volynov	I-PER
+—	O
+Commandant	O
+
+Théorème	B-ORG
+de	I-ORG
+la	I-ORG
+médiane	I-ORG
+
+Poursuivi	O
+,	O
+il	O
+est	O
+acquitté	O
+par	O
+la	O
+Chambre	B-ORG
+des	I-ORG
+Lords	I-ORG
+.	O
+
+'	O
+''	O
+Maïwenn	B-PER
+''	O
+'	O
+
+'	O
+''	O
+Roubaix	B-ORG
+Futsal	I-ORG
+''	O
+'	O
+
+1,7	O
+litre	O
+CDTi	O
+100	O
+ch	O
+(	O
+origine	O
+Isuzu	B-ORG
+)	O
+
+L’ARD	O
+est	O
+maintenant	O
+exposé	O
+à	O
+ESTEC	B-ORG
+à	O
+Noordwijk	B-LOC
+aux	O
+Pays-Bas	B-LOC
+.	O
+
+François	B-PER
+Jules	I-PER
+Pictet	I-PER
+de	I-PER
+La	I-PER
+Rive	I-PER
+
+Adolph	B-PER
+Gottlieb	I-PER
+(	O
+1903-1974	O
+)	O
+
+Libercourt	B-LOC
+''	O
+(	O
+km	O
+4	O
+)	O
+''	O
+
+*PARC	O
+(	O
+Le	O
+)	O
+(	O
+Angelin	B-PER
+Preljocaj	I-PER
+)	O
+,	O
+création	O
+,	O
+les	O
+2	O
+Amies	O
+
+REDIRECTION	O
+Working	B-ORG
+for	I-ORG
+a	I-ORG
+Nuclear	I-ORG
+Free	I-ORG
+City	I-ORG
+
+Ramón	B-PER
+Rubial	I-PER
+(	O
+1976-1999	O
+)	O
+
+Les	O
+Saillants	O
+à	O
+Vif	B-LOC
+
+REDIRECTION	O
+The	B-ORG
+Flame	I-ORG
+Within	I-ORG
+(	I-ORG
+album	I-ORG
+)	I-ORG
+
+à	O
+21	O
+,	O
+type	O
+030T	O
+,	O
+Corpet-Louvet	B-ORG
+
+Il	O
+arrivera	O
+en	O
+troisième	O
+place	O
+derrière	O
+les	O
+candidats	O
+libéral	B-ORG
+et	O
+bloquiste	B-ORG
+.	O
+
+Seefeld	B-LOC
+(	I-LOC
+Bavière	I-LOC
+)	I-LOC
+
+São	B-LOC
+Pedro	I-LOC
+do	I-LOC
+Piauí	I-LOC
+
+Championnats	B-ORG
+d'Europe	I-ORG
+de	I-ORG
+patinage	I-ORG
+artistique	I-ORG
+1991	I-ORG
+
+Le	B-ORG
+Fruit	I-ORG
+de	I-ORG
+la	I-ORG
+Grisaia	I-ORG
+''	O
+
+Un	O
+seul	O
+single	B-ORG
+,	O
+''Rip	O
+''	O
+,	O
+sortit	O
+18	O
+mois	O
+après	O
+l'album	O
+.	O
+
+'	O
+''	O
+URSS	B-ORG
+''	O
+'	O
+
+===	O
+Avec	O
+Arch	B-ORG
+Enemy	I-ORG
+===	O
+
+Mykhailo	B-PER
+Kotsiubynsky	I-PER
+(	O
+1864-1913	O
+)	O
+
+Saint-Didier	B-LOC
+(	I-LOC
+Côte-d'Or	I-LOC
+)	I-LOC
+
+2e	B-ORG
+régiment	I-ORG
+de	I-ORG
+dragons	I-ORG
+–	I-ORG
+nucléaire	I-ORG
+,	I-ORG
+biologique	I-ORG
+et	I-ORG
+chimique	I-ORG
+
+Cathédrale	B-ORG
+Sainte-Marie	I-ORG
+à	O
+Carthagène	B-LOC
+
+Georgetown	B-LOC
+(	I-LOC
+Ascension	I-LOC
+)	I-LOC
+
+Anglure	B-LOC
+(	O
+FR-51	B-LOC
+)	O
+
+==	O
+Royaume	B-LOC
+du	I-LOC
+Népal	I-LOC
+(	O
+1857-2008	O
+)	O
+==	O
+
+David	B-PER
+Navas	I-PER
+(	O
+A	O
+13	O
+étape	O
+)	O
+
+L'artiste	O
+alors	O
+peu	O
+connu	O
+détrône	O
+Mika	B-PER
+,	O
+Pink	B-PER
+ou	O
+Damien	B-PER
+Saez	I-PER
+.	O
+
+''	O
+Dragon	B-ORG
+Nest	I-ORG
+''	O
+
+**	O
+Kentucky	B-LOC
+(	O
+ouest	O
+)	O
+
+Fountain	B-ORG
+Place	I-ORG
+(	O
+)	O
+
+Un	O
+hommage	O
+a	O
+été	O
+rendu	O
+à	O
+Orson	B-PER
+Welles	I-PER
+.	O
+
+''Ordinator-Labyrinthus	O
+''	O
+par	O
+André	B-PER
+Caroff	I-PER
+
+REDIRECTION	O
+Waldenburg	B-LOC
+(	I-LOC
+Saxe	I-LOC
+)	I-LOC
+
+REDIRECTION	O
+Neo	B-PER
+(	I-PER
+Matrix	I-PER
+)	I-PER
+
+Dubent	O
+mourra	O
+à	O
+Mauthausen	B-ORG
+.	O
+
+KBS	B-ORG
+Hall	I-ORG
+,	O
+Yeongdeungpo-gu	B-LOC
+,	O
+Séoul	B-LOC
+
+REDIRECTION	O
+C.	B-PER
+J.	I-PER
+Box	I-PER
+
+Elle	O
+a	O
+aussi	O
+été	O
+diffusée	O
+au	O
+Canada	B-LOC
+sur	O
+Showcase	B-ORG
+.	O
+
+20x20px]]	O
+Nick	B-PER
+Price	I-PER
+(	O
+2	O
+/	O
+3	O
+)	O
+
+**	O
+Robert	B-PER
+L.	I-PER
+Curbeam	I-PER
+-	O
+
+Fondation	B-ORG
+Konrad	I-ORG
+Adenauer	I-ORG
+(	O
+CDU	B-ORG
+)	O
+
+James	B-PER
+Deen	I-PER
+et	O
+Sunny	B-PER
+Leone	I-PER
+
+Jennifer	B-PER
+Aniston	I-PER
+,	O
+Shirley	B-PER
+MacLaine	I-PER
+,	O
+Mark	B-PER
+Ruffalo	I-PER
+
+Dyro	B-PER
+&	O
+Conro	O
+feat	O
+.	O
+
+Hoot	B-PER
+Gibson	I-PER
+,	O
+Lina	B-PER
+Basquette	I-PER
+
+'	O
+''	O
+Katsuni	B-PER
+''	O
+'	O
+
+Il	O
+quitte	O
+le	O
+Royaume-Uni	B-LOC
+le	O
+,	O
+et	O
+le	O
+The	B-ORG
+Sunday	I-ORG
+Times	I-ORG
+''	O
+commente	O
+que	O
+.	O
+
+Nikolaos	B-PER
+Deligiannis	I-PER
+(	O
+1845-1910	O
+)	O
+
+Mont	B-LOC
+Hijiri	I-LOC
+(	O
+聖岳	O
+)	O
+
+REDIRECTION	O
+Musée	B-ORG
+de	I-ORG
+la	I-ORG
+Résistance	I-ORG
+et	I-ORG
+de	I-ORG
+la	I-ORG
+Déportation	I-ORG
+de	I-ORG
+l'Isère	I-ORG
+
+Elle	O
+y	O
+reçoit	O
+empereur	B-PER
+et	O
+impératrice	B-PER
+.	O
+
+REDIRECTION	O
+Ehingen	B-LOC
+(	I-LOC
+Donau	I-LOC
+)	I-LOC
+
+**	O
+sur	O
+TF1	B-ORG
+(	O
+première	O
+partie	O
+)	O
+
+Árborg	B-LOC
+(	O
+habitants	O
+)	O
+,	O
+
+Stade	B-ORG
+de	I-ORG
+Sendai	I-ORG
+,	O
+Sendai	B-LOC
+
+scope=	O
+''	O
+row	O
+''	O
+|	O
+Vicq-sur-Gartempe	B-LOC
+
+CM	B-PER
+Punk	I-PER
+bat	O
+Elijah	B-ORG
+Burke	I-ORG
+
+''21	O
+Questions	O
+''	O
+-	O
+50	B-PER
+Cent	I-PER
+featuring	O
+Nate	B-PER
+Dogg	I-PER
+
+Bun	B-PER
+B	I-PER
+&	O
+Snoop	B-PER
+Dogg	I-PER
+)	O
+
+Ses	O
+soupçons	O
+se	O
+confirment	O
+quand	O
+il	O
+entend	O
+Diane	B-PER
+dire	O
+à	O
+son	O
+fils	O
+qu'il	O
+faut	O
+qu'ils	O
+quittent	O
+la	O
+ville	O
+le	O
+plus	O
+rapidement	O
+possible	O
+.	O
+
+Il	O
+est	O
+basé	O
+à	O
+Courbevoie	B-LOC
+,	O
+dans	O
+les	O
+Hauts-de-Seine	B-LOC
+.	O
+
+Suwałki	B-LOC
+(	O
+habitants	O
+)	O
+
+Jim	B-PER
+Clark	I-PER
+'	O
+''	O
+11	O
+''	O
+'	O
+(	O
+1-11	O
+)	O
+
+Il	O
+est	O
+remplacé	O
+par	O
+Pierre	B-PER
+Phelipon	I-PER
+.	O
+
+|	O
+Manhattan	B-LOC
+Beach	I-LOC
+,	O
+Californie	B-LOC
+
+Ces	O
+derniers	O
+étaient	O
+alors	O
+alliés	O
+des	O
+Sassanides	B-LOC
+.	O
+
+Nils	B-PER
+Lofgren	I-PER
+–	O
+guitares	O
+,	O
+chœurs	O
+
+Le	O
+Berliner	B-ORG
+SV	I-ORG
+92	I-ORG
+,	O
+le	O
+TSV	B-ORG
+Victoria	I-ORG
+Linden	I-ORG
+et	O
+le	O
+RC	B-ORG
+Aachen	I-ORG
+sont	O
+qualifiés	O
+pour	O
+le	O
+DRV-Pokalrunde	O
+.	O
+
+'	O
+''	O
+Tommy	B-PER
+Lee	I-PER
+Jones	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Serécourt	B-LOC
+''	O
+'	O
+
+Flottille	B-ORG
+de	I-ORG
+la	I-ORG
+Caspienne	I-ORG
+
+REDIRECTION	O
+Nothhelm	B-PER
+de	I-PER
+Sussex	I-PER
+
+la	O
+Saulx	B-LOC
+(	O
+rd	O
+)	O
+
+Aiguille	B-LOC
+Verte	I-LOC
+)	O
+(	O
+)	O
+
+Curt	B-PER
+Backeberg	I-PER
+(	O
+1894-1966	O
+)	O
+
+Cette	O
+sous-série	O
+a	O
+été	O
+créée	O
+en	O
+collaboration	O
+avec	O
+Dave	B-PER
+Weckl	I-PER
+,	O
+qui	O
+les	O
+utilise	O
+tous	O
+.	O
+
+La	O
+dénomination	O
+signifie	O
+''fromage	O
+''	O
+en	O
+patois	B-ORG
+francoprovençal	I-ORG
+valdôtain	I-ORG
+.	O
+
+Il	O
+vit	O
+à	O
+Norwich	B-LOC
+et	O
+travaille	O
+en	O
+relation	O
+avec	O
+le	O
+British	B-ORG
+Museum	I-ORG
+.	O
+
+Gonneville-sur-Honfleur	B-LOC
+(	O
+Calvados	B-LOC
+)	O
+
+Monthly	B-ORG
+Film	I-ORG
+Bulletin	I-ORG
+''	O
+,	O
+n°	O
+442	O
+
+Takasaka-juku	O
+(	O
+高坂宿	O
+)	O
+(	O
+Higashimatsuyama	B-LOC
+)	O
+
+'	O
+''	O
+Marc	B-PER
+Gicquel	I-PER
+''	O
+'	O
+'	O
+''	O
+Nicolas	B-PER
+Mahut	I-PER
+''	O
+'	O
+
+Dactylomys	B-LOC
+peruanus	I-LOC
+''	O
+J	O
+.	O
+
+Saint-Maur	B-LOC
+(	O
+Oise	B-LOC
+)	O
+
+'	O
+''	O
+La	B-LOC
+Colombe	I-LOC
+''	O
+'	O
+.	O
+
+'	O
+''	O
+Championnat	B-ORG
+d'Autriche	I-ORG
+de	I-ORG
+D2	I-ORG
+''	O
+'	O
+(	O
+'	O
+''	O
+2	O
+''	O
+'	O
+)	O
+
+Gon	B-ORG
+na	I-ORG
+Make	I-ORG
+You	I-ORG
+Sweat	I-ORG
+(	I-ORG
+Everybody	I-ORG
+Dance	I-ORG
+Now	I-ORG
+)	I-ORG
+''	O
+
+Son	O
+style	O
+est	O
+comparé	O
+avec	O
+celui	O
+Antoni	B-PER
+Gaudí	I-PER
+.	O
+
+Dupleix	B-ORG
+(	I-ORG
+métro	I-ORG
+de	I-ORG
+Paris	I-ORG
+)	I-ORG
+
+REDIRECTION	O
+Avatar	B-ORG
+(	I-ORG
+groupe	I-ORG
+de	I-ORG
+metal	I-ORG
+suédois	I-ORG
+)	I-ORG
+
+Cour	B-ORG
+d'appel	I-ORG
+en	I-ORG
+Suède	I-ORG
+
+Les	O
+exécutions	O
+ont	O
+lieu	O
+à	O
+Boise	B-LOC
+.	O
+
+Îles	B-LOC
+Marshall	I-LOC
+revendique	O
+Wake	B-LOC
+
+Il	O
+est	O
+rattaché	O
+à	O
+la	O
+Grande-Bretagne	B-LOC
+,	O
+à	O
+l'est	O
+,	O
+entre	O
+Weston-super-Mare	B-LOC
+et	O
+Burnham-on-Sea	B-LOC
+.	O
+
+''	O
+)	O
+et	O
+According	B-PER
+to	I-PER
+Jim	I-PER
+''	O
+.	O
+
+'	O
+''	O
+Elena	B-PER
+Delle	I-PER
+Donne	I-PER
+''	O
+'	O
+
+,	O
+confie	O
+Ermanno	B-PER
+Olmi	I-PER
+.	O
+
+Elle	O
+vit	O
+actuellement	O
+à	O
+Sarrebruck	B-LOC
+.	O
+
+**	O
+Georges	B-PER
+Jacob	I-PER
+(	O
+1739-1814	O
+)	O
+,	O
+menuisier	O
+en	O
+sièges	O
+
+'	O
+''	O
+Finale	O
+''	O
+'	O
+Beryl	B-PER
+Penrose	I-PER
+
+'	O
+''	O
+Mitja	B-PER
+Kunc	I-PER
+''	O
+'	O
+
+Il	O
+y	O
+rencontre	O
+Peter	B-PER
+Green	I-PER
+avec	O
+lequel	O
+il	O
+sympathise	O
+.	O
+
+**	O
+'	O
+''	O
+Bromelia	B-LOC
+tubulosa	I-LOC
+''	O
+'	O
+''	O
+''	O
+L.B	O
+.	O
+
+Il	O
+a	O
+été	O
+extradé	O
+le	O
+vers	O
+la	O
+France	B-LOC
+.	O
+
+'	O
+''	O
+Miracles	B-ORG
+de	I-ORG
+Moncton	I-ORG
+''	O
+'	O
+
+Championnat	B-ORG
+de	I-ORG
+Croatie	I-ORG
+de	I-ORG
+handball	I-ORG
+masculin	I-ORG
+
+REDIRECTION	O
+Université	B-ORG
+Oumm	I-ORG
+al-Qura	I-ORG
+
+Championnat	B-LOC
+du	I-LOC
+monde	I-LOC
+moins	I-LOC
+de	I-LOC
+18	I-LOC
+ans	I-LOC
+de	I-LOC
+hockey	I-LOC
+sur	I-LOC
+glace	I-LOC
+2011	I-LOC
+
+Veynes	B-LOC
+,	O
+Chabestan	B-LOC
+,	O
+Châteauneuf-d'Oze	B-LOC
+,	O
+Furmeyer	B-LOC
+,	O
+Montmaur	B-LOC
+,	O
+Oze	B-LOC
+,	O
+Saint-Auban-d'Oze	B-LOC
+et	O
+Le	B-LOC
+Saix	I-LOC
+.	O
+
+'	O
+''	O
+Treat	B-ORG
+Conrad	I-ORG
+Huey	I-ORG
+''	O
+'	O
+'	O
+''	O
+Dominic	B-PER
+Inglot	I-PER
+''	O
+'	O
+
+REDIRECTION	O
+Kabupaten	B-LOC
+de	I-LOC
+Badung	I-LOC
+
+**	O
+Agence	B-ORG
+canadienne	I-ORG
+d'inspection	I-ORG
+des	I-ORG
+aliments	I-ORG
+
+``	O
+Las	B-LOC
+Vegas	I-LOC
+''	O
+
+Tirunesh	B-PER
+Dibaba15	I-PER
+min	O
+11	O
+s	O
+34	O
+
+Lac	B-LOC
+de	I-LOC
+Hallwil	I-LOC
+
+'	O
+''	O
+Refused	B-ORG
+''	O
+'	O
+
+''Unbelievable	O
+''	O
+,	O
+interprété	O
+par	O
+EMF	B-ORG
+
+'	O
+''	O
+Israël	B-LOC
+''	O
+'	O
+a	O
+participé	O
+au	O
+Concours	B-ORG
+Eurovision	I-ORG
+de	I-ORG
+la	I-ORG
+chanson	I-ORG
+2010	I-ORG
+.	O
+
+Pandora	B-ORG
+'s	I-ORG
+Box	I-ORG
+''	O
+–	O
+4:06	O
+
+''	O
+à	O
+Paris	B-LOC
+,	O
+il	O
+s'agit	O
+ici	O
+d'associations	O
+qui	O
+ont	O
+toutes	O
+disparues	O
+.	O
+
+REDIRECTION	O
+Biu	B-ORG
+Chun	I-ORG
+Rangers	I-ORG
+Football	I-ORG
+Club	I-ORG
+
+''VCR	O
+''	O
+a	O
+été	O
+repris	O
+par	O
+Orchestral	B-ORG
+Manoeuvres	I-ORG
+in	I-ORG
+the	I-ORG
+Dark	I-ORG
+.	O
+
+''	O
+Jacques-Cartier	B-LOC
+''	O
+'	O
+
+Conférence	B-ORG
+des	I-ORG
+organisations	I-ORG
+internationales	I-ORG
+non	I-ORG
+gouvernementales	I-ORG
+(	O
+OING	O
+)	O
+
+'	O
+''	O
+Belleville-sur-Mer	B-LOC
+''	O
+'	O
+
+Le	O
+titre	O
+apparaît	O
+pour	O
+la	O
+première	O
+sous	O
+Djédefrê	B-PER
+(	O
+)	O
+.	O
+
+Panthers	B-ORG
+de	I-ORG
+la	I-ORG
+Caroline	I-ORG
+
+C'est	O
+la	O
+première	O
+fois	O
+,	O
+depuis	O
+la	O
+famine	B-ORG
+de	I-ORG
+1984-1985	I-ORG
+durant	O
+laquelle	O
+plus	O
+d'un	O
+million	O
+d'individus	O
+sont	O
+morts	O
+.	O
+
+Il	O
+est	O
+le	O
+lointain	O
+précurseur	O
+Adolphe	B-PER
+Appia	I-PER
+.	O
+
+Aš	B-LOC
+,	O
+République	B-LOC
+tchèque	I-LOC
+.	O
+
+L'Autrichien	O
+Thomas	B-PER
+Muster	I-PER
+s'impose	O
+en	O
+finale	O
+face	O
+à	O
+l'Américain	O
+Michael	B-PER
+Chang	I-PER
+.	O
+
+REDIRECTION	O
+Laura	B-PER
+Sánchez	I-PER
+(	I-PER
+plongeon	I-PER
+)	I-PER
+
+**	O
+Black	B-PER
+M	I-PER
+-	O
+39,48	O
+%	O
+
+'	O
+''	O
+Iveta	B-PER
+Benešová	I-PER
+Květa	B-PER
+Peschke	I-PER
+''	O
+'	O
+
+Il	O
+a	O
+disputé	O
+son	O
+premier	O
+match	O
+avec	O
+équipe	B-ORG
+de	I-ORG
+Nouvelle-Zélande	I-ORG
+le	O
+,	O
+à	O
+l’occasion	O
+d’un	O
+match	O
+contre	O
+équipe	B-ORG
+d'Australie	I-ORG
+.	O
+
+Castor	B-PER
+de	I-PER
+Rhodes	I-PER
+
+Liste	B-LOC
+des	I-LOC
+évêques	I-LOC
+de	I-LOC
+Poitiers	I-LOC
+
+Play	B-ORG
+(	I-ORG
+album	I-ORG
+de	I-ORG
+Moby	I-ORG
+)	I-ORG
+
+Fábio	B-PER
+Pereira	I-PER
+da	I-PER
+Silva	I-PER
+
+''Les	O
+Enfermés	O
+''	O
+par	O
+John	B-PER
+Scalzi	I-PER
+
+''Idylles	O
+''	O
+,	O
+l	O
+''	O
+'Épitaphe	O
+d'Adônis	O
+''	O
+traduit	O
+par	O
+Leconte	B-PER
+de	I-PER
+Lisle	I-PER
+.	O
+
+Elle	O
+a	O
+également	O
+travaillé	O
+par	O
+exemple	O
+avec	O
+Craig	B-PER
+Leon	I-PER
+et	O
+Ofra	B-PER
+Haza	I-PER
+.	O
+
+Parti	B-ORG
+démocratique	I-ORG
+civique	I-ORG
+(	I-ORG
+République	I-ORG
+tchèque	I-ORG
+)	I-ORG
+
+Alex	B-PER
+Jany	I-PER
+58	O
+s	O
+9	O
+
+REDIRECTION	O
+Gravière	B-LOC
+(	I-LOC
+Italie	I-LOC
+)	I-LOC
+
+À	O
+ce	O
+poste	O
+,	O
+il	O
+coiffait	O
+la	O
+Haganah	B-ORG
+.	O
+
+Joe	B-PER
+Maddon	I-PER
+(	O
+2008	B-ORG
+et	O
+2011	B-ORG
+)	O
+
+'	O
+''	O
+Champion	B-ORG
+de	I-ORG
+Suisse	I-ORG
+''	O
+'	O
+(	O
+'	O
+''	O
+3	O
+''	O
+'	O
+)	O
+
+JEF	B-ORG
+United	I-ORG
+Ichihara	I-ORG
+Chiba	I-ORG
+,	O
+J-League	B-ORG
+(	O
+cocommandite	O
+)	O
+
+2	O
+sélections	O
+avec	O
+équipe	B-ORG
+de	I-ORG
+Géorgie	I-ORG
+
+Certains	O
+joueurs	O
+d'Everton	O
+ont	O
+été	O
+inscrits	O
+à	O
+English	B-ORG
+Football	I-ORG
+Hall	I-ORG
+of	I-ORG
+Fame	I-ORG
+.	O
+
+Aia	B-LOC
+(	I-LOC
+Guipuscoa	I-LOC
+)	I-LOC
+
+A	O
+instruit	O
+Liu	B-PER
+Kang	I-PER
+et	O
+Kung	B-PER
+Lao	I-PER
+.	O
+
+Mal	B-PER
+Evans	I-PER
+–	O
+chœurs	O
+
+Vichy	B-LOC
+''	O
+(	O
+km	O
+333	O
+)	O
+''	O
+
+width=	O
+''	O
+200	O
+''	O
+colspan=	O
+''	O
+4	O
+''	O
+|	O
+Diffusion	O
+originale	O
+sur	O
+ABC	B-ORG
+
+Usain	B-PER
+Bolt9	I-PER
+s	O
+87	O
+'	O
+''	O
+=SB	O
+
+Il	O
+arrive	O
+à	O
+Alep	B-LOC
+en	O
+trente-huit	O
+jours	O
+.	O
+
+====	O
+Union	B-ORG
+syndicale	I-ORG
+Solidaires	I-ORG
+(	O
+CONTRE	O
+)	O
+====	O
+
+Dancing	B-ORG
+with	I-ORG
+the	I-ORG
+Stars	I-ORG
+(	O
+2005–en	O
+cours	O
+)	O
+
+Charles	B-PER
+Ier	I-PER
+de	I-PER
+Bade	I-PER
+
+OneRepublic	B-ORG
+-	O
+Stop	B-ORG
+and	I-ORG
+Stare	I-ORG
+''	O
+
+Il	O
+sort	O
+aussi	O
+en	O
+une	O
+version	O
+``	O
+CD+DVD	O
+''	O
+avec	O
+un	O
+DVD	B-ORG
+en	O
+supplément	O
+.	O
+
+'	O
+''	O
+Ding	B-ORG
+Dong	I-ORG
+,	I-ORG
+Ding	B-ORG
+Dong	I-ORG
+''	O
+'	O
+''	O
+
+Johnny	B-PER
+Hallyday	I-PER
+,	O
+John	B-PER
+Mamann	I-PER
+
+'	O
+''	O
+Fischbach-Göslikon	B-LOC
+''	O
+'	O
+
+===	O
+Royal	B-ORG
+Sporting	I-ORG
+Club	I-ORG
+Anderlecht	I-ORG
+===	O
+
+Son	O
+départ	O
+a	O
+lieu	O
+à	O
+Collecchio	B-LOC
+et	O
+son	O
+arrivée	O
+à	O
+Savone	B-LOC
+après	O
+.	O
+
+Quiévrain	B-LOC
+''	O
+(	O
+km	O
+75	O
+)	O
+''	O
+
+'	O
+''	O
+G3C	O
+''	O
+Stoneham-et-Tewkesbury	B-LOC
+
+Christiane	B-PER
+Taubira	I-PER
+(	O
+non-membre	O
+)	O
+
+Marco	B-PER
+Antonio	I-PER
+Amulio	I-PER
+(	O
+1562-1572	O
+)	O
+
+L'empereur	O
+,	O
+Théodose	B-PER
+II	I-PER
+,	O
+l'exila	O
+alors	O
+en	O
+Cappadoce	B-LOC
+.	O
+
+Il	O
+est	O
+parlé	O
+essentiellement	O
+à	O
+Wallis-et-Futuna	B-LOC
+et	O
+en	O
+Nouvelle-Calédonie	B-LOC
+.	O
+
+Cette	O
+collaboration	O
+avec	O
+Kele	B-PER
+Okereke	I-PER
+n'est	O
+pas	O
+la	O
+première	O
+.	O
+
+Queen	B-ORG
++	I-ORG
+Paul	I-ORG
+Rodgers	I-ORG
+
+Elle	O
+se	O
+rencontre	O
+dans	O
+le	O
+Nuevo	B-LOC
+León	I-LOC
+,	O
+dans	O
+le	O
+Tamaulipas	B-LOC
+,	O
+dans	O
+le	O
+Querétaro	B-LOC
+et	O
+dans	O
+le	O
+San	B-LOC
+Luis	I-LOC
+Potosí	I-LOC
+.	O
+
+Kassos	B-LOC
+(	O
+6	O
+)	O
+
+Il	O
+est	O
+écrit	O
+et	O
+composé	O
+par	O
+Benjamin	B-PER
+Biolay	I-PER
+que	O
+l'on	O
+entend	O
+sur	O
+le	O
+morceau	O
+en	O
+'	O
+''	O
+'	O
+.	O
+
+Après	O
+avoir	O
+quitté	O
+l'écran	O
+,	O
+elle	O
+a	O
+épousé	O
+le	O
+directeur	O
+Clarence	B-PER
+Brown	I-PER
+.	O
+
+Thomas	B-PER
+Hill	I-PER
+13	O
+s	O
+48	O
+
+FC	B-ORG
+Auch	I-ORG
+,	O
+30	O
+
+Marcel	B-PER
+Schwob	I-PER
+et	O
+son	O
+temps	O
+.	O
+
+Pour	O
+Robert	B-PER
+Badinter	I-PER
+,	O
+les	O
+terroristes	O
+tendent	O
+un	O
+.	O
+
+'	O
+''	O
+Víkingur	B-ORG
+Gøta	I-ORG
+''	O
+'	O
+
+Ghani	B-PER
+Yalouz	I-PER
+greco-romaine	O
+(	O
+)	O
+
+Pierre	B-PER
+Labarelle	I-PER
+/	O
+Nicolas	B-PER
+Peschier	I-PER
+
+REDIRECTION	O
+Milanovići	B-LOC
+(	I-LOC
+Novo	I-LOC
+Goražde	I-LOC
+)	I-LOC
+
+****	O
+Arabie	B-ORG
+saoudite	I-ORG
+-	O
+Koweït	B-ORG
+3-0	O
+,	O
+
+William	B-PER
+S.	I-PER
+Burroughs	I-PER
+(	O
+1914-1997	O
+)	O
+,	O
+
+Comté	B-LOC
+de	I-LOC
+Västra	I-LOC
+Götaland	I-LOC
+(	O
+ouest	O
+)	O
+
+REDIRECTION	O
+Edward	B-PER
+Donaghy	I-PER
+(	I-PER
+arbitre	I-PER
+)	I-PER
+
+Arzignano	B-LOC
+,	O
+Chiampo	B-LOC
+,	O
+Gambellara	B-LOC
+,	O
+Montebello	B-LOC
+Vicentino	I-LOC
+,	O
+Montecchia	B-LOC
+di	I-LOC
+Crosara	I-LOC
+,	O
+Montorso	B-LOC
+Vicentino	I-LOC
+,	O
+San	B-LOC
+Giovanni	I-LOC
+Ilarione	I-LOC
+
+Le	O
+,	O
+le	O
+pape	O
+Benoît	B-PER
+se	O
+prononce	O
+pour	O
+le	O
+vote	O
+des	O
+femmes	O
+.	O
+
+Armée	B-ORG
+nationale	I-ORG
+ukrainienne	I-ORG
+
+Alexei	B-PER
+Markov	I-PER
+Alexander	B-PER
+Serov	I-PER
+Sergueï	B-PER
+Klimov	I-PER
+Nikita	B-PER
+Eskov	I-PER
+
+Son	O
+fils	O
+Godefroid	B-PER
+II	I-PER
+de	I-PER
+Louvain	I-PER
+lui	O
+succéda	O
+.	O
+
+Vitré]]	O
+-	O
+Châteaubriant	B-LOC
+-	O
+Nantes	B-LOC
+,	O
+Les	B-LOC
+Sorinières	I-LOC
+-	O
+Legé	B-LOC
+-	O
+La	B-LOC
+Mothe-Achard	I-LOC
+''	O
+
+30	O
+sélections	O
+en	O
+Équipe	B-ORG
+d'Angleterre	I-ORG
+de	I-ORG
+rugby	I-ORG
+à	I-ORG
+XV	I-ORG
+féminin	I-ORG
+
+en	O
+Basse-Californie	B-LOC
+au	O
+Mexique	B-LOC
+;	O
+
+Ai	B-ORG
+n't	I-ORG
+No	I-ORG
+Mountain	I-ORG
+High	I-ORG
+Enough	I-ORG
+''	O
+-	O
+Marvin	B-PER
+Gaye	I-PER
+et	O
+Tammi	B-PER
+Terrell	I-PER
+
+Ithaca	B-LOC
+(	I-LOC
+New	I-LOC
+York	I-LOC
+)	I-LOC
+
+Elle	O
+est	O
+actuellement	O
+gérée	O
+par	O
+la	O
+Communauté	B-ORG
+du	I-ORG
+Chemin	I-ORG
+Neuf	I-ORG
+.	O
+
+Aux	O
+élections	B-ORG
+législatives	I-ORG
+du	I-ORG
+14	I-ORG
+mars	I-ORG
+2004	I-ORG
+,	O
+elle	O
+est	O
+candidate	O
+au	O
+Congrès	B-ORG
+des	I-ORG
+députés	I-ORG
+dans	O
+la	O
+Communauté	B-LOC
+de	I-LOC
+Madrid	I-LOC
+,	O
+occupant	O
+la	O
+sixième	O
+position	O
+.	O
+
+Luis	B-PER
+Antonio	I-PER
+Tagle	I-PER
+''	O
+''	O
+
+Tour	B-ORG
+Eiffel	I-ORG
+(	O
+1887-1889	O
+)	O
+.	O
+
+REDIRECTION	O
+Saint-Henri	B-LOC
+(	I-LOC
+circonscription	I-LOC
+provinciale	I-LOC
+)	I-LOC
+
+Miguel	B-PER
+López	I-PER
+de	I-PER
+Legazpi	I-PER
+
+Brad	B-PER
+Daugherty	I-PER
+'	O
+''	O
+K♠	O
+J♠	O
+''	O
+'	O
+
+Sleep	B-ORG
+Through	I-ORG
+the	I-ORG
+Static	I-ORG
+''	O
+-	O
+Jack	B-PER
+Johnson	I-PER
+
+John	B-PER
+Phillips	I-PER
+(	I-PER
+acteur	I-PER
+)	I-PER
+
+Ralph	B-PER
+Näf	I-PER
+Florian	B-PER
+Vogel	I-PER
+Nino	B-PER
+Schurter	I-PER
+Barbara	B-PER
+Blatter	I-PER
+
+Savoie]]	O
+(	O
+73	O
+)	O
+Haute-Savoie	B-LOC
+(	O
+74	O
+)	O
+
+'	O
+''	O
+Winja	B-ORG
+'s	I-ORG
+Fear	I-ORG
+&	I-ORG
+Winja	B-ORG
+'s	I-ORG
+Force	I-ORG
+''	O
+'	O
+
+Piedade	B-LOC
+de	I-LOC
+Ponte	I-LOC
+Nova	I-LOC
+
+'	O
+''	O
+Hanovre	B-ORG
+96	I-ORG
+''	O
+'	O
+(	O
+1	O
+)	O
+
+Could	B-ORG
+You	I-ORG
+Be	I-ORG
+Loved	I-ORG
+3:55	O
+
+30	B-ORG
+jours	I-ORG
+de	I-ORG
+nuit	I-ORG
+''	O
+(	O
+5	O
+volumes	O
+)	O
+
+**	O
+Sigfrid	B-PER
+Edström	I-PER
+,	O
+athlète	B-ORG
+de	I-ORG
+sprint	I-ORG
+puis	I-ORG
+dirigeant	I-ORG
+sportif	I-ORG
+suédois	B-LOC
+.	O
+
+Olimpia	B-ORG
+Milan	I-ORG
+(	O
+1	O
+)	O
+
+'	O
+''	O
+Mazamet	B-LOC
+''	O
+'	O
+
+Val	B-LOC
+d'Aran-Pla	I-LOC
+de	I-LOC
+Beret	I-LOC
+(	O
+1	O
+)	O
+
+REDIRECTION	O
+Bučje	B-LOC
+(	I-LOC
+Novo	I-LOC
+Goražde	I-LOC
+)	I-LOC
+
+6	B-ORG
+Heures	I-ORG
+de	I-ORG
+Silverstone	I-ORG
+(	O
+14	O
+)	O
+1978-1988	O
+,	O
+1990-1992	O
+
+Porté	O
+entre	O
+autres	O
+par	O
+George	B-PER
+Best	I-PER
+,	O
+Éric	B-PER
+Cantona	I-PER
+,	O
+David	B-PER
+Beckham	I-PER
+et	O
+Cristiano	B-PER
+Ronaldo	I-PER
+.	O
+
+On	O
+peut	O
+citer	O
+Apamée	B-LOC
+sur	I-LOC
+l'Oronte	I-LOC
+.	O
+
+Aiden	B-PER
+Burn	I-PER
+(	O
+Vanessa	B-PER
+Ferlito	I-PER
+)	O
+
+REDIRECTION	O
+Insurrection	B-ORG
+polonaise	I-ORG
+de	I-ORG
+1861-1864	I-ORG
+
+Balkan	B-ORG
+Beat	I-ORG
+Box	I-ORG
+(	O
+Israël	B-LOC
+)	O
+
+L'américaniste	O
+Zelia	B-PER
+Nuttall	I-PER
+est	O
+sa	O
+sœur	O
+aînée	O
+.	O
+
+Tord	B-PER
+Filipsson	I-PER
+(	O
+9	O
+)	O
+
+Identity	B-ORG
+Crisis	I-ORG
+(	I-ORG
+album	I-ORG
+)	I-ORG
+
+'	O
+''	O
+NOLA	B-ORG
+Motorsports	I-ORG
+Park	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+Steve	B-PER
+Nash	I-PER
+''	O
+'	O
+(	O
+4	O
+)	O
+
+**	O
+Champion	B-ORG
+olympique	I-ORG
+de	I-ORG
+poursuite	I-ORG
+par	I-ORG
+équipes	I-ORG
+(	O
+avec	O
+Edward	B-PER
+Clancy	I-PER
+,	O
+Geraint	B-PER
+Thomas	I-PER
+,	O
+Peter	B-PER
+Kennaugh	I-PER
+)	O
+
+Il	O
+part	O
+étudier	O
+au	O
+Trinity	B-ORG
+College	I-ORG
+à	O
+Cambridge	B-LOC
+en	O
+Angleterre	B-LOC
+.	O
+
+Il	O
+est	O
+condamné	O
+à	O
+mort	O
+à	O
+Ispahan	B-LOC
+.	O
+
+Ligue	B-ORG
+allemande	I-ORG
+des	I-ORG
+libres-penseurs	I-ORG
+
+Faculté	B-ORG
+de	I-ORG
+médecine	I-ORG
+et	I-ORG
+de	I-ORG
+pharmacie	I-ORG
+de	I-ORG
+Rabat	I-ORG
+
+Réélu	O
+en	O
+1925	B-ORG
+,	O
+1926	B-ORG
+,	O
+1930	B-ORG
+et	O
+en	O
+1935	B-ORG
+.	O
+
+Comté	B-LOC
+d'Atlantic	I-LOC
+-	O
+sud-est	O
+
+Brian	B-PER
+Dooher	I-PER
+(	O
+2	O
+)	O
+
+Kery	B-PER
+James	I-PER
+(	O
+F	O
+)	O
+
+Tribunal	B-ORG
+supérieur	I-ORG
+de	I-ORG
+justice	I-ORG
+d'Andalousie	I-ORG
+
+172e	B-ORG
+brigade	I-ORG
+d'infanterie	I-ORG
+(	I-ORG
+États-Unis	I-ORG
+)	I-ORG
+
+Chabab	B-ORG
+Rif	I-ORG
+Al	I-ORG
+Hoceima	I-ORG
+
+REDIRECTION	O
+Robert	B-PER
+K.	I-PER
+G.	I-PER
+Temple	I-PER
+
+REDIRECTION	O
+Comité	B-ORG
+national	I-ORG
+olympique	I-ORG
+de	I-ORG
+la	I-ORG
+République	I-ORG
+islamique	I-ORG
+d'Iran	I-ORG
+
+Centre	B-ORG
+national	I-ORG
+des	I-ORG
+arts	I-ORG
+du	I-ORG
+spectacle	I-ORG
+(	O
+Pékin	B-LOC
+)	O
+
+Bana	B-LOC
+(	I-LOC
+département	I-LOC
+)	I-LOC
+
+D'âpres	O
+combats	O
+se	O
+déroulent	O
+sur	O
+Mézières	B-LOC
+.	O
+
+et	O
+le	O
+roi	O
+Ásgard	B-LOC
+,	O
+
+redirection	O
+Championnat	B-ORG
+d'Italie	I-ORG
+de	I-ORG
+football	I-ORG
+D2	I-ORG
+
+Il	O
+est	O
+surnommé	O
+''Yakov	O
+''	O
+,	O
+il	O
+réside	O
+actuellement	O
+à	O
+Toronto	B-LOC
+.	O
+
+Nigel	B-PER
+Worthington	I-PER
+(	O
+D	O
+)	O
+
+Quatre	O
+jours	O
+plus	O
+tard	O
+,	O
+il	O
+est	O
+remplacé	O
+par	O
+Steve	B-PER
+Carell	I-PER
+.	O
+
+**	O
+Dix-Huit	B-LOC
+Montagnes	I-LOC
+(	O
+)	O
+
+Palais	B-ORG
+des	I-ORG
+sports	I-ORG
+de	I-ORG
+Pau	I-ORG
+
+Del	B-LOC
+Rio	I-LOC
+(	I-LOC
+Texas	I-LOC
+)	I-LOC
+
+Tanghin	B-LOC
+(	O
+1	O
+274	O
+habitants	O
+)	O
+
+Ramón	B-PER
+Pérez	I-PER
+de	I-PER
+Ayala	I-PER
+;	O
+
+Andrea	B-PER
+Ferrigato	I-PER
+(	O
+ITA	B-LOC
+)	O
+(	O
+NP	O
+13	O
+)	O
+
+Andrew	B-PER
+Cogliano	I-PER
+trompe	O
+ce	O
+dernier	O
+à	O
+bout	O
+portant	O
+à	O
+la	O
+minute	O
+.	O
+
+Pound	B-ORG
+the	I-ORG
+Alarm	I-ORG
+-	O
+Nicki	B-PER
+Minaj	I-PER
+
+Première	O
+sélection	O
+pour	O
+Koen	B-PER
+Daerden	I-PER
+et	O
+Jonathan	B-PER
+Blondel	I-PER
+.	O
+
+L'Île	B-ORG
+au	I-ORG
+trésor	I-ORG
+(	I-ORG
+film	I-ORG
+,	I-ORG
+1920	I-ORG
+)	I-ORG
+
+*******15px	O
+'	O
+''	O
+Oluf	B-PER
+de	I-PER
+Danemark	I-PER
+''	O
+'	O
+
+REDIRECTION	O
+Département	B-LOC
+Capital	I-LOC
+(	I-LOC
+Corrientes	I-LOC
+)	I-LOC
+
+Il	O
+est	O
+courant	O
+en	O
+Alsace	B-LOC
+.	O
+
+'	O
+''	O
+Mariaan	B-PER
+de	I-PER
+Swardt	I-PER
+Elna	B-PER
+Reinach	I-PER
+
+Le	O
+Ponte	B-ORG
+Vecchio	I-ORG
+et	O
+le	O
+Corridor	B-ORG
+de	I-ORG
+Vasari	I-ORG
+et	O
+sa	O
+collection	O
+d'autoportraits	O
+.	O
+
+Pôle	B-ORG
+Emploi	I-ORG
+et	O
+Unédic	B-ORG
+l'utilisent	O
+ainsi	O
+pour	O
+contrôler	O
+les	O
+allocataires	O
+.	O
+
+Luís	B-PER
+Figo	I-PER
+Romário	B-PER
+George	B-PER
+Weah	I-PER
+
+Groupe	B-ORG
+des	I-ORG
+quinze	I-ORG
+(	I-ORG
+G15	I-ORG
+)	I-ORG
+
+************	O
+Louis	B-PER
+d'Étrurie	I-PER
+(	I-PER
+Ludovico	I-PER
+di	I-PER
+Borbone-Parma	I-PER
+)	I-PER
+
+Désespérée	O
+,	O
+celle-ci	O
+reste	O
+seule	O
+au	O
+Viêt	B-LOC
+Nam	I-LOC
+où	O
+elle	O
+accouche	O
+d’un	O
+fils	O
+.	O
+
+''Pneu	O
+Continental	B-ORG
+avec	O
+les	O
+fortes	O
+toiles	O
+''	O
+,	O
+s.d	O
+.	O
+
+Loyse	O
+,	O
+''Gringoire	O
+''	O
+,	O
+Théodore	B-PER
+de	I-PER
+Banville	I-PER
+,	O
+m.e.s	O
+.	O
+
+Le	O
+point	O
+culminant	O
+est	O
+Morro	B-LOC
+de	I-LOC
+Môco	I-LOC
+à	O
+.	O
+
+École	B-ORG
+polytechnique	I-ORG
+(	I-ORG
+France	I-ORG
+)	I-ORG
+;	O
+
+Il	O
+apparaît	O
+dans	O
+Marvel	B-ORG
+Zombies	I-ORG
+''	O
+.	O
+
+Il	O
+est	O
+enterré	O
+à	O
+Pärnu	B-LOC
+.	O
+
+Parc	B-ORG
+national	I-ORG
+de	I-ORG
+Waterberg	I-ORG
+
+Cathédrale	B-ORG
+d'Uppsala	I-ORG
+(	O
+Uppsala	B-LOC
+)	O
+
+Anita	B-PER
+Lonsbrough	I-PER
+(	O
+ENG	O
+)	O
+
+'	O
+''	O
+Jænberht	B-PER
+''	O
+'	O
+
+des	O
+notes	O
+estimées	O
+sur	O
+Juvénal	B-PER
+,	O
+Perse	B-PER
+,	O
+Martial	B-PER
+,	O
+Lucain	B-PER
+,	O
+Virgile	B-PER
+,	O
+Ovide	B-PER
+,	O
+Térence	B-PER
+,	O
+Sénèque	B-PER
+,	O
+etc	O
+.	O
+
+Batilly	B-LOC
+(	I-LOC
+Orne	I-LOC
+)	I-LOC
+
+Organisation	B-ORG
+du	I-ORG
+baccalauréat	I-ORG
+international	I-ORG
+
+**	O
+Bansat	B-LOC
+,	O
+Chaméane	B-LOC
+,	O
+Saint-Étienne-sur-Usson	B-LOC
+et	O
+Saint-Genès-la-Tourette	B-LOC
+;	O
+
+Les	B-LOC
+Laurentides	I-LOC
+,	O
+une	O
+Municipalité	B-LOC
+régionale	I-LOC
+de	I-LOC
+comté	I-LOC
+(	O
+MRC	O
+)	O
+
+Salerne	B-LOC
+(	O
+Province	B-LOC
+de	I-LOC
+Salerne	I-LOC
+)	O
+.	O
+
+Xian	B-LOC
+de	I-LOC
+Guyuan	I-LOC
+
+United	B-ORG
+States	I-ORG
+Holocaust	I-ORG
+Memorial	I-ORG
+Museum	I-ORG
+à	O
+Washington	B-LOC
+DC	I-LOC
+
+''American	B-ORG
+Sniper	I-ORG
+''	I-ORG
+(	I-ORG
+autobiographie	I-ORG
+)	I-ORG
+
+Aharon	B-PER
+Appelfeld	I-PER
+,	O
+''Histoire	O
+d'une	O
+vie	O
+''	O
+,	O
+éd	O
+.	O
+
+'	O
+''	O
+The	B-ORG
+Black	I-ORG
+Keys	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+FK	B-ORG
+Dynamo	I-ORG
+Minsk	I-ORG
+''	O
+'	O
+
+REDIRECTION	O
+Indre	B-LOC
+(	I-LOC
+département	I-LOC
+)	I-LOC
+
+Charles	B-PER
+Deschamps	I-PER
+de	I-PER
+Boishébert	I-PER
+
+Comme	O
+l'année	O
+précédente	O
+,	O
+il	O
+est	O
+surpris	O
+au	O
+premier	O
+match	O
+des	O
+phases	O
+finales	O
+en	O
+étant	O
+battu	O
+par	O
+St.	B-ORG
+George	I-ORG
+Illawarra	I-ORG
+Dragons	I-ORG
+10-34	O
+.	O
+
+**	O
+Eva	B-PER
+Simons	I-PER
+-	O
+''Policeman	O
+''	O
+
+Dickie	B-PER
+Moore	I-PER
+(	I-PER
+acteur	I-PER
+)	I-PER
+
+REDIRECTION	O
+Colonials	B-ORG
+de	I-ORG
+George	I-ORG
+Washington	I-ORG
+
+Groupe	B-ORG
+industriel	I-ORG
+Marcel	I-ORG
+Dassault	I-ORG
+(	O
+GIMD	O
+)	O
+dirigée	O
+par	O
+Serge	B-PER
+Dassault	I-PER
+,	O
+elle	O
+détient	O
+entre	O
+autres	O
+Dassault	B-ORG
+Systèmes	I-ORG
+,	O
+Dassault	B-ORG
+Aviation	I-ORG
+et	O
+la	O
+Socpresse	B-ORG
+.	O
+
+Lilly	B-PER
+Scholz	I-PER
+/	O
+Otto	B-PER
+Kaiser	I-PER
+
+SuperSonics	B-ORG
+de	I-ORG
+Seattle	I-ORG
+(	O
+transféré	O
+aux	O
+Celtics	B-ORG
+de	I-ORG
+Boston	I-ORG
+)	O
+
+Mistinguett	B-PER
+(	O
+images	O
+d'archives	O
+)	O
+
+Paul	B-PER
+Laurence	I-PER
+Dunbar	I-PER
+(	O
+1872-1906	O
+)	O
+
+**	O
+Die	B-ORG
+Toten	I-ORG
+Hosen	I-ORG
+-	O
+Kauf	B-ORG
+MICH	I-ORG
+!	I-ORG
+''	O
+
+Joseph	B-PER
+Romeric	I-PER
+Lopy	I-PER
+
+On	O
+le	O
+trouve	O
+aux	O
+Fidji	B-LOC
+,	O
+en	O
+Nouvelle-Calédonie	B-LOC
+et	O
+au	O
+Vanuatu	B-LOC
+.	O
+
+Îlots	B-LOC
+des	I-LOC
+Apôtres	I-LOC
+
+Andrea	B-PER
+Peron	I-PER
+(	O
+ITA	B-LOC
+)	O
+
+**	O
+Petersburg	B-LOC
+(	I-LOC
+Virginie	I-LOC
+)	I-LOC
+
+REDIRECTION	O
+États	B-LOC
+membres	I-LOC
+de	I-LOC
+l'Union	I-LOC
+africaine	I-LOC
+
+Fresques	B-ORG
+de	I-ORG
+la	I-ORG
+chapelle	I-ORG
+Ovetari	I-ORG
+
+Équipe	B-ORG
+d'URSS	I-ORG
+de	I-ORG
+water-polo	I-ORG
+masculin	I-ORG
+
+Matchs	O
+disputés	O
+à	O
+Amman	B-LOC
+,	O
+en	O
+Jordanie	B-LOC
+.	O
+
+REDIRECTION	O
+Vice	B-ORG
+admiral	I-ORG
+(	I-ORG
+Royal	I-ORG
+Navy	I-ORG
+)	I-ORG
+
+Spider-Man	B-ORG
+,	I-ORG
+l'homme-araignée	I-ORG
+''	O
+(	O
+1994-1998	O
+)	O
+
+La	O
+SYRIZA	B-ORG
+et	O
+le	O
+Parti	B-ORG
+communiste	I-ORG
+de	I-ORG
+Grèce	I-ORG
+ont	O
+fait	O
+connaître	O
+leur	O
+opposition	O
+au	O
+serment	O
+religieux	O
+orthodoxe	B-ORG
+.	O
+
+Il	O
+jouait	O
+au	O
+poste	O
+ailier	B-PER
+.	O
+
+Bodø	B-LOC
+(	O
+Norvège	B-LOC
+)	O
+
+Pont	B-ORG
+de	I-ORG
+Sully	I-ORG
+
+2	O
+sélections	O
+avec	O
+équipe	B-ORG
+de	I-ORG
+Nouvelle-Zélande	I-ORG
+et	O
+2	O
+fois	O
+capitaine	O
+
+*1960	O
+,	O
+Église	B-ORG
+de	I-ORG
+Pielisensuu	I-ORG
+
+María	B-PER
+Luisa	I-PER
+Bemberg	I-PER
+
+Jim	B-PER
+Ross	I-PER
+(	O
+''RAW	O
+''	O
+)	O
+
+Saison	B-ORG
+1952-1953	I-ORG
+de	I-ORG
+la	I-ORG
+LNH	I-ORG
+
+Lagny-sur-Marne	B-LOC
+(	O
+D	O
+418	O
+)	O
+
+Colonia	B-LOC
+(	I-LOC
+Micronésie	I-LOC
+)	I-LOC
+
+(	O
+''voir	O
+''	O
+)	O
+sur	O
+la	O
+National	B-ORG
+Portrait	I-ORG
+Gallery	I-ORG
+''	O
+
+Ils	O
+divorcent	O
+à	O
+Paris	B-LOC
+le	O
+.	O
+
+Selon	O
+Le	B-ORG
+Figaro	I-ORG
+''	O
+,	O
+la	O
+valorisation	O
+atteindrait	O
+120	O
+millions	O
+d'euros	O
+.	O
+
+William	B-PER
+Shakespeare	I-PER
+-	O
+Roméo	B-LOC
+et	I-LOC
+Juliette	I-LOC
+
+Phoenix	B-LOC
+,	O
+Chase	B-ORG
+Field	I-ORG
+(	O
+places	O
+)	O
+
+Avec	O
+le	O
+FK	B-ORG
+Sarajevo	I-ORG
+
+REDIRECTION	O
+Innico	B-PER
+d'Avalos	I-PER
+d'Aragona	I-PER
+
+redirection	O
+Radio	B-ORG
+Televizija	I-ORG
+Crne	I-ORG
+Gore	I-ORG
+
+Parlement	B-ORG
+du	I-ORG
+Sénégal	I-ORG
+
+Valencia]]	O
+,	O
+Californie	B-LOC
+,	O
+États-Unis	B-LOC
+
+Ross	B-PER
+Beattie	I-PER
+(	O
+3	O
+matchs	O
+)	O
+
+'	O
+''	O
+Attin	B-LOC
+''	O
+'	O
+
+Début	O
+des	O
+Championnats	B-ORG
+du	I-ORG
+monde	I-ORG
+de	I-ORG
+patinage	I-ORG
+artistique	I-ORG
+à	O
+Genève	B-LOC
+.	O
+
+Aurillac	B-LOC
+(	O
+6	O
+)	O
+
+Lisa	B-PER
+Gerrard	I-PER
+)	O
+(	O
+4:49	O
+)	O
+
+Santa	B-LOC
+Rosa	I-LOC
+(	I-LOC
+Nouveau-Mexique	I-LOC
+)	I-LOC
+
+REDIRECTION	O
+Gare	B-ORG
+centrale	I-ORG
+d'Augsbourg	I-ORG
+
+Columbia	B-LOC
+,	O
+en	O
+Caroline	B-LOC
+du	I-LOC
+Sud	I-LOC
+,	O
+
+''	O
+'Famille	O
+des	O
+Corduliidae	B-LOC
+''	O
+'	O
+
+167	O
+victoire	O
+pour	O
+Ford	B-ORG
+Cosworth	I-ORG
+en	O
+tant	O
+que	O
+motoriste	O
+.	O
+
+Henri	B-PER
+duc	I-PER
+de	I-PER
+Montpensier	I-PER
+(	O
+1573-1608	O
+)	O
+
+Elle	O
+installe	O
+l'établissement	O
+à	O
+Sittard	B-LOC
+aux	O
+Pays-Bas	B-LOC
+.	O
+
+You	B-ORG
+'re	I-ORG
+Under	I-ORG
+Arrest	I-ORG
+''	O
+
+Groupe	B-ORG
+des	I-ORG
+Républicains	I-ORG
+indépendants	I-ORG
+:54	O
+membres	O
+
+REDIRECTION	O
+HK	B-ORG
+Chinnik	I-ORG
+Babrouïsk	I-ORG
+
+REDIRECTION	O
+FC	B-ORG
+Dacia	I-ORG
+Chișinău	I-ORG
+
+Abbaye	B-LOC
+de	I-LOC
+Tre	I-LOC
+Fontane	I-LOC
+
+'	O
+''	O
+Belp	B-LOC
+''	O
+'	O
+
+''	O
+Mix	B-ORG
+of	I-ORG
+Life	I-ORG
+''	O
+
+REDIRECTION	O
+Autoroute	B-ORG
+M30	I-ORG
+(	I-ORG
+Hongrie	I-ORG
+)	I-ORG
+
+@	O
+Pistons	B-ORG
+de	I-ORG
+Détroit	I-ORG
+@	O
+Pacers	B-ORG
+de	I-ORG
+l'Indiana	I-ORG
+
+Le	O
+départ	O
+est	O
+donné	O
+à	O
+Apeldoorn	B-LOC
+le	O
+et	O
+l’arrivée	O
+a	O
+lieu	O
+le	O
+à	O
+Turin	B-LOC
+.	O
+
+'	O
+''	O
+Fribourg	B-ORG
+FC	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+GLN	O
+''	O
+'	O
+–	O
+Goulimime	O
+,	O
+Maroc	B-LOC
+
+Lilí	B-PER
+Álvarez	I-PER
+(	O
+1	O
+/	O
+3	O
+)	O
+
+Donje	B-LOC
+Selo	I-LOC
+(	I-LOC
+Ilijaš	I-LOC
+)	I-LOC
+
+Aussi	O
+mettait-on	O
+sa	O
+grande	O
+image	O
+en	O
+place	O
+très	O
+visible	O
+près	O
+d'une	O
+porte	O
+à	O
+l'intérieur	O
+,	O
+comme	O
+à	O
+Saint-Riquier	B-LOC
+,	O
+à	O
+l'extérieur	O
+comme	O
+à	O
+la	O
+cathédrale	B-ORG
+.	O
+
+Élection	B-ORG
+fédérale	I-ORG
+canadienne	I-ORG
+de	I-ORG
+1878	I-ORG
+
+The	B-ORG
+Daily	I-ORG
+Show	I-ORG
+
+Andrew	B-PER
+Wiggins	I-PER
+(	O
+32	O
+)	O
+
+La	B-LOC
+Haie-Fouassière	I-LOC
+(	O
+1	O
+)	O
+
+'	O
+''	O
+Patrick	B-PER
+Russel	I-PER
+''	O
+'	O
+'	O
+''	O
+Alain	B-PER
+Penz	I-PER
+''	O
+'	O
+
+'	O
+''	O
+M.	B-ORG
+Roma	I-ORG
+Volley	I-ORG
+''	O
+'	O
+
+Constantino	B-PER
+Conti	I-PER
+(	O
+ITA	B-LOC
+)	O
+(	O
+A	O
+)	O
+
+'	O
+''	O
+Dynamo	B-ORG
+Kiev	I-ORG
+''	O
+'*	O
+
+Suivent	O
+Lotus	B-ORG
+F1	I-ORG
+Team	I-ORG
+(	O
+255	O
+points	O
+)	O
+,	O
+Mercedes	B-ORG
+(	O
+136	O
+points	O
+)	O
+,	O
+Sauber	B-ORG
+(	O
+116	O
+points	O
+)	O
+,	O
+Force	B-ORG
+India	I-ORG
+(	O
+89	O
+points	O
+)	O
+,	O
+Williams	B-ORG
+(	O
+58	O
+points	O
+)	O
+et	O
+Scuderia	B-ORG
+Toro	I-ORG
+Rosso	I-ORG
+(	O
+21	O
+points	O
+)	O
+.	O
+
+Il	O
+évolue	O
+au	O
+poste	O
+d'attaquant	O
+au	O
+Lommel	B-ORG
+United	I-ORG
+.	O
+
+Bad	B-LOC
+Wildungen	I-LOC
+(	O
+ville	O
+)	O
+
+Le	O
+,	O
+le	O
+pape	O
+Jean-Paul	B-PER
+II	I-PER
+le	O
+nomme	O
+Archevêque	B-LOC
+de	I-LOC
+Makassar	I-LOC
+.	O
+
+São	B-LOC
+Pedro	I-LOC
+do	I-LOC
+Suaçuí	I-LOC
+
+Limousin	B-LOC
+(	O
+Limoges	B-LOC
+)	O
+
+|	O
+Chantier	B-ORG
+naval	I-ORG
+Bath	I-ORG
+Iron	I-ORG
+Works	I-ORG
+
+D'autres	O
+critiques	O
+dans	O
+des	O
+magazines	O
+américains	O
+ont	O
+salué	O
+entre	O
+autres	O
+les	O
+performances	O
+Amy	B-PER
+Adams	I-PER
+et	O
+aussi	O
+celle	O
+Hank	B-PER
+Azaria	I-PER
+.	O
+
+Il	O
+est	O
+plus	O
+ou	O
+moins	O
+semblable	O
+au	O
+Nokia	B-PER
+1100	I-PER
+sauf	O
+qu'il	O
+possède	O
+un	O
+écran	O
+couleur	O
+.	O
+
+'	O
+''	O
+Ludovic	B-PER
+Giuly	I-PER
+''	O
+'	O
+
+David	B-PER
+West	I-PER
+(	O
+6	O
+)	O
+
+'	O
+''	O
+-	O
+Adolphe	B-PER
+Brongniart	I-PER
+(	O
+1801-1876	O
+)	O
+
+La	O
+fabrique	O
+était	O
+située	O
+à	O
+Hendaye	B-LOC
+en	O
+France	B-LOC
+.	O
+
+Il	O
+évolue	O
+au	O
+poste	O
+attaquant	B-PER
+au	O
+Chelsea	B-ORG
+FC	I-ORG
+.	O
+
+Goran	B-PER
+Ivanišević	I-PER
+(	O
+2	O
+/	O
+3	O
+)	O
+
+'	O
+''	O
+Andrej	B-PER
+Hoteev	I-PER
+''	O
+'	O
+
+Le	O
+Baori	B-LOC
+est	O
+entouré	O
+d'un	O
+mur	O
+d'enceinte	O
+destiné	O
+à	O
+protéger	O
+son	O
+accès	O
+.	O
+
+L'As	B-ORG
+de	I-ORG
+la	I-ORG
+crime	I-ORG
+
+'	O
+''	O
+Plancherine	B-LOC
+''	O
+'	O
+
+'	O
+''	O
+Kjeld	B-PER
+Nuis	I-PER
+''	O
+'	O
+
+REDIRECTION	O
+Les	B-ORG
+Girls	I-ORG
+de	I-ORG
+Playboy	I-ORG
+
+REDIRECTION	O
+Regionalliga	B-ORG
+Berlin	I-ORG
+(	I-ORG
+1963-1974	I-ORG
+)	I-ORG
+
+Nersès	B-PER
+III	I-PER
+le	I-PER
+Bâtisseur	I-PER
+
+Ernesto	B-PER
+Valverde	I-PER
+(	O
+31	O
+/	O
+01	O
+/	O
+10	O
+)	O
+Juan	B-PER
+Carlos	I-PER
+Garrido	I-PER
+
+===	O
+Selon	O
+Aristote	B-PER
+et	O
+Théophraste	B-PER
+===	O
+
+Roy	B-PER
+Oswalt	I-PER
+(	O
+2	O
+)	O
+
+Chiwetel	B-PER
+Ejiofor	I-PER
+(	O
+1974-	O
+)	O
+
+REDIRECTION	O
+Championnat	B-ORG
+de	I-ORG
+France	I-ORG
+Futsal	I-ORG
+
+Bayonvillers	B-LOC
+''	O
+(	O
+km	O
+26	O
+)	O
+''	O
+
+''	O
+Cyborg	B-ORG
+009	I-ORG
+''	O
+
+Comté	B-LOC
+de	I-LOC
+Buskerud	I-LOC
+
+(	O
+États-Unis	B-LOC
+/	O
+Australie	B-LOC
+)	O
+
+''	O
+'Satellite	O
+''	O
+'	O
+à	O
+Six	B-ORG
+Flags	I-ORG
+Over	I-ORG
+Georgia	I-ORG
+
+Blink-182	B-ORG
+—	O
+``	O
+All	B-ORG
+the	I-ORG
+Small	I-ORG
+Things	I-ORG
+''	O
+
+Rochdale	B-LOC
+(	O
+Grand	B-LOC
+Manchester	I-LOC
+)	O
+
+Freddy	B-PER
+García	I-PER
+(	O
+12	O
+buts	O
+)	O
+
+Il	O
+vit	O
+à	O
+Bordj	B-LOC
+Bou	I-LOC
+Arreridj	I-LOC
+.	O
+
+Montpellier	B-ORG
+HSC	I-ORG
+1	O
+-	O
+2	O
+'	O
+''	O
+Girondins	B-ORG
+de	I-ORG
+Bordeaux	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+Hapoël	B-ORG
+Bnei	I-ORG
+Sakhnin	I-ORG
+''	O
+'*	O
+
+Il	O
+meurt	O
+dans	O
+son	O
+lit	O
+pour	O
+une	O
+raison	O
+inconnue	O
+à	O
+Tara	B-LOC
+,	O
+il	O
+a	O
+comme	O
+successeur	O
+son	O
+frère	O
+cadet	O
+Géde	B-PER
+Ollgothach	I-PER
+.	O
+
+Belfast	B-ORG
+West	I-ORG
+(	I-ORG
+circonscription	I-ORG
+britannique	I-ORG
+)	I-ORG
+
+Groupe	B-ORG
+Arc-en-ciel	I-ORG
+(	I-ORG
+1984-1989	I-ORG
+)	I-ORG
+
+REDIRECTION	O
+Gare	B-ORG
+centrale	I-ORG
+de	I-ORG
+Berlin	I-ORG
+
+La	O
+Charente-Maritime	B-LOC
+,	O
+qui	O
+jusqu'au	O
+s'appelait	O
+la	O
+Charente-Inférieure	B-LOC
+''	O
+.	O
+
+Il	O
+revient	O
+ensuite	O
+dans	O
+l'Allsvenskan	O
+à	O
+IF	B-ORG
+Björklöven	I-ORG
+.	O
+
+Il	O
+passe	O
+son	O
+enfance	O
+à	O
+Hambourg	B-LOC
+puis	O
+à	O
+Goslar	B-LOC
+.	O
+
+Kellenbach	B-LOC
+(	O
+281	O
+)	O
+
+Liu	B-PER
+Zhihua	I-PER
+(	I-PER
+politique	I-PER
+)	I-PER
+
+Pernelle	B-PER
+Carron	I-PER
+&	O
+Lloyd	B-PER
+Jones	I-PER
+
+REDIRECTION	O
+Cârța	B-LOC
+(	I-LOC
+Harghita	I-LOC
+)	I-LOC
+
+Ligue	B-ORG
+du	I-ORG
+Péloponnèse	I-ORG
+
+en	O
+1939	B-ORG
+,	O
+aux	O
+États-Unis	B-LOC
+,	O
+dans	O
+'	O
+''	O
+'	O
+(	O
+avec	O
+8	O
+autres	O
+nouvelles	O
+)	O
+;	O
+
+'	O
+''	O
+Walter	B-PER
+Simons	I-PER
+''	O
+'	O
+
+Xavier	B-PER
+de	I-PER
+Villepin	I-PER
+
+REDIRECTION	O
+Université	B-ORG
+de	I-ORG
+Toulouse	I-ORG
+(	I-ORG
+ancienne	I-ORG
+)	I-ORG
+
+Friedrich	B-PER
+August	I-PER
+Wolf	I-PER
+(	O
+1759-1824	O
+)	O
+
+Archives	B-ORG
+générales	I-ORG
+des	I-ORG
+Indes	I-ORG
+
+REDIRECTION	O
+Le	B-PER
+Colosse	I-PER
+(	I-PER
+comics	I-PER
+)	I-PER
+
+REDIRECTION	O
+District	B-LOC
+de	I-LOC
+Yeongdong	I-LOC
+
+'	O
+''	O
+Chantal	B-PER
+Berthelot	I-PER
+,	O
+52,87	O
+%	O
+'	O
+''	O
+,	O
+élue	O
+;	O
+
+En	O
+compétition	O
+au	O
+Festival	B-ORG
+international	I-ORG
+du	I-ORG
+court	I-ORG
+métrage	I-ORG
+de	I-ORG
+Clermont-Ferrand	I-ORG
+.	O
+
+Toutes	O
+les	O
+chansons	O
+sont	O
+composées	O
+par	O
+Matthew	B-ORG
+Bellamy	I-ORG
+
+Parc	B-LOC
+national	I-LOC
+Brindabella	I-LOC
+-	O
+hectares	O
+
+Pierre	B-PER
+Brasseur	I-PER
+,	O
+Arletty	B-PER
+,	O
+Jean-Louis	B-PER
+Barrault	I-PER
+
+Là	O
+,	O
+elle	O
+est	O
+soutenue	O
+par	O
+la	O
+Studienstiftung	B-ORG
+des	I-ORG
+deutschen	I-ORG
+Volkes	I-ORG
+''	O
+.	O
+
+Elles	O
+assurent	O
+quotidiennement	O
+des	O
+navettes	O
+entre	O
+Bâle	B-LOC
+et	O
+Mulhouse	B-LOC
+.	O
+
+Pogoni	B-LOC
+''	O
+(	O
+Dimos	O
+Pogoniou	O
+)	O
+''	O
+
+Le	O
+,	O
+spectateurs	O
+viennent	O
+assister	O
+au	O
+match	O
+opposant	O
+l'équipe	O
+locale	O
+aux	O
+Rangers	B-ORG
+de	I-ORG
+New	I-ORG
+York	I-ORG
+menés	O
+par	O
+Wayne	B-PER
+Gretzky	I-PER
+.	O
+
+Sultanat	B-LOC
+de	I-LOC
+Malacca	I-LOC
+(	O
+1414-1511	O
+)	O
+
+Rousserolle	B-LOC
+de	I-LOC
+Henderson	I-LOC
+
+Les	O
+Daleks	B-PER
+et	O
+Le	B-ORG
+Maître	I-ORG
+pour	O
+le	O
+Docteur	B-ORG
+
+Leo	B-PER
+Peeters	I-PER
+(	O
+SP	O
+)	O
+
+'	O
+''	O
+Alexander	B-PER
+Edmondson	I-PER
+''	O
+'	O
+
+Auguste	B-PER
+de	I-PER
+Villiers	I-PER
+de	I-PER
+L'Isle-Adam	I-PER
+
+Le	O
+Chakhtar	B-ORG
+Donetsk	I-ORG
+ne	O
+joue	O
+pas	O
+son	O
+second	O
+match	O
+alors	O
+qu'il	O
+doit	O
+affronter	O
+le	O
+Benfica	B-ORG
+Lisbonne	I-ORG
+.	O
+
+Les	O
+sketchs	O
+sont	O
+principalement	O
+enregistrés	O
+à	O
+Montréal	B-LOC
+,	O
+Québec	B-LOC
+et	O
+Vancouver	B-LOC
+,	O
+mais	O
+d'autres	O
+sketchs	O
+ont	O
+été	O
+enregistrés	O
+au	O
+Mexique	B-LOC
+.	O
+
+Busswil	B-LOC
+bei	I-LOC
+Büren	I-LOC
+
+Begge	B-PER
+(	O
+''Begga	O
+''	O
+)	O
+.	O
+
+REDIRECTION	O
+Ligue	B-ORG
+de	I-ORG
+la	I-ORG
+jeunesse	I-ORG
+somalie	I-ORG
+
+Elle	O
+appartient	O
+à	O
+Xstrata	B-ORG
+.	O
+
+Allusion	O
+à	O
+Gary	B-PER
+Cooper	I-PER
+!	O
+
+**	O
+Ligue	B-ORG
+centrale	I-ORG
+de	I-ORG
+hockey	I-ORG
+
+===	O
+Eminem	B-PER
+-	O
+Recovery	B-ORG
+''	O
+===	O
+
+REDIRECTION	O
+Legend	B-ORG
+(	I-ORG
+chanson	I-ORG
+)	I-ORG
+
+Gabri	B-PER
+(	O
+?	O
+?	O
+?	O
+?	O
+?	O
+
+Catholiques	B-LOC
+grecs	I-LOC
+,	O
+2,27	O
+%	O
+;	O
+
+Happy	B-ORG
+Endings	I-ORG
+''	O
+(	O
+23	O
+/	O
+10	O
+)	O
+
+'	O
+''	O
+Lech	B-ORG
+Poznań	I-ORG
+''	O
+'*	O
+
+REDIRECTION	O
+Zuniga	B-ORG
+(	I-ORG
+genre	I-ORG
+)	I-ORG
+
+Beiseker	B-LOC
+(	I-LOC
+Alberta	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Geoff	B-PER
+Wheel	I-PER
+''	O
+'	O
+
+Galatie	B-LOC
+,	O
+''Galatia	O
+''	O
+
+Ces	O
+accusations	O
+sont	O
+immédiatement	O
+démenties	O
+par	O
+le	O
+président	O
+Mourad	B-PER
+Boudjellal	I-PER
+.	O
+
+'	O
+''	O
+Gérard	B-PER
+Voisin	I-PER
+''	O
+'	O
+,	O
+sortant	O
+
+REDIRECTION	O
+Barrage	B-ORG
+de	I-ORG
+Piedra	I-ORG
+del	I-ORG
+Águila	I-ORG
+
+Livre	O
+des	O
+morts	O
+''	O
+,	O
+exposé	O
+au	O
+British	B-ORG
+Museum	I-ORG
+
+REDIRECTION	O
+Michael	B-PER
+Frank	I-PER
+Goodchild	I-PER
+
+REDIRECTION	O
+District	B-LOC
+municipal	I-LOC
+de	I-LOC
+Ga	I-LOC
+est	I-LOC
+
+Sur	O
+l'avers	O
+,	O
+on	O
+voit	O
+le	O
+général	B-PER
+de	I-PER
+Gaulle	I-PER
+défiler	O
+sur	O
+les	O
+Champs-Élysées	B-LOC
+.	O
+
+**	O
+Constantino	B-PER
+Zaballa	I-PER
+(	O
+abandon	O
+)	O
+
+Paris	B-LOC
+,	O
+Lyon	B-LOC
+,	O
+Lille	B-LOC
+
+Paul	B-PER
+Henreid	I-PER
+,	O
+Joan	B-PER
+Bennett	I-PER
+
+Champion	B-ORG
+d'Espagne	I-ORG
+en	O
+1997	B-LOC
+,	O
+2001	B-LOC
+,	O
+2003	B-LOC
+,	O
+2007	B-LOC
+et	O
+2008	B-LOC
+
+Inégalité	B-ORG
+de	I-ORG
+Le	I-ORG
+Cam	I-ORG
+
+'	O
+''	O
+«	O
+Raph	B-PER
+»	O
+''	O
+'	O
+
+Il	O
+est	O
+remplacé	O
+,	O
+dès	O
+le	O
+lendemain	O
+,	O
+par	O
+Andrzej	B-PER
+Czuma	I-PER
+.	O
+
+Tibère	B-PER
+II	I-PER
+Constantin	I-PER
+(	O
+540-582	O
+)	O
+
+Khan	B-LOC
+Younès	I-LOC
+(	O
+خان	O
+يونس	O
+)	O
+
+Il	O
+a	O
+également	O
+dirigé	O
+plusieurs	O
+ensembles	O
+sur	O
+les	O
+continents	O
+européen	B-LOC
+,	O
+asiatique	B-LOC
+,	O
+australien	B-LOC
+et	O
+américain	B-LOC
+.	O
+
+'	O
+''	O
+Victoria	B-PER
+Kan	I-PER
+''	O
+'	O
+
+Louisiane	B-LOC
+–	O
+$	O
+32,566	O
+(	O
+€24	O
+465	O
+)	O
+
+Ligne	B-ORG
+36	I-ORG
+,	I-ORG
+de	I-ORG
+Bruxelles-Nord	I-ORG
+à	I-ORG
+Liège-Guillemins	I-ORG
+
+Puis	O
+il	O
+participa	O
+à	O
+la	O
+Coupe	B-ORG
+du	I-ORG
+monde	I-ORG
+de	I-ORG
+football	I-ORG
+de	I-ORG
+1974	I-ORG
+,	O
+en	O
+RFA	B-LOC
+.	O
+
+Stade	B-ORG
+Lesdiguières	I-ORG
+et	O
+Stade	B-ORG
+des	I-ORG
+Alpes	I-ORG
+
+Karine	B-PER
+Ferri	I-PER
+et	O
+Vincent	B-PER
+Niclo	I-PER
+
+Yakari	B-ORG
+(	O
+Job	B-PER
+et	O
+Derib	B-PER
+)	O
+
+Gare	B-ORG
+de	I-ORG
+Madrid-Atocha	I-ORG
+
+Power	B-ORG
+Rangers	I-ORG
+:	I-ORG
+Jungle	I-ORG
+Fury	I-ORG
+''	O
+
+Saint-Paul	B-LOC
+,	O
+à	O
+La	B-LOC
+Réunion	I-LOC
+.	O
+
+Wavrans-sur-Ternoise	B-LOC
+''	O
+(	O
+km	O
+5	O
+)	O
+''	O
+
+Ligne	B-ORG
+de	I-ORG
+Paris-Est	I-ORG
+à	I-ORG
+Mulhouse-Ville	I-ORG
+
+``	O
+Where	B-ORG
+The	I-ORG
+Streets	I-ORG
+Have	I-ORG
+No	I-ORG
+Name	I-ORG
+''	O
+
+'	O
+''	O
+Capivari	B-LOC
+de	I-LOC
+Baixo	I-LOC
+''	O
+'	O
+
+Théorème	B-ORG
+de	I-ORG
+sélection	I-ORG
+de	I-ORG
+Michael	I-ORG
+
+**	O
+Heather	B-PER
+Matarazzo	I-PER
+pour	O
+Un	B-ORG
+agent	I-ORG
+très	I-ORG
+secret	I-ORG
+''	O
+
+Il	O
+y	O
+a	O
+notamment	O
+pour	O
+maîtres	O
+Léon	B-PER
+Bonnat	I-PER
+,	O
+Luc-Olivier	B-PER
+Merson	I-PER
+,	O
+Pierre-Victor	B-PER
+Galland	I-PER
+,	O
+Gustave	B-PER
+Boulanger	I-PER
+.	O
+
+Jean	B-PER
+Marais	I-PER
+,	O
+Danièle	B-PER
+Delorme	I-PER
+
+Il	O
+est	O
+réalisé	O
+par	O
+Jon	B-PER
+Kelly	I-PER
+.	O
+
+'	O
+''	O
+3	O
+)	O
+Laura	B-PER
+Pausini	I-PER
+'	O
+''	O
+
+Transaéro	O
+commence	O
+à	O
+effectuer	O
+des	O
+vols	O
+réguliers	O
+entre	O
+Moscou	B-LOC
+et	O
+Strasbourg	B-LOC
+,	O
+Atyraou	B-LOC
+.	O
+
+Justine	B-PER
+Henin	I-PER
+(	O
+7	O
+/	O
+7	O
+)	O
+
+Étienne	B-PER
+Tardif	I-PER
+de	I-PER
+Pommeroux	I-PER
+de	I-PER
+Bordesoulle	I-PER
+
+Il	O
+commence	O
+sa	O
+carrière	O
+en	O
+jouant	O
+pour	O
+HC	B-ORG
+Pardubice	I-ORG
+dans	O
+le	O
+championnat	B-ORG
+de	I-ORG
+République	I-ORG
+tchèque	I-ORG
+,	O
+l	O
+''	O
+'	O
+''	O
+.	O
+
+''Mistreated	O
+''	O
+(	O
+Deep	B-ORG
+Purple	I-ORG
+)	O
+
+22	O
+,	O
+Chemin	B-ORG
+de	I-ORG
+fer	I-ORG
+du	I-ORG
+Vivarais	I-ORG
+
+Anca	B-PER
+Boagiu	I-PER
+–	O
+Vice-président	O
+
+Deux	O
+exemplaires	O
+sont	O
+rachetés	O
+par	O
+USAAC	B-ORG
+et	O
+désignés	O
+Y1C-23	O
+et	O
+Y1C-25	O
+.	O
+
+Amérique	B-LOC
+du	I-LOC
+Nord	I-LOC
+britannique	I-LOC
+
+Ministère	B-ORG
+de	I-ORG
+la	I-ORG
+Justice	I-ORG
+(	I-ORG
+Italie	I-ORG
+)	I-ORG
+
+Chemins	B-ORG
+de	I-ORG
+fer	I-ORG
+départementaux	I-ORG
+de	I-ORG
+la	I-ORG
+Somme	I-ORG
+
+REDIRECTION	O
+Union	B-ORG
+sportive	I-ORG
+de	I-ORG
+Marignane	I-ORG
+
+'	O
+''	O
+Acta	B-ORG
+Ornithologica	I-ORG
+''	O
+'	O
+''	O
+
+La	B-LOC
+Cluse	I-LOC
+>	O
+Dévoluy	B-LOC
+
+Century	B-LOC
+City	I-LOC
+à	O
+Los	B-LOC
+Angeles	I-LOC
+;	O
+
+Jingnan	B-ORG
+(	O
+924–963	O
+)	O
+
+Château	B-ORG
+de	I-ORG
+Monte-Cristo	I-ORG
+
+École	B-ORG
+spéciale	I-ORG
+militaire	I-ORG
+de	I-ORG
+Saint-Cyr	I-ORG
+,	O
+
+Keyrail	O
+(	O
+Dédié	O
+à	O
+la	O
+Ligne	B-ORG
+de	I-ORG
+la	I-ORG
+Betuwe	I-ORG
+)	O
+
+Province	B-LOC
+de	I-LOC
+Tamba	I-LOC
+
+Al	B-PER
+Gore	I-PER
+&	O
+Joseph	B-PER
+Lieberman	I-PER
+
+Odon	B-PER
+de	I-PER
+Poznań	I-PER
+
+'	O
+''	O
+République	B-LOC
+tchèque	I-LOC
+''	O
+'	O
+
+Le	O
+groupe	O
+Hootie	B-ORG
+and	I-ORG
+the	I-ORG
+Blowfish	I-ORG
+
+Saïan	B-ORG
+Supa	I-ORG
+Crew	I-ORG
+
+Michel	B-PER
+Gondry	I-PER
+,	O
+Leos	B-PER
+Carax	I-PER
+et	O
+Bong	B-PER
+Joon-ho	I-PER
+
+Des	O
+extensions	O
+vers	O
+Kingersheim	B-LOC
+,	O
+Wittenheim	B-LOC
+et	O
+Illzach	B-LOC
+sont	O
+prévues	O
+sans	O
+qu'une	O
+date	O
+ne	O
+soit	O
+avancée	O
+.	O
+
+Le	O
+match	O
+suivant	O
+est	O
+un	O
+déplacement	O
+à	O
+Nancy	B-ORG
+.	O
+
+La	O
+ville	O
+est	O
+essentiellement	O
+connue	O
+pour	O
+sa	O
+centrale	B-ORG
+nucléaire	I-ORG
+.	O
+
+Otto	B-PER
+Hoffmann	I-PER
+von	I-PER
+Waldau	I-PER
+
+Nina	B-PER
+Mercedez	I-PER
+(	O
+NinaMercedezXXX.com	O
+)	O
+
+Elle	O
+voisine	O
+la	O
+Belgique	B-LOC
+.	O
+
+La	O
+'	O
+''	O
+Grande-Bretagne	B-ORG
+''	O
+'	O
+participe	O
+aux	O
+Jeux	B-ORG
+paralympiques	I-ORG
+d'été	I-ORG
+de	I-ORG
+1964	I-ORG
+à	O
+Tokyo	B-LOC
+.	O
+
+Fernando]]	O
+''	O
+(	O
+sp	O
+)	O
+''	O
+-	O
+Jussiê	B-PER
+
+Dans	O
+le	O
+P.N.R.C	B-ORG
+.	I-ORG
+pour	O
+sa	O
+partie	O
+Prunelli-di-Fiumorbo	B-LOC
+
+États-Unis	B-LOC
+de	I-LOC
+Colombie	I-LOC
+,	O
+1862-1886	O
+
+Zach	B-PER
+Duke	I-PER
+,	O
+Joe	B-PER
+Martinez	I-PER
+,	O
+Zack	B-PER
+Greinke	I-PER
+et	O
+Yuniesky	B-PER
+Betancourt	I-PER
+sont	O
+échangés	O
+.	O
+
+Hello	B-ORG
+!	I-ORG
+Pro	I-ORG
+Egg	I-ORG
+(	O
+2011-	O
+)	O
+
+Il	O
+y	O
+a	O
+aussi	O
+une	O
+Banque	B-ORG
+européenne	I-ORG
+d'investissement	I-ORG
+,	O
+qui	O
+fournit	O
+des	O
+prêts	O
+à	O
+long	O
+terme	O
+pour	O
+aider	O
+le	O
+développement	O
+et	O
+l'intégration	O
+.	O
+
+Le	B-ORG
+Plus	I-ORG
+Grand	I-ORG
+Cabaret	I-ORG
+du	I-ORG
+monde	I-ORG
+
+Manifestation	O
+en	O
+faveur	O
+des	O
+services	O
+publics	O
+à	O
+[[Paris	O
+,	O
+France	B-LOC
+,	O
+.	O
+
+Ambassade	B-ORG
+du	I-ORG
+Canada	I-ORG
+aux	I-ORG
+États-Unis	I-ORG
+
+'	O
+''	O
+17	O
+''	O
+'	O
+Tomasz	B-PER
+Sikora	I-PER
+
+REDIRECTION	O
+Ilie	B-PER
+G.	I-PER
+Murgulescu	I-PER
+
+Joseph	B-PER
+Hugues	I-PER
+Boissieu	I-PER
+La	I-PER
+Martinière	I-PER
+(	O
+1758-1788	O
+?	O
+
+Les	O
+personnages	O
+principaux	O
+sont	O
+interprétés	O
+par	O
+Lynn	B-PER
+Collins	I-PER
+et	O
+Joseph	B-PER
+Gordon-Levitt	I-PER
+.	O
+
+REDIRECTION	O
+Charles	B-PER
+Philippe	I-PER
+de	I-PER
+Schwarzenberg	I-PER
+
+Courcelles	B-LOC
+(	I-LOC
+Québec	I-LOC
+)	I-LOC
+
+Bouzillé	B-LOC
+,	O
+La	B-LOC
+Chapelle-Saint-Florent	I-LOC
+,	O
+Champtoceaux	B-LOC
+,	O
+La	B-LOC
+Chaussaire	I-LOC
+,	O
+Drain	B-LOC
+,	O
+Landemont	B-LOC
+,	O
+Liré	B-LOC
+,	O
+Le	B-LOC
+Marillais	I-LOC
+,	O
+Saint-Christophe-la-Couperie	B-LOC
+,	O
+Saint-Crespin-sur-Moine	B-LOC
+,	O
+Saint-Florent-le-Vieil	B-LOC
+,	O
+Saint-Germain-sur-Moine	B-LOC
+,	O
+Saint-Laurent-des-Autels	B-LOC
+,	O
+Saint-Rémy-en-Mauges	B-LOC
+,	O
+Saint-Sauveur-de-Landemont	B-LOC
+,	O
+Tillières	B-LOC
+et	O
+La	B-LOC
+Varenne	I-LOC
+.	O
+
+Pétasite	B-LOC
+du	I-LOC
+Japon	I-LOC
+
+Russell	B-PER
+Westbrook	I-PER
+(	O
+44	O
+)	O
+
+Mahesh	B-PER
+Bhupathi	I-PER
+/	O
+Max	B-PER
+Mirnyi	I-PER
+(	O
+)	O
+
+Chisato	B-PER
+Fukushima	I-PER
+23	O
+s	O
+45	O
+
+University	B-ORG
+of	I-ORG
+Phoenix	I-ORG
+Stadium	I-ORG
+(	O
+1	O
+)	O
+
+Orbigny]]	O
+,	O
+Villedômain	B-LOC
+,	O
+Villeloin-Coulangé	B-LOC
+
+Torquéole	B-LOC
+à	I-LOC
+gorge	I-LOC
+rousse	I-LOC
+
+)	O
+,	O
+5	O
+Nathan	B-PER
+Sharpe	I-PER
+,	O
+4	O
+Mark	B-PER
+Chisholm	I-PER
+,	O
+3	O
+Salesi	B-PER
+Ma'afu	I-PER
+,	O
+2	O
+Stephen	B-PER
+Moore	I-PER
+,	O
+1	O
+Benn	B-PER
+Robinson	I-PER
+.	O
+
+Saint-Saturnin	B-LOC
+(	I-LOC
+Charente	I-LOC
+)	I-LOC
+
+Les	O
+lycéens	O
+poursuivent	O
+leur	O
+scolarité	O
+à	O
+Saint-Pourçain-sur-Sioule	B-LOC
+.	O
+
+Ernest	B-PER
+Choquette	I-PER
+(	O
+1862-1941	O
+)	O
+
+Sejong	B-PER
+le	I-PER
+Grand	I-PER
+
+===	O
+Weinan	B-LOC
+(	O
+渭南	O
+)	O
+===	O
+
+Place	B-PER
+des	I-PER
+femmes	I-PER
+en	I-PER
+médecine	I-PER
+
+Il	O
+dispute	O
+également	O
+une	O
+finale	O
+,	O
+en	O
+1974	B-ORG
+.	O
+
+Richard	B-PER
+Fletcher	I-PER
+(	I-PER
+évêque	I-PER
+de	I-PER
+Londres	I-PER
+)	I-PER
+
+Y	O
+participent	O
+entre	O
+autres	O
+Pink	B-ORG
+Floyd	I-ORG
+et	O
+Grateful	B-ORG
+Dead	I-ORG
+.	O
+
+Salassa	B-LOC
+,	O
+Rivarolo	B-LOC
+Canavese	I-LOC
+,	O
+San	B-LOC
+Ponso	I-LOC
+,	O
+Busano	B-LOC
+,	O
+Favria	B-LOC
+,	O
+Rivarossa	B-LOC
+,	O
+Front	B-LOC
+
+REDIRECTION	O
+Frédéric	B-PER
+de	I-PER
+Galles	I-PER
+
+Megadeth	B-ORG
+–	O
+Hangar	B-ORG
+18	I-ORG
+''	O
+
+A	B-ORG
+Bit	I-ORG
+of	I-ORG
+Fry	I-ORG
+and	I-ORG
+Laurie	I-ORG
+''	O
+
+Dino	B-PER
+Ferrari	I-PER
+-	O
+Enzo	B-PER
+Ferrari	I-PER
+
+Alchémille	B-LOC
+des	I-LOC
+Alpes	I-LOC
+
+Venise	B-LOC
+est	O
+embarrassée	O
+par	O
+la	O
+situation	O
+.	O
+
+Dans	O
+cette	O
+perspective	O
+,	O
+il	O
+est	O
+envoyé	O
+à	O
+Rome	B-LOC
+.	O
+
+Le	O
+Naviglio	B-LOC
+Pavese	I-LOC
+''	O
+passe	O
+à	O
+à	O
+l'ouest	O
+.	O
+
+Elle	O
+pousse	O
+dans	O
+l'ouest	O
+des	O
+États-Unis	B-LOC
+(	O
+Colorado	B-LOC
+,	O
+Idaho	B-LOC
+,	O
+Montana	B-LOC
+,	O
+Nevada	B-LOC
+,	O
+Utah	B-LOC
+,	O
+Wyoming	B-LOC
+)	O
+.	O
+
+''Dreams	O
+''	O
+(	O
+Stevie	B-PER
+Nicks	I-PER
+)	O
+–	O
+4:16	O
+
+Le	O
+quartier	O
+Est	O
+,	O
+où	O
+se	O
+situe	O
+le	O
+Golf	B-ORG
+Disneyland	I-ORG
+.	O
+
+Il	O
+est	O
+vraisemblable	O
+qu'il	O
+avait	O
+établi	O
+ses	O
+ateliers	O
+à	O
+Canosa	B-LOC
+.	O
+
+Fairbanks	B-LOC
+(	O
+hab	O
+.	O
+
+Il	O
+a	O
+été	O
+remplacé	O
+par	O
+James	B-PER
+Carlisle	I-PER
+.	O
+
+Elle	O
+est	O
+considérée	O
+comme	O
+rare	O
+aux	O
+Pays-Bas	B-LOC
+.	O
+
+Séville	B-ORG
+FC	I-ORG
+(	O
+55.105	O
+)	O
+''	O
+Espagne	B-ORG
+en	O
+2012-2013	B-LOC
+''	O
+
+''	O
+Cardcaptor	B-ORG
+Sakura	I-ORG
+''	O
+(	O
+Tsujitani-sensei	O
+)	O
+
+Barbara	B-PER
+Bodichon	I-PER
+(	O
+1827–1891	O
+)	O
+,	O
+
+Pour	O
+Pierre	B-PER
+Grimal	I-PER
+en	O
+effet	O
+,	O
+.	O
+
+Raoul	B-PER
+Le	I-PER
+Mouton	I-PER
+de	I-PER
+Boisdeffre	I-PER
+
+'	O
+''	O
+Cytisus	B-LOC
+''	O
+'	O
+''	O
+-	O
+fam	O
+.	O
+
+Il	O
+s’établit	O
+à	O
+Cambridge	B-LOC
+(	O
+Massachusetts	B-LOC
+)	O
+.	O
+
+Il	O
+eut	O
+pour	O
+rival	O
+et	O
+pour	O
+adversaire	O
+le	O
+fameux	O
+Francis	B-PER
+Bacon	I-PER
+.	O
+
+Sherco	B-ORG
+(	O
+France	B-LOC
+)	O
+
+60	O
+Max	B-PER
+Unger	I-PER
+C	O
+
+REDIRECTION	O
+Mossaka	B-LOC
+(	I-LOC
+district	I-LOC
+)	I-LOC
+
+Yo	B-PER
+Gotti	I-PER
+et	O
+Lil	B-PER
+Wayne	I-PER
+)	O
+
+REDIRECTION	O
+Réserve	B-ORG
+nationale	I-ORG
+Las	I-ORG
+Guaitecas	I-ORG
+
+System	B-ORG
+of	I-ORG
+a	I-ORG
+Down	I-ORG
+
+Quaschwitz	B-LOC
+(	O
+71	O
+)	O
+
+'	O
+''	O
+TSG	B-ORG
+Neustrelitz	I-ORG
+''	O
+'	O
+
+A	O
+8	O
+ans	O
+,	O
+il	O
+est	O
+arrivé	O
+à	O
+Mexico	B-LOC
+où	O
+dés	O
+l'adolescence	O
+il	O
+a	O
+commencé	O
+à	O
+composer	O
+ses	O
+premières	O
+chansons	O
+.	O
+
+Gertrude	B-PER
+de	I-PER
+Helfta	I-PER
+
+REDIRECTION	O
+Bullets	B-ORG
+de	I-ORG
+Baltimore	I-ORG
+(	I-ORG
+1944-1954	I-ORG
+)	I-ORG
+
+École	B-ORG
+nationale	I-ORG
+d'ingénieurs	I-ORG
+de	I-ORG
+Tunis	I-ORG
+(	O
+ENIT	O
+)	O
+
+Elle	O
+se	O
+rencontre	O
+au	O
+Yukon	B-LOC
+,	O
+en	O
+Alberta	B-LOC
+,	O
+en	O
+Saskatchewan	B-LOC
+,	O
+au	O
+Manitoba	B-LOC
+,	O
+en	O
+Ontario	B-LOC
+,	O
+au	O
+Québec	B-LOC
+et	O
+au	O
+Labrador	B-LOC
+.	O
+
+REDIRECTION	O
+Carl	B-PER
+Hansen	I-PER
+Ostenfeld	I-PER
+
+Région	B-LOC
+de	I-LOC
+l'Ouest	I-LOC
+(	I-LOC
+Cameroun	I-LOC
+)	I-LOC
+
+James	B-PER
+Lipton	I-PER
+(	O
+Présentée	O
+par	O
+Dave	B-PER
+Chappelle	I-PER
+)	O
+
+Il	O
+a	O
+été	O
+remporté	O
+par	O
+Espagnol	B-LOC
+Agustín	B-PER
+Tamames	I-PER
+.	O
+
+''Viaduc	O
+sur	O
+Obra	B-LOC
+(	O
+215	O
+m	O
+)	O
+''	O
+
+Écrit	O
+et	O
+composé	O
+par	O
+Rod	B-PER
+Temperton	I-PER
+
+Il	O
+est	O
+le	O
+père	O
+des	O
+compositeurs	O
+et	O
+violonistes	O
+Carl	B-PER
+et	O
+Anton	B-PER
+Stamitz	I-PER
+.	O
+
+'	O
+''	O
+Bettina	B-PER
+Rheims	I-PER
+''	O
+'	O
+
+Palazzo	B-LOC
+Canavese	I-LOC
+,	O
+Zimone	B-LOC
+,	O
+Magnano	B-LOC
+,	O
+Albiano	B-LOC
+d'Ivrea	I-LOC
+,	O
+Azeglio	B-LOC
+,	O
+Viverone	B-LOC
+
+**	O
+Chambre	B-ORG
+des	I-ORG
+représentants	I-ORG
+de	I-ORG
+l'Utah	I-ORG
+
+Les	B-LOC
+Mesnuls	I-LOC
+''	O
+(	O
+km	O
+96	O
+)	O
+''	O
+
+Il	O
+put	O
+ainsi	O
+intégrer	O
+le	O
+Collège	B-ORG
+royal	I-ORG
+''Brittania	I-ORG
+''	I-ORG
+de	I-ORG
+la	I-ORG
+Marine	I-ORG
+.	O
+
+Another	B-ORG
+Brick	I-ORG
+in	I-ORG
+the	I-ORG
+Wall	I-ORG
+part	O
+1	O
+''	O
+–	O
+4:13	O
+
+2N'ont	O
+pas	O
+été	O
+réélus	O
+(	O
+Ulrich	B-PER
+Ochsenbein	I-PER
+,	O
+Jean-Jacques	B-PER
+Challet-Venel	I-PER
+,	O
+Ruth	B-PER
+Metzler-Arnold	I-PER
+,	O
+Christoph	B-PER
+Blocher	I-PER
+)	O
+
+Richard	B-PER
+de	I-PER
+Shrewsbury	I-PER
+
+Niederraden	B-LOC
+(	O
+38	O
+)	O
+
+-145-146	O
+''Hommage	O
+à	O
+''	O
+Georges	B-PER
+Braque	I-PER
+''	O
+
+REDIRECTION	O
+Nordri	B-LOC
+,	I-LOC
+Sudri	I-LOC
+,	I-LOC
+Austri	I-LOC
+et	I-LOC
+Westri	I-LOC
+
+REDIRECTION	O
+Mission	B-ORG
+nationale	I-ORG
+pour	I-ORG
+les	I-ORG
+manuscrits	I-ORG
+
+**AOMC	O
+(	O
+Aigle-Ollon-Monthey-Champery	B-ORG
+)	O
+(	O
+voir	O
+''TPC	O
+''	O
+)	O
+)	O
+
+Mont	B-LOC
+Ōdaigahara	I-LOC
+(	O
+大台ヶ原山	O
+)	O
+
+REDIRECTION	O
+Juan	B-PER
+José	I-PER
+López	I-PER
+
+'	O
+''	O
+Philippe	B-PER
+Delaye	I-PER
+''	O
+'	O
+
+Les	O
+Cortes	B-ORG
+espagnols	O
+ont	O
+confirmé	O
+ce	O
+vote	O
+.	O
+
+'	O
+''	O
+Iekaterinbourg	B-LOC
+''	O
+'	O
+
+Gorges	B-LOC
+du	I-LOC
+Dadès	I-LOC
+
+Stocké	O
+à	O
+Lanzarote	B-LOC
+(	O
+Îles	B-LOC
+Canaries	I-LOC
+)	O
+
+Il	O
+est	O
+principalement	O
+situé	O
+en	O
+Algérie	B-LOC
+.	O
+
+REDIRECTION	O
+Lac	B-LOC
+La	I-LOC
+Vieille	I-LOC
+
+REDIRECTION	O
+Mer	B-LOC
+de	I-LOC
+Halmahera	I-LOC
+
+Québec	B-LOC
+(	I-LOC
+comté	I-LOC
+)	I-LOC
+
+City	B-ORG
+Park	I-ORG
+(	I-ORG
+Denver	I-ORG
+)	I-ORG
+
+Honky	B-ORG
+Tonk	I-ORG
+Women	I-ORG
+''	O
+–	O
+2:59	O
+
+Weiss	B-ORG
+Kreuz	I-ORG
+Brillance	I-ORG
+''	O
+(	O
+ép	O
+.	O
+
+Thomas	B-PER
+Perez	I-PER
+,	O
+secrétaire	B-PER
+au	I-PER
+Travail	I-PER
+
+Égypte	B-LOC
+se	O
+définit	O
+essentiellement	O
+par	O
+rapport	O
+au	O
+Nil	B-LOC
+.	O
+
+La	O
+Boerentoren	B-ORG
+''	O
+(	O
+litt	O
+.	O
+
+Samolus	B-LOC
+valerandi	I-LOC
+''	O
+L	O
+.	O
+
+***	O
+Coupe	B-ORG
+du	I-ORG
+monde	I-ORG
+8	I-ORG
+,	I-ORG
+Roubaix	I-ORG
+
+Agence	B-ORG
+Chypre-presse	I-ORG
+(	I-ORG
+CNA	I-ORG
+)	I-ORG
+(	O
+)	O
+
+Dolph	B-PER
+Schayes	I-PER
+(	O
+1970-72	O
+)	O
+
+'	O
+''	O
+Saint-Patrice-de-Beaurivage	B-LOC
+''	O
+'	O
+
+**	O
+Kao	B-LOC
+,	O
+une	O
+ville	O
+;	O
+
+**	O
+Jean	B-PER
+II	I-PER
+(	O
+1313-1372	O
+)	O
+
+REDIRECTION	O
+Science	B-ORG
+(	I-ORG
+chaîne	I-ORG
+de	I-ORG
+télévision	I-ORG
+)	I-ORG
+
+REDIRECTION	O
+Monastère	B-ORG
+de	I-ORG
+Voroneț	I-ORG
+
+│	O
+│	O
+│	O
+├─o	O
+Promegistidae	B-LOC
+
+REDIRECTION	O
+Società	B-ORG
+Sportiva	I-ORG
+Virtus	I-ORG
+Lanciano	I-ORG
+1924	I-ORG
+
+'	O
+''	O
+Fili	B-ORG
+Moscou	I-ORG
+''	O
+'	O
+
+Beaumont-du-Périgord	B-LOC
+-	O
+Labouquerie	B-LOC
+-	O
+Nojals-et-Clotte	B-LOC
+-	O
+Sainte-Sabine-Born	B-LOC
+
+Quelques	O
+françaises	B-LOC
+ont	O
+rejoint	O
+le	O
+groupe	O
+.	O
+
+Hertha	B-ORG
+BSC	I-ORG
+Berlin	I-ORG
+(	O
+)	O
+
+Simin	B-PER
+Palay	I-PER
+(	O
+1874-1965	O
+)	O
+
+Sainte-Marguerite-de-Viette	B-LOC
+,	O
+dans	O
+le	O
+Calvados	B-LOC
+
+'	O
+''	O
+Arpajon	B-LOC
+''	O
+'	O
+
+Gare	B-ORG
+de	I-ORG
+Saint-Priest	I-ORG
+↔	O
+Toussieu	B-LOC
+↔	O
+Saint-Pierre-de-Chandieu	B-LOC
+
+Stylianós	B-PER
+Mavromikhális	I-PER
+(	O
+1963-1968	O
+)	O
+
+'	O
+''	O
+Thionville	B-LOC
+''	O
+'	O
+D	O
+953a	O
+
+United	B-ORG
+States	I-ORG
+Army	I-ORG
+Criminal	I-ORG
+Investigation	I-ORG
+Command	I-ORG
+;	O
+
+Lyudmila	B-PER
+Veselkova1	I-PER
+min	O
+55	O
+s	O
+96	O
+
+Il	O
+travaille	O
+aussi	O
+pour	O
+L'Écho	B-ORG
+de	I-ORG
+Paris	I-ORG
+,	O
+Gil	B-ORG
+Blas	I-ORG
+ou	O
+encore	O
+Le	B-ORG
+Figaro	I-ORG
+.	O
+
+BC	B-ORG
+Körmend	I-ORG
+''	O
+(	O
+10	O
+)	O
+''	O
+
+===	O
+Shah	B-LOC
+Alam	I-LOC
+-	O
+(	O
+Selangor	B-LOC
+)	O
+===	O
+
+Fuel	B-ORG
+for	I-ORG
+the	I-ORG
+Fire	I-ORG
+
+Gordona	B-LOC
+,	O
+Livo	B-LOC
+,	O
+Montemezzo	B-LOC
+,	O
+Novate	B-LOC
+Mezzola	I-LOC
+,	O
+Prata	B-LOC
+Camportaccio	I-LOC
+,	O
+Sorico	B-LOC
+,	O
+Vercana	B-LOC
+
+Baluga	B-LOC
+(	I-LOC
+Ljubićska	I-LOC
+)	I-LOC
+
+''Rue	O
+Joseph-Delattre	O
+''	O
+à	O
+Rouen	B-LOC
+.	O
+
+Les	B-ORG
+Sauvages	I-ORG
+(	I-ORG
+série	I-ORG
+télévisée	I-ORG
+)	I-ORG
+
+Crispiano	B-LOC
+,	O
+Massafra	B-LOC
+,	O
+Montemesola	B-LOC
+,	O
+Tarente	B-LOC
+
+Lutzelhouse	B-LOC
+''	O
+(	O
+km	O
+38	O
+)	O
+''	O
+
+Cette	O
+visite	O
+à	O
+Weimar	B-LOC
+ne	O
+remplit	O
+pas	O
+tous	O
+ses	O
+souhaits	O
+.	O
+
+Il	O
+est	O
+remporté	O
+par	O
+l'Australien	O
+Michael	B-PER
+Rogers	I-PER
+.	O
+
+Manlleu	B-LOC
+'	O
+''	O
+(	O
+1	O
+)	O
+'	O
+''	O
+
+Cassel	B-LOC
+(	I-LOC
+Mayence	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Hobscheid	B-LOC
+''	O
+'	O
+
+REDIRECTION	O
+La	B-ORG
+Légende	I-ORG
+de	I-ORG
+Rei	I-ORG
+
+Lavandula	B-LOC
+latifolia	I-LOC
+''	O
+Medik	O
+.	O
+
+Jeanne	B-PER
+Ire	I-PER
+de	I-PER
+Navarre	I-PER
+
+Valerio	B-PER
+Tebaldi	I-PER
+(	O
+ITA	B-LOC
+)	O
+(	O
+A	O
+13	O
+)	O
+
+Andrea	B-PER
+De	I-PER
+Carlo	I-PER
+
+REDIRECTION	O
+George	B-PER
+Hamilton	I-PER
+(	I-PER
+football	I-PER
+)	I-PER
+
+Antoine	B-PER
+Barnave	I-PER
+,	O
+1761-1793	O
+
+REDIRECTION	O
+Équipe	B-ORG
+du	I-ORG
+Mali	I-ORG
+féminine	I-ORG
+de	I-ORG
+football	I-ORG
+
+Un	O
+an	O
+auparavant	O
+il	O
+avait	O
+participé	O
+à	O
+la	O
+Coupe	B-ORG
+des	I-ORG
+nations	I-ORG
+de	I-ORG
+la	I-ORG
+CONCACAF	I-ORG
+1977	I-ORG
+.	O
+
+)	O
+situés	O
+dans	O
+la	O
+ville	O
+Etchmiadzin	B-LOC
+.	O
+
+'	O
+''	O
+Fegersheim	B-LOC
+''	O
+'	O
+
+===	O
+Province	B-LOC
+de	I-LOC
+Río	I-LOC
+Negro	I-LOC
+===	O
+
+Elle	O
+est	O
+desservie	O
+par	O
+Amtrak	B-ORG
+.	O
+
+'	O
+''	O
+Leskovac	B-LOC
+''	O
+'	O
+
+S'ensuit	O
+un	O
+combat	O
+titanesque	O
+qui	O
+l'opposera	O
+à	O
+Piccolo	B-PER
+,	O
+Vegeta	B-PER
+(	O
+blessé	O
+)	O
+,	O
+puis	O
+Son	B-PER
+Gohan	I-PER
+.	O
+
+Ricco	B-PER
+Groß	I-PER
+Frank	B-PER
+Luck	I-PER
+Mark	B-PER
+Kirchner	I-PER
+Sven	B-PER
+Fischer	I-PER
+
+Metastrongylus	B-LOC
+''	O
+spp	O
+.	O
+
+Francesca	B-PER
+Halsall	I-PER
+(	O
+D	O
+)	O
+
+REDIRECTION	O
+María	B-PER
+de	I-PER
+Villota	I-PER
+
+Il	O
+entreprend	O
+alors	O
+des	O
+voyages	O
+en	O
+Angleterre	B-LOC
+,	O
+en	O
+Égypte	B-LOC
+,	O
+en	O
+Palestine	B-ORG
+et	O
+en	O
+Algérie	B-LOC
+.	O
+
+**	O
+Hawthorne	B-ORG
+:	I-ORG
+Infirmière	I-ORG
+en	I-ORG
+chef	I-ORG
+''	O
+
+Henri	B-PER
+II	I-PER
+de	I-PER
+Bourbon-Condé	I-PER
+(	O
+1588-1646	O
+)	O
+;	O
+
+Rafer	B-PER
+Alston	I-PER
+(	O
+Meneur	B-PER
+)	O
+
+El	B-ORG
+Paso	I-ORG
+Holocaust	I-ORG
+Museum	I-ORG
+and	I-ORG
+Study	I-ORG
+Center	I-ORG
+à	O
+El	B-LOC
+Paso	I-LOC
+,	O
+Texas	B-LOC
+
+Conférence	B-ORG
+mondiale	I-ORG
+des	I-ORG
+radiocommunications	I-ORG
+
+Il	O
+occupe	O
+ensuite	O
+différents	O
+postes	O
+,	O
+notamment	O
+à	O
+Naples	B-LOC
+.	O
+
+Puerto	B-LOC
+Francisco	I-LOC
+de	I-LOC
+Orellana	I-LOC
+
+'	O
+''	O
+Sergio	B-PER
+Roitman	I-PER
+''	O
+'	O
+'	O
+''	O
+Alexandre	B-PER
+Sidorenko	I-PER
+''	O
+'	O
+
+La	O
+technique	O
+reste	O
+celle	O
+décrite	O
+par	O
+Johann	B-PER
+Heinrich	I-PER
+Pestalozzi	I-PER
+.	O
+
+Or	O
+(	O
+avec	O
+Kerrie	B-PER
+Meares	I-PER
+)	O
+
+Ladislas	B-PER
+III	I-PER
+de	I-PER
+Hongrie	I-PER
+
+La	O
+première	O
+édition	O
+a	O
+eu	O
+lieu	O
+le	O
+et	O
+a	O
+été	O
+remportée	O
+par	O
+Sebastian	B-PER
+Vettel	I-PER
+.	O
+
+Jabel	B-LOC
+(	O
+606	O
+)	O
+
+Danny	B-PER
+Cooksey	I-PER
+(	O
+voix	O
+)	O
+
+Connellia	B-LOC
+quelchii	I-LOC
+''	O
+N.E	O
+.	O
+
+REDIRECTION	O
+Turkmènes	B-ORG
+de	I-ORG
+Syrie	I-ORG
+
+1924	B-ORG
+-	O
+Giuseppe	B-PER
+Enrici	I-PER
+
+**	O
+Ukraine	B-ORG
+1-1	O
+USA	B-LOC
+.	O
+
+'	O
+''	O
+À	O
+Moundou	B-LOC
+''	O
+'	O
+
+2,5	O
+/	O
+4	O
+contre	O
+Paul	B-PER
+Keres	I-PER
+(	O
++1	O
+–0	O
+=3	O
+)	O
+,	O
+
+Compagnie	B-ORG
+du	I-ORG
+chemin	I-ORG
+de	I-ORG
+fer	I-ORG
+métropolitain	I-ORG
+de	I-ORG
+Paris	I-ORG
+(	O
+CMP	O
+)	O
+
+Championnat	B-ORG
+d'Argentine	I-ORG
+(	O
+31	O
+)	O
+
+**	O
+au	O
+Flatground	O
+à	O
+Amsterdam	B-LOC
+
+REDIRECTION	O
+García	B-PER
+IV	I-PER
+de	I-PER
+Navarre	I-PER
+
+une	O
+banque	B-ORG
+postale	I-ORG
+gérant	O
+des	O
+comptes	B-ORG
+chèques	I-ORG
+postaux	I-ORG
+(	O
+CCP	O
+)	O
+,	O
+
+Killing	B-ORG
+Joke	I-ORG
+(	I-ORG
+album	I-ORG
+,	I-ORG
+2003	I-ORG
+)	I-ORG
+
+Mar	B-LOC
+Chiquita	I-LOC
+(	I-LOC
+partido	I-LOC
+)	I-LOC
+
+REDIRECTION	O
+Moi	B-ORG
+dix	I-ORG
+Mois	I-ORG
+
+Le	O
+,	O
+l'équipage	O
+quitte	O
+Battery	B-ORG
+Park	I-ORG
+à	O
+Manhattan	B-LOC
+.	O
+
+Olof	B-PER
+Palme	I-PER
+(	O
+à	O
+titre	O
+posthume	O
+)	O
+
+Dar	B-LOC
+Yaghmouracene	I-LOC
+•	O
+Ghazaouet	B-LOC
+•	O
+Souahlia	B-LOC
+•	O
+Tienet	B-LOC
+
+Fabien	B-PER
+Gilot	I-PER
+Frédérick	B-PER
+Bousquet	I-PER
+Julien	B-PER
+Sicot	I-PER
+Alain	B-PER
+Bernard	I-PER
+
+Santa	B-ORG
+Esmeralda	I-ORG
+-	O
+Do	B-ORG
+n't	I-ORG
+Let	I-ORG
+Me	I-ORG
+Be	I-ORG
+Misunderstood	I-ORG
+''	O
+
+La	O
+Règle	B-ORG
+de	I-ORG
+Chatham	I-ORG
+House	I-ORG
+permet	O
+d’assurer	O
+une	O
+discussion	O
+ouverte	O
+.	O
+
+Avec	O
+le	O
+Rabotnički	B-ORG
+Skopje	I-ORG
+
+Tony	B-PER
+Parker	I-PER
+(	O
+23	O
+)	O
+
+REDIRECTION	O
+Léré	B-LOC
+(	I-LOC
+Cher	I-LOC
+)	I-LOC
+
+Up	B-ORG
+Against	I-ORG
+the	I-ORG
+Wall	I-ORG
+Motherfuckers	I-ORG
+
+Comté	B-LOC
+de	I-LOC
+Waller	I-LOC
+
+Riacho	B-LOC
+de	I-LOC
+Santo	I-LOC
+Antônio	I-LOC
+
+REDIRECTION	O
+Jeux	B-ORG
+olympiques	I-ORG
+de	I-ORG
+la	I-ORG
+jeunesse	I-ORG
+d'hiver	I-ORG
+de	I-ORG
+2012	I-ORG
+
+Lucius	B-PER
+Cornelius	I-PER
+Scipio	I-PER
+(	I-PER
+consul	I-PER
+en	I-PER
+-259	I-PER
+)	I-PER
+
+*domaine	O
+d'Oie-Blanche	O
+à	O
+Montlouis-sur-Loire	B-LOC
+;	O
+
+*Écrit	O
+par	O
+Martin	B-PER
+Solveig	I-PER
+et	O
+Martina	B-PER
+Sorbara	I-PER
+
+William	B-PER
+Garwood	I-PER
+,	O
+George	B-PER
+Larkin	I-PER
+
+'	O
+''	O
+Bettembourg	B-LOC
+''	O
+'	O
+
+Elle	O
+a	O
+notamment	O
+été	O
+popularisée	O
+par	O
+Lex	B-PER
+Luger	I-PER
+,	O
+Manabu	B-PER
+Nakanishi	I-PER
+et	O
+Sherri	B-PER
+Martel	I-PER
+.	O
+
+8mm	B-ORG
+ou	I-ORG
+Video	I-ORG
+8	I-ORG
+
+Grizzlies	B-ORG
+de	I-ORG
+Memphis	I-ORG
+Lakers	B-ORG
+de	I-ORG
+Los	I-ORG
+Angeles	I-ORG
+
+Carl	B-PER
+Herman	I-PER
+Kraeling	I-PER
+(	O
+1897-1966	O
+)	O
+
+Championnat	B-LOC
+d'Algérie	I-LOC
+de	I-LOC
+football	I-LOC
+D2	I-LOC
+2007-2008	I-LOC
+
+'	O
+''	O
+Allan	B-PER
+McNish	I-PER
+Tom	B-PER
+Kristensen	I-PER
+Loïc	B-PER
+Duval	I-PER
+''	O
+'	O
+
+REDIRECTION	O
+Las	B-LOC
+Tablas	I-LOC
+(	I-LOC
+Panama	I-LOC
+,	I-LOC
+Los	I-LOC
+Santos	I-LOC
+)	I-LOC
+
+Le	B-LOC
+Breuil	I-LOC
+(	I-LOC
+Rhône	I-LOC
+)	I-LOC
+
+Kawasaki	B-ORG
+Heavy	I-ORG
+Industries	I-ORG
+''	O
+,	O
+Kobe	B-LOC
+
+Parti	B-ORG
+socialiste	I-ORG
+de	I-ORG
+Serbie	I-ORG
+–	O
+Parti	B-ORG
+des	I-ORG
+retraités	I-ORG
+unis	I-ORG
+de	I-ORG
+Serbie	I-ORG
+–	O
+Serbie	B-ORG
+unie	I-ORG
+
+W.I.T.C.H	B-ORG
+.	I-ORG
+,	O
+dessin	O
+animé	O
+
+Georges	B-PER
+Duby	I-PER
+,	O
+''1	O
+.	O
+
+Liste	B-PER
+des	I-PER
+gouverneurs	I-PER
+de	I-PER
+l'Arizona	I-PER
+
+La	O
+même	O
+année	O
+,	O
+le	O
+participe	O
+à	O
+la	O
+bataille	B-ORG
+de	I-ORG
+Heligoland	I-ORG
+.	O
+
+FC	B-ORG
+Istres	I-ORG
+2	O
+-	O
+5	O
+'	O
+''	O
+Nîmes	B-ORG
+Olympique	I-ORG
+''	O
+'	O
+
+11	O
+Mark	B-PER
+Messier	I-PER
+des	O
+Oilers	B-ORG
+d'Edmonton	I-ORG
+
+Parti	B-ORG
+bourgeois	I-ORG
+démocratique	I-ORG
+
+Live	B-ORG
+at	I-ORG
+Leeds	I-ORG
+''	O
+–	O
+The	B-ORG
+Who	I-ORG
+
+Cactuses	B-ORG
+Come	I-ORG
+in	I-ORG
+Flocks	I-ORG
+
+Clément	B-PER
+Lefert	I-PER
+Olympic	B-ORG
+Nice	I-ORG
+Natation	I-ORG
+
+District	B-LOC
+de	I-LOC
+Korçë	I-LOC
+
+The	B-ORG
+Arizona	I-ORG
+Republic	I-ORG
+''	O
+
+REDIRECTION	O
+Mark	B-PER
+Williams	I-PER
+(	I-PER
+football	I-PER
+)	I-PER
+
+Il	O
+est	O
+présent	O
+en	O
+République	B-LOC
+serbe	I-LOC
+de	I-LOC
+Bosnie	I-LOC
+.	O
+
+'	O
+''	O
+Saint-Yrieix-sur-Charente	B-LOC
+''	O
+'	O
+''Le	O
+Bourg	O
+''	O
+↔	O
+'	O
+''	O
+Saint-Yrieix-sur-Charente	B-LOC
+''	O
+'	O
+''Cimetière	O
+''	O
+
+'	O
+''	O
+Adriana	B-ORG
+Karembeu	I-ORG
+''	O
+'	O
+
+Porto]]-Nord	O
+(	O
+)	O
+Vila	B-LOC
+Nova	I-LOC
+de	I-LOC
+Gaia	I-LOC
+(	O
+)	O
+
+Arrangé	O
+par	O
+Chico	B-PER
+O'Farrill	I-PER
+
+Çorum	B-LOC
+(	I-LOC
+province	I-LOC
+)	I-LOC
+
+Au	O
+Québec	B-LOC
+,	O
+depuis	O
+le	O
+sur	O
+Ztélé	B-ORG
+.	O
+
+**	O
+Équipe	B-ORG
+d'Azerbaïdjan	I-ORG
+de	I-ORG
+volley-ball	I-ORG
+féminin	I-ORG
+
+**	O
+Kobe	B-PER
+Bryant	I-PER
+avec	O
+,	O
+et	O
+(	O
+carrière	O
+en	O
+cours	O
+)	O
+.	O
+
+'	O
+''	O
+Central	B-ORG
+FC2	I-ORG
+titre	O
+''	O
+'	O
+
+F.	B-PER
+Schiavone	I-PER
+-	O
+-	O
+6-3	O
+,	O
+6-4	O
+
+REDIRECTION	O
+Centre	B-ORG
+médical	I-ORG
+de	I-ORG
+l'université	I-ORG
+Columbia	I-ORG
+
+**	O
+'	O
+''	O
+Disney	B-ORG
+Junior	I-ORG
+''	O
+'	O
+
+Kingsholm	B-ORG
+Stadium	I-ORG
+(	O
+Gloucester	B-LOC
+)	O
+
+'	O
+''	O
+George	B-PER
+C.	I-PER
+Scott	I-PER
+dans	O
+''Patton	O
+''	O
+'	O
+''	O
+
+'	O
+''	O
+Pendik	B-LOC
+''	O
+'	O
+
+L'hexagone	O
+est	O
+depuis	O
+représentée	O
+par	O
+équipe	B-ORG
+de	I-ORG
+France	I-ORG
+espoirs	I-ORG
+.	O
+
+Alfred	B-PER
+James	I-PER
+Lotka	I-PER
+(	O
+1880-1949	O
+)	O
+
+Province	B-LOC
+de	I-LOC
+Sayaboury	I-LOC
+
+en	O
+Autriche	B-LOC
+(	O
+Ramsau	B-LOC
+am	I-LOC
+Dachstein	I-LOC
+)	O
+,	O
+
+CEI	B-ORG
+:1	O
+élu	O
+.	O
+
+''	O
+Swordsman	B-PER
+''	O
+'	O
+
+Stade	B-ORG
+clermontois	I-ORG
+Basket	I-ORG
+Auvergne	I-ORG
+(	I-ORG
+2	I-ORG
+)	I-ORG
+
+REDIRECTION	O
+Julio	B-PER
+Farías	I-PER
+Cabello	I-PER
+
+João	B-PER
+da	I-PER
+Nova	I-PER
+
+Florent	B-PER
+Malouda	I-PER
+(	O
+Bosnie-Herzégovine	B-ORG
+,	O
+Biélorussie	B-ORG
+,	O
+Albanie	B-ORG
+,	O
+Allemagne	B-ORG
+,	O
+Serbie	B-ORG
+)	O
+
+Bengt	B-PER
+Danielsson	I-PER
+(	O
+1921–1997	O
+)	O
+est	O
+chargé	O
+des	O
+vivres	O
+et	O
+des	O
+rations	O
+journalières	O
+.	O
+
+Bastida	B-LOC
+de	I-LOC
+'	I-LOC
+Dossi	I-LOC
+,	O
+Corana	B-LOC
+,	O
+Dorno	B-LOC
+,	O
+Ferrera	B-LOC
+Erbognone	I-LOC
+,	O
+Mezzana	B-LOC
+Bigli	I-LOC
+,	O
+Pieve	B-LOC
+Albignola	I-LOC
+,	O
+Scaldasole	B-LOC
+,	O
+Silvano	B-LOC
+Pietra	I-LOC
+
+SV	B-ORG
+Sodingen	I-ORG
+(	O
+''Champion	O
+Groupe	O
+1	O
+''	O
+)	O
+
+REDIRECTION	O
+Hou	B-LOC
+(	I-LOC
+toponyme	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Mahesh	B-PER
+Bhupathi	I-PER
+Rohan	B-PER
+Bopanna	I-PER
+''	O
+'	O
+
+Rallye	B-ORG
+Dakar	I-ORG
+,	O
+sixième	O
+étape	O
+entre	O
+Antofagasta	B-LOC
+et	O
+Iquique	B-LOC
+au	O
+Chili	B-LOC
+.	O
+
+Monastère	B-ORG
+du	I-ORG
+Pantocrator	I-ORG
+,	O
+39	O
+
+Pal	B-ORG
+(	I-ORG
+héraldique	I-ORG
+)	I-ORG
+
+REDIRECTION	O
+Russell	B-ORG
+Athletic	I-ORG
+Bowl	I-ORG
+
+REDIRECTION	O
+Nour	B-PER
+Ali	I-PER
+Elahi	I-PER
+
+Cependant	O
+,	O
+il	O
+n'arrive	O
+pas	O
+à	O
+confirmer	O
+son	O
+bon	O
+match	O
+,	O
+face	O
+aux	O
+Panthers	B-ORG
+de	I-ORG
+la	I-ORG
+Caroline	I-ORG
+.	O
+
+'	O
+''	O
+Marina	B-LOC
+Rochtcha	I-LOC
+''	O
+'	O
+(	O
+)	O
+
+Daïra	B-LOC
+d'El	I-LOC
+Abiodh	I-LOC
+Sidi	I-LOC
+Cheikh	I-LOC
+
+La	O
+Saxe	B-LOC
+est	O
+soumise	O
+et	O
+évangélisée	O
+.	O
+
+REDIRECTION	O
+Delage	B-ORG
+(	I-ORG
+entreprise	I-ORG
+)	I-ORG
+
+Renforce	O
+le	O
+muscle	B-LOC
+sacro-lombraire	I-LOC
+qui	O
+a	O
+une	O
+fonction	O
+motrice	O
+.	O
+
+REDIRECTION	O
+Vara	B-LOC
+(	I-LOC
+commune	I-LOC
+)	I-LOC
+
+A	B-PER
+$	I-PER
+AP	I-PER
+Rocky	I-PER
+
+Province	B-LOC
+de	I-LOC
+Novare	I-LOC
+
+'	O
+''	O
+Duck	B-ORG
+Dynasty	I-ORG
+''	O
+'	O
+''	O
+
+Moyen	B-LOC
+Atlas	I-LOC
+(	O
+)	O
+
+Dr.	B-ORG
+Feelgood	I-ORG
+''	O
+,	O
+Mötley	B-ORG
+Crüe	I-ORG
+
+Ces	O
+croyances	O
+ont	O
+été	O
+mises	O
+en	O
+avant	O
+notamment	O
+par	O
+Karl	B-PER
+Haushofer	I-PER
+et	O
+.	O
+
+Shine	B-ORG
+We	I-ORG
+Are	I-ORG
+!	I-ORG
+''	O
+
+'	O
+''	O
+12	O
+''	O
+'	O
+Ivan	B-PER
+Kelava	I-PER
+
+Veauche	B-LOC
+''	O
+(	O
+km	O
+49	O
+)	O
+''	O
+
+REDIRECTION	O
+Nowe	B-LOC
+Miasto	I-LOC
+(	I-LOC
+village	I-LOC
+)	I-LOC
+
+Forêt	B-LOC
+nationale	I-LOC
+de	I-LOC
+Fremont	I-LOC
+
+==	O
+La	B-PER
+Mort	I-PER
+et	O
+ses	O
+proches	O
+==	O
+
+Storage	B-ORG
+Wars	I-ORG
+:	I-ORG
+Enchères	I-ORG
+à	I-ORG
+New	I-ORG
+York	I-ORG
+''	O
+
+Son	O
+chef	O
+lieu	O
+est	O
+Bad	B-LOC
+Reichenhall	I-LOC
+.	O
+
+La	B-LOC
+Barre-de-Semilly	I-LOC
+,	O
+Manche	B-LOC
+
+Son	O
+talent	O
+et	O
+son	O
+enthousiasme	O
+conquirent	O
+immédiatement	O
+Frédéric	B-PER
+Mistral	I-PER
+.	O
+
+REDIRECTION	O
+Abbaye	B-ORG
+Notre-Dame	I-ORG
+du	I-ORG
+Mississippi	I-ORG
+
+Pablo	B-PER
+Rotchen	I-PER
+(	O
+1992-99	O
+)	O
+
+Géographie	B-LOC
+de	I-LOC
+la	I-LOC
+Colombie-Britannique	I-LOC
+
+'	O
+''	O
+Moulins-le-Carbonnel	B-LOC
+''	O
+'	O
+
+Elle	O
+publie	O
+ses	O
+chansons	O
+simultanément	O
+sur	O
+les	O
+labels	O
+Decca	B-ORG
+et	O
+Philips	B-ORG
+.	O
+
+Dope	B-ORG
+Stars	I-ORG
+Inc	I-ORG
+.	I-ORG
+
+'	O
+''	O
+FH	B-ORG
+Hafnarfjörður	I-ORG
+''	O
+'	O
+(	O
+1	O
+)	O
+
+1998	B-ORG
+-	O
+Termine	O
+à	O
+la	O
+6	O
+place	O
+
+Edmund	B-PER
+Waller	I-PER
+(	O
+1606-1687	O
+)	O
+
+Alliance	B-ORG
+civique	I-ORG
+de	I-ORG
+Serbie	I-ORG
+
+En	O
+demi-finale	O
+,	O
+la	O
+Slovénie	B-LOC
+a	O
+terminé	O
+à	O
+une	O
+reprise	O
+,	O
+à	O
+la	O
+troisième	O
+place	O
+en	O
+2011	B-ORG
+.	O
+
+'	O
+''	O
+Patrice	B-PER
+Robitaille	I-PER
+''	O
+'	O
+dans	O
+''Cheech	O
+''	O
+
+'	O
+''	O
+Denton	B-LOC
+(	I-LOC
+Texas	I-LOC
+)	I-LOC
+,	O
+'	O
+''	O
+Texas	B-LOC
+,	O
+États-Unis	B-LOC
+
+la	O
+Grande	B-LOC
+Parel	I-LOC
+,	O
+
+==	O
+Celle-Saint-Cloud	B-LOC
+(	I-LOC
+La	I-LOC
+)	I-LOC
+==	O
+
+Parti	B-ORG
+populaire	I-ORG
+allemand	I-ORG
+de	I-ORG
+la	I-ORG
+liberté	I-ORG
+(	O
+DVFP	O
+)	O
+
+'	O
+''	O
+Neijiang	B-LOC
+''	O
+'	O
+
+Isola	B-LOC
+di	I-LOC
+Fondra	I-LOC
+,	O
+Lenna	B-LOC
+,	O
+Piazzatorre	B-LOC
+,	O
+Piazzolo	B-LOC
+,	O
+Roncobello	B-LOC
+,	O
+Valnegra	B-LOC
+,	O
+Piazza	B-LOC
+Brembana	I-LOC
+
+Romain	B-PER
+Grosjean	I-PER
+,	O
+Max	B-PER
+Verstappen	I-PER
+et	O
+Pastor	B-PER
+Maldonado	I-PER
+prennent	O
+donc	O
+les	O
+derniers	O
+points	O
+restants	O
+.	O
+
+**	O
+Hôtel	B-ORG
+Salé	I-ORG
+(	I-ORG
+Musée	I-ORG
+Picasso	I-ORG
+)	I-ORG
+
+Edremit	B-LOC
+,	O
+en	O
+Turquie	B-LOC
+.	O
+
+Il	O
+est	O
+sélectionné	O
+pour	O
+la	O
+coupe	B-ORG
+du	I-ORG
+monde	I-ORG
+1938	I-ORG
+mais	O
+n'y	O
+joue	O
+aucun	O
+match	O
+.	O
+
+En	O
+contact	O
+avec	O
+Tom	B-ORG
+Tomsk	I-ORG
+(	O
+Russie	B-LOC
+)	O
+et	O
+Sturm	B-ORG
+Graz	I-ORG
+(	O
+Autriche	B-LOC
+)	O
+,	O
+il	O
+signe	O
+finalement	O
+un	O
+contrat	O
+le	O
+liant	O
+pour	O
+trois	O
+ans	O
+au	O
+Korona	B-ORG
+Kielce	I-ORG
+.	O
+
+Vasek	B-PER
+Pospisil	I-PER
+(	O
+4	O
+victoires	O
+et	O
+7	O
+défaites	O
+en	O
+simple	O
+,	O
+5	O
+victoires	O
+et	O
+2	O
+défaites	O
+en	O
+double	O
+)	O
+
+Know	B-ORG
+Your	I-ORG
+Enemy	I-ORG
+''	O
+–	O
+3:57	O
+
+Il	O
+dispute	O
+97	O
+matchs	O
+en	O
+première	B-ORG
+division	I-ORG
+japonaise	I-ORG
+,	O
+inscrivant	O
+54	O
+buts	O
+.	O
+
+Gérard	B-PER
+Cholley	I-PER
+(	O
+31	O
+)	O
+
+'	O
+''	O
+Solveig	B-PER
+Gulbrandsen	I-PER
+''	O
+'	O
+
+'	O
+''	O
+44	O
+''	O
+'	O
+Willie	B-PER
+McCovey	I-PER
+
+I	B-ORG
+Just	I-ORG
+Called	I-ORG
+to	I-ORG
+Say	I-ORG
+I	B-ORG
+Love	I-ORG
+You	I-ORG
+
+'	O
+''	O
+Can	B-PER
+Bonomo	I-PER
+''	O
+'	O
+
+Chansons	O
+écrites	O
+par	O
+Stevie	B-PER
+Wonder	I-PER
+,	O
+interprétées	O
+par	O
+Stevie	B-PER
+Wonder	I-PER
+et	O
+Dionne	B-PER
+Warwick	I-PER
+
+Satara	B-LOC
+(	I-LOC
+ville	I-LOC
+)	I-LOC
+
+En	O
+Afrique	B-LOC
+du	I-LOC
+Nord	I-LOC
+et	O
+au	O
+Moyen-Orient	B-LOC
+,	O
+on	O
+l'appelle	O
+communément	O
+''shiḥ	O
+''	O
+(	O
+الشيح	O
+)	O
+ou	O
+''shiḥ	O
+ẖorasāni	O
+''	O
+(	O
+الشيح	O
+الخرساني	O
+)	O
+selon	O
+les	O
+régions	O
+.	O
+
+Walid	B-PER
+Mesloub	I-PER
+,	O
+2014-	O
+
+Faucon-du-Caire	B-LOC
+''	O
+(	O
+km	O
+67	O
+)	O
+''	O
+
+A	O
+Peroxa]]	O
+''	O
+'	O
+(	O
+Arzúa	B-LOC
+)	O
+
+Manchester	B-LOC
+,	O
+Bolton	B-LOC
+,	O
+Stockport	B-LOC
+,	O
+Oldham	B-LOC
+
+Elle	O
+vit	O
+aujourd'hui	O
+à	O
+New	B-LOC
+York	I-LOC
+.	O
+
+Îles	B-LOC
+du	I-LOC
+Salut	I-LOC
+
+Il	O
+est	O
+remplacé	O
+par	O
+Nick	B-PER
+Heidfeld	I-PER
+.	O
+
+Dans	O
+ses	O
+œuvres	O
+il	O
+est	O
+plein	O
+d'admiration	O
+pour	O
+Napoléon	B-PER
+Bonaparte	I-PER
+.	O
+
+***	O
+3	O
+fois	O
+avec	O
+Mankind	B-PER
+
+Francis	B-PER
+Castaing	I-PER
+(	O
+FRA	B-LOC
+)	O
+
+Colorado	B-LOC
+Springs	I-LOC
+(	O
+)	O
+
+Michelle	B-PER
+Williams	I-PER
+-	O
+la	O
+mère	O
+
+Chiaromonte	B-LOC
+,	O
+Fardella	B-LOC
+,	O
+San	B-LOC
+Costantino	I-LOC
+Albanese	I-LOC
+,	O
+San	B-LOC
+Severino	I-LOC
+Lucano	I-LOC
+,	O
+Terranova	B-LOC
+di	I-LOC
+Pollino	I-LOC
+
+L'Ovamboland	O
+est	O
+ainsi	O
+divisé	O
+en	O
+quatre	O
+régions	O
+(	O
+Omusati	B-LOC
+,	O
+Ohangwena	B-LOC
+,	O
+Oshana	B-LOC
+,	O
+Oshikoto	B-LOC
+)	O
+.	O
+
+Son	O
+président	O
+actuel	O
+est	O
+Haruki	B-PER
+Uemura	I-PER
+.	O
+
+Message	B-ORG
+pour	I-ORG
+l'éternité	I-ORG
+
+Ratchet	B-PER
+(	I-PER
+1	I-PER
+,	I-PER
+2	I-PER
+,	I-PER
+3	I-PER
+,	I-PER
+4	I-PER
+,	I-PER
+animated	I-PER
+,	I-PER
+prime	I-PER
+G1	I-PER
+&	I-PER
+G2	I-PER
+)	I-PER
+
+Académie	B-ORG
+militaire	I-ORG
+de	I-ORG
+Serbie	I-ORG
+
+Luis	B-PER
+de	I-PER
+Guindos	I-PER
+
+REDIRECTION	O
+Ján	B-PER
+Novák	I-PER
+(	I-PER
+football	I-PER
+)	I-PER
+
+Ses	O
+collaborateurs	O
+incluent	O
+Bobby	B-PER
+McFerrin	I-PER
+,	O
+Carly	B-PER
+Simon	I-PER
+,	O
+Djivan	B-PER
+Gasparyan	I-PER
+,	O
+Luciano	B-PER
+Pavarotti	I-PER
+,	O
+Ladysmith	B-ORG
+Black	I-ORG
+Mambazo	I-ORG
+et	O
+Milton	B-PER
+Nascimento	I-PER
+.	O
+
+Big	B-PER
+Sean	I-PER
+(	O
+voix	O
+)	O
+
+**	O
+Gare	B-ORG
+centrale	I-ORG
+de	I-ORG
+Hanau	I-ORG
+
+REDIRECTION	O
+Le	B-ORG
+Pays	I-ORG
+des	I-ORG
+elfes	I-ORG
+
+Au	O
+nord-ouest	O
+,	O
+il	O
+rencontre	O
+le	O
+Massif	B-LOC
+armoricain	I-LOC
+dans	O
+la	O
+Vendée	B-LOC
+sur	O
+110	O
+kilomètres	O
+.	O
+
+'	O
+''	O
+Great	B-ORG
+DJ	I-ORG
+''	O
+'	O
+''	O
+
+Kaltenkirchen	B-LOC
+''	O
+'	O
+,	O
+ville	O
+(	O
+)	O
+
+''Hello	O
+Mary-Lou	O
+''	O
+,	O
+interprété	O
+par	O
+John	B-PER
+Phillips	I-PER
+et	O
+Mick	B-PER
+Taylor	I-PER
+
+Filles	B-ORG
+perdues	I-ORG
+''	O
+,	O
+avec	O
+Melinda	B-PER
+Gebbie	I-PER
+.	O
+
+Néanmoins	O
+,	O
+il	O
+y	O
+est	O
+,	O
+comme	O
+les	O
+autres	O
+,	O
+vaincu	O
+facilement	O
+par	O
+Kid	B-PER
+Flash	I-PER
+.	O
+
+REDIRECTION	O
+Drslavice	B-LOC
+(	I-LOC
+district	I-LOC
+d'Uherské	I-LOC
+Hradiště	I-LOC
+)	I-LOC
+
+**	O
+''Inferis	O
+''	O
+à	O
+Gardaland	B-ORG
+
+''	O
+Andantino	B-ORG
+quasi	O
+allegretto	O
+''	O
+
+Le	O
+thème	O
+fut	O
+composé	O
+et	O
+arrangé	O
+par	O
+Billy	B-PER
+May	I-PER
+.	O
+
+(	O
+12	O
+)	O
+'	O
+''	O
+Mikael	B-PER
+Pernfors	I-PER
+
+Lindholz	B-LOC
+(	O
+677	O
+)	O
+
+La	B-LOC
+Villedieu	I-LOC
+(	I-LOC
+Lozère	I-LOC
+)	I-LOC
+
+Andrew	B-PER
+Ellicott	I-PER
+Douglass	I-PER
+
+'	O
+''	O
+Championnat	B-ORG
+de	I-ORG
+Namibie	I-ORG
+(	O
+3	O
+)	O
+'	O
+''	O
+
+redirection	O
+Église	B-ORG
+Saint-James	I-ORG
+the	I-ORG
+Apostle	I-ORG
+
+Du	B-ORG
+ciment	I-ORG
+sous	I-ORG
+les	I-ORG
+plaines	I-ORG
+''	O
+-	O
+Noir	B-ORG
+Désir	I-ORG
+
+Identity	B-ORG
+Crisis	I-ORG
+(	I-ORG
+comics	I-ORG
+)	I-ORG
+
+C'est	O
+l'intendant	O
+Nicolas	B-PER
+de	I-PER
+Lamoignon	I-PER
+de	I-PER
+Basville	I-PER
+qui	O
+préside	O
+au	O
+procès	O
+.	O
+
+Charlotte	B-PER
+Riley	I-PER
+(	O
+V.Q	O
+.	O
+
+Il	O
+devient	O
+connu	O
+jusqu'au	O
+Japon	B-LOC
+et	O
+en	O
+Mandchourie	B-LOC
+et	O
+vend	O
+1,2	O
+millions	O
+d'albums	O
+.	O
+
+Société	B-ORG
+des	I-ORG
+bains	I-ORG
+de	I-ORG
+mer	I-ORG
+de	I-ORG
+Monaco	I-ORG
+.	O
+
+'	O
+''	O
+Johan	B-PER
+Brunström	I-PER
+''	O
+'	O
+'	O
+''	O
+Frederik	B-PER
+Nielsen	I-PER
+''	O
+'	O
+
+Il	O
+demeure	O
+en	O
+fonction	O
+jusqu'au	O
+,	O
+date	O
+à	O
+laquelle	O
+lui	O
+succède	O
+Kessai	B-PER
+Note	I-PER
+.	O
+
+**	O
+District	B-LOC
+de	I-LOC
+Ghanzi	I-LOC
+(	O
+)	O
+
+Suivent	O
+la	O
+Seine-et-Marne	B-LOC
+(	O
++0,95	O
+%	O
+/	O
+an	O
+,	O
++80	O
+000	O
+hab	O
+.	O
+
+la	O
+bannière	O
+unie	B-LOC
+de	I-LOC
+Darhan	I-LOC
+Muminggan	I-LOC
+-	O
+达尔罕茂明安联合旗	O
+''Dá'ěrhǎn	O
+Màomíng'ān	O
+Liánhé	O
+Qí	O
+''	O
+.	O
+
+Sanctuaire	B-ORG
+fédéral	I-ORG
+des	I-ORG
+Trois	I-ORG
+Gaules	I-ORG
+à	O
+Lugdunum	B-LOC
+(	O
+actuelle	O
+Lyon	B-LOC
+)	O
+
+Etienne	B-PER
+De	I-PER
+Wilde	I-PER
+René	B-PER
+Pijnen	I-PER
+
+'	O
+''	O
+30	O
+''	O
+'	O
+Orlando	B-PER
+Cepeda	I-PER
+
+Courant	O
+2008	B-ORG
+,	O
+il	O
+est	O
+prêté	O
+à	O
+EV	B-ORG
+Duisbourg	I-ORG
+.	O
+
+**	O
+Toussaint	B-PER
+Dubreuil	I-PER
+-	O
+4	O
+peintures	O
+
+Serres-Morlaàs	B-LOC
+et	O
+Ouillon	B-LOC
+à	O
+l'est	O
+.	O
+
+Parti	B-ORG
+populaire	I-ORG
+-	I-ORG
+Dan	I-ORG
+Diaconescu	I-ORG
+
+REDIRECTION	O
+Synallaxe	B-LOC
+de	I-LOC
+Wyatt	I-LOC
+
+'	O
+''	O
+Josuha	B-PER
+Guilavogui	I-PER
+''	O
+'	O
+
+Vadans]]	O
+,	O
+Valay	B-LOC
+,	O
+Vantoux-et-Longevelle	B-LOC
+,	O
+Velleclaire	B-LOC
+,	O
+Vellefrey-et-Vellefrange	B-LOC
+,	O
+Velloreille-lès-Choye	B-LOC
+,	O
+Venère	B-LOC
+,	O
+Villefrancon	B-LOC
+,	O
+Villers-Chemin-et-Mont-lès-Étrelles	B-LOC
+,	O
+Vregille	B-LOC
+.	O
+
+Guillaume	B-PER
+Quesque	I-PER
+,	O
+5	O
+.	O
+
+REDIRECTION	O
+Cyriac	B-PER
+Gohi	I-PER
+Bi	I-PER
+Zoro	I-PER
+
+The	B-ORG
+Everly	I-ORG
+Brothers	I-ORG
+se	O
+séparent	O
+.	O
+
+Le	O
+projet	O
+est	O
+coordonnée	O
+par	O
+École	B-ORG
+supérieure	I-ORG
+Sainte-Anne	I-ORG
+de	I-ORG
+Pise	I-ORG
+.	O
+
+Chettia	B-LOC
+''	O
+(	O
+)	O
+''	O
+
+*Ponton	O
+38-40	O
+,	O
+The	B-ORG
+Embarcadero	I-ORG
+
+Édouard	B-PER
+Manet	I-PER
+,	O
+''Femme	O
+lisant	O
+''	O
+,	O
+1878-1879	O
+
+Les	O
+colonnes	O
+et	O
+piliers	O
+soutiennent	O
+les	O
+voûtes	B-ORG
+d'arêtes	I-ORG
+.	O
+
+**	O
+'	O
+''	O
+Milan	B-ORG
+AC	I-ORG
+''	O
+'	O
+'	O
+''	O
+1-0	O
+''	O
+'	O
+Manchester	B-ORG
+United	I-ORG
+
+REDIRECTION	O
+Chambre	B-ORG
+des	I-ORG
+pouvoirs	I-ORG
+locaux	I-ORG
+
+Province	B-LOC
+de	I-LOC
+l'Ogliastra	I-LOC
+
+Corrado	B-PER
+Olmi	I-PER
+,	O
+prélat	O
+
+'	O
+''	O
+Enguinegatte	B-LOC
+''	O
+'	O
+
+autoroute	B-ORG
+allemande	I-ORG
+A52	I-ORG
+,	O
+
+Pernelle	B-PER
+Carron	I-PER
+/	O
+Matthieu	B-PER
+Jost	I-PER
+
+Il	O
+est	O
+mort	O
+le	O
+à	O
+Novossibirsk	B-LOC
+,	O
+où	O
+il	O
+est	O
+enterré	O
+.	O
+
+REDIRECTION	O
+Cacatoès	B-LOC
+de	I-LOC
+Ducorps	I-LOC
+
+'	O
+''	O
+Nicholas	B-PER
+Monroe	I-PER
+''	O
+'	O
+'	O
+''	O
+Aisam-Ul-Haq	B-PER
+Qureshi	I-PER
+''	O
+'	O
+
+**	O
+6	O
+participations	O
+(	O
+1990	B-ORG
+,	O
+1991	B-ORG
+,	O
+1992	B-ORG
+,	O
+1995	B-ORG
+,	O
+1999	B-ORG
+,	O
+2001	B-ORG
+)	O
+
+37	B-ORG
+cérémonie	I-ORG
+des	I-ORG
+César	I-ORG
+
+Ankara	B-LOC
+,	O
+Istanbul	B-LOC
+,	O
+
+Jim	B-PER
+DeMint	I-PER
+'	O
+''	O
+''	O
+'	O
+
+Shangrao	B-LOC
+(	O
+上饶市	O
+)	O
+
+'	O
+''	O
+Weitramsdorf	B-LOC
+''	O
+'	O
+
+Mike	B-PER
+Mussina	I-PER
+,	O
+Retraite	O
+
+Chansons	B-ORG
+pour	I-ORG
+toutes	I-ORG
+sortes	I-ORG
+de	I-ORG
+monde	I-ORG
+
+Département	B-ORG
+de	I-ORG
+Linguère	I-ORG
+
+Saint-Denis	B-LOC
+(	I-LOC
+Gard	I-LOC
+)	I-LOC
+
+''Starstruck	O
+''	O
+(	O
+featuring	O
+Space	B-PER
+Cowboy	I-PER
+et	O
+Flo	B-PER
+Rida	I-PER
+)	O
+
+scope=	O
+''	O
+row	O
+''	O
+|	O
+Migné	B-LOC
+
+Mon	B-ORG
+copain	I-ORG
+de	I-ORG
+classe	I-ORG
+est	I-ORG
+un	I-ORG
+singe	I-ORG
+''	O
+(	O
+2005-2008	O
+)	O
+
+Elle	O
+a	O
+été	O
+remportée	O
+par	O
+Italien	B-LOC
+Gilberto	B-PER
+Simoni	I-PER
+.	O
+
+Il	O
+termine	O
+sa	O
+carrière	O
+dans	O
+le	O
+Conseil	B-ORG
+de	I-ORG
+sécurité	I-ORG
+nationale	I-ORG
+(	I-ORG
+États-Unis	I-ORG
+)	I-ORG
+''	O
+.	O
+
+George	B-ORG
+Washington	I-ORG
+Masonic	I-ORG
+National	I-ORG
+Memorial	I-ORG
+-	O
+Alexandria	B-LOC
+(	I-LOC
+Virginie	I-LOC
+)	I-LOC
+
+Elle	O
+s'appuie	O
+sur	O
+la	O
+Symphonie	B-ORG
+nº	I-ORG
+7	I-ORG
+de	I-ORG
+Beethoven	I-ORG
+.	O
+
+Il	O
+a	O
+disputé	O
+une	O
+saison	O
+en	O
+Division	B-ORG
+2	I-ORG
+en	O
+2013-2014	B-LOC
+.	O
+
+**	O
+Jan	B-PER
+Benzien	I-PER
+(	O
+C1	O
+)	O
+
+Persépolis	B-LOC
+et	O
+autres	O
+bâtiments	O
+en	O
+rapport	O
+
+Il	O
+échoue	O
+cependant	O
+en	O
+finale	O
+face	O
+à	O
+Roger	B-PER
+Federer	I-PER
+au	O
+terme	O
+d'un	O
+match	O
+en	O
+trois	O
+sets	O
+conclu	O
+sur	O
+un	O
+tie-break	O
+d'une	O
+rare	O
+intensité	O
+(	O
+3-6	O
+,	O
+4-6	O
+,	O
+6-7	O
+)	O
+.	O
+
+REDIRECTION	O
+District	B-LOC
+de	I-LOC
+Tuyen	I-LOC
+Hoa	I-LOC
+
+Fressancourt	B-LOC
+''	O
+(	O
+km	O
+66	O
+)	O
+''	O
+
+D'autres	O
+artistes	O
+non-country	O
+comme	O
+Bobby	B-PER
+Vinton	I-PER
+,	O
+Wayne	B-PER
+Newton	I-PER
+et	O
+les	O
+Osmond	B-PER
+Brothers	I-PER
+le	O
+suivirent	O
+bientôt	O
+.	O
+
+Ira	B-PER
+Gershwin	I-PER
+,	O
+Vernon	B-PER
+Duke	I-PER
+
+Chris	B-PER
+Carter	I-PER
+explique	O
+que	O
+.	O
+
+Police	B-ORG
+et	O
+Force	B-ORG
+armées	I-ORG
+royales	I-ORG
+,	O
+
+Armée	B-ORG
+des	I-ORG
+États	I-ORG
+confédérés	I-ORG
+
+Commercialisée	O
+par	O
+le	O
+groupe	O
+Colruyt	B-ORG
+en	O
+Belgique	B-LOC
+et	O
+disponible	O
+dans	O
+la	O
+plupart	O
+des	O
+'	O
+''	O
+'	O
+.	O
+
+Les	B-PER
+abominables	I-PER
+monstres	I-PER
+de	I-PER
+l'espace	I-PER
+attaquent	I-PER
+
+**	O
+Champion	B-ORG
+du	I-ORG
+Venezuela	I-ORG
+en	O
+2012	B-LOC
+
+REDIRECTION	O
+Adin	B-LOC
+(	I-LOC
+Californie	I-LOC
+)	I-LOC
+
+Alicia	B-PER
+de	I-PER
+Larrocha	I-PER
+
+And	B-ORG
+I	I-ORG
+Love	I-ORG
+You	I-ORG
+So	I-ORG
+''	O
+
+Patinage	B-ORG
+de	I-ORG
+vitesse	I-ORG
+aux	I-ORG
+Jeux	I-ORG
+olympiques	I-ORG
+de	I-ORG
+1928	I-ORG
+
+'	O
+''	O
+Châtenay-Malabry	B-LOC
+''	O
+'	O
+
+Ses	O
+principaux	O
+concurrents	O
+sont	O
+MTS	B-ORG
+Turkmenistan	I-ORG
+.	O
+
+Christa	B-PER
+Campbell	I-PER
+(	O
+331-2011	O
+)	O
+
+Zandra	B-PER
+Rhodes	I-PER
+,	O
+''Mode	O
+vintage	O
+''	O
+,	O
+éd	O
+.	O
+
+;	O
+,	O
+Théâtre	B-ORG
+des	I-ORG
+Nouveautés	I-ORG
+
+Hans	B-PER
+Zimmer	I-PER
+et	O
+Ridley	B-PER
+Scott	I-PER
+(	O
+6	O
+fois	O
+)	O
+
+Sport	B-ORG
+et	I-ORG
+cinéma	I-ORG
+
+Peu	O
+après	O
+il	O
+entrait	O
+dans	O
+Querétaro	B-LOC
+.	O
+
+REDIRECTION	O
+Sleepwalker	B-PER
+(	I-PER
+comics	I-PER
+)	I-PER
+
+Heinrich	B-PER
+Christoph	I-PER
+Kolbe	I-PER
+(	O
+1771–1836	O
+)	O
+
+'	O
+''	O
+Tim	B-PER
+De	I-PER
+Troyer	I-PER
+''	O
+'	O
+20px	O
+
+Alejandra	B-PER
+García	I-PER
+Juana	B-PER
+Arrendel1,83	I-PER
+m	O
+
+João	B-PER
+de	I-PER
+Castro	I-PER
+
+'	O
+''	O
+Siegfried	B-PER
+Buback	I-PER
+''	O
+'	O
+
+'	O
+''	O
+TSV	B-ORG
+1860	I-ORG
+Munich	I-ORG
+''	O
+'	O
+(	O
+1	O
+)	O
+
+Il	O
+fait	O
+ses	O
+études	O
+d'abord	O
+à	O
+Université	B-ORG
+de	I-ORG
+Californie	I-ORG
+du	I-ORG
+Sud	I-ORG
+,	O
+puis	O
+à	O
+Université	B-ORG
+de	I-ORG
+Californie	I-ORG
+à	I-ORG
+Los	I-ORG
+Angeles	I-ORG
+et	O
+enfin	O
+à	O
+Université	B-ORG
+de	I-ORG
+Californie	I-ORG
+à	I-ORG
+Berkeley	I-ORG
+.	O
+
+REDIRECTION	O
+Sangsue	B-PER
+(	I-PER
+comics	I-PER
+)	I-PER
+
+Granville	B-PER
+Bantock	I-PER
+(	O
+1868–1946	O
+)	O
+
+Elle	O
+a	O
+été	O
+écrite	O
+par	O
+Dee	B-PER
+Dee	B-PER
+Ramone	I-PER
+.	O
+
+Il	O
+est	O
+doublé	O
+par	O
+Faizon	B-PER
+Love	I-PER
+.	O
+
+REDIRECTION	O
+Ligue	B-ORG
+des	I-ORG
+Macédoniens	I-ORG
+
+Jules	B-PER
+Van	I-PER
+Dievoet	I-PER
+,	O
+1881-1917	O
+.	O
+
+REDIRECTION	O
+Max	B-PER
+Reinhardt	I-PER
+(	I-PER
+metteur	I-PER
+en	I-PER
+scène	I-PER
+)	I-PER
+
+Australie]]	O
+David	B-PER
+Theile	I-PER
+min	O
+12	O
+s	O
+0	O
+
+Roman	B-PER
+Abramovitch	I-PER
+y	O
+vit	O
+aujourd'hui	O
+.	O
+
+Ce	O
+modèle	O
+fabriqué	O
+à	O
+Dresde	B-LOC
+est	O
+plutôt	O
+destiné	O
+à	O
+l’exportation	O
+,	O
+et	O
+ne	O
+remplace	O
+pas	O
+l’ancienne	O
+version	O
+qui	O
+reste	O
+disponible	O
+pour	O
+le	O
+marché	O
+intérieur	O
+.	O
+
+'	O
+''	O
+Allanche	B-LOC
+''	O
+'	O
+
+2	O
+image	O
+en	O
+Truecolor	B-ORG
+non	O
+compressé	O
+;	O
+
+Valmora]]	O
+,	O
+Fort	B-ORG
+Union	I-ORG
+National	I-ORG
+Monument	I-ORG
+
+Metaljka	B-LOC
+(	I-LOC
+Čajniče	I-LOC
+)	I-LOC
+
+'	O
+''	O
+José	B-PER
+Jaime	I-PER
+González	I-PER
+''	O
+'	O
+
+A.	B-ORG
+Lange	I-ORG
+&	I-ORG
+Söhne	I-ORG
+
+'	O
+''	O
+Finström	B-LOC
+''	O
+'	O
+
+Institut	B-ORG
+royal	I-ORG
+de	I-ORG
+technologie	I-ORG
+
+Ouvrage	B-ORG
+du	I-ORG
+Kobenbusch	I-ORG
+
+À	O
+la	O
+Diète	B-ORG
+il	O
+est	O
+un	O
+orateur	O
+talentueux	O
+et	O
+travaille	O
+avec	O
+acharnement	O
+à	O
+écrire	O
+des	O
+présentations	O
+.	O
+
+**	O
+Sextus	B-PER
+Attius	I-PER
+Suburanus	I-PER
+Aemilianus	I-PER
+(	O
+98	O
+-	O
+101	O
+)	O
+
+Vukovići	B-LOC
+(	I-LOC
+Ravno	I-LOC
+)	I-LOC
+
+2	O
+sélections	O
+pour	O
+2	O
+buts	O
+marqués	O
+en	O
+équipe	B-ORG
+de	I-ORG
+France	I-ORG
+.	O
+
+Toutes	O
+les	O
+chansons	O
+sont	O
+interprétées	O
+par	O
+Al	B-PER
+Jolson	I-PER
+.	O
+
+Henry	B-PER
+Briggs	I-PER
+(	O
+1561-1630	O
+)	O
+
+Université	B-ORG
+du	I-ORG
+Michigan	I-ORG
+,	O
+Ms.	O
+32	O
+
+Cable	B-ORG
+&	I-ORG
+Wireless	I-ORG
+
+REDIRECTION	O
+Anthème	B-PER
+II	I-PER
+de	I-PER
+Constantinople	I-PER
+
+Records	B-ORG
+des	I-ORG
+États-Unis	I-ORG
+d'athlétisme	I-ORG
+
+Guardiola	B-LOC
+de	I-LOC
+Berguedà-Sud	I-LOC
+/	O
+Sant	B-LOC
+Julià	I-LOC
+de	I-LOC
+Cerdanyola	I-LOC
+
+Le	O
+,	O
+c'est	O
+l'entrée	O
+dans	O
+les	O
+Studios	B-ORG
+Hergé	I-ORG
+''	O
+où	O
+il	O
+devient	O
+très	O
+vite	O
+premier	O
+assistant	O
+,	O
+place	O
+laissée	O
+vacante	O
+par	O
+Edgar	B-PER
+P.	I-PER
+Jacobs	I-PER
+.	O
+
+Aqualung	B-ORG
+''	O
+–	O
+Jethro	B-ORG
+Tull	I-ORG
+
+Tartu	B-LOC
+-	O
+Jõgeva	B-LOC
+-	O
+Aravete	B-LOC
+
+Estadi	B-LOC
+Comunal	I-LOC
+(	I-LOC
+Aixovall	I-LOC
+)	I-LOC
+
+Natalya	B-PER
+Antyukh	I-PER
+53	O
+s	O
+85	O
+
+Léon	B-PER
+Tolstoï	I-PER
+(	O
+1828–1910	O
+)	O
+
+Alain	B-PER
+Ferté	I-PER
+Michel	B-PER
+Ferté	I-PER
+Eliseo	B-PER
+Salazar	I-PER
+
+Ils	O
+disputent	O
+leurs	O
+rencontres	O
+à	O
+domicile	O
+au	O
+WFCU	B-ORG
+Centre	I-ORG
+.	O
+
+**	O
+John	B-PER
+McEnroe	I-PER
+à	O
+Wimbledon	B-ORG
+1977	I-ORG
+
+Biella	B-LOC
+,	O
+Candelo	B-LOC
+,	O
+Ponderano	B-LOC
+,	O
+Sandigliano	B-LOC
+,	O
+Verrone	B-LOC
+
+Zelenik	B-LOC
+(	I-LOC
+Kučevo	I-LOC
+)	I-LOC
+
+Sous-espèce	B-LOC
+de	I-LOC
+Canis	I-LOC
+lupus	I-LOC
+
+REDIRECTION	O
+Victor	B-PER
+II	I-PER
+d'Anhalt-Bernbourg-Schaumbourg-Hoym	I-PER
+
+'	O
+''	O
+Canarsie	B-ORG
+–	I-ORG
+Rockaway	I-ORG
+Parkway	I-ORG
+''	O
+'	O
+
+Le	O
+fils	O
+d'Annibale	O
+,	O
+Giovanni	B-PER
+,	O
+est	O
+trop	O
+jeune	O
+pour	O
+lui	O
+succéder	O
+.	O
+
+Les	O
+survivants	O
+se	O
+réfugient	O
+chez	O
+les	O
+Culinas	B-ORG
+qui	O
+les	O
+assassinent	O
+.	O
+
+Amitabh	B-PER
+Bachchan	I-PER
+,	O
+Anil	B-PER
+Kapoor	I-PER
+,	O
+Gracy	B-PER
+Singh	I-PER
+
+Manufacture	B-ORG
+nationale	I-ORG
+de	I-ORG
+Sèvres	I-ORG
+
+'	O
+''	O
+Owain	B-PER
+Doull	I-PER
+''	O
+'	O
+
+Lannemezan	B-LOC
+↔	O
+Capvern	B-LOC
+''	O
+(	O
+voir	O
+aussi	O
+'	O
+''	O
+''24	O
+''	O
+'	O
+''	O
+)	O
+''	O
+
+**	O
+Amblève	B-LOC
+(	O
+''Amel	O
+''	O
+)	O
+
+Louis	B-PER
+de	I-PER
+Cormontaigne	I-PER
+(	O
+1695-1752	O
+)	O
+
+Comté	B-LOC
+de	I-LOC
+Hamilton	I-LOC
+(	O
+ouest	O
+)	O
+
+Talégalle	B-LOC
+de	I-LOC
+Latham	I-LOC
+
+Loi	B-ORG
+de	I-ORG
+Peirce	I-ORG
+
+*BST	O
+Aubervilliers	B-LOC
+,	O
+Seine-Saint-Denis	B-LOC
+(	O
+93	O
+)	O
+
+'	O
+''	O
+'	O
+et	O
+Meteora	B-ORG
+''	O
+traitent	O
+principalement	O
+des	O
+conflits	O
+dans	O
+les	O
+relations	O
+,	O
+des	O
+troubles	O
+et	O
+traumatismes	O
+internes	O
+.	O
+
+Artur	B-PER
+Kuciapski	I-PER
+(	O
+PB	O
+)	O
+
+Daniel	B-PER
+Vaillant	I-PER
+et	O
+Jean-Christophe	B-PER
+Cambadélis	I-PER
+.	O
+
+REDIRECTION	O
+Perruche	B-LOC
+de	I-LOC
+Norfolk	I-LOC
+
+Andrea	B-PER
+Bargnani	I-PER
+(	O
+ailier-fort	O
+)	O
+
+Bicycle	B-ORG
+Race	I-ORG
+(	O
+Instrumental	O
+)	O
+''	O
+
+Chris	B-PER
+Evert	I-PER
+(	O
+17	O
+/	O
+18	O
+)	O
+
+Giovanni	B-PER
+Battista	I-PER
+Sammartini	I-PER
+
+**VRB	O
+(	O
+Vitznau-Rigi	B-ORG
+Bahn	I-ORG
+)	O
+
+Il	O
+termine	O
+à	O
+la	O
+onzième	O
+place	O
+,	O
+dans	O
+le	O
+premier	O
+groupe	O
+arrivé	O
+après	O
+le	O
+vainqueur	O
+Alexandre	B-PER
+Vinokourov	I-PER
+et	O
+Rigoberto	B-PER
+Urán	I-PER
+.	O
+
+Canada	B-LOC
+(	O
+J	O
+,	O
+T	O
+)	O
+
+Il	O
+a	O
+un	O
+an	O
+quand	O
+son	O
+père	O
+abandonne	O
+les	O
+siens	O
+et	O
+douze	O
+quand	O
+sa	O
+mère	O
+se	O
+remarie	O
+et	O
+l'emmène	O
+vivre	O
+à	O
+Leeds	B-LOC
+.	O
+
+Elle	O
+est	O
+stationnée	O
+à	O
+Saragosse	B-LOC
+.	O
+
+Graeme	B-PER
+Brown	I-PER
+(	O
+A	O
+14	O
+)	O
+
+Les	O
+Châteaux	B-LOC
+de	I-LOC
+la	I-LOC
+Loire	I-LOC
+en	O
+sont	O
+constitués	O
+.	O
+
+'	O
+''	O
+Dalmatie	B-LOC
+''	O
+'	O
+''Dalmatia	O
+''	O
+
+===	O
+Rivalité	O
+avec	O
+le	O
+Hambourg	B-ORG
+SV	I-ORG
+===	O
+
+Haakon	B-PER
+Tranberg	I-PER
+10	O
+s	O
+7	O
+
+Église	B-ORG
+San	I-ORG
+Patrizio	I-ORG
+a	I-ORG
+Villa	I-ORG
+Ludovisi	I-ORG
+
+Il	O
+étudie	O
+par	O
+la	O
+suite	O
+à	O
+Académie	B-ORG
+d'architecture	I-ORG
+de	I-ORG
+Berlin	I-ORG
+.	O
+
+REDIRECTION	O
+Æthelberht	B-PER
+de	I-PER
+Sussex	I-PER
+
+Denny	B-PER
+Hulme	I-PER
+'	O
+''	O
+9	O
+''	O
+'	O
+(	O
+10	O
+/	O
+13-15	O
+/	O
+17	O
+/	O
+24-27	O
+)	O
+
+Jody	B-PER
+Scheckter	I-PER
+Denny	B-PER
+Hulme	I-PER
+Peter	B-PER
+Revson	I-PER
+Jacky	B-PER
+Ickx	I-PER
+
+Discovery	B-ORG
+World	I-ORG
+-	O
+80	O
+%	O
+
+1990-1991	B-ORG
+-	O
+Bucky	B-PER
+Buckwalter	I-PER
+,	O
+Trail	B-ORG
+Blazers	I-ORG
+de	I-ORG
+Portland	I-ORG
+(	O
+1	O
+)	O
+
+Il	O
+a	O
+été	O
+remporté	O
+par	O
+Italien	B-LOC
+Luigi	B-PER
+Ganna	I-PER
+.	O
+
+'	O
+''	O
+'	O
+,	O
+avec	O
+Paul	B-PER
+Anka	I-PER
+,	O
+Dany	B-PER
+Brillant	I-PER
+,	O
+Vincent	B-PER
+Niclo	I-PER
+
+YR-ATC	O
+peint	O
+en	O
+livrée	O
+Skyteam	B-ORG
+
+The	B-ORG
+``	I-ORG
+Chirping	I-ORG
+''	I-ORG
+Crickets	I-ORG
+''	O
+
+San	B-LOC
+Martino	I-LOC
+del	I-LOC
+Lago	I-LOC
+
+Il	O
+a	O
+entre	O
+autres	O
+à	O
+sa	O
+charge	O
+les	O
+rédactions	O
+locales	O
+Elbeuf	B-LOC
+et	O
+des	O
+Andelys	B-LOC
+,	O
+puis	O
+celles	O
+Évreux	B-LOC
+,	O
+Louviers	B-LOC
+et	O
+Vernon	B-LOC
+.	O
+
+Guillermo	B-PER
+Cañas	I-PER
+(	O
+2	O
+)	O
+
+'	O
+''	O
+Marilou	B-PER
+Berry	I-PER
+''	O
+'	O
+
+'	O
+''	O
+Vémars	B-LOC
+''	O
+'	O
+
+Il	O
+reçoit	O
+sa	O
+première	O
+sélection	O
+avec	O
+les	O
+«	O
+Diables	B-ORG
+Rouges	I-ORG
+''	O
+»	O
+le	O
+pour	O
+un	O
+match	O
+contre	O
+la	O
+Finlande	B-ORG
+huit	O
+jours	O
+plus	O
+tard	O
+.	O
+
+'	O
+''	O
+Jade	B-PER
+Ewen	I-PER
+''	O
+'	O
+(	O
+2009–présent	O
+)	O
+
+Entre	O
+et	O
+(	O
+Allemagne	B-LOC
+)	O
+
+autoroute	B-ORG
+québécoise	I-ORG
+5	I-ORG
+(	I-ORG
+A-5	I-ORG
+)	I-ORG
+;	O
+
+Organisation	B-ORG
+du	I-ORG
+peuple	I-ORG
+en	I-ORG
+lutte	I-ORG
+
+Thupten	B-PER
+Jigme	I-PER
+Norbu	I-PER
+(	O
+1922-2008	O
+)	O
+
+Gabriel	B-PER
+de	I-PER
+l'Addolorata	I-PER
+
+Christoph	B-PER
+Höhne3	I-PER
+h	O
+59	O
+min	O
+06	O
+s	O
+
+Johann	B-PER
+(	I-PER
+Johannes	I-PER
+Gottfried	I-PER
+)	I-PER
+Olearius	I-PER
+(	O
+1611-1684	O
+)	O
+y	O
+est	O
+mort	O
+
+Les	O
+autres	O
+garçons	O
+pensent	O
+qu'il	O
+est	O
+français	B-LOC
+,	O
+alors	O
+ils	O
+le	O
+détestent	O
+.	O
+
+**	O
+A	B-ORG
+Day	I-ORG
+Without	I-ORG
+Rain	I-ORG
+''	O
+
+Elle	O
+meurt	O
+le	O
+à	O
+Fontenay-les-Briis	B-LOC
+
+REDIRECTION	O
+The	B-ORG
+Best	I-ORG
+of	I-ORG
+Boyz	I-ORG
+II	I-ORG
+Men	I-ORG
+
+Ryan	B-PER
+Rowland-Smith	I-PER
+des	O
+Astros	B-ORG
+de	I-ORG
+Houston	I-ORG
+
+'	O
+''	O
+Jacques	B-PER
+Chirac	I-PER
+''	O
+'*	O
+
+'	O
+''	O
+Championnat	B-ORG
+d'Arabie	I-ORG
+saoudite	I-ORG
+de	I-ORG
+football	I-ORG
+''	O
+'	O
+(	O
+'	O
+''	O
+2	O
+''	O
+'	O
+)	O
+
+Eye	B-ORG
+of	I-ORG
+the	I-ORG
+Tiger	I-ORG
+''	O
+-	O
+Survivor	B-ORG
+
+André	B-PER
+Greipel	I-PER
+(	O
+NP	O
+3	O
+)	O
+
+Le	O
+fut	O
+livré	O
+à	O
+au	O
+moins	O
+six	O
+pays	O
+,	O
+parmi	O
+lesquels	O
+Iran	B-LOC
+,	O
+le	O
+Koweït	B-LOC
+,	O
+Oman	B-LOC
+et	O
+la	O
+Jordanie	B-LOC
+.	O
+
+Région	B-LOC
+de	I-LOC
+la	I-LOC
+mer	I-LOC
+Noire	I-LOC
+(	O
+'	O
+''	O
+'	O
+)	O
+;	O
+
+REDIRECTION	O
+CAPC	B-ORG
+musée	I-ORG
+d'art	I-ORG
+contemporain	I-ORG
+de	I-ORG
+Bordeaux	I-ORG
+
+REDIRECTION	O
+Peaches	B-ORG
+de	I-ORG
+Rockford	I-ORG
+
+REDIRECTION	O
+Pivoine	B-LOC
+de	I-LOC
+Wittmann	I-LOC
+
+Il	O
+poursuit	O
+ensuite	O
+sa	O
+carrière	O
+avec	O
+les	O
+Everblades	B-ORG
+de	I-ORG
+la	I-ORG
+Floride	I-ORG
+et	O
+les	O
+Grizzlies	B-ORG
+de	I-ORG
+l'Utah	I-ORG
+.	O
+
+Saint-Pierre	B-LOC
+,	O
+dans	O
+le	O
+Bas-Rhin	B-LOC
+
+Il	O
+s'agit	O
+d'une	O
+notion	O
+propre	O
+à	O
+Union	B-ORG
+européenne	I-ORG
+.	O
+
+Marzia	B-PER
+Caravelli	I-PER
+13	O
+s	O
+21	O
+
+;	O
+Liaison	O
+Oissel	B-LOC
+-	O
+Elbeuf	B-LOC
+
+Elle	O
+est	O
+limitrophe	O
+Asnières-sur-Seine	B-LOC
+,	O
+Colombes	B-LOC
+,	O
+et	O
+Villeneuve-la-Garenne	B-LOC
+.	O
+
+REDIRECTION	O
+Cerovica	B-LOC
+(	I-LOC
+Stanari	I-LOC
+)	I-LOC
+
+Un	O
+premier	O
+tronçon	O
+,	O
+autoroute	B-ORG
+Ville-Marie	I-ORG
+,	O
+voit	O
+le	O
+jour	O
+.	O
+
+Trois	O
+mois	O
+plus	O
+tard	O
+,	O
+le	O
+,	O
+il	O
+est	O
+promu	O
+colonel	B-ORG
+.	O
+
+Andreas	B-PER
+von	I-PER
+Bülow	I-PER
+
+le	O
+,	O
+Protobothrops	B-LOC
+flavoviridis	I-LOC
+''	O
+;	O
+
+'	O
+''	O
+Viktor	B-PER
+Troicki	I-PER
+''	O
+'	O
+'	O
+''	O
+Nenad	B-PER
+Zimonjić	I-PER
+''	O
+'	O
+
+Taboão	B-LOC
+da	I-LOC
+Serra	I-LOC
+
+Deportivo	B-ORG
+Alavés	I-ORG
+(	O
+1	O
+)	O
+
+JAXA	B-ORG
+,	O
+Brochure	O
+officielle	O
+
+Nuffield	B-ORG
+College	I-ORG
+,	O
+Université	B-ORG
+d'Oxford	I-ORG
+.	O
+
+Marcel	B-PER
+Duchamp	I-PER
+,	O
+Nu	B-ORG
+descendant	I-ORG
+un	I-ORG
+escalier	I-ORG
+''	O
+
+En	O
+irlandais	B-LOC
+,	O
+les	O
+textes	O
+parlent	O
+plus	O
+simplement	O
+d’«	O
+étrangers	O
+»	O
+(	O
+''gall	O
+''	O
+)	O
+.	O
+
+REDIRECTION	O
+Yokohama	B-ORG
+DeNA	I-ORG
+BayStars	I-ORG
+
+Dino	B-ORG
+De	I-ORG
+Laurentiis	I-ORG
+Cinematografica	I-ORG
+
+Sa	O
+capitale	O
+est	O
+Zouara	B-LOC
+.	O
+
+São	B-LOC
+João	I-LOC
+do	I-LOC
+Sabugi	I-LOC
+
+Isaiah	B-PER
+Thomas	I-PER
+(	O
+Celtics	B-ORG
+de	I-ORG
+Boston	I-ORG
+)	O
+(	O
+1	O
+/	O
+2	O
+)	O
+
+Championnat	B-ORG
+de	I-ORG
+Turquie	I-ORG
+de	I-ORG
+football	I-ORG
+D2	I-ORG
+
+L	O
+'	O
+'	O
+''	O
+Estonie	B-LOC
+''	O
+'	O
+était	O
+présente	O
+aux	O
+'	O
+''	O
+Jeux	B-ORG
+européens	I-ORG
+de	I-ORG
+2015	I-ORG
+''	O
+'	O
+,	O
+la	O
+première	O
+édition	O
+des	O
+Jeux	B-LOC
+européens	I-LOC
+,	O
+organisée	O
+à	O
+Bakou	B-LOC
+,	O
+en	O
+Azerbaïdjan	B-LOC
+.	O
+
+Francesco	B-PER
+Pisani	I-PER
+(	O
+1529-1545	O
+)	O
+
+''Scumgrief	O
+''	O
+par	O
+Fear	B-ORG
+Factory	I-ORG
+
+Rudi	B-PER
+Altig	I-PER
+&	O
+Jacques	B-PER
+Anquetil	I-PER
+
+Frank	B-PER
+Godwin	I-PER
+,	O
+''Bob	O
+Rilet	O
+''	O
+
+La	O
+Bibliotheca	B-ORG
+Alexandrina	I-ORG
+s'est	O
+rapidement	O
+associée	O
+à	O
+ce	O
+projet	O
+.	O
+
+REDIRECTION	O
+Placidus	B-PER
+a	I-PER
+Spescha	I-PER
+
+Parc	B-ORG
+national	I-ORG
+de	I-ORG
+la	I-ORG
+Serra	I-ORG
+de	I-ORG
+Itabaiana	I-ORG
+
+'	O
+''	O
+Linkin	B-ORG
+Park	I-ORG
+''	O
+'	O
+–	O
+Living	B-ORG
+Things	I-ORG
+''	O
+
+Eugène	B-PER
+N'Jo	I-PER
+Léa	I-PER
+(	O
+23	O
+)	O
+
+Pierre	B-PER
+Michon	I-PER
+,	O
+''Les	O
+Onze	O
+''	O
+,	O
+éd	O
+.	O
+
+Il	O
+n'a	O
+toutefois	O
+jamais	O
+joué	O
+avec	O
+les	O
+Bafana	B-ORG
+Bafana	B-ORG
+.	O
+
+Amsterdam	B-ORG
+Crusaders	I-ORG
+'	O
+''	O
+2-0	O
+''	O
+'	O
+Birmingham	B-ORG
+Bulls	I-ORG
+
+REDIRECTION	O
+Loi	B-ORG
+de	I-ORG
+Morrie	I-ORG
+
+Toutefois	O
+le	O
+Sénat	B-ORG
+français	I-ORG
+a	O
+constaté	O
+que	O
+.	O
+
+Il	O
+s'agit	O
+des	O
+Legends	B-ORG
+du	I-ORG
+Texas	I-ORG
+.	O
+
+Il	O
+atteint	O
+peut	O
+être	O
+le	O
+Yucatán	B-LOC
+au	O
+retour	O
+.	O
+
+Sandy	B-PER
+Wilson	I-PER
+(	I-PER
+réalisatrice	I-PER
+)	I-PER
+
+Il	O
+connait	O
+sa	O
+première	O
+titularisation	O
+la	O
+semaine	O
+suivante	O
+contre	O
+les	O
+Bulls	B-ORG
+.	O
+
+Sa	O
+commercialisation	O
+a	O
+débuté	O
+au	O
+Japon	B-LOC
+le	O
+.	O
+
+un	O
+mois	O
+après	O
+la	B-ORG
+reddition	I-ORG
+,	O
+
+REDIRECTION	O
+Ethelburge	B-PER
+de	I-PER
+Barking	I-PER
+
+Le	O
+Somerville	B-ORG
+College	I-ORG
+,	O
+à	O
+Oxford	B-LOC
+.	O
+
+redirection	O
+Observatoire	B-ORG
+de	I-ORG
+l'environnement	I-ORG
+
+Les	O
+Pays-Bas	B-LOC
+roulent	O
+à	O
+droite	O
+depuis	O
+époque	B-PER
+napoléonienne	I-PER
+,	O
+ses	O
+colonies	O
+ont	O
+continué	O
+à	O
+rouler	O
+à	O
+gauche	O
+,	O
+en	O
+particulier	O
+les	O
+zones	O
+gérées	O
+par	O
+la	O
+Compagnie	B-ORG
+néerlandaise	I-ORG
+des	I-ORG
+Indes	I-ORG
+orientales	I-ORG
+.	O
+
+West	B-ORG
+African	I-ORG
+Senior	I-ORG
+School	I-ORG
+Certificate	I-ORG
+Examination	I-ORG
+
+Shirley	B-PER
+Horn	I-PER
+–	O
+''The	O
+Main	O
+Ingredient	O
+''	O
+
+Conventions	B-ORG
+de	I-ORG
+Genève	I-ORG
+de	I-ORG
+1949	I-ORG
+
+Comté	B-LOC
+d'York	I-LOC
+(	I-LOC
+Nouveau-Brunswick	I-LOC
+)	I-LOC
+
+District	B-LOC
+de	I-LOC
+Uiryeong	I-LOC
+
+Réserve	B-LOC
+nationale	I-LOC
+de	I-LOC
+faune	I-LOC
+du	I-LOC
+cap	I-LOC
+Tourmente	I-LOC
+
+Il	O
+s'installe	O
+plus	O
+tard	O
+à	O
+Varsovie	B-LOC
+.	O
+
+Sœurs	B-ORG
+missionnaires	I-ORG
+de	I-ORG
+Notre-Dame	I-ORG
+d'Afrique	I-ORG
+(	O
+vendu	O
+)	O
+
+Braye-sous-Faye	B-LOC
+,	O
+en	O
+Indre-et-Loire	B-LOC
+;	O
+
+Bibliothèque	B-ORG
+nationale	I-ORG
+de	I-ORG
+Grèce	I-ORG
+,	O
+Taphu	O
+369	O
+
+3	O
+Eddie	B-PER
+Hapgood	I-PER
+(	O
+c	O
+)	O
+
+Roitelet	B-LOC
+à	I-LOC
+triple	I-LOC
+bandeau	I-LOC
+''	O
+
+Il	O
+meurt	O
+au	O
+siège	B-ORG
+de	I-ORG
+La	I-ORG
+Rochelle	I-ORG
+.	O
+
+''Hasta	O
+''	O
+(	O
+Asti	B-LOC
+)	O
+
+'	O
+''	O
+Sélection	B-ORG
+d'Espagne	I-ORG
+''	O
+'	O
+
+Mosquée	B-ORG
+bleue	I-ORG
+de	I-ORG
+Tabriz	I-ORG
+
+Saint-Raphaël	B-LOC
+(	I-LOC
+Dordogne	I-LOC
+)	I-LOC
+
+Santa	B-LOC
+Rita	I-LOC
+do	I-LOC
+Passa	I-LOC
+Quatro	I-LOC
+
+1873-1878	O
+Joseph	B-PER
+Dalton	I-PER
+Hooker	I-PER
+
+sept	O
+par	O
+Jacques	B-PER
+Plante	I-PER
+,	O
+Canadiens	B-ORG
+de	I-ORG
+Montréal	I-ORG
+(	O
+6	O
+)	O
+,	O
+Blues	B-ORG
+de	I-ORG
+Saint-Louis	I-ORG
+(	O
+1	O
+)	O
+
+'	O
+''	O
+Josef	B-PER
+Masopust	I-PER
+''	O
+'	O
+(	O
+milieu	O
+-	O
+Dukla	B-ORG
+Prague	I-ORG
+)	O
+
+L'Homme	B-ORG
+de	I-ORG
+fer	I-ORG
+(	I-ORG
+série	I-ORG
+télévisée	I-ORG
+)	I-ORG
+
+John	B-PER
+Ross	I-PER
+(	I-PER
+homme	I-PER
+politique	I-PER
+)	I-PER
+
+Il	O
+fut	O
+gracié	O
+par	O
+son	O
+successeur	O
+et	O
+ancien	O
+vice-président	O
+,	O
+Gerald	B-PER
+Ford	I-PER
+.	O
+
+REDIRECTION	O
+Amance	B-LOC
+(	I-LOC
+rivière	I-LOC
+)	I-LOC
+
+**	O
+Chambre	B-ORG
+des	I-ORG
+représentants	I-ORG
+du	I-ORG
+Massachusetts	I-ORG
+
+Trèves	B-LOC
+(	I-LOC
+Allemagne	I-LOC
+)	I-LOC
+
+Philippe	B-PER
+Pétain	I-PER
+(	O
+1940-1944	O
+)	O
+
+Bourg	O
+d'hem	O
+(	O
+Le	B-LOC
+Bourg-d'Hem	I-LOC
+)	O
+
+**	O
+Global	B-ORG
+(	O
+Canada	B-LOC
+)	O
+
+-	O
+9	O
+-	O
+'	O
+''	O
+Céline	B-PER
+Dumerc	I-PER
+''	O
+'	O
+(	O
+26	O
+min	O
+11	O
+-	O
+8	O
+pts	O
+)	O
+
+Andrew	B-PER
+Osagie1	I-PER
+min	O
+47	O
+s	O
+10	O
+
+Il	O
+s'établit	O
+à	O
+São	B-LOC
+Paulo	I-LOC
+et	O
+travaille	O
+temporairement	O
+avec	O
+son	O
+père	O
+.	O
+
+Lord	B-PER
+James	I-PER
+Gambier	I-PER
+est	O
+né	O
+le	O
+.	O
+
+Ride]]	O
+''	O
+(	O
+featuring	O
+Ludacris	B-PER
+)	O
+
+Parmi	O
+les	O
+nombreux	O
+titres	O
+,	O
+on	O
+peut	O
+retenir	O
+'	O
+''	O
+'	O
+avec	O
+Gianni	B-PER
+Morandi	I-PER
+et	O
+'	O
+''	O
+'	O
+avec	O
+Rita	B-PER
+Pavone	I-PER
+.	O
+
+En	B-ORG
+passant	I-ORG
+''	O
+-	O
+Jean-Jacques	B-PER
+Goldman	I-PER
+
+Magny-en-Vexin	B-LOC
+''	O
+(	O
+km	O
+80	O
+)	O
+''	O
+
+Vladimir	B-PER
+Ukhov	I-PER
+4	O
+h	O
+22	O
+min	O
+12	O
+s	O
+
+'	O
+''	O
+PCH	O
+''	O
+'	O
+-	O
+Powiat	B-LOC
+de	I-LOC
+Chodzież	I-LOC
+
+Michal	B-PER
+Papadopulos	I-PER
+''	O
+(	O
+Zagłębie	B-ORG
+Lubin	I-ORG
+)	O
+''	O
+
+Il	O
+est	O
+exploité	O
+par	O
+EDF	B-ORG
+Energy	I-ORG
+.	O
+
+**	O
+Poços	B-LOC
+de	I-LOC
+Caldas	I-LOC
+;	O
+''Poços-Caldien	O
+,	O
+Poços-Caldienne	O
+,	O
+Poços-Caldiens	O
+,	O
+Poços-Caldiennes	O
+''	O
+
+Selina	B-PER
+Büchel	I-PER
+(	O
+1991-	O
+)	O
+
+On	O
+trouve	O
+par	O
+exemple	O
+chez	O
+Eusèbe	B-PER
+de	I-PER
+Césarée	I-PER
+.	O
+
+J.-C.	O
+et	O
+peu	O
+après	O
+l’arrivée	O
+des	O
+Espagnols	O
+en	O
+Amérique	B-LOC
+.	O
+
+Jean-Pierre	B-PER
+Elkabbach	I-PER
+(	O
+1970-1972	O
+)	O
+
+REDIRECTION	O
+Coupe	B-ORG
+du	I-ORG
+monde	I-ORG
+de	I-ORG
+la	I-ORG
+pâtisserie	I-ORG
+
+Hell	B-ORG
+on	I-ORG
+Earth	I-ORG
+
+Daniela	B-PER
+Ryf	I-PER
+''	O
+(	O
+2	O
+h	O
+06	O
+min	O
+37	O
+s	O
+/	O
+40	O
+.	O
+
+===	O
+Nashik	B-LOC
+(	O
+Maharashtra	B-LOC
+)	O
+===	O
+
+Il	O
+a	O
+été	O
+développé	O
+par	O
+Red	B-ORG
+Storm	I-ORG
+Entertainment	I-ORG
+
+Bergognon	O
+(	O
+Altier	B-LOC
+)	O
+
+'	O
+''	O
+Tim	B-PER
+Henman	I-PER
+''	O
+'	O
+
+**	O
+Gouvernement	B-LOC
+de	I-LOC
+Courlande	I-LOC
+,	O
+''Курляндская	O
+губерния	O
+''	O
+-	O
+Jelgava	B-LOC
+(	I-LOC
+Mitau	I-LOC
+)	I-LOC
+
+En	O
+Allemagne	B-LOC
+,	O
+il	O
+s'arrêta	O
+d'abord	O
+pendant	O
+neuf	O
+mois	O
+à	O
+Heidelberg	B-LOC
+.	O
+
+L'expérience	O
+est	O
+conduite	O
+avec	O
+English	B-ORG
+Nature	I-ORG
+)	O
+.	O
+
+Davari	O
+est	O
+influencé	O
+par	O
+Heidegger	B-PER
+.	O
+
+Charles-Hugues	B-PER
+de	I-PER
+Bourbon-Parme	I-PER
+
+Steven	B-PER
+Randall	I-PER
+``	I-PER
+Randy	I-PER
+''	I-PER
+Jackson	I-PER
+
+REDIRECTION	O
+OK	B-ORG
+Radnički	I-ORG
+Kragujevac	I-ORG
+
+Il	O
+participa	O
+aussi	O
+à	O
+la	O
+Copa	B-ORG
+América	I-ORG
+1999	I-ORG
+.	O
+
+Härtlingen	B-LOC
+(	O
+432	O
+)	O
+
+Il	O
+poursuivit	O
+ses	O
+études	O
+à	O
+Université	B-ORG
+de	I-ORG
+Cologne	I-ORG
+.	O
+
+Les	B-PER
+Vengeurs	I-PER
+les	O
+affrontèrent	O
+.	O
+
+Shinzō	B-PER
+Abe（	I-PER
+Premier	B-ORG
+ministre	I-ORG
+du	I-ORG
+Japon）	I-ORG
+
+*1970	O
+CR	B-ORG
+Vasco	I-ORG
+da	I-ORG
+Gama	I-ORG
+
+Palais	B-ORG
+de	I-ORG
+Livadia	I-ORG
+
+John	B-PER
+Boydell	I-PER
+(	O
+1720-1804	O
+)	O
+
+==	O
+Services	O
+d'archives	O
+au	O
+Canada	B-LOC
+
+Mercedes-Benz	B-ORG
+Superdome	I-ORG
+,	O
+Louisiane	B-LOC
+(	O
+)	O
+
+**	O
+Jean-Pierre	B-PER
+Houël	I-PER
+-	O
+5	O
+peintures	O
+
+Celui-ci	O
+est	O
+remplacé	O
+par	O
+Damir	B-PER
+Džumhur	I-PER
+.	O
+
+REDIRECTION	O
+Piazza	B-ORG
+dei	I-ORG
+Cavalieri	I-ORG
+
+Afrique	B-LOC
+du	I-LOC
+Sud	I-LOC
+,	O
+Cameroun	B-LOC
+,	O
+Congo-Kinshasa	B-LOC
+,	O
+Côte	B-LOC
+d'Ivoire	I-LOC
+,	O
+Ghana	B-LOC
+,	O
+Guinée	B-LOC
+,	O
+Nigeria	B-LOC
+.	O
+
+Didier	B-PER
+Drogba	I-PER
+et	O
+Mike	B-PER
+Grella	I-PER
+
+REDIRECTION	O
+Tibet	B-PER
+(	I-PER
+dessinateur	I-PER
+)	I-PER
+
+Coaticook]]	O
+,	O
+Ayer	B-LOC
+'s	I-LOC
+Cliff	I-LOC
+
+Allan	B-PER
+McNish	I-PER
+Tom	B-PER
+Kristensen	I-PER
+Lucas	B-PER
+di	I-PER
+Grassi	I-PER
+
+'	O
+''	O
+Kaufdorf	B-LOC
+''	O
+'	O
+
+Il	O
+comprend	O
+notamment	O
+les	O
+Emirates	B-ORG
+Park	I-ORG
+Towers	I-ORG
+.	O
+
+Jon	B-PER
+Finch	I-PER
+,	O
+Anna	B-PER
+Massey	I-PER
+,	O
+Barry	B-PER
+Foster	I-PER
+
+''	O
+(	O
+Cour	B-LOC
+du	I-LOC
+Nord	I-LOC
+)	O
+''	O
+
+Trois	O
+jours	O
+plus	O
+tard	O
+,	O
+il	O
+est	O
+transféré	O
+aux	O
+Vipers	B-ORG
+de	I-ORG
+Rio	I-ORG
+Grande	I-ORG
+Valley	I-ORG
+.	O
+
+Le	O
+Vernet]]	O
+,	O
+Villeneuve-du-Paréage	B-LOC
+.	O
+
+Groupe	B-ORG
+ponctuel	I-ORG
+de	I-ORG
+symétrie	I-ORG
+
+Comté	B-LOC
+de	I-LOC
+Walton	I-LOC
+(	O
+sud-est	O
+)	O
+
+Équipe	B-ORG
+de	I-ORG
+Laponie	I-ORG
+de	I-ORG
+football	I-ORG
+
+Antonio	B-PER
+Maria	I-PER
+Valsalva	I-PER
+
+Pavillon	B-ORG
+allemand	I-ORG
+de	I-ORG
+Barcelone	I-ORG
+
+Abbaye	B-ORG
+Notre-Dame	I-ORG
+du	I-ORG
+Val-Dieu	I-ORG
+,	O
+moines	O
+,	O
+(	O
+Aubel	B-LOC
+,	O
+Liège	B-LOC
+)	O
+.	O
+
+REDIRECTION	O
+Bataille	B-ORG
+de	I-ORG
+Yeosu	I-ORG
+
+'	O
+''	O
+Tula	B-LOC
+''	O
+'	O
+était	O
+la	O
+capitale	O
+des	O
+Toltèques	B-ORG
+;	O
+
+Divina	B-PER
+Galica	I-PER
+Eddie	B-PER
+Cheever	I-PER
+Derek	B-PER
+Daly	I-PER
+
+'	O
+''	O
+Verdun-sur-le-Doubs	B-LOC
+''	O
+'	O
+
+Cette	O
+situation	O
+fut	O
+modifiée	O
+par	O
+Auguste	B-PER
+.	O
+
+Tripping	B-ORG
+the	I-ORG
+Live	I-ORG
+Fantastic	I-ORG
+''	O
+
+Asciano	B-LOC
+,	O
+Castelnuovo	B-LOC
+Berardenga	I-LOC
+,	O
+Monteriggioni	B-LOC
+,	O
+Monteroni	B-LOC
+d'Arbia	I-LOC
+,	O
+Sovicille	B-LOC
+
+86	O
+victoire	O
+pour	O
+Ferrari	B-ORG
+en	O
+tant	O
+que	O
+motoriste	O
+.	O
+
+Il	O
+a	O
+été	O
+créé	O
+le	O
+au	O
+Théâtre	B-ORG
+Feydeau	I-ORG
+à	O
+Paris	B-LOC
+.	O
+
+Lee	B-PER
+Mears	I-PER
+est	O
+préféré	O
+à	O
+Mark	B-PER
+Regan	I-PER
+et	O
+Tom	B-PER
+Croft	I-PER
+succède	O
+à	O
+James	B-PER
+Haskell	I-PER
+.	O
+
+Puis	O
+il	O
+étudie	O
+à	O
+Université	B-ORG
+des	I-ORG
+arts	I-ORG
+de	I-ORG
+Berlin	I-ORG
+.	O
+
+''	O
+Réunion	B-ORG
+:	I-ORG
+Destins	I-ORG
+brisés	I-ORG
+''	O
+
+Adrienne	B-PER
+Rich	I-PER
+(	O
+1929-2012	O
+)	O
+
+'	O
+''	O
+Castro	B-LOC
+Daire	I-LOC
+''	O
+'	O
+
+Phil	B-PER
+Hill	I-PER
+'	O
+''	O
+36	O
+''	O
+'	O
+(	O
+1-3	O
+/	O
+5	O
+/	O
+7	O
+/	O
+10	O
+/	O
+14-43	O
+)	O
+
+**	O
+Felix	B-PER
+Limo	I-PER
+,	O
+athlète	B-ORG
+de	I-ORG
+fond	I-ORG
+kényan	B-LOC
+.	O
+
+Peter	B-PER
+Mullan	I-PER
+(	O
+V.Q	O
+.	O
+
+Il	O
+est	O
+légué	O
+à	O
+sa	O
+fille	O
+,	O
+Marie	B-PER
+de	I-PER
+Berry	I-PER
+.	O
+
+''Liberté	O
+,	O
+Égalité	O
+,	O
+Jules	B-PER
+Rimet	I-PER
+!	O
+
+Aloïs	B-PER
+II	I-PER
+de	I-PER
+Liechtenstein	I-PER
+
+'	O
+''	O
+Knonau	B-LOC
+''	O
+'	O
+
+Jean-Pierre	B-PER
+Aumont	I-PER
+,	O
+Max	B-PER
+Elloy	I-PER
+
+**	O
+'	O
+''	O
+Ouvèze	B-LOC
+''	O
+'	O
+(	O
+rg	O
+)	O
+(	O
+)	O
+
+Il	O
+est	O
+présent	O
+dans	O
+plusieurs	O
+romans	O
+et	O
+nouvelles	O
+aux	O
+côtés	O
+Hercule	B-PER
+Poirot	I-PER
+.	O
+
+Comté	B-LOC
+de	I-LOC
+Champaign	I-LOC
+,	O
+au	O
+sud-est	O
+
+Elle	O
+a	O
+été	O
+notamment	O
+active	O
+en	O
+Bosnie-Herzégovine	B-LOC
+.	O
+
+Wallraf-Richartz	B-ORG
+Museum	I-ORG
+(	O
+Cologne	B-LOC
+)	O
+
+Alton	B-LOC
+Towers	I-LOC
+(	O
+)	O
+30	O
+ans	O
+
+Gradlon	B-PER
+(	O
+son	O
+époux	O
+)	O
+
+Collaborer	B-ORG
+en	O
+interne	O
+et	O
+avec	O
+leurs	O
+partenaires	O
+
+Sacrament	B-ORG
+of	I-ORG
+Wilderness	I-ORG
+''	O
+
+Crocodile	B-LOC
+de	I-LOC
+Cuba	I-LOC
+
+**	O
+Alvin	B-PER
+Kraenzlein	I-PER
+,	O
+51	O
+ans	O
+,	O
+athlète	B-ORG
+de	I-ORG
+sprint	I-ORG
+de	I-ORG
+haies	I-ORG
+et	I-ORG
+de	I-ORG
+saut	I-ORG
+américain	B-LOC
+.	O
+
+Paol	B-PER
+Keineg	I-PER
+(	O
+1944-	O
+)	O
+
+Moineau	B-ORG
+domestique	I-ORG
+—	O
+'	O
+''	O
+'	O
+
+====	O
+32	O
+-	O
+Gers	B-LOC
+====	O
+
+L’hôpital	O
+le	O
+plus	O
+proche	O
+se	O
+situe	O
+à	O
+Chalon-sur-Saône	B-LOC
+.	O
+
+===	O
+Antibes	B-LOC
+(	O
+06	O
+)	O
+===	O
+
+Pluvier	B-LOC
+de	I-LOC
+Leschenault	I-LOC
+.	O
+
+Comté	B-LOC
+de	I-LOC
+Leavenworth	I-LOC
+
+Elle	O
+devint	O
+l’icône	O
+Oscar	B-PER
+de	I-PER
+la	I-PER
+Renta	I-PER
+.	O
+
+Il	O
+meurt	O
+à	O
+Amboise	B-LOC
+.	O
+
+**	O
+Brian	B-PER
+Priske	I-PER
+4005	O
+'	O
+(	O
+91	O
+%	O
+)	O
+
+La	O
+première	O
+est	O
+réalisée	O
+par	O
+Frank	B-PER
+Lloyd	I-PER
+.	O
+
+Quitte	O
+à	O
+proposer	O
+l’intégralité	O
+des	O
+4	O
+concerts	O
+via	O
+Dagger	B-ORG
+Records…	I-ORG
+
+Sur	B-ORG
+écoute	I-ORG
+''	O
+(	O
+saisons	O
+1	O
+à	O
+3	O
+)	O
+
+'	O
+''	O
+Vitry-le-François	B-LOC
+''	O
+'	O
+
+Cathédrale	B-ORG
+''El	I-ORG
+Salvador	I-ORG
+''	I-ORG
+à	O
+Zamora	B-LOC
+
+-	O
+Président	O
+Tsakhiagiyn	B-PER
+Elbegdorj	I-PER
+;	O
+
+Il	O
+prend	O
+part	O
+au	O
+Tour	B-ORG
+de	I-ORG
+France	I-ORG
+.	O
+
+En	O
+deuxième	O
+période	O
+,	O
+l'Allemagne	O
+marque	O
+un	O
+but	O
+par	O
+Miroslav	B-PER
+Klose	I-PER
+à	O
+la	O
+79	O
+minute	O
+et	O
+mène	O
+au	O
+score	O
+(	O
+2-1	O
+)	O
+.	O
+
+'	O
+''	O
+Saint-Jean-de-Valériscle	B-LOC
+''	O
+'	O
+
+Le	O
+Territoire	B-ORG
+français	I-ORG
+des	I-ORG
+Afars	I-ORG
+et	I-ORG
+des	I-ORG
+Issas	I-ORG
+a	O
+émis	O
+régulièrement	O
+des	O
+timbres	O
+avec	O
+des	O
+fleurs	O
+et	O
+des	O
+animaux	O
+.	O
+
+'	O
+''	O
+RedLynx	B-ORG
+''	O
+'	O
+
+Velenje	B-LOC
+-	O
+Polzela	B-LOC
+-	O
+-	O
+Šempeter	B-LOC
+v	I-LOC
+Savinjski	I-LOC
+Dolini	I-LOC
+
+Avec	O
+le	O
+Golden	B-ORG
+Gate	I-ORG
+Quartet	I-ORG
+
+Gyrobus	B-ORG
+Tramway	B-ORG
+de	I-ORG
+Gand	I-ORG
+
+Défaite	O
+en	O
+play-offs	O
+(	O
+Wild-Card	O
+)	O
+(	O
+Steelers	B-ORG
+de	I-ORG
+Pittsburgh	I-ORG
+)	O
+31-17	O
+
+Grande	B-LOC
+Vingtaine	I-LOC
+(	I-LOC
+Saint-Clément	I-LOC
+)	I-LOC
+
+Paruline	B-LOC
+à	I-LOC
+gorge	I-LOC
+orangée	I-LOC
+
+Les	O
+Ronces	B-LOC
+sont	O
+réunies	O
+en	O
+grande	O
+partie	O
+dans	O
+l	O
+''	O
+'île	O
+des	O
+épines	O
+douces	O
+''	O
+.	O
+
+Seules	O
+quelques	O
+espèces	O
+peuvent	O
+vivre	O
+dans	O
+les	O
+régions	O
+aux	O
+hivers	O
+froids	O
+Amérique	B-LOC
+du	I-LOC
+Nord	I-LOC
+et	O
+Eurasie	B-LOC
+.	O
+
+**	O
+la	O
+plupart	O
+des	O
+Îles	B-LOC
+Phœnix	I-LOC
+.	O
+
+REDIRECTION	O
+Hillingdon	B-LOC
+(	I-LOC
+quartier	I-LOC
+)	I-LOC
+
+Alliance	B-ORG
+révolutionnaire	I-ORG
+caraïbe	I-ORG
+
+Colour	B-ORG
+the	I-ORG
+Small	I-ORG
+One	I-ORG
+''	O
+
+REDIRECTION	O
+District	B-LOC
+de	I-LOC
+Gokseong	I-LOC
+
+Émile	B-PER
+Zola	I-PER
+(	O
+2	O
+)	O
+
+Xian	B-LOC
+de	I-LOC
+Baoqing	I-LOC
+
+***	O
+Waziristan	B-LOC
+du	I-LOC
+Nord	I-LOC
+et	O
+Waziristan	B-LOC
+du	I-LOC
+Sud	I-LOC
+,	O
+régions	B-LOC
+tribales	I-LOC
+
+Olivier	B-PER
+Milloud	I-PER
+(	O
+Bourgoin	B-ORG
+)	O
+
+'	O
+''	O
+Kasaï-Occidental	B-LOC
+''	O
+'	O
+
+Les	O
+Bigophones	O
+(	O
+à	O
+Tergnier	B-LOC
+)	O
+
+Les	O
+principales	O
+entreprises	O
+présentes	O
+sur	O
+le	O
+site	O
+sont	O
+Airbus	B-ORG
+,	O
+et	O
+.	O
+
+Viktor	B-PER
+Bykov	I-PER
+(	O
+?	O
+
+George	B-PER
+Scoones	I-PER
+(	O
+entr.-joueur	O
+)	O
+
+Le	O
+Fako	B-LOC
+au	O
+Cameroun	B-LOC
+.	O
+
+Elle	O
+aurait	O
+épousé	O
+Donald	B-PER
+Dingue	I-PER
+.	O
+
+===	O
+Colonia	B-LOC
+del	I-LOC
+Sacramento	I-LOC
+===	O
+
+'	O
+''	O
+Innocent	B-PER
+III	I-PER
+''	O
+'	O
+(	O
+1198–1216	O
+)	O
+
+Association	B-ORG
+canadienne	I-ORG
+des	I-ORG
+automobilistes	I-ORG
+
+20px	O
+U.S.	B-ORG
+Route	I-ORG
+50	I-ORG
+
+Bristol	B-ORG
+City	I-ORG
+Football	I-ORG
+Club	I-ORG
+
+(	O
+14	O
+)	O
+'	O
+''	O
+Marc	B-PER
+Rosset	I-PER
+
+15	O
+victoire	O
+pour	O
+Mika	B-PER
+Häkkinen	I-PER
+.	O
+
+redirection	O
+Musée	B-ORG
+zoologique	I-ORG
+de	I-ORG
+la	I-ORG
+ville	I-ORG
+de	I-ORG
+Strasbourg	I-ORG
+
+Tous	O
+les	O
+titres	O
+sont	O
+produits	O
+par	O
+Mannie	B-PER
+Fresh	I-PER
+.	O
+
+Comté	B-LOC
+de	I-LOC
+Burke	I-LOC
+(	I-LOC
+Dakota	I-LOC
+du	I-LOC
+Nord	I-LOC
+)	I-LOC
+
+Sydney	B-LOC
+-	O
+54	O
+290	O
+spectateurs	O
+
+Charles	B-PER
+de	I-PER
+Linange	I-PER
+(	I-PER
+3e	I-PER
+prince	I-PER
+de	I-PER
+Linange	I-PER
+)	I-PER
+
+Sériers	B-LOC
+(	O
+137	O
+hab	O
+.	O
+
+Bataille	B-ORG
+du	I-ORG
+pont	I-ORG
+d'Arcole	I-ORG
+.	O
+
+Il	O
+connaît	O
+deux	O
+larges	O
+défaites	O
+(	O
+19-0	O
+contre	O
+Iran	B-ORG
+et	O
+16-0	O
+contre	O
+le	O
+Tadjikistan	B-ORG
+)	O
+.	O
+
+Antoine	B-PER
+Ignace	I-PER
+Melling	I-PER
+
+C'est	O
+aussi	O
+la	O
+proportion	O
+des	O
+éléments	O
+dans	O
+une	O
+formule	B-LOC
+chimique	I-LOC
+.	O
+
+Anversa	B-LOC
+degli	I-LOC
+Abruzzi	I-LOC
+,	O
+Bugnara	B-LOC
+,	O
+Cocullo	B-LOC
+,	O
+Goriano	B-LOC
+Sicoli	I-LOC
+,	O
+Pratola	B-LOC
+Peligna	I-LOC
+,	O
+Raiano	B-LOC
+,	O
+Sulmona	B-LOC
+
+L'entreprise	O
+est	O
+basée	O
+à	O
+San	B-LOC
+Francisco	I-LOC
+en	O
+Californie	B-LOC
+.	O
+
+Tetcha	B-LOC
+(	I-LOC
+rivière	I-LOC
+)	I-LOC
+
+Parti	B-ORG
+vert’libéral	I-ORG
+7,82	O
+%	O
+,	O
+
+Omar	B-PER
+Ibn	I-PER
+Abi	I-PER
+Rabia	I-PER
+(	O
+712	O
+)	O
+
+Congo	B-ORG
+Chine	I-ORG
+Télécoms	I-ORG
+en	O
+République	B-LOC
+démocratique	I-LOC
+du	I-LOC
+Congo	I-LOC
+;	O
+
+Yo	B-ORG
+soy	I-ORG
+Betty	I-ORG
+,	I-ORG
+la	I-ORG
+fea	I-ORG
+''	O
+
+Cosworth1	B-ORG
+min	O
+31	O
+s	O
+6	O
+
+Dorothy	B-PER
+Bundy	I-PER
+(	O
+1	O
+/	O
+1	O
+)	O
+
+Il	O
+est	O
+repoussé	O
+par	O
+Świętopełk	B-PER
+II	I-PER
+.	O
+
+Carrion	B-PER
+(	I-PER
+comics	I-PER
+)	I-PER
+
+Elle	O
+a	O
+par	O
+la	O
+suite	O
+habité	O
+à	O
+New	B-LOC
+York	I-LOC
+et	O
+Los	B-LOC
+Angeles	I-LOC
+.	O
+
+Il	O
+est	O
+dissous	O
+à	O
+Trèves	B-LOC
+.	O
+
+REDIRECTION	O
+Gironde	B-LOC
+(	I-LOC
+département	I-LOC
+)	I-LOC
+
+'	O
+''	O
+Enrique	B-PER
+Iglesias	I-PER
+''	O
+'	O
+
+À	O
+cette	O
+époque	O
+,	O
+ce	O
+terme	O
+recouvre	O
+ce	O
+que	O
+l'on	O
+nomme	O
+aujourd'hui	O
+l'Aurignacien	O
+et	O
+le	O
+Gravettien	B-ORG
+.	O
+
+Antonio	B-PER
+Trivulzio	I-PER
+,	I-PER
+seniore	I-PER
+1487–1508	O
+
+-	O
+Radio	B-ORG
+Televisión	I-ORG
+Española	I-ORG
+
+REDIRECTION	O
+Tim	B-ORG
+'s	I-ORG
+Bio	I-ORG
+:	I-ORG
+Life	I-ORG
+from	I-ORG
+da	I-ORG
+Bassment	I-ORG
+
+Joss	B-PER
+Whedon	I-PER
+explique	O
+qu'il	O
+ne	O
+voulait	O
+pas	O
+que	O
+les	O
+crédits	O
+(	O
+acteurs	O
+invités	O
+,	O
+producteurs	O
+,	O
+scénaristes	O
+,	O
+etc	O
+.	O
+
+'	O
+''	O
+Musique	B-ORG
+birmane	I-ORG
+''	O
+'	O
+
+Saint-Vincent-de-Paul	B-LOC
+(	I-LOC
+Gironde	I-LOC
+)	I-LOC
+
+REDIRECTION	O
+Championnat	B-ORG
+de	I-ORG
+France	I-ORG
+de	I-ORG
+hockey	I-ORG
+sur	I-ORG
+glace	I-ORG
+D2	I-ORG
+
+''Phoenix	O
+''	O
+(	O
+1996	B-LOC
+)	O
+
+Jacques-Gervais	B-PER
+Subervie	I-PER
+,	O
+Gauche	O
+modérée	O
+.	O
+
+REDIRECTION	O
+Géographie	B-ORG
+de	I-ORG
+la	I-ORG
+Birmanie	I-ORG
+
+Rajon	B-PER
+Rondo	I-PER
+(	O
+4	O
+)	O
+
+Battent	O
+les	O
+(	O
+2	O
+)	O
+Magic	B-ORG
+d'Orlando	I-ORG
+4-2	O
+
+'	O
+''	O
+Buire-le-Sec	B-LOC
+''	O
+'	O
+
+São	B-LOC
+Lourenço	I-LOC
+do	I-LOC
+Oeste	I-LOC
+(	O
+Santa	B-LOC
+Catarina	I-LOC
+)	O
+
+Sigfrid	B-PER
+Henrici	I-PER
+(	O
+1889–1964	O
+)	O
+
+Serres	B-LOC
+(	I-LOC
+Hautes-Alpes	I-LOC
+)	I-LOC
+
+Il	O
+totalise	O
+40	O
+sélections	O
+en	O
+équipe	B-ORG
+de	I-ORG
+Pologne	I-ORG
+.	O
+
+'	O
+''	O
+Richard	B-PER
+Groenendaal	I-PER
+''	O
+'	O
+
+Parc	B-LOC
+national	I-LOC
+de	I-LOC
+Nagarhole	I-LOC
+
+Acron	B-LOC
+(	O
+Floride	B-LOC
+,	O
+États-Unis	B-LOC
+)	O
+
+Metropolitan	B-ORG
+Museum	I-ORG
+of	I-ORG
+Art	I-ORG
+,	O
+09	O
+.	O
+
+Richmond	B-LOC
+a	O
+particulièrement	O
+été	O
+touché	O
+.	O
+
+Le	O
+''6310	O
+''	O
+était	O
+identique	O
+au	O
+''6300	O
+''	O
+sauf	O
+qu'il	O
+n'était	O
+commercialisé	O
+qu'en	O
+Europe	B-LOC
+et	O
+en	O
+Asie	B-LOC
+.	O
+
+REDIRECTION	O
+Ahmed	B-PER
+Ier	I-PER
+Bey	I-PER
+
+REDIRECTION	O
+Milan	B-ORG
+Đ.	I-ORG
+Milićević	I-ORG
+
+'	O
+''	O
+Lucas	B-ORG
+Oil	I-ORG
+Stadium	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+George	B-PER
+Hillyard	I-PER
+''	O
+'	O
+
+REDIRECTION	O
+Johann	B-PER
+Friedrich	I-PER
+Böttger	I-PER
+
+REDIRECTION	O
+102e	B-ORG
+régiment	I-ORG
+d'infanterie	I-ORG
+
+Il	O
+apparait	O
+également	O
+dans	O
+''Noir	B-ORG
+2	I-ORG
+''	I-ORG
+et	I-ORG
+''Blanc	I-ORG
+2	I-ORG
+''	I-ORG
+.	O
+
+''Amaenbo	O
+''	O
+se	O
+trouve	O
+sur	O
+2	O
+compilations	O
+,	O
+Ai	B-ORG
+am	I-ORG
+BEST	I-ORG
+''	O
+et	O
+Love	B-ORG
+Is	I-ORG
+Best	I-ORG
+''	O
+,	O
+et	O
+sur	O
+l'album	O
+Love	B-ORG
+Punch	I-ORG
+''	O
+.	O
+
+Bianca	B-PER
+Răzor	I-PER
+53	O
+s	O
+17	O
+
+Melchor	B-PER
+Mauri	I-PER
+(	O
+ESP	B-LOC
+)	O
+(	O
+NP	O
+8	O
+)	O
+
+Gravina	B-LOC
+in	I-LOC
+Puglia	I-LOC
+/	O
+Matera	B-LOC
+
+Les	O
+scènes	O
+«	O
+citadines	O
+»	O
+et	O
+les	O
+extérieurs	O
+ont	O
+pour	O
+la	O
+plus	O
+grande	O
+partie	O
+été	O
+tournées	O
+dans	O
+Idaho	B-LOC
+à	O
+Wallace	B-LOC
+et	O
+dans	O
+ses	O
+environs	O
+.	O
+
+Oulu	B-LOC
+(	O
+''Uleåborg	O
+''	O
+)	O
+
+====	O
+Société	B-ORG
+de	I-ORG
+transport	I-ORG
+de	I-ORG
+Laval	I-ORG
+====	O
+
+**	O
+Thanvillé	B-LOC
+,	O
+Sélestat	B-LOC
+(	O
+aval	O
+)	O
+,	O
+Sélestat	B-LOC
+(	O
+emont	O
+)	O
+,	O
+Sélestat	B-LOC
+(	O
+annonce	O
+des	O
+crues	O
+)	O
+
+''Shadowplay	O
+''	O
+Antony	B-PER
+Tudor	I-PER
+.	O
+
+European	B-ORG
+Air	I-ORG
+Transport	I-ORG
+Command	I-ORG

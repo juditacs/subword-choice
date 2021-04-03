@@ -1,0 +1,19462 @@
+덧붙여	O
+윈체스터에	B-LOC
+있는	O
+4육군훈련연대의	O
+이름이	O
+데팅겐이다	O
+.	O
+
+오하이오	B-LOC
+주	I-LOC
+클리블랜드	B-LOC
+(	O
+1970	O
+)	O
+
+한대	B-LOC
+(	O
+漢代	O
+)	O
+이후에	O
+많은	O
+수학서가	O
+저술되었다.	O
+,	O
+
+넘겨주기	O
+나미비아의	B-LOC
+행정	I-LOC
+구역	I-LOC
+
+'	O
+''	O
+임요환	B-PER
+''	O
+'	O
+(	O
+두	O
+번째	O
+우승	O
+)	O
+
+특히	O
+미국식	B-LOC
+피자에서	O
+많이	O
+쓰인다	O
+.	O
+
+북쪽으로	O
+향산군	B-LOC
+,	O
+서북쪽으로	O
+운산군	B-LOC
+,	O
+서남쪽으로	O
+녕변군	B-LOC
+,	O
+동쪽으로	O
+녕원군	B-LOC
+,	O
+남쪽으로	O
+평안남도	B-LOC
+개천시·	B-LOC
+경계를	O
+접한다	O
+.	O
+
+SECL-1169	O
+(	O
+통상판	O
+)	O
+SECL-1170-SECL-1171	O
+(	O
+모야시몬	B-ORG
+한정판	O
+)	O
+
+넘겨주기	O
+제14기갑사단	B-ORG
+(	I-ORG
+독일	I-ORG
+국방군	I-ORG
+)	I-ORG
+
+고아	B-LOC
+주	I-LOC
+-	O
+2	O
+
+**	O
+연형묵	B-PER
+(	O
+延亨默	O
+)	O
+
+무라야마	B-PER
+도미이치	I-PER
+전	O
+일본	B-LOC
+총리대신이	B-ORG
+대한민국을	B-LOC
+방문해	O
+위안부	B-PER
+피해	O
+여성을	O
+만나다	O
+.	O
+
+오야마	B-PER
+슌고	I-PER
+(	O
+미들급	O
+초대	O
+챔피언	O
+)	O
+
+'	O
+''	O
+루크	B-PER
+켈리	I-PER
+''	O
+'	O
+
+후다이	B-LOC
+촌	I-LOC
+(	O
+)	O
+
+Led	B-ORG
+Zeppelin	I-ORG
+IV	I-ORG
+
+서광범	B-PER
+(	O
+徐光範	O
+)	O
+1859-1897	O
+법부대신	O
+,	O
+相翊아들	O
+,	O
+戴淳손자	O
+,	O
+龍輔증손	O
+
+일본	B-LOC
+와세다	B-ORG
+대학교	I-ORG
+영어영문학과	O
+졸업	O
+
+이무렵	O
+이때부터	O
+박헌영은	O
+여운형을	B-PER
+경시했는데	O
+두	O
+사람은	O
+계속해서	O
+반목불화하게	O
+된다	O
+.	O
+
+서북쪽으로	O
+압록강을	B-LOC
+사이에	O
+두고	O
+중화인민공화국과는	B-LOC
+접경을	O
+이룬다	O
+.	O
+
+별모양	O
+영역의	O
+폐포는	B-ORG
+별모양	O
+영역이다	O
+.	O
+
+이에	O
+제네바	B-LOC
+시의회는	O
+세르베투스에	O
+대한	O
+재판을	O
+다시	O
+열었고	O
+,	O
+칼뱅은	O
+이번	O
+기회에	O
+세르베투스의	O
+이론을	O
+철저히	O
+논박해야할	O
+필요를	O
+느낀	O
+것으로	O
+보인다	O
+.	O
+
+소니	B-ORG
+빌딩	I-ORG
+(	I-ORG
+도쿄	I-ORG
+도	I-ORG
+)	I-ORG
+
+===	O
+경기도	B-LOC
+(	O
+시흥시	B-LOC
+~	O
+수원시	B-LOC
+)	O
+===	O
+
+느타리	B-LOC
+(	O
+''Pleurotus	O
+ostreatus	O
+''	O
+)	O
+
+처음에는	O
+SK텔레콤에서만	B-ORG
+출시되던	O
+휴대폰에서만	O
+다운로드가	O
+가능했지만	O
+,	O
+근래에	O
+들어서는	O
+KT와	B-ORG
+LG유플러스를	B-ORG
+통해	O
+출시된	O
+휴대폰에서도	O
+사용이	O
+가능하다	O
+.	O
+
+앨버커키와	B-LOC
+인접해	O
+있으므로	O
+앨버커키의	O
+도시권에	O
+들어간다	O
+.	O
+
+일본은	B-ORG
+AFC	B-ORG
+대표로	O
+,	O
+자메이카는	B-ORG
+CONCACAF	B-ORG
+소속으로	O
+,	O
+그리고	O
+크로아티아는	B-ORG
+UEFA의	B-ORG
+일원이다	O
+.	O
+
+요	B-LOC
+(	O
+遼	O
+)	O
+보대	O
+(	O
+保大	O
+)	O
+5년	O
+
+시험에	O
+응시하여	O
+합격하면	O
+군장학금으로	O
+학업하고	O
+전문학사를	O
+취득한후	O
+부사관으로	B-ORG
+임관하게된다	O
+.	O
+
+와카야마	B-ORG
+선：	I-ORG
+-	O
+다카다	B-ORG
+역	I-ORG
+
+주제가는	O
+매시브	B-ORG
+어택의	I-ORG
+〈Teardrop〉이다	O
+.	O
+
+라차레츠후미	B-LOC
+크베모	I-LOC
+스바네티	I-LOC
+(	O
+암브롤라우리	B-LOC
+)	O
+
+교육	B-ORG
+텔레비전	I-ORG
+니가타본국	O
+13ch	O
+(	O
+JOQB-DTV	O
+)	O
+
+당시	O
+,	O
+토미노는	O
+미야자키	B-PER
+하야오가	I-PER
+하고	O
+있는	O
+것에	O
+동경을	O
+가지고	O
+있었다고	O
+한다	O
+.	O
+
+드워프햄스터속	B-LOC
+(	O
+''Phodopus	O
+''	O
+)	O
+
+월드	B-LOC
+시리즈	I-LOC
+경기	O
+중	O
+질병으로	O
+투병한	O
+친구의	O
+이름과	O
+사랑하는	O
+사람이	O
+새겨진	O
+사인을	O
+들었다	O
+.	O
+
+캄포바소로부터	B-LOC
+남서쪽	O
+20km	O
+거리에	O
+있다	O
+.	O
+
+러블리즈	B-ORG
+-	O
+`	O
+안녕`	O
+
+송나라	B-ORG
+때	O
+현재의	O
+이름인	O
+달주가	O
+되었다	O
+.	O
+
+그로써	O
+카자흐스탄과	B-LOC
+우즈베키스탄	B-LOC
+등	O
+일부	O
+중앙아시아	B-LOC
+국가가	O
+포함되어	O
+있다	O
+.	O
+
+플리머스	B-LOC
+(	I-LOC
+매사추세츠	I-LOC
+주	I-LOC
+)	I-LOC
+
+레니에	B-PER
+3세와	I-PER
+그레이스	B-PER
+켈리의	I-PER
+외손녀이다	O
+.	O
+
+유공	B-ORG
+코끼리와	I-ORG
+럭키금성	B-ORG
+황소	I-ORG
+창단	O
+멤버였다	O
+.	O
+
+봉동초등학교와	O
+전주공업고등학교를	O
+거쳐	O
+단국대학교	B-ORG
+학사학위를	O
+취득했다	O
+.	O
+
+신성호	B-PER
+-	O
+위슬러	O
+(	O
+크리스	B-PER
+크리스토퍼슨	I-PER
+)	O
+
+루펑	B-LOC
+시	I-LOC
+(	O
+陆丰市	O
+)	O
+
+코트디부아르와	B-LOC
+가나	B-LOC
+,	O
+기니	B-LOC
+,	O
+라이베리아	B-LOC
+그리고	O
+시에라리온에서	B-LOC
+발견된다	O
+.	O
+
+마그누스	B-PER
+린드베르크	I-PER
+(	O
+1958	O
+-	O
+)	O
+
+**	O
+이택근	B-PER
+(	O
+LG	B-ORG
+트윈스에서	I-ORG
+넥센	B-ORG
+히어로즈	I-ORG
+이적	O
+)	O
+
+유럽	B-ORG
+의회는	I-ORG
+문서와	O
+본회의	O
+관련	O
+자료등을	O
+모든	O
+언어로	O
+번역한다	O
+.	O
+
+대한민국과	B-LOC
+조선민주주의인민공화국이	B-LOC
+공동으로	O
+만드는	O
+사전의	O
+이름은	O
+《겨레말	O
+큰사전》이다	O
+.	O
+
+그의	O
+첫앨범인	O
+'No	O
+Way	O
+Out	O
+'	O
+역시	O
+빌보드차트에서	B-ORG
+1위를	O
+기록하며	O
+,	O
+화려한	O
+데뷔를	O
+한다	O
+.	O
+
+인구는	O
+약	O
+2만9천명이고	O
+에파테	B-LOC
+섬의	I-LOC
+남해안에	O
+위치한다	O
+.	O
+
+TP	B-ORG
+마젬베	I-ORG
+(	O
+콩고	B-LOC
+민주	I-LOC
+공화국	I-LOC
+)	O
+
+같은	O
+날	O
+,	O
+울릉도의	B-LOC
+독도박물관을	B-ORG
+방문하고	O
+이	O
+2점의	O
+지도를	O
+기증했다	O
+.	O
+
+'	O
+''	O
+31	O
+''	O
+'	O
+그레그	B-PER
+매덕스	I-PER
+
+아버지의	O
+뜻대로	O
+법무부의	B-ORG
+관료가	O
+되었지만	O
+법무부	B-ORG
+서기직은	O
+점점	O
+음악에	O
+몰두하는	O
+그를	O
+막을	O
+만큼	O
+흥미있는	O
+일이	O
+못되었다	O
+.	O
+
+2008	O
+장리인	B-PER
+1집	O
+수록곡‘성원	O
+(	O
+星願.I	O
+will	O
+)	O
+’과	O
+‘연인이여’	O
+
+****	O
+비단털쥐	B-LOC
+(	O
+''Tscherskia	O
+triton	O
+''	O
+)	O
+
+프랑스	B-LOC
+마르세유	B-LOC
+(	O
+1958	O
+)	O
+
+내일의	B-ORG
+나쟈	I-ORG
+(	O
+투니버스	B-ORG
+)	O
+-	O
+비앙코	O
+
+윈	B-PER
+버틀러	I-PER
+(	O
+Win	O
+Butler	O
+)	O
+
+모모이	B-PER
+하루코	I-PER
+(	O
+작사	O
+/	O
+작곡	O
+)	O
+
+한	O
+때는	O
+인천광역시에	B-LOC
+위치한	O
+한국GM의	B-ORG
+부평	B-LOC
+공장에서의	O
+생산도	O
+검토가	O
+되었으나	O
+,	O
+미국에서	B-LOC
+수입하여	O
+판매하는	O
+쪽으로	O
+확정되었다	O
+.	O
+
+수도	O
+산토도밍고에서	B-LOC
+서쪽으로	O
+230km	O
+정도	O
+떨어진	O
+곳에	O
+위치한다	O
+.	O
+
+보건소	O
+,	O
+송내주공	O
+,	O
+동두천터미널	O
+,	O
+덕정사거리	O
+,	O
+덕정역	B-ORG
+,	O
+덕정주공	O
+,	O
+고암동	O
+,	O
+TS3차	O
+,	O
+삼숭동자이입구	O
+,	O
+만송동	O
+
+조지프	B-PER
+T.	I-PER
+화이트	I-PER
+(	O
+1961-1985	O
+)	O
+
+그리고	O
+이것들은	O
+대체로	O
+하와이	B-LOC
+주에서	I-LOC
+아버지에게	O
+배웠다고	O
+한다	O
+.	O
+
+Love	O
+Mode	O
+/	O
+클래지콰이	B-ORG
+프로젝트	I-ORG
+feat	O
+.	O
+
+남동쪽으로는	O
+라이베리아와	B-LOC
+국경을	O
+접하고	O
+있고	O
+북서쪽으로는	O
+서부	B-LOC
+지구	I-LOC
+,	O
+북쪽으로는	O
+북부	B-LOC
+주	I-LOC
+,	O
+동쪽으로는	O
+동부	B-LOC
+주와	I-LOC
+접한다	O
+.	O
+
+'	O
+''	O
+이스파한	B-LOC
+''	O
+'	O
+
+영화의	O
+주연은	O
+크리스	B-PER
+헴스워스	I-PER
+,	O
+조시	B-PER
+펙	I-PER
+,	O
+조시	B-PER
+허처슨	I-PER
+,	O
+에이드리언	B-PER
+팰리키	I-PER
+,	O
+이저벨	B-PER
+루커스	I-PER
+,	O
+그리고	O
+제프리	B-PER
+딘	I-PER
+모건	I-PER
+등이	O
+맡았다	O
+.	O
+
+넘겨주기	O
+제7보병사단	B-ORG
+(	I-ORG
+미국	I-ORG
+)	I-ORG
+
+''	O
+Ride	O
+Out	O
+''	O
+(	O
+키드	B-PER
+잉크	I-PER
+,	O
+타이가	B-PER
+,	O
+왈레	B-PER
+,	O
+YG	B-PER
+,	O
+리치	B-PER
+호미	I-PER
+콴	I-PER
+)	O
+—	O
+3:32	O
+
+2006-07	B-LOC
+시즌	I-LOC
+프로모시온에서	I-LOC
+고도이크루스를	B-ORG
+종합	O
+5-2로	O
+꺾고	O
+프리메라	B-ORG
+디비시온으로	I-ORG
+승격했다	O
+.	O
+
+**	O
+칠곡군	B-LOC
+-	O
+구미시	B-LOC
+-	O
+군위군	B-LOC
+-	O
+구미시	B-LOC
+-	O
+군위군	B-LOC
+-	O
+의성군	B-LOC
+-	O
+안동시	B-LOC
+-	O
+예천군	B-LOC
+-	O
+영주시	B-LOC
+
+이후	O
+스튜디오는	O
+조시	B-PER
+개드와	I-PER
+마이클	B-PER
+세라	I-PER
+,	O
+댄	B-PER
+포글러가	I-PER
+'제이콥	O
+'	O
+역할로	O
+미팅을	O
+가졌으며	O
+,	O
+에즈라	B-PER
+밀러가	I-PER
+'크레단	O
+'	O
+역할에	O
+최종	O
+캐스팅	O
+된것을	O
+발표했다	O
+.	O
+
+첫번째	O
+흥행에서는	O
+커트	B-PER
+앵글과	I-PER
+레이	B-PER
+미스테리오가	I-PER
+10년만에	O
+맞대결을	O
+펼칠	O
+예정이다	O
+.	O
+
+파블로바	B-ORG
+(	O
+Pavlova	O
+)	O
+는	O
+안나	B-PER
+파블로바에서	I-PER
+이름이	O
+유래한	O
+후식의	B-ORG
+일종이다	O
+.	O
+
+다쓰고	B-LOC
+정	I-LOC
+(	O
+)	O
+
+제4차	B-ORG
+십자군	I-ORG
+당시	O
+콘스탄티노플은	O
+십자군에게	B-ORG
+약탈당했다	O
+.	O
+
+대표곡으로는	O
+미소라	B-PER
+히바리의	I-PER
+〈슬픈	O
+술〉	O
+(	O
+悲しい酒	O
+)	O
+등	O
+.	O
+
+당	B-LOC
+(	O
+唐	O
+)	O
+고종	B-PER
+(	O
+高宗	O
+)	O
+11년	O
+
+넘겨주기	O
+소통	B-PER
+(	I-PER
+양나라	I-PER
+)	I-PER
+
+*미국	O
+듀크	B-ORG
+(	I-ORG
+Duke	I-ORG
+)	I-ORG
+대학교	I-ORG
+Law	O
+School	O
+졸업	O
+(	O
+LL.M	O
+.	O
+
+애덤	B-PER
+이턴	I-PER
+(	O
+현재	O
+)	O
+
+쿵퉁	B-ORG
+구	I-ORG
+(	O
+崆峒区	O
+)	O
+
+가스야	B-LOC
+정	I-LOC
+(	O
+)	O
+
+스코틀랜드	B-LOC
+경계로부터	O
+약	O
+16km	O
+남쪽에	O
+위치해	O
+있다	O
+.	O
+
+현재	O
+북해함대에서	B-ORG
+B-380함	O
+한	O
+척만이	O
+운용되고	O
+있으나	O
+상세한	O
+사항은	O
+알려져	O
+있지	O
+않다	O
+.	O
+
+오카야마	B-LOC
+현	I-LOC
+중서부	O
+소자	B-ORG
+시	I-ORG
+출생이다	O
+.	O
+
+이	O
+구간을	O
+운행하는	O
+열차는	O
+모두	O
+아리타	B-ORG
+역	I-ORG
+운전으로	O
+,	O
+종일	O
+1시간에	O
+1	O
+-	O
+2개	O
+정도	O
+운행되고	O
+있다	O
+.	O
+
+역시	O
+경상남도	B-LOC
+경찰부장의	O
+제위를	O
+받았지만	O
+역시	O
+거절했다	O
+.	O
+
+블랙	B-ORG
+달리아	I-ORG
+머더	I-ORG
+
+TV	B-ORG
+오사카	I-ORG
+(	O
+TVO	O
+)	O
+(	O
+TV	B-ORG
+도쿄계열	I-ORG
+,	O
+오사카	B-LOC
+부만	I-LOC
+방송구역	O
+)	O
+
+가장	O
+주된	O
+부분은	O
+좌측	O
+상단에서	O
+(	O
+뜨겁고	O
+밝은	O
+)	O
+시작해서	O
+우측하단	O
+(	O
+차갑고	O
+어두운	O
+)	O
+으로	O
+이어지는	O
+주계열이라고	B-LOC
+불리는	O
+대각선부분이다	O
+.	O
+
+평택역	B-ORG
+(	O
+AK플라자	B-ORG
+평택점과	I-ORG
+CGV	B-ORG
+평택이	I-ORG
+위치해있다	O
+)	O
+
+흔하지	O
+않으며	O
+,	O
+특히	O
+뱀장어와	B-LOC
+비슷하지만	O
+,	O
+실제로는	O
+다른	O
+점이	O
+많다	O
+.	O
+
+넘겨주기	O
+프리드리히	B-ORG
+알렉산더	I-ORG
+대학교	I-ORG
+
+현재	O
+소속팀은	O
+프랑스	B-LOC
+리그	B-ORG
+1의	I-ORG
+팀인	O
+앙제이며	B-ORG
+,	O
+포지션은	O
+수비수이다	B-PER
+.	O
+
+본사는	O
+도쿄	B-LOC
+도	I-LOC
+미나토	B-LOC
+구	I-LOC
+아카사카에	B-LOC
+있다	O
+.	O
+
+부용리	O
+하개산	O
+근처에	O
+이장된	O
+묘역은	O
+후일	O
+경기도문화재자료	B-LOC
+제85호로	O
+지정되었다	O
+.	O
+
+MilkyWay로의	O
+작품에	O
+MilkyWay」를	B-ORG
+참조	O
+.	O
+
+이로인해	O
+조조는	O
+장막과	B-PER
+진궁등을	B-PER
+무리에	O
+합류시키게	O
+되었다	O
+.	O
+
+성왕이	B-PER
+죽자	O
+,	O
+대흠무의	O
+막내아들	O
+대숭린이	O
+왕위를	O
+계승했다	O
+.	O
+
+긴꼬리꼬마쥐	B-LOC
+(	O
+''Sicista	O
+caudata	O
+''	O
+)	O
+
+캄보디아에서는	B-LOC
+취학	O
+전	O
+학생부터	O
+대학생들까지	O
+모두	O
+교복을	O
+입는다	O
+.	O
+
+동양계	O
+배우로서는	O
+성룡	B-PER
+(	O
+Jackie	O
+Chan	O
+)	O
+다음으로	O
+높은	O
+개런티를	O
+받게된다	O
+.	O
+
+호시노	B-PER
+센이치	I-PER
+감독은	O
+애초에	O
+이라부를	O
+중간	O
+계투를	O
+맡기고	O
+싶었지만	O
+본인의	O
+희망에	O
+의해	O
+선발을	O
+맡았다	O
+.	O
+
+더글러스	B-PER
+맥아더	I-PER
+-	O
+7번	O
+수여받음	O
+
+뒤에	O
+투스에	O
+돌아와	O
+한때는	O
+니샤푸르의	B-LOC
+학원에서	O
+교수로	O
+있었으나	O
+,	O
+또다시	O
+고향으로	O
+은퇴하여	O
+세상을	O
+떠났다	O
+.	O
+
+이후	O
+남은	O
+멤버들은	O
+뉴	B-ORG
+오더를	I-ORG
+결성한다	O
+.	O
+
+그는	O
+프리미어리그에서	B-ORG
+활약하고	O
+싶다는	O
+의사를	O
+나타내었고	O
+,	O
+스타드	B-ORG
+렌	I-ORG
+FC와	I-ORG
+계약하기	O
+전	O
+뉴캐슬	B-ORG
+유나이티드	I-ORG
+FC와	I-ORG
+접근한	O
+적이	O
+있었다	O
+.	O
+
+일본	B-LOC
+/	O
+유럽	B-LOC
+사양은	O
+7세대의	O
+디자인을	O
+전반적으로	O
+계승했다	O
+.	O
+
+***	O
+긴발톱멧새과	B-LOC
+(	O
+Calcariidae	O
+)	O
+
+카도카와	B-ORG
+쇼텐의	I-ORG
+월간	B-ORG
+콤프	I-ORG
+에이스〉2009년	I-ORG
+11월호부터	O
+연재중의	O
+4컷만화이다	O
+.	O
+
+치클러는	O
+독일	B-ORG
+축구	I-ORG
+국가대표팀	I-ORG
+소속으로	O
+12경기	O
+출장하였다	O
+.	O
+
+넘겨주기	O
+모릴	B-ORG
+토지	I-ORG
+허여	I-ORG
+법안	I-ORG
+
+쿠바	B-LOC
+(	O
+1511-1899	O
+)	O
+
+''	O
+'이쿠미	O
+''	O
+'	O
+-	O
+이토	B-PER
+아유미	I-PER
+
+그는	O
+두달	O
+후	O
+,	O
+2-0으로	O
+이긴	O
+파니오니오스와의	B-ORG
+홈경기에서	O
+한골을	O
+추가하였다	O
+.	O
+
+YB]]	O
+,	O
+2AM	B-ORG
+,	O
+에일리	B-PER
+
+'	O
+''	O
+양흥	B-PER
+''	O
+'	O
+
+현재	O
+,	O
+제12기	O
+전국인민대표대회	B-ORG
+상무위원회	I-ORG
+부위원장	O
+겸	O
+비서장이다	O
+.	O
+
+히타치	B-LOC
+시	I-LOC
+(	O
+이바라키	B-LOC
+현	I-LOC
+)	O
+
+당나라	B-LOC
+때는	O
+안서대도호부	O
+(	O
+安西大都护府	O
+)	O
+의	O
+지배를	O
+받았다	O
+.	O
+
+대표적인	O
+나라로	O
+노르웨이	B-LOC
+,	O
+스웨덴	B-LOC
+,	O
+핀란드	B-LOC
+,	O
+러시아가	B-LOC
+있다	O
+.	O
+
+**	O
+도쿄	B-LOC
+도	I-LOC
+(	O
+대사관	O
+)	O
+,	O
+후쿠오카	B-LOC
+시	I-LOC
+(	O
+총영사관	O
+)	O
+,	O
+나가사키	B-LOC
+시	I-LOC
+(	O
+총영사관	O
+)	O
+,	O
+나고야	B-LOC
+시	I-LOC
+(	O
+총영사관	O
+)	O
+,	O
+니가타	B-LOC
+시	I-LOC
+(	O
+총영사관	O
+)	O
+,	O
+오사카	B-LOC
+시	I-LOC
+(	O
+총영사관	O
+)	O
+,	O
+삿포로	B-LOC
+시	I-LOC
+(	O
+총영사관	O
+)	O
+
+명탐정	B-ORG
+코난	I-ORG
+극장판	I-ORG
+18기	I-ORG
+-	I-ORG
+이차원의	I-ORG
+저격수	I-ORG
+(	O
+투니버스	B-ORG
+)	O
+-	O
+신형선	O
+형사	O
+
+십자군	B-ORG
+원정을	O
+호소하였으나	O
+대다수의	O
+국가들이	O
+호응하지	O
+않았다	O
+.	O
+
+넘겨주기	O
+유엔	B-ORG
+수단	I-ORG
+임무단	I-ORG
+
+릿쇼	B-ORG
+대학	I-ORG
+(	O
+立正大学	O
+/	O
+りっしょうだいがく	O
+)	O
+
+**	O
+하스돔과	B-LOC
+(	O
+Haemulidae	O
+)	O
+
+튀니스와	B-LOC
+다마스쿠스에서도	B-LOC
+비슷한	O
+관습은	O
+널리	O
+적용됐다	O
+.	O
+
+맷	B-PER
+데이먼	I-PER
+-	O
+빌헬름	B-PER
+그림	I-PER
+역	O
+
+'	O
+''	O
+세비야	B-LOC
+주	I-LOC
+''	O
+'	O
+
+'	O
+''	O
+Start	B-ORG
+in	I-ORG
+my	I-ORG
+life	I-ORG
+''	O
+'	O
+
+현재	O
+게이힌	B-ORG
+급행	I-ORG
+전철	I-ORG
+본선의	I-ORG
+일부임	O
+.	O
+
+이	O
+경우	O
+통계	O
+기법으로	O
+카이제곱	B-ORG
+검정	I-ORG
+등의	O
+방법을	O
+사용한다	O
+.	O
+
+찌르레기의	B-LOC
+모습을	O
+했다.울음소리가	O
+매우	O
+시끄럽다.한	O
+마리로	O
+지내지	O
+않고	O
+떼를	O
+지어	O
+활동한다	O
+.	O
+
+앨범	O
+제작	O
+당시	O
+Postino는	O
+영국에서	B-LOC
+유학	O
+중이어서	O
+온라인으로	O
+작업이	O
+이루어졌다	O
+.	O
+
+모스크바에서	B-LOC
+출생해	O
+오데사에서	B-LOC
+어린	O
+시절을	O
+보냈다	O
+.	O
+
+멜버른	B-LOC
+,	O
+브리즈번	B-LOC
+,	O
+애들레이드	B-LOC
+,	O
+퍼스에	B-LOC
+지역	O
+사무소가	O
+있다	O
+.	O
+
+크리스토퍼	B-PER
+요스트	I-PER
+,	O
+크리스토퍼	B-PER
+마커스	I-PER
+&	I-PER
+스티븐	I-PER
+맥필리	I-PER
+
+'	O
+''	O
+형나라	O
+''	O
+'	O
+(	O
+邢國	O
+)	O
+는	O
+주나라	B-LOC
+때	O
+제후국이다	O
+.	O
+
+공자세가	O
+(	O
+孔子世家	O
+)	O
+-	O
+공자	B-PER
+
+베트남은	O
+파라셀	B-LOC
+제도와	I-LOC
+스프래틀리	B-LOC
+군도의	I-LOC
+영유권을	O
+주장하고	O
+있다	O
+.	O
+
+4512	O
+45	O
+-	O
+삼성카드	B-ORG
+(	O
+체크	O
+)	O
+
+이브라히모비치는	O
+로리앙과의	B-ORG
+리그	B-LOC
+1	I-LOC
+2012-13	I-LOC
+개막전에서	O
+2-0으로	O
+뒤지고	O
+있는	O
+후반전에	O
+2골을	O
+득점하며	O
+2-2로	O
+패배에서	O
+팀을	O
+구제하였다	O
+.	O
+
+한양대학교	B-ORG
+대학원	O
+연극학	O
+석사	O
+
+수	B-PER
+양제	I-PER
+(	O
+煬帝	O
+)	O
+
+영국은	O
+자국의	O
+힘을	O
+과시하기	O
+위해	O
+수정궁을	B-ORG
+지었다	O
+.	O
+
+서	O
+취리히	B-LOC
+(	O
+스위스	B-LOC
+)	O
+유학을	O
+갔다	O
+.	O
+
+넘겨주기	O
+유니버시티	B-ORG
+오브	I-ORG
+피닉스	I-ORG
+스타디움	I-ORG
+
+호남고속도로	B-ORG
+(	O
+29번	O
+)	O
+
+TVQ	B-ORG
+규슈	I-ORG
+방송	I-ORG
+
+셜록	B-PER
+홈즈는	I-PER
+숫자가	O
+나열된	O
+암호문을	O
+받고	O
+그것을	O
+해독한다	O
+.	O
+
+레탈룰레우	B-LOC
+주	I-LOC
+(	O
+Retalhuleu	O
+)	O
+
+도고	B-PER
+시게노리	I-PER
+(	O
+20년	O
+)	O
+
+건물	O
+내에	O
+'	O
+''	O
+롯데시네마	B-ORG
+''	O
+'가	O
+입점해있으며	O
+인근에	O
+'	O
+''	O
+롯데마트	B-ORG
+''	O
+'	O
+가	O
+위치하고	O
+있다	O
+.	O
+
+'	O
+''	O
+니오카	B-PER
+도모히로	I-PER
+''	O
+'	O
+
+넘겨주기	O
+아미	B-PER
+컴뱃	I-PER
+유니폼	I-PER
+
+당시	O
+역이름은	O
+아오모리	B-LOC
+현	I-LOC
+아오모리	B-LOC
+시의	I-LOC
+쓰바키	B-LOC
+역	I-LOC
+(	O
+고노	B-ORG
+선·	I-ORG
+)	O
+과	O
+구분하기	O
+위해	O
+기이쓰바키	O
+역으로	O
+정해졌다	O
+.	O
+
+'	O
+''	O
+환부거부	O
+''	O
+'	O
+(	O
+還付拒否	O
+)	O
+는	O
+대한민국	B-LOC
+국회에서	B-ORG
+의결되어	O
+정부에	O
+이송되어	O
+온	O
+법률안에	O
+대하여	O
+이의가	O
+있을	O
+때에	O
+대통령이	B-ORG
+지정된	O
+기일	O
+안에	O
+이의서를	O
+붙여	O
+국회로	O
+환부하고	O
+재의를	O
+요구하는	O
+방식을	O
+말한다	O
+.	O
+
+(	O
+3	O
+)	O
+유명한	O
+이름이	O
+아닌	O
+한	O
+국제천문연맹에서	B-ORG
+지명한	O
+이름을	O
+사용함	O
+.	O
+
+송화군	B-LOC
+(	O
+松禾郡	O
+)	O
+
+2007-08	B-LOC
+시즌에는	I-LOC
+2위로	O
+마감하였다	O
+.	O
+
+동방신기가	B-ORG
+음란하다	O
+-	O
+유해와	O
+불온의	O
+기준은	O
+
+**	O
+라인	B-LOC
+동맹	I-LOC
+(	O
+1806–1813	O
+)	O
+
+조조는	O
+부하	O
+조인	B-PER
+,	O
+악진	B-PER
+,	O
+이전	O
+등과	O
+군사를	O
+수습했으나	O
+1만	O
+명의	O
+군사들	O
+중	O
+500명만	O
+살아남았을	O
+뿐이었다	O
+.	O
+
+타이베이	B-ORG
+첩운	I-ORG
+홍선	B-ORG
+,	O
+남선	B-ORG
+
+정명훈	B-PER
+(	O
+2001-	O
+)	O
+
+코구레	B-PER
+에마	I-PER
+(	O
+마량선배	O
+)	O
+
+얼스터	B-ORG
+의용군	I-ORG
+(	O
+UVF	O
+)	O
+
+''	O
+'4	O
+''	O
+'	O
+벨레스	B-ORG
+사르스필드	I-ORG
+
+넘겨주기	O
+루키우스	B-PER
+카이킬리우스	I-PER
+피르미아누스	I-PER
+락탄티우스	I-PER
+
+《	O
+''	O
+Copy	B-ORG
+&	I-ORG
+Paste	I-ORG
+''	O
+'》	O
+
+또	O
+,	O
+DVD	O
+없이	O
+CD반으로만	O
+발매되었으며	O
+,	O
+CD반의	O
+부가	O
+영상으로	O
+앨범	O
+THE	B-ORG
+FACE》의	I-ORG
+요약	O
+영상이	O
+수록되어	O
+있다	O
+.	O
+
+넘겨주기	O
+파틱	B-ORG
+시슬	I-ORG
+FC	I-ORG
+
+가장	O
+가까운	O
+섬은	O
+동쪽으로	O
+300	O
+km	O
+정도	O
+떨어져	O
+있는	O
+키리바시의	B-LOC
+바나바	B-LOC
+섬이다	I-LOC
+.	O
+
+히다카가와	B-LOC
+정	I-LOC
+(	O
+)	O
+
+***	O
+'	O
+''	O
+로리스하목	B-LOC
+''	O
+'	O
+(	O
+Lorisiformes	O
+)	O
+
+'	O
+''	O
+교황	B-PER
+인노첸시오	I-PER
+8세	I-PER
+''	O
+'	O
+
+Arrogant	O
+)	O
+는	O
+대한민국의	B-LOC
+영화이다	O
+.	O
+
+미야기	B-LOC
+현	I-LOC
+도다	B-LOC
+군	I-LOC
+와쿠야	B-LOC
+정	I-LOC
+출신이다	O
+.	O
+
+발해	B-LOC
+(	O
+渤海	O
+)	O
+선왕	B-PER
+(	O
+宣王	O
+)	O
+9년	O
+
+위	B-LOC
+(	O
+魏	O
+)	O
+소제	B-PER
+(	O
+少帝	O
+)	O
+14년	O
+
+'	O
+''	O
+손건	B-PER
+''	O
+'	O
+
+**	O
+레스터	B-ORG
+타이거스	I-ORG
+정규시즌	O
+우승	O
+
+중화	B-ORG
+타이베이	I-ORG
+'	O
+''	O
+개최국	O
+''	O
+'	O
+.	O
+
+(	O
+1단계	O
+,	O
+판암	B-ORG
+~	O
+정부청사	B-ORG
+구간	O
+)	O
+
+'	O
+''	O
+수하일	O
+''	O
+'	O
+(	O
+suhail	O
+)	O
+은	O
+아랍어로	B-ORG
+'잘생긴	O
+,	O
+똑똑한	O
+,	O
+명철한	O
+,	O
+영광스러운	O
+,	O
+낙천적인	O
+,	O
+아름다운'의	O
+뜻을	O
+지닌	O
+말이다	O
+.	O
+
+쿠라라는	O
+명칭은	O
+러시아의	B-LOC
+지리학자들이	O
+최초로	O
+차용했고	O
+후에	O
+유럽	B-LOC
+학계에	O
+받아들여	O
+졌다고	O
+한다	O
+.	O
+
+마카리오스	B-PER
+3세	I-PER
+(	O
+복귀	O
+)	O
+
+바로]]	O
+,	O
+정일우	B-PER
+,	O
+지상렬	B-PER
+,	O
+리지	B-PER
+,	O
+장윤주	B-PER
+,	O
+박신혜	B-PER
+,	O
+공효진	B-PER
+(	O
+전화통화	O
+)	O
+
+그는	O
+마리아	B-PER
+표도로브나와의	I-PER
+사이에서	O
+4남	O
+6녀를	O
+두었다	O
+.	O
+
+신다운	B-PER
+경기도	B-LOC
+(	O
+서현고	O
+)	O
+
+넘겨주기	O
+국회의사당	B-LOC
+(	I-LOC
+일본	I-LOC
+)	I-LOC
+
+딕	B-PER
+아드보카트가	I-PER
+대한민국	B-ORG
+축구	I-ORG
+국가대표팀	I-ORG
+감독이	O
+되었을	O
+때	O
+코치로	O
+발탁되었다	O
+.	O
+
+영업	O
+지역의	O
+많은	O
+부분이	O
+공통된	O
+도메이	B-ORG
+고속도로와	I-ORG
+병행되는	O
+도카이도	B-ORG
+신칸센을	I-ORG
+관리하는	O
+도카이	B-ORG
+여객철도와	I-ORG
+동일한	O
+색이다	O
+.	O
+
+포항시	B-LOC
+-	O
+영천시	B-LOC
+-	O
+경산시	B-LOC
+-	O
+대구광역시	B-LOC
+
+====	O
+비젠	B-LOC
+국	I-LOC
+(	O
+)	O
+====	O
+
+모래시계	B-ORG
+(	I-ORG
+드라마	I-ORG
+)	I-ORG
+
+정규	O
+3집	O
+``	O
+Chapter	B-ORG
+1.	I-ORG
+Dream	I-ORG
+Girl	I-ORG
+–	I-ORG
+The	I-ORG
+Misconceptions	I-ORG
+of	I-ORG
+You	I-ORG
+''	O
+
+넘겨주기	O
+샤위	B-PER
+(	I-PER
+홍콩의	I-PER
+배우	I-PER
+)	I-PER
+
+에티오피아	B-LOC
+,	O
+지부티	B-LOC
+,	O
+케냐와	B-LOC
+접해	O
+있고	O
+,	O
+북쪽과	O
+동쪽은	O
+인도양에	B-LOC
+접해	O
+있다	O
+.	O
+
+리투아니아	B-LOC
+소비에트	I-LOC
+사회주의	I-LOC
+공화국	I-LOC
+
+내일도	B-ORG
+칸타빌레	I-ORG
+,	O
+참	B-ORG
+좋은	I-ORG
+시절	I-ORG
+
+)	O
+는	O
+가야국	B-LOC
+금관가야의	B-LOC
+왕자이자	O
+왕족이다	O
+.	O
+
+신민당	B-ORG
+김영삼	B-PER
+총재는	O
+외유	O
+중이어서	O
+조화를	O
+보냈다	O
+.	O
+
+길미는	O
+대구광역시에서	B-LOC
+1남	O
+1녀	O
+중	O
+첫째로	O
+태어났다	O
+.	O
+
+탈락된	O
+팀들	O
+가운데	O
+첫	O
+번째로	O
+승점	O
+,	O
+두	O
+번째로	O
+골득실	O
+,	O
+마지막으로	O
+다득점을	O
+비교	O
+,	O
+1위를	O
+결정하여	O
+그	O
+팀이	O
+2라운드에	O
+진출하도록	O
+하였는데	O
+,	O
+그	O
+행운은	O
+유일하게	O
+1무	O
+1패를	O
+기록한	O
+라오스의	B-ORG
+차지가	O
+되었다	O
+.	O
+
+패키지의	O
+일러스트와	O
+《결전	O
+컴플리트	O
+가이드》의	O
+설정화의	O
+도쿠가와	B-PER
+이에야스가	I-PER
+흡사한	O
+것이	O
+그	O
+이유이다	O
+.	O
+
+스위스	B-LOC
+그라우뷘덴	B-LOC
+주	I-LOC
+다보스에서	B-LOC
+나흘	O
+간	O
+세계	B-ORG
+경제	I-ORG
+포럼이	I-ORG
+개최되다	O
+.	O
+
+북동쪽으로	O
+자성군	B-LOC
+,	O
+동쪽으로	O
+장강군	B-LOC
+,	O
+남쪽으로	O
+시중군	B-LOC
+,	O
+서남쪽으로	O
+위원군이	B-LOC
+있다	O
+.	O
+
+*나기는	O
+칸나기》의	B-ORG
+등장	O
+인물이다	O
+.	O
+
+이수근	B-PER
+(	O
+26	O
+,	O
+27회	O
+)	O
+
+아라카와	B-LOC
+강의	I-LOC
+중류	O
+,	O
+나가토로	B-LOC
+정의	I-LOC
+바로	O
+하류에	O
+위치하고	O
+좌안에	O
+시가지가	O
+발달해있다	O
+.	O
+
+산티시모	B-ORG
+레덴토레	I-ORG
+교회	I-ORG
+(	I-ORG
+베네치아	I-ORG
+)	I-ORG
+
+요시노	B-LOC
+강의	I-LOC
+하류	O
+남안에	O
+위치하고	O
+있다	O
+.	O
+
+'	O
+''	O
+로빈	B-PER
+데이아나	I-PER
+''	O
+'	O
+Robin	O
+Deiana	O
+
+Ring	B-ORG
+Ring	B-ORG
+(	I-ORG
+노래	I-ORG
+)	I-ORG
+
+넘겨주기	O
+데스	B-ORG
+로	I-ORG
+레코드	I-ORG
+
+바베이도스	B-LOC
+(	O
+1624-1966	O
+)	O
+
+하비에르	B-PER
+사네티	I-PER
+(	O
+1993-1995	O
+)	O
+
+괴팅겐	B-ORG
+대학교에서	I-ORG
+교수생활을	O
+하였고	O
+여러	O
+저서를	O
+출판했다	O
+.	O
+
+현재는	O
+아마미	B-LOC
+제도만으로	I-LOC
+이루어져	O
+있다	O
+.	O
+
+5세기말~6세기초	O
+달구벌이	O
+신라에	B-ORG
+병합되어	O
+'	O
+''	O
+달구화현	O
+''	O
+'	O
+(	O
+達句火縣	O
+,	O
+達弗城	O
+)	O
+이라	O
+칭하였다	O
+.	O
+
+산토멘나	B-LOC
+(	O
+Santomenna	O
+)	O
+
+다른	O
+역사가들과	O
+고고학자들은	O
+베레그라가	O
+이곳보다	O
+좀더	O
+북쪽에	O
+있는	O
+도시이기에	O
+,	O
+그곳이	O
+이	O
+근처	O
+도시인	O
+치비텔라델트론토인것으로	B-LOC
+믿고	O
+있다	O
+.	O
+
+현재	O
+한화	B-ORG
+이글스의	I-ORG
+송진우의	B-PER
+다음으로	O
+개인	O
+통산	O
+패전에서	O
+2위를	O
+기록하고	O
+있다	O
+.	O
+
+10·26	B-PER
+사건	I-PER
+당시	O
+김재규와	B-PER
+함께	O
+박정희를	B-PER
+살해하는	O
+데	O
+중요한	O
+역할을	O
+하여	O
+사형에	O
+처해진	O
+인물이다	O
+.	O
+
+행정구역상으로는	O
+함경북도	B-LOC
+온성군에	B-LOC
+속해	O
+있다	O
+.	O
+
+이	O
+논문은	O
+사이언스의	B-ORG
+표지를	O
+장식했으나	O
+조작으로	O
+밝혀짐	O
+.	O
+
+보산역	B-ORG
+,	O
+남산모루	O
+,	O
+상패동	O
+,	O
+봉암리	O
+,	O
+매곡리	O
+
+뮤직	B-PER
+스테이션	I-PER
+CD랭킹	O
+9위를	O
+기록하였다	O
+
+이곳의	O
+주요	O
+시설물들은	O
+건국대학교	B-ORG
+건축공학과의	O
+강병근	O
+교수가	O
+설계하고	O
+감리	O
+,	O
+감독하였다	O
+.	O
+
+미들섹스	B-LOC
+주에	I-LOC
+속하며	O
+서쪽으로는	O
+세인트엘리자베스	B-ORG
+교구	I-ORG
+,	O
+동쪽으로는	O
+클래런던	B-LOC
+교구	I-LOC
+,	O
+북쪽으로는	O
+트렐로니	B-LOC
+교구와	I-LOC
+접한다	O
+.	O
+
+마메조	O
+부인	O
+-	O
+니시다	B-PER
+나오미	I-PER
+
+**	O
+시우다드후아레스	B-LOC
+(	O
+총영사관	O
+)	O
+
+한편	O
+,	O
+본	O
+기체는	O
+일본에	B-LOC
+매각되어	O
+나카지마	B-PER
+G5N	I-PER
+신잔을	I-PER
+설계하는	O
+것에	O
+활용되었다	O
+.	O
+
+지냐크는	O
+이후	O
+,	O
+1000	O
+km	O
+이상	O
+떨어진	O
+브르타뉴	B-LOC
+지역의	O
+FC	B-ORG
+로리앙	I-ORG
+유소년팀에	O
+합류하였다	O
+.	O
+
+이시카와	B-PER
+사유리	I-PER
+(	O
+34	O
+)	O
+
+김영삼이	B-PER
+현역에서	O
+은퇴한	O
+뒤	O
+정치권에서의	O
+역할도	O
+일부	O
+축소되었다	O
+.	O
+
+***	O
+타이바땃쥐텐렉	B-LOC
+(	O
+''Microgale	O
+taiva	O
+''	O
+)	O
+
+북아메리카에서는	B-LOC
+되강오리	O
+(	O
+loon	O
+)	O
+라고	O
+부른다	O
+.	O
+
+단	O
+장교나	B-PER
+부사관으로는	B-ORG
+입대	O
+가능하다	O
+.	O
+
+인천역	B-ORG
+,	O
+동인천역	B-ORG
+,	O
+석바위	O
+,	O
+간석5	O
+
+2006년	B-ORG
+FIFA	I-ORG
+월드컵	I-ORG
+당시에는	O
+현대화를	O
+거쳤다	O
+.	O
+
+지진희	B-PER
+-	O
+한태석	O
+역	O
+
+시모세가	O
+태어난	O
+히로시마	B-LOC
+현	I-LOC
+히로시마	B-LOC
+시	I-LOC
+텟포오마치	O
+(	O
+鉄砲町	O
+)	O
+는	O
+현재도	O
+히로시마	B-LOC
+시	I-LOC
+중심부에	O
+위치해	O
+있으며	O
+,	O
+그	O
+이름	O
+그대로	O
+에도	B-ORG
+시대부터	I-ORG
+총포	O
+장인이	O
+모여	O
+살던	O
+마을이었다	O
+.	O
+
+테살로니키는	O
+파나티나이코스의	B-ORG
+가장	O
+활발히	O
+활동하는	O
+서포터	O
+클럽이다	O
+.	O
+
+바레인	B-LOC
+,	O
+케이맨	B-LOC
+제도	I-LOC
+,	O
+홍콩	B-LOC
+,	O
+일본	B-LOC
+,	O
+말레이시아	B-LOC
+,	O
+싱가포르	B-LOC
+,	O
+우루과이	B-LOC
+,	O
+미국	B-LOC
+
+미국	B-ORG
+연합	I-ORG
+그리스도의	I-ORG
+교회	I-ORG
+(	O
+United	O
+Church	O
+of	O
+Christ	O
+)	O
+
+'	O
+''	O
+손휴	B-PER
+''	O
+'	O
+자열	O
+
+``	O
+What	B-ORG
+a	I-ORG
+Feeling	I-ORG
+''	O
+
+사막혹멧돼지	B-LOC
+(	O
+''P	O
+.	O
+
+이하는	O
+AKB48의	B-ORG
+본문에	O
+명기되지	O
+않은	O
+모든	O
+수상	O
+기록이다	O
+.	O
+
+충청남도	B-LOC
+천안시	B-LOC
+동남구	B-ORG
+수련원길	O
+10	O
+(	O
+유량동	O
+36	O
+)	O
+에	O
+위치하고	O
+있다	O
+.	O
+
+1997년도에	O
+데뷔하여	O
+어네스트	B-PER
+후스트와	I-PER
+맞붙지만	O
+패하고	O
+만다	O
+.	O
+
+넘겨주기	O
+윌리엄	B-PER
+테쿰세	I-PER
+셔먼	I-PER
+
+김명곤	B-PER
+(	O
+1997.3	O
+~	O
+1998.1	O
+)	O
+
+'	O
+''	O
+에드윈	B-PER
+자비스	I-PER
+''	O
+'	O
+(	O
+)	O
+는	O
+마블	B-ORG
+코믹스의	I-ORG
+등장인물로	O
+,	O
+어벤저스	B-PER
+,	O
+아이언맨	B-PER
+,	O
+스파이더맨에	B-PER
+등장한다	O
+.	O
+
+넘겨주기	O
+아이언브리지	B-ORG
+협곡	I-ORG
+박물관	I-ORG
+트러스트	I-ORG
+
+미야자키	B-LOC
+현	I-LOC
+고유	B-LOC
+군	I-LOC
+다카나베	B-LOC
+정	I-LOC
+
+****	O
+샛비늘치목	B-LOC
+(	O
+Myctophiformes	O
+)	O
+
+서하	B-LOC
+(	O
+西夏	O
+)	O
+숭종	B-PER
+(	O
+崇宗	O
+)	O
+25년	O
+
+'	O
+''	O
+헌	O
+''	O
+'은	O
+시호에	B-PER
+쓰이는	O
+글자다	O
+.	O
+
+결승전은	O
+러시아의	B-LOC
+제니트	B-ORG
+상트페테르부르크와	I-ORG
+스코틀랜드의	B-LOC
+레인저스	B-ORG
+간에	O
+열렸다	O
+.	O
+
+육도류를	O
+쓰며	O
+롤로노아	B-PER
+조로에게	I-PER
+패했다	O
+.	O
+
+'	O
+''	O
+에가와	B-PER
+스구루	I-PER
+''	O
+'	O
+
+트레이	B-PER
+송즈	I-PER
+&	O
+릴	B-PER
+웨인	I-PER
+)	O
+
+괭이갈매기	B-ORG
+울	I-ORG
+적에	I-ORG
+-	O
+우시로미야	O
+일족	O
+(	O
+右代宮一族	O
+)	O
+
+1996	O
+양준혁	B-PER
+-	O
+0.346	O
+
+즉	O
+전반적으로	O
+정적	O
+(	O
+靜的	O
+)	O
+스타일의	O
+작전을	O
+사용한	O
+것으로	O
+보이며	O
+임기응변의	O
+군략이	O
+장기가	O
+아니었다는	O
+진수의	B-PER
+평은	O
+상당한	O
+설득력을	O
+가진다	O
+.	O
+
+'	O
+''	O
+줄리	B-PER
+델피	I-PER
+''	O
+'	O
+
+조선	B-LOC
+(	O
+朝鮮	O
+)	O
+인조	B-PER
+(	O
+仁祖	O
+)	O
+13년	O
+
+실제	O
+통치는	O
+초	B-PER
+평왕이	I-PER
+채나라를되돌려	O
+준	O
+기원전	B-ORG
+529년부터	I-ORG
+.	O
+
+넘겨주기	O
+뉴욕	B-ORG
+타임스	I-ORG
+빌딩	I-ORG
+
+2011-2012	O
+시즌	O
+후	O
+아산	B-ORG
+우리은행	I-ORG
+위비의	I-ORG
+감독으로	O
+선임되었다	O
+.	O
+
+프랑스령	B-LOC
+폴리네시아	I-LOC
+(	O
+''Polynésie	O
+française	O
+''	O
+)	O
+
+소대	O
+군기를	O
+책임하는	O
+실세	O
+,	O
+단군	B-PER
+이래	O
+최고의	O
+싸이코라	O
+불리는	O
+인간	O
+흉기	O
+.	O
+
+북캅카스	B-LOC
+연방관구	I-LOC
+(	O
+퍄티고르스크	B-LOC
+)	O
+
+피아로써는	B-ORG
+처음	O
+시도하는	O
+경쾌하고	O
+스피디한	O
+곡	O
+.	O
+
+이재록	B-PER
+목사	O
+-	O
+목사님	O
+,	O
+우리	O
+목사님	O
+!	O
+》	O
+
+우쓰노미야	B-LOC
+시	I-LOC
+(	O
+)	O
+-	O
+현청	O
+소재지	O
+
+중심있는	B-ORG
+구각수	I-ORG
+1,10,28,55,91	O
+,	O
+...	O
+(	O
+)	O
+
+경성대·부경대역	B-ORG
+(	O
+부산광역시	B-LOC
+남구	B-LOC
+수영로	O
+지하324	O
+)	O
+
+**	O
+타이얼좡	B-LOC
+구	I-LOC
+(	O
+台児庄区	O
+)	O
+
+현대	B-ORG
+유니콘스의	I-ORG
+전신팀들을	O
+포함해서	O
+현대에는	O
+타	O
+팀에	O
+비해	O
+유난히	O
+많은	O
+트레이드가	O
+있어왔다	O
+.	O
+
+''	O
+'9	O
+''	O
+'	O
+CA	B-ORG
+라누스	I-ORG
+
+누마즈	B-LOC
+시	I-LOC
+(	O
+)	O
+
+나폴리로부터	B-LOC
+북동쪽	O
+45km	O
+베네벤토	B-LOC
+남서쪽	O
+15km	O
+거리에	O
+있다	O
+.	O
+
+제천역	B-ORG
+인근에서	O
+만난	O
+한	O
+택시기사는	O
+“사건이	O
+발생한	O
+뒤	O
+야간에	O
+택시를	O
+이용하던	O
+손님들이	O
+눈에	O
+띄게	O
+줄었다”며	O
+“당장	O
+장사가	O
+잘되지	O
+않는	O
+것도	O
+문제지만	O
+빨리	O
+안정을	O
+되찾고	O
+잠잠해져야	O
+하는데	O
+지금으로선	O
+며칠이	O
+걸릴지도	O
+모르는	O
+상황이어서	O
+답답할	O
+뿐이다”고	O
+심경을	O
+밝혔다	O
+.	O
+
+전	O
+앨범	O
+5	B-ORG
+AHEAD》	I-ORG
+발매	O
+이후	O
+1년	O
+2개월만의	O
+발매	O
+된	O
+정규	O
+앨범	O
+.	O
+
+개최	O
+모체는	O
+영국	B-ORG
+영화	I-ORG
+협회로	I-ORG
+,	O
+최근에는	O
+타임스도	B-ORG
+후원하고	O
+있다	O
+.	O
+
+학문이	O
+뛰어나서	O
+칭기즈	B-PER
+칸이	I-PER
+아낀	O
+인물이다	O
+.	O
+
+나루토	B-ORG
+(	O
+투니버스	B-ORG
+)	O
+-	O
+원후왕	O
+엔마	O
+
+처음으로	O
+유명론을	O
+주장한	O
+사람은	O
+로스켈리누스였다	B-PER
+.	O
+
+더럼에	B-LOC
+있는	O
+듀크	B-ORG
+대학교는	I-ORG
+의학과	O
+다른	O
+분야들에	O
+연구의	O
+지도적인	O
+중심지이다	O
+.	O
+
+그는	O
+파라과이와의	B-ORG
+첫	O
+경기에서	O
+후반	O
+18분에	O
+동점골을	O
+넣었고	O
+,	O
+이탈리아는	O
+1대	O
+1	O
+무승부를	O
+거뒀다	O
+.	O
+
+스포츠	B-ORG
+경기장	I-ORG
+종합	I-ORG
+단지	I-ORG
+인근에는	O
+한밭종합운동장	B-ORG
+야구장이	I-ORG
+있다	O
+.	O
+
+이와	O
+같은	O
+현상은	O
+구체적으로는	O
+영국의	B-LOC
+산업혁명에서	O
+찾아볼	O
+수	O
+있다	O
+.	O
+
+'	O
+''	O
+리가	B-ORG
+아소발	I-ORG
+우승	O
+5회	O
+''	O
+'	O
+
+2001-02년	O
+AC	B-ORG
+밀란으로	I-ORG
+이적하나	O
+,	O
+무릎	O
+부상으로	O
+인해	O
+시즌의	O
+절반	O
+동안	O
+뛰지	O
+못하였다	O
+.	O
+
+고려	B-ORG
+(	O
+高麗	O
+)	O
+충정왕	B-PER
+(	O
+忠定王	O
+)	O
+2년	O
+
+B1A4의	B-ORG
+앨범	O
+Who	B-ORG
+Am	I-ORG
+I는	I-ORG
+총	O
+몇	O
+페이지	O
+?	O
+
+'	O
+''	O
+미셸	B-PER
+플라티니	I-PER
+''	O
+'	O
+(	O
+3	O
+)	O
+
+안드레아	B-PER
+콘실리	I-PER
+니콜라	B-PER
+산소네	I-PER
+(	O
+28	O
+)	O
+
+마이클	B-PER
+조던	I-PER
+(	O
+시카고	B-ORG
+불스	I-ORG
+)	O
+
+인천	B-LOC
+차이나타운	I-LOC
+일대와	O
+전통	O
+시장에서	O
+공갈빵을	O
+판매하는	O
+곳이	O
+있다	O
+.	O
+
+넘겨주기	O
+링	B-ORG
+오브	I-ORG
+아너	I-ORG
+레슬링	I-ORG
+
+북한산	B-LOC
+둘레길은	O
+제주도	B-ORG
+올레길과	B-ORG
+지리산	B-LOC
+둘레길에	O
+이어	O
+명품	O
+걷기	O
+코스로	O
+사랑을	O
+받고	O
+있다	O
+.	O
+
+이번에	O
+멕시코와	B-LOC
+오스트레일리아에서는	B-LOC
+첫	O
+공연이다	O
+.	O
+
+왼손을	B-ORG
+위한	I-ORG
+피아노	I-ORG
+협주곡	I-ORG
+(	O
+1929~1930	O
+)	O
+
+헨리	B-PER
+이덕만회장	O
+살인사건편	O
+(	O
+1~2회	O
+)	O
+,	O
+고교미술실	O
+살인사건편	O
+(	O
+3~4회	O
+)	O
+
+고려시대에도	B-ORG
+두	O
+명의	O
+정실	O
+부인	O
+외에	O
+첩을	O
+두고	O
+서자가	O
+있었다	O
+.	O
+
+'	O
+''	O
+신동리	O
+''	O
+'는	O
+다음	O
+지역에	O
+위치한	O
+조선민주주의인민공화국의	B-LOC
+리이다	B-LOC
+.	O
+
+;	O
+성우	O
+-	O
+카도와키	B-PER
+마이	I-PER
+
+대한민국의	B-ORG
+사적	I-ORG
+제225호로	O
+지정되었다	O
+.	O
+
+현재	O
+오미야	B-ORG
+아르디자에서	I-ORG
+활약하고	O
+있다	O
+.	O
+
+김상경	B-PER
+-	O
+경수	O
+역	O
+
+사토	B-PER
+나오타케	I-PER
+(	O
+佐藤尚武	O
+)	O
+
+같은	O
+해	O
+,	O
+AEK가	O
+70년간	O
+홈구장으로	O
+사용되었던	O
+니코스	B-ORG
+구마스	I-ORG
+경기장이	I-ORG
+철거되었다	O
+.	O
+
+〈	O
+''	O
+'세계는	O
+돈다고	O
+하지만	O
+''	O
+'〉	O
+(	O
+)	O
+는	O
+가넷	B-ORG
+크로우의	I-ORG
+26번째	O
+싱글이다	B-ORG
+.	O
+
+후일	O
+,	O
+장순빈의	O
+제부이자	O
+시조카인	O
+성종이	B-PER
+왕위에	O
+오르자	O
+,	O
+그녀를	O
+장순왕후로	O
+추존했다	O
+.	O
+
+방콕	B-LOC
+,	O
+자카르타	B-LOC
+,	O
+코타키나발루	B-LOC
+,	O
+쿠알라룸푸르	B-LOC
+,	O
+마닐라	B-LOC
+,	O
+싱가포르	B-LOC
+,	O
+수라바야	B-LOC
+노선	O
+
+레바논의	B-LOC
+대통령은	O
+의례적인	O
+역할에	O
+지나지	O
+않으며	O
+,	O
+총리가	B-ORG
+모든	O
+권한을	O
+위임을	O
+받고	O
+내각을	O
+이끌고	O
+있다	O
+.	O
+
+장나라	B-PER
+,	O
+장혁	B-PER
+,	O
+한은정	B-PER
+
+넘겨주기	O
+응구기	B-PER
+와	I-PER
+티옹오	I-PER
+
+**	O
+제336해군보병여단	O
+(	O
+발티스크	B-LOC
+,	O
+매티니코포	O
+마을	O
+)	O
+
+과거	O
+MLB	B-ORG
+밀워키	B-ORG
+브루어스의	I-ORG
+홈구장으로	O
+사용했다	O
+.	O
+
+그	O
+기록들은	O
+발트	B-LOC
+해에서	I-LOC
+오호츠크	B-LOC
+해에	I-LOC
+이르는	O
+수많은	O
+나라들의	O
+문헌	O
+속에	O
+존재한다	O
+.	O
+
+이미	O
+5공	O
+정권	O
+시기에	O
+군직	O
+복무	O
+중	O
+사망하여	O
+``	O
+공소권	O
+없음	O
+''	O
+을	O
+받아	O
+국립서울현충원에	B-LOC
+안장되었다	O
+.	O
+
+안남	B-LOC
+산맥에서	I-LOC
+발견되며	O
+,	O
+몸길이는	O
+60cm	O
+이하로	O
+작고	O
+몸은	O
+회색을	O
+띤다	O
+.	O
+
+**	O
+소이현	B-PER
+(	O
+이채린	O
+)	O
+
+신주	B-LOC
+시	I-LOC
+(	O
+2002	O
+)	O
+
+인도네시아	B-LOC
+-	O
+TVRI	B-ORG
+(	O
+Televisi	O
+Republik	O
+Indonesia	O
+)	O
+
+덴마크와의	B-ORG
+3차전에서는	O
+경고	O
+누적으로	O
+출장하지	O
+못한	O
+제롬	B-PER
+보아텡을	I-PER
+대신하여	O
+선발	O
+출전하였다	O
+.	O
+
+넘겨주기	O
+유희	B-PER
+(	I-PER
+대경왕	I-PER
+)	I-PER
+
+넘겨주기	O
+후아나	B-PER
+1세	I-PER
+(	I-PER
+카스티야	I-PER
+)	I-PER
+
+히아킨토스	B-PER
+(	O
+Ὑάκινθος	O
+)	O
+
+하지만	O
+,	O
+김수현씨가	B-PER
+개인적인	O
+문제로	O
+이	O
+제목을	O
+철회해	O
+버렸고	O
+그	O
+탓인지	O
+궁여지책으로	O
+방영	O
+직전	O
+다시	O
+채택한	O
+제목이	O
+으로	O
+결정됐다	O
+.	O
+
+**	O
+IS	B-ORG
+:	I-ORG
+남자도	I-ORG
+여자도	I-ORG
+아닌	I-ORG
+성》	I-ORG
+
+**	O
+테헤란	B-LOC
+(	O
+대사관	O
+)	O
+
+'	O
+''	O
+강북구	B-LOC
+''	O
+'	O
+
+하이드	B-ORG
+지킬	I-ORG
+,	I-ORG
+나》	I-ORG
+
+북쪽으로는	O
+세인트조지	B-LOC
+교구	I-LOC
+,	O
+서쪽으로는	O
+세인트마이클	B-LOC
+교구	I-LOC
+,	O
+동쪽으로는	O
+세인트필립	B-LOC
+교구와	I-LOC
+접한다	O
+.	O
+
+가장	O
+최근에는	O
+마르크	B-PER
+판	I-PER
+보멀의	I-PER
+친정팀인	O
+네덜란드의	B-LOC
+포르튀나	B-ORG
+시타르트가	I-ORG
+재정난에	O
+처하자	O
+바이에른은	O
+자선경기를	O
+벌였다	O
+.	O
+
+**	O
+라플라타	B-LOC
+(	O
+총영사관	O
+)	O
+
+진보당에	B-ORG
+당적을	O
+두고	O
+있다	O
+.	O
+
+***	O
+흰발타마린	B-LOC
+(	O
+''Saguinus	O
+leucopus	O
+''	O
+)	O
+
+이	O
+앨범을	O
+통해	O
+넬은	B-ORG
+완전히	O
+라디오헤드의	B-ORG
+그늘'에서	O
+탈피하여	O
+자신들	O
+고유의	O
+색깔을	O
+찾았다고	O
+볼	O
+수	O
+있으며	O
+,	O
+대중들에게	O
+큰	O
+인기를	O
+끌게	O
+되었다	O
+.	O
+
+그는	O
+박정희를	B-PER
+부정의	O
+대상이	O
+아니라	O
+극복의	O
+대상으로	O
+규정하였다	O
+.	O
+
+칸	B-LOC
+강	I-LOC
+좌안과	O
+접하며	O
+예니세이	B-LOC
+강과	I-LOC
+합류하는	O
+지점에서	O
+180km	O
+정도	O
+떨어진	O
+곳에	O
+위치한다	O
+.	O
+
+그러나	O
+박헌영	B-PER
+,	O
+여운형	B-PER
+등이	O
+반탁에서	O
+찬탁으로	O
+돌아서면서	O
+반탁운동에서	O
+탈퇴하였다	O
+.	O
+
+한편	O
+그가	O
+재판에	O
+회부되었을	O
+때	O
+그의	O
+처	O
+허정숙은	B-PER
+그가	O
+반당	O
+종파행위에	O
+가담했다며	O
+그에게	O
+불리하게	O
+증언하였다	O
+.	O
+
+대표적	O
+일례로	O
+숙종의	B-PER
+아들인	O
+경종을	B-PER
+낳은	O
+희빈	B-PER
+장씨와	I-PER
+숙종의	B-PER
+아들인	O
+영조를	B-PER
+낳은	O
+숙빈	B-PER
+최씨	I-PER
+등이	O
+있다	O
+.	O
+
+경기도	B-LOC
+성남시	B-LOC
+수정구	B-LOC
+일대를	O
+관할한다	O
+.	O
+
+나가쓰마	B-PER
+아키라	I-PER
+(	O
+長妻昭	O
+)	O
+
+'	O
+''	O
+미국령	B-LOC
+버진아일랜드	I-LOC
+''	O
+'	O
+(	O
+1917-	O
+)	O
+
+또한	O
+세종	B-PER
+때에는	O
+격구를	O
+무예로서	O
+중시하여	O
+무과	O
+전시의	O
+과목으로	O
+채택되기에	O
+이른다	O
+.	O
+
+선화예술고등학교	B-ORG
+무용과	O
+(	O
+전학	O
+)	O
+
+다낭은	O
+남중국해와	B-LOC
+맞닿아	O
+있다	O
+.	O
+
+아니타는	O
+페루에서	B-LOC
+열린	O
+2005년	B-ORG
+FIFA	I-ORG
+U-17	I-ORG
+세계	I-ORG
+축구	I-ORG
+선수권	I-ORG
+대회에	I-ORG
+출전하였고	O
+이때	O
+네덜란드는	B-ORG
+3위를	O
+기록하였다	O
+.	O
+
+야마가타	B-LOC
+현	I-LOC
+가호쿠	B-LOC
+정	I-LOC
+
+질	B-PER
+시몽	I-PER
+''	O
+(	O
+3회전	O
+)	O
+
+호주에서는	B-LOC
+가평이란	B-LOC
+단어를	O
+희생과	O
+영광이란	O
+말로	O
+기억되고	O
+있다	O
+.	O
+
+(	O
+1위는	O
+위기의	B-ORG
+주부들이다	I-ORG
+)	O
+
+서하	B-LOC
+(	O
+西夏	O
+)	O
+숭종	B-PER
+(	O
+崇宗	O
+)	O
+12년	O
+
+경기대학교	B-ORG
+대학원	O
+사회체육학	O
+석사	O
+
+그는	O
+스포르팅	B-ORG
+히혼의	I-ORG
+유소년	O
+팀에서	O
+축구를	O
+시작했다	O
+.	O
+
+나카가와	B-PER
+쇼이치	I-PER
+(	O
+中川昭一	O
+)	O
+
+인구가	O
+2만명이	O
+넘는	O
+도시는	O
+현도인	O
+아벨리노와	B-LOC
+아리아노이르피노가	B-LOC
+유일하다	O
+.	O
+
+순조와	B-PER
+순원왕후	B-PER
+김씨의	I-PER
+셋째	O
+딸이다	O
+.	O
+
+'	O
+''	O
+손정	B-PER
+''	O
+'	O
+
+무열왕]]	O
+,	O
+의자왕	B-PER
+,	O
+계백	B-PER
+
+베이루트	B-LOC
+-	O
+안타키아	B-LOC
+-	O
+다마스쿠스	B-LOC
+-	O
+예루살렘	B-LOC
+-	O
+베들레헴	B-LOC
+-	O
+메디나	B-LOC
+-	O
+메카	B-LOC
+
+도치기	B-LOC
+현	I-LOC
+도치기	B-LOC
+시	I-LOC
+
+'	O
+''	O
+Winter	B-ORG
+Bells	I-ORG
+''	O
+'	O
+
+숭의여고	O
+2학년	O
+때	O
+대한민국	B-ORG
+여자	I-ORG
+농구	I-ORG
+국가대표팀에	I-ORG
+처음	O
+발탁되었으며	O
+,	O
+은퇴할	O
+때까지	O
+대표	O
+선수로	O
+활동했다	O
+.	O
+
+``	O
+–	O
+시편	B-PER
+51:7	O
+)	O
+.라는	O
+노래를	O
+부르면서	O
+남은	O
+성수는	O
+바다에	O
+뿌려진다	O
+.	O
+
+체코슬로바키아의	B-LOC
+브라티슬라바	B-LOC
+출신이며	O
+,	O
+독일의	B-LOC
+베를린으로	B-LOC
+이주해	O
+그곳에서	O
+성장하였다	O
+.	O
+
+현종	B-PER
+때	O
+습유보궐·우습유·한림학사·간의대부	O
+등을	O
+지내고	O
+,	O
+덕종	B-PER
+초에	O
+우산기상시·동지	O
+중추원사	O
+(	O
+同知中樞院事	O
+)	O
+·형부	O
+상서·중추원사	O
+등을	O
+지냈다	O
+.	O
+
+도호쿠	B-ORG
+방송	I-ORG
+(	O
+미야기	B-LOC
+현	I-LOC
+)	O
+
+단국대학교	B-ORG
+(	O
+1988	O
+~	O
+1992	O
+)	O
+
+카를로스	B-PER
+3세의	I-PER
+아들로	O
+,	O
+카를로스	B-PER
+4세의	I-PER
+동생이다	O
+.	O
+
+헤브리디스	B-LOC
+제도	I-LOC
+(	O
+아우터헤브리디스	B-LOC
+)	O
+(	O
+c.874-1266	O
+)	O
+
+대부분의	O
+도심지에는	O
+포룸과	B-ORG
+신전과	O
+비슷한	O
+양식의	O
+더	O
+작은	O
+건물들이	O
+있었다	O
+.	O
+
+아마우리	B-PER
+카르발류	I-PER
+지	I-PER
+올리베이라	I-PER
+
+우에키의	B-ORG
+법칙	I-ORG
+(	O
+프팅	O
+)	O
+
+후에는	O
+야쿠르트	B-ORG
+스왈로스의	I-ORG
+이케야마	B-PER
+다카히로와	I-PER
+미야모토	B-PER
+신야	I-PER
+,	O
+주니치	B-ORG
+드래건스의	I-ORG
+이바타	B-PER
+히로카즈도	I-PER
+기록을	O
+경신했다	O
+.	O
+
+프로테오믹사강	B-LOC
+(	O
+Proteomyxidea	O
+)	O
+
+파푸아뉴기니	B-LOC
+국적의	O
+자원입대는	O
+16~34세	O
+대상이다	O
+.	O
+
+17화	O
+-	O
+아이티	B-LOC
+특집	O
+1탄	O
+.	O
+
+휘장은	O
+에도	B-ORG
+막부	I-ORG
+말기의	O
+화폐인	O
+텐포츠호	O
+(	O
+天保通宝	O
+)	O
+를	O
+닮아	O
+졸업생을	O
+‘텐포센구미’	O
+(	O
+天保銭組	O
+)	O
+라고	O
+불렀으며	O
+선망의	O
+대상이	O
+되었다	O
+.	O
+
+오렌지와	B-ORG
+대추야자	B-LOC
+등	O
+많은	O
+농작물이	O
+생산된다	O
+.	O
+
+'	O
+''	O
+산호세데마이포	O
+''	O
+'	O
+(	O
+)	O
+는	O
+칠레	B-LOC
+산티아고	B-LOC
+수도주	I-LOC
+코르디예라	B-LOC
+현의	I-LOC
+코무나이다	B-LOC
+.	O
+
+유기는	O
+용모가	O
+아름다워	O
+,	O
+나중에	O
+주군이	O
+되는	O
+손권에게서	B-PER
+경애를	O
+받았다	O
+.	O
+
+강멧돼지	B-LOC
+(	O
+''Potamochoerus	O
+larvatus	O
+''	O
+)	O
+
+짝패	B-ORG
+(	O
+2006	O
+)	O
+
+타이-말레이	B-LOC
+반도의	I-LOC
+산림과	O
+인도네시아	B-LOC
+수마트라	B-LOC
+섬에서	I-LOC
+발견된다	O
+.	O
+
+에런	B-PER
+모코에나	I-PER
+(	O
+1997-2010	O
+)	O
+
+1958년	B-ORG
+-	O
+(	O
+23골	O
+)	O
+
+*민선	O
+6기	O
+경기도	B-LOC
+과천시	B-LOC
+시장	O
+(	O
+새누리당	B-ORG
+2014.07.01	O
+~	O
+현재	O
+)	O
+
+흑신	B-ORG
+(	O
+黑神	O
+)	O
+
+'	O
+''	O
+종암동	B-LOC
+''	O
+'	O
+
+또한	O
+이	O
+작품을	O
+통해	O
+,	O
+주인공	O
+하지원은	B-PER
+연기	O
+대상을	O
+수상하였다	O
+.	O
+
+현재의	O
+기후	B-LOC
+현	I-LOC
+북부에	O
+해당한다	O
+.	O
+
+59개의	O
+코무네로	B-LOC
+이루어져	O
+있다	O
+.	O
+
+오사카	B-LOC
+부	I-LOC
+출신이지만	O
+어린	O
+시절에	O
+아버지의	O
+영향으로	O
+요미우리	B-ORG
+자이언츠의	I-ORG
+팬이었다고	O
+한다	O
+.	O
+
+그러나	O
+고종이	B-PER
+특별히	O
+무마시켰다	O
+.	O
+
+남쪽으로	O
+남아프리카	B-LOC
+공화국	I-LOC
+,	O
+서쪽으로	O
+보츠와나	B-LOC
+,	O
+북쪽으로	O
+잠비아	B-LOC
+,	O
+동쪽으로	O
+모잠비크와	B-LOC
+국경을	O
+맞대고	O
+있다	O
+.	O
+
+넘겨주기	O
+눈물이	B-ORG
+멈추지	I-ORG
+않는	I-ORG
+방과후	I-ORG
+
+게키카라	O
+(	O
+ゲキカラ	O
+)	O
+-	O
+마츠이	B-PER
+레나	I-PER
+(	O
+SKE48	B-ORG
+/	O
+노기자카46	B-ORG
+)	O
+
+넘겨주기	O
+솽차오	B-LOC
+구	I-LOC
+(	I-LOC
+충칭	I-LOC
+시	I-LOC
+)	I-LOC
+
+**	O
+구구	B-PER
+음바타로	I-PER
+—	O
+《Belle》	O
+
+엔유	B-PER
+천황	I-PER
+(	O
+圓融天皇	O
+)	O
+
+넘겨주기	O
+그녀의	B-ORG
+플래그가	I-ORG
+꺾이면	I-ORG
+
+''Brachypodium	O
+arbusculum	O
+''	O
+-	O
+카나리아	B-LOC
+제도	I-LOC
+
+**	O
+세키가하라	B-LOC
+정	I-LOC
+(	O
+)	O
+-	O
+다루이	B-LOC
+정	I-LOC
+(	O
+)	O
+
+남편	O
+충혜왕과의	B-PER
+사이에서	O
+자녀는	O
+없었다	O
+.	O
+
+현재	O
+대한민국	B-LOC
+K리그	B-ORG
+챌린지의	I-ORG
+상주	B-ORG
+상무	I-ORG
+소속으로	O
+뛰고	O
+있다	O
+.	O
+
+위수	B-LOC
+티베트족	I-LOC
+자치주	I-LOC
+(	O
+옥수장족자치주	O
+)	O
+
+'	O
+''	O
+패디	B-PER
+레일리	I-PER
+''	O
+'	O
+
+넘겨주기	O
+마이아	B-PER
+(	I-PER
+가수	I-PER
+)	I-PER
+
+고려	B-ORG
+(	O
+高麗	O
+)	O
+충렬왕	B-PER
+(	O
+忠烈王	O
+)	O
+22년	O
+
+과거	O
+NBA	B-ORG
+뉴올리언스	B-ORG
+재즈와	I-ORG
+ABA	B-ORG
+뉴올리언스	B-ORG
+버커니어스	I-ORG
+그리고	O
+ECHL	B-ORG
+뉴올리언스	B-ORG
+브라스의	I-ORG
+홈경기장으로	O
+사용했다	O
+.	O
+
+뉴욕	B-ORG
+주립	I-ORG
+대학교	I-ORG
+
+'	O
+''	O
+파나마	B-LOC
+''	O
+'	O
+
+현재는	O
+영남대학교	B-ORG
+석좌교수로	O
+활동	O
+중이다	O
+.	O
+
+이	O
+수치는	O
+스코틀랜드	B-ORG
+성공회의	I-ORG
+42	O
+%	O
+에	O
+해당한다	O
+.	O
+
+라이프치히	B-LOC
+남쪽으로	O
+40km	O
+,	O
+드레스덴	B-LOC
+서쪽으로	O
+90km	O
+,	O
+에르푸르트	B-LOC
+동쪽으로	O
+100km	O
+떨어져	O
+있는	O
+곳에	O
+위치해	O
+있다	O
+.	O
+
+최윤영]]	O
+(	O
+아역	O
+김소현	B-PER
+)	O
+
+응급실에서	B-ORG
+찾은	O
+희망	O
+,	O
+소생	O
+
+넘겨주기	O
+소라	B-ORG
+(	I-ORG
+기업	I-ORG
+)	I-ORG
+
+기타	B-LOC
+구	I-LOC
+(	I-LOC
+오사카	I-LOC
+시	I-LOC
+)	I-LOC
+
+넘겨주기	O
+원	B-ORG
+코트	I-ORG
+스퀘어	I-ORG
+
+목표로	O
+하는	O
+성우는	O
+사와시로	B-PER
+미유키	I-PER
+.	O
+
+문덕군	B-LOC
+(	O
+文德郡	O
+)	O
+
+***	O
+깃털꼬리주머니쥐과	B-LOC
+(	O
+Acrobatidae	O
+)	O
+
+제제]]	O
+(	O
+30	O
+)	O
+,	O
+최상국	B-PER
+(	O
+55	O
+)	O
+
+넘겨주기	O
+사바	B-ORG
+쿰	I-ORG
+FC	I-ORG
+
+SM	B-ORG
+엔터테인먼트	I-ORG
+,	O
+KT	B-ORG
+뮤직	I-ORG
+
+대륙으로	O
+불릴	O
+수	O
+있는	O
+육지의	O
+크기는	O
+그린란드를	B-LOC
+기준으로	O
+하고	O
+있다	O
+.	O
+
+사무실은	O
+305-600	O
+대전광역시	B-LOC
+유성우체국	O
+사서함	O
+55호에	O
+있다	O
+.	O
+
+**	O
+카사이옥시당탈	B-LOC
+주	I-LOC
+,	O
+카사이오리앙탈	B-LOC
+주	I-LOC
+,	O
+카탕가	B-LOC
+주	I-LOC
+,	O
+마니에마	B-LOC
+주	I-LOC
+,	O
+북키부	B-LOC
+주	I-LOC
+,	O
+동부	B-LOC
+주	I-LOC
+,	O
+남키부	B-LOC
+주	I-LOC
+
+'	O
+''	O
+개태	O
+''	O
+'	O
+(	O
+)	O
+는	O
+베트남	B-LOC
+쩐	B-PER
+왕조	I-PER
+명종의	I-PER
+두	O
+번째	O
+연호이다	O
+.	O
+
+넘겨주기	O
+알베르	B-PER
+1세	I-PER
+(	I-PER
+벨기에	I-PER
+)	I-PER
+
+'	O
+''	O
+금포리	O
+''	O
+'는	O
+다음	O
+지역에	O
+위치한	O
+대한민국의	B-LOC
+리이다	B-LOC
+.	O
+
+볼호프	B-LOC
+강은	I-LOC
+이	O
+호수를	O
+거치고	O
+,	O
+라도가	B-LOC
+호	I-LOC
+,	O
+네바	B-LOC
+강에서	I-LOC
+핀란드	B-LOC
+만까지	I-LOC
+흘러간다	O
+.	O
+
+보라매역→보라매공원→기상청→수도여고→대림삼거리→대림사거리→	B-ORG
+''	O
+신대방역	B-ORG
+''	O
+'	O
+>	O
+신대방삼거리역→보라매역→성남중고→대방주공→공군회관	B-ORG
+
+원	B-PER
+(	O
+元	O
+)	O
+혜종	B-PER
+(	O
+惠宗	O
+)	O
+14년	O
+
+랑방	B-ORG
+(	O
+Lavin	O
+)	O
+
+개미는	O
+말벌상과	B-LOC
+계통에서	O
+진화하였다	O
+.	O
+
+넘겨주기	O
+헨리	B-PER
+워즈워스	I-PER
+롱펠로	I-PER
+
+'	O
+''	O
+조지훈	B-PER
+''	O
+'	O
+(	O
+趙芝薰	O
+)	O
+의	O
+셋째아들	O
+.	O
+
+카르타고	B-LOC
+-	O
+페니카아의	O
+가장	O
+강력한	O
+정착지	O
+
+삼성	B-ORG
+갤럭시	I-ORG
+S7에서	I-ORG
+처음으로	O
+적용한	O
+버전이다	O
+.	O
+
+그의	O
+뒤를	O
+이어	O
+교황	B-PER
+세르지오	I-PER
+4세가	I-PER
+선출되었다	O
+.	O
+
+본부는	O
+타이베이	B-LOC
+시에	I-LOC
+위치해	O
+있다	O
+.	O
+
+인디아나	B-PER
+존스와	I-PER
+죽음의	I-PER
+사원》	I-PER
+(	O
+1984	O
+)	O
+
+인근에	O
+선산관광호텔이	O
+붙어	O
+있으며	O
+주로	O
+경상도권	B-ORG
+지역	O
+위주로	O
+운행한다	O
+.	O
+
+쓰가루	B-LOC
+시	I-LOC
+(	O
+)	O
+
+본부의	O
+이름을	O
+따서	O
+'	O
+''	O
+뉴	B-ORG
+스코틀랜드	I-ORG
+야드	I-ORG
+''	O
+'라고	O
+불리기도	O
+한다	O
+.	O
+
+I	B-ORG
+Brought	I-ORG
+You	I-ORG
+My	I-ORG
+Bullets	I-ORG
+,	I-ORG
+You	I-ORG
+Brought	I-ORG
+Me	I-ORG
+Your	I-ORG
+Love	I-ORG
+''	O
+
+나중에	O
+대한제국으로	B-ORG
+국호를	O
+바꾼	O
+뒤	O
+원구단이	O
+다시	O
+설치되었다	O
+.	O
+
+서쪽으로는	O
+사우디아라비아	B-LOC
+,	O
+남쪽으로는	O
+카타르와	B-LOC
+접한다	O
+.	O
+
+**	O
+362통신중대	O
+-	O
+캠프	B-ORG
+험프리스	I-ORG
+
+고구려	B-LOC
+(	O
+高句麗	O
+)	O
+보장왕	B-PER
+(	O
+寶臧王	O
+)	O
+16년	O
+
+라르보토	B-LOC
+(	O
+Larvotto	O
+/	O
+Bas	O
+Moulins	O
+,	O
+''Larvotto-Bd	O
+Psse	O
+Grace	O
+''	O
+)	O
+
+고구려	B-LOC
+(	O
+高句麗	O
+)	O
+장수왕	B-PER
+(	O
+長壽王	O
+)	O
+2년	O
+
+'	O
+''	O
+위다바오	B-PER
+''	O
+'	O
+
+도요새장어과	B-LOC
+(	O
+Nemichthyidae	O
+)	O
+
+한림연예예술고등학교	B-ORG
+(	O
+재학	O
+)	O
+
+1994년	B-ORG
+,	O
+2006년	B-ORG
+FIFA	I-ORG
+월드컵의	I-ORG
+우승	O
+팀이	O
+이	O
+방법으로	O
+결정되었는데	O
+,	O
+승부차기를	O
+통해	O
+우승	O
+팀을	O
+결정하는	O
+것이	O
+바람직한가에	O
+대한	O
+논쟁이	O
+있었다	O
+.	O
+
+다케우치	B-PER
+유코	I-PER
+,	O
+오사와	B-PER
+다카오	I-PER
+
+대한민국	B-LOC
+서울특별시에서	B-LOC
+2012년	B-LOC
+핵안보정상회의가	I-LOC
+이틀간의	O
+일정에	O
+돌입하다	O
+.	O
+
+장	B-PER
+르노	I-PER
+-	O
+본인	O
+
+둘째	O
+아들	O
+-	O
+원극문	B-PER
+(	O
+袁克文	O
+)	O
+
+시드니	B-ORG
+올림픽	I-ORG
+공원	I-ORG
+수영	I-ORG
+센터	I-ORG
+
+요	B-LOC
+(	O
+遼	O
+)	O
+경복	O
+(	O
+景福	O
+)	O
+2년	O
+/	O
+중희	O
+(	O
+重熙	O
+)	O
+원년	O
+
+상류에는	O
+평화의	B-ORG
+댐이	I-ORG
+있다	O
+.	O
+
+장궁	B-LOC
+구	I-LOC
+(	O
+章贡区	O
+)	O
+
+넘겨주기	O
+주세페	B-PER
+카스파르	I-PER
+메초판티	I-PER
+
+``	O
+One	B-ORG
+in	I-ORG
+Every	I-ORG
+Crowd	I-ORG
+''	O
+
+샌드위치를	B-ORG
+만들	O
+때	O
+쓰이기도	O
+한다	O
+.	O
+
+서강대학교	B-ORG
+사학과	O
+(	O
+학사	O
+)	O
+
+전일본공수	B-ORG
+,	O
+대한항공	B-ORG
+소속	O
+비행기	O
+
+그	O
+시초는	O
+11-12세기의	O
+남불의	O
+음유시인들인	O
+트루바두르이다	B-ORG
+.	O
+
+1회말	O
+,	O
+안영명의	B-PER
+직구를	O
+받아쳐	O
+우측	O
+펜스	O
+넘어가는	O
+홈런	O
+
+*2007년	O
+삼성	B-ORG
+하우젠	I-ORG
+K-리그	I-ORG
+통합순위	O
+9위	O
+(	O
+8승	O
+9무	O
+9패	O
+)	O
+
+해운대구	B-LOC
+우동에	O
+있으며	O
+부산	B-ORG
+도시철도	I-ORG
+2호선	I-ORG
+동백역과	B-ORG
+시립미술관역의	B-ORG
+역세권이다	O
+.	O
+
+현재	O
+FC	B-ORG
+서울의	I-ORG
+스카우트이다	O
+.	O
+
+원시적인	O
+형태	O
+때문에	O
+살아있는	B-PER
+화석의	I-PER
+대표적인	O
+표본	O
+동물로	O
+꼽힌다	O
+.	O
+
+이오는	O
+갈릴레오	B-PER
+갈릴레이가	I-PER
+발견했고	O
+,	O
+다른	O
+위성들과	O
+묶여	O
+갈릴레이	B-ORG
+위성으로	I-ORG
+불린다	O
+.	O
+
+넘겨주기	O
+제2차	B-ORG
+세계	I-ORG
+대전의	I-ORG
+저항운동	I-ORG
+
+러시아	B-LOC
+제국	I-LOC
+지배	I-LOC
+하의	I-LOC
+조지아	I-LOC
+
+랜시드	B-ORG
+(	O
+Rancid	O
+)	O
+
+림포포	B-LOC
+주	I-LOC
+음푸말랑가	B-LOC
+주	I-LOC
+콰줄루나탈	B-LOC
+주	I-LOC
+이스턴케이프	B-LOC
+주	I-LOC
+
+촬영은	O
+미에	B-LOC
+현	I-LOC
+산간	O
+지대를	O
+중심으로	O
+올	O
+로케이션	O
+약	O
+1개월	O
+반에	O
+걸쳐	O
+진행되었다	O
+.	O
+
+)	O
+는	O
+일제	B-LOC
+강점기의	I-LOC
+기업인으로	O
+,	O
+본적은	O
+함경남도	B-LOC
+북청군	B-LOC
+읍내면이다	O
+.	O
+
+***	O
+나나에	B-LOC
+정	I-LOC
+(	O
+)	O
+
+*02：40	O
+-	O
+이후	O
+'다치야마	O
+3호'가	O
+이마조	B-ORG
+역으로	I-ORG
+돌아온다	O
+
+넘겨주기	O
+관타나모	B-ORG
+만	I-ORG
+수용소	I-ORG
+
+한국·	B-LOC
+극동부	O
+및	O
+인도·	B-LOC
+원산이다	O
+.	O
+
+)	O
+는	O
+일제	B-LOC
+강점기의	I-LOC
+평안남도	B-LOC
+지역	O
+유지이다	O
+.	O
+
+동쪽은	O
+박천군	B-LOC
+,	O
+북쪽은	O
+태천군	B-LOC
+,	O
+서쪽은	O
+정주시와	B-LOC
+접한다	O
+.	O
+
+Supersonic	B-ORG
+(	I-ORG
+오아시스의	I-ORG
+노래	I-ORG
+)	I-ORG
+
+그는	O
+그의	O
+아들	O
+아르타마마	B-PER
+1세에	I-PER
+의해	O
+계승되었다	O
+.	O
+
+하그는	O
+대개	O
+인간에게	O
+악의적인	O
+존재로	O
+여겨지나	O
+,	O
+모리안	B-PER
+등	O
+신적	O
+존재가	O
+변신한	O
+모습으로	O
+여겨지기도	O
+한다	O
+.	O
+
+신이	B-ORG
+없는	I-ORG
+일요일	I-ORG
+(	O
+1~8권	O
+)	O
+
+광종	B-PER
+(	O
+光宗	O
+)	O
+등의	O
+친조카이다	O
+.	O
+
+넘겨주기	O
+로버트	B-PER
+시저	I-PER
+칠더스	I-PER
+
+01	O
+진주교육대학교	B-ORG
+교육실습	O
+협력학교	O
+운영	O
+
+넘겨주기	O
+나스노	B-ORG
+(	I-ORG
+열차	I-ORG
+)	I-ORG
+
+한편	O
+홍콩과	B-LOC
+마카오는	B-LOC
+각각	O
+‘중국	O
+홍콩’	O
+,	O
+‘중국	O
+마카오’라는	O
+이름으로	O
+역시	O
+참여하고	O
+있다	O
+.	O
+
+;	O
+SBS	B-ORG
+MTV	I-ORG
+베스트	I-ORG
+오브	I-ORG
+베스트	I-ORG
+어워드	I-ORG
+
+본부는	O
+스위스	B-LOC
+로잔에	B-LOC
+위치해있다	O
+.	O
+
+제임스	B-PER
+브라운	I-PER
+-	O
+``	O
+Sex	O
+Machine	O
+''	O
+
+오를란도	B-PER
+디	I-PER
+라소	I-PER
+(	O
+1532	O
+?	O
+
+다만	O
+,	O
+노르웨이	B-LOC
+영사관앞에서	O
+회나무길로	O
+빠져나와야	O
+중앙경리단사거리에	O
+이른다	O
+.	O
+
+아르헨티나	B-ORG
+프리메라	I-ORG
+디비시온에	I-ORG
+속해	O
+있다	O
+.	O
+
+제인스	B-ORG
+인포메이션	I-ORG
+그룹	I-ORG
+
+〈	O
+''	O
+I	B-ORG
+SEE	I-ORG
+ME	I-ORG
+''	O
+'〉	O
+
+시	B-LOC
+현	I-LOC
+(	O
+隰縣	O
+)	O
+
+알베르트	B-PER
+아인슈타인은	I-PER
+막스	B-PER
+보른의	I-PER
+해석에	O
+불만을	O
+가지고	O
+있었다	O
+.	O
+
+헤이룽장	B-LOC
+성	I-LOC
+지린	B-LOC
+성	I-LOC
+-	O
+백두산	B-LOC
+바로	O
+서쪽을	O
+지난다	O
+.	O
+
+이	O
+별은	O
+태양과	B-LOC
+비슷하지만	O
+약간	O
+더	O
+밝고	O
+무겁다	O
+.	O
+
+그녀의	O
+제일	O
+친한	O
+친구는	O
+금발	O
+머리를	O
+가진	O
+베베이다	B-ORG
+.	O
+
+북쪽에서	O
+전진하는	O
+두	O
+번째	O
+공격은	O
+동프로이센으로	B-LOC
+전진할	O
+것이었다	O
+.	O
+
+그는	O
+자신의	O
+색채나	O
+야심을	O
+드러내지	O
+않고	O
+당무에만	O
+전념했는데	O
+,	O
+조병옥은	B-PER
+그에게도	O
+야심이	O
+있음을	O
+간파하였다	O
+.	O
+
+꺼진	O
+불도	O
+다시	O
+보자	O
+119	O
+(	O
+현진영	B-PER
+)	O
+
+첫방송에	O
+김기리가	B-PER
+출연하였으나	O
+통편집됐다	O
+.	O
+
+동국대학교	B-ORG
+사범대학	I-ORG
+체육교육학과	I-ORG
+중퇴	O
+
+'	O
+''	O
+노호	O
+''	O
+'	O
+(	O
+NoHo	O
+)	O
+는	O
+소호의	B-ORG
+북쪽	O
+부분이다	O
+.	O
+
+디레트무스과	B-LOC
+(	O
+Diretmidae	O
+)	O
+
+그는	O
+몇	O
+차례나	O
+인도	B-LOC
+침입을	O
+감행하여	O
+그	O
+때마다	O
+귀중한	O
+전리품	O
+(	O
+戰利品	O
+)	O
+을	O
+산더미처럼	O
+노획하였다	O
+.	O
+
+게이오기주쿠	B-ORG
+대학	I-ORG
+환경정보학부	O
+졸업	O
+.	O
+
+현재	O
+캄페오나투	B-ORG
+브라질레이루	I-ORG
+세리에	I-ORG
+A의	I-ORG
+아틀레치쿠	B-ORG
+미네이루에서	I-ORG
+활약하고	O
+있다	O
+.	O
+
+동쪽으로	O
+아칸소	B-LOC
+주와	I-LOC
+미주리	B-LOC
+주	I-LOC
+,	O
+북쪽으로	O
+캔자스	B-LOC
+주	I-LOC
+,	O
+북서쪽으로	O
+콜로라도	B-LOC
+주	I-LOC
+,	O
+서쪽으로	O
+뉴멕시코	B-LOC
+주	I-LOC
+,	O
+남쪽으로	O
+텍사스	B-LOC
+주와	I-LOC
+접한다	O
+.	O
+
+넘겨주기	O
+사뿐사뿐	B-ORG
+(	I-ORG
+노래	I-ORG
+)	I-ORG
+
+디오클레티아누스	B-ORG
+궁전	I-ORG
+(	O
+Dioklecijanova	O
+palača	O
+)	O
+
+**	O
+PR	O
+/	O
+CF	O
+김강민	B-PER
+(	O
+8회말	O
+대주자출전	O
+/	O
+9회초	O
+수비출전	O
+)	O
+
+그는	O
+'Ruff	O
+Rhyder	O
+Record'의	O
+스위즈	B-PER
+비츠에	I-PER
+의해	O
+픽업되었다	O
+.	O
+
+브라질에서는	B-LOC
+가치구미와	O
+마케구미간에	O
+다툼이	O
+일어나	O
+대규모무력충돌사건으로	O
+비화되어	O
+사상자도	O
+발생했다	O
+.	O
+
+알렉산드리아의	B-PER
+클레멘스에	I-PER
+따르면	O
+,	O
+카르포크라테스파의	O
+중심지는	O
+그리스의	B-LOC
+케팔로니아	B-LOC
+섬	I-LOC
+(	O
+Cephallenia	O
+)	O
+이지만	O
+카르포크라테스는	O
+이집트의	B-LOC
+알렉산드리아	B-LOC
+(	O
+Alexandria	O
+)	O
+출신이라고	O
+하였다	O
+.	O
+
+오소리	B-LOC
+,	O
+족제비	B-LOC
+등	O
+땅속에	O
+사는	O
+짐승을	O
+사냥하기	O
+위해	O
+개량된	O
+품종들이다	O
+.	O
+
+구자철	B-PER
+“이것까진	O
+얘기	O
+안하려고	O
+했는데	O
+...	O
+”	O
+
+트리니티	B-ORG
+칼리지	I-ORG
+(	I-ORG
+옥스퍼드	I-ORG
+)	I-ORG
+
+일본에서	B-LOC
+총선이	B-ORG
+실시되어	O
+자유민주당이	B-ORG
+전체	O
+중의원	B-ORG
+480석	O
+중	O
+291석을	O
+차지하다	O
+.	O
+
+엘리야스	B-PER
+빌야넨	I-PER
+-	O
+기타	O
+
+당	B-PER
+희종	I-PER
+(	O
+唐僖宗	O
+)	O
+
+지금까지	O
+극장판과는	O
+다르게	O
+이번	O
+극장판에서는	O
+노자와	B-PER
+히사시가	I-PER
+각본을	O
+맡았다	O
+.	O
+
+넘겨주기	O
+아돌프	B-PER
+폰	I-PER
+바이어	I-PER
+
+거기서	O
+리처드	B-PER
+탈러를	I-PER
+만나게	O
+되었다	O
+.	O
+
+***	O
+QFP	B-PER
+(	O
+4평면	O
+패키지	O
+,	O
+Quad	O
+Flat	O
+Package	O
+)	O
+-	O
+4면으로	O
+핀이	O
+돌출되어	O
+있으며	O
+,	O
+패키지의	O
+크기는	O
+다양하다	O
+.	O
+
+오사카	B-LOC
+부	I-LOC
+(	O
+6명	O
+)	O
+
+모라비안	B-ORG
+교인들-18세기	I-ORG
+보헤미아에서	B-LOC
+등장한	O
+복음주의자들	O
+
+뮤직비디오에서는	O
+소녀시대의	B-ORG
+제시카가	B-PER
+특별	O
+출연하였다	O
+.	O
+
+산둥	B-LOC
+성	I-LOC
+출신이며	O
+,	O
+북양군벌	B-ORG
+중	O
+직계	B-ORG
+군벌의	I-ORG
+우두머리이다	O
+.	O
+
+한양대학교	B-ORG
+관광학과	O
+명예	O
+졸업	O
+
+타지크	B-LOC
+소비에트	I-LOC
+사회주의	I-LOC
+공화국	I-LOC
+
+아느트카비르	B-ORG
+(	O
+Anıtkabir	O
+)	O
+
+밀퍼드	B-LOC
+(	I-LOC
+코네티컷	I-LOC
+주	I-LOC
+)	I-LOC
+
+원래	O
+헤이안	B-ORG
+시대	I-ORG
+이후	O
+남성의	O
+겸손한	O
+표현으로	O
+,	O
+뜻으로	O
+읽은	O
+‘’’로	O
+사용되었다	O
+.	O
+
+나	O
+역시	O
+그렇게	O
+되고	O
+싶다	O
+''	O
+며	O
+엄정화를	B-PER
+롤모델로	O
+꼽았다	O
+.	O
+
+한국	B-PER
+만화의	I-PER
+초창기에	O
+선구자적	O
+역할을	O
+한	O
+사람이다	O
+.	O
+
+넘겨주기	O
+1928년	B-ORG
+동계	I-ORG
+올림픽	I-ORG
+스피드스케이팅	I-ORG
+
+그리스	B-ORG
+-	O
+바실리스	B-PER
+하치파나기스	I-PER
+
+여기서	O
+계양산	B-LOC
+산자락에	O
+있는	O
+정자	O
+자오당의	O
+이름을	O
+딴	O
+자오당기	O
+등을	O
+남겼다	O
+.	O
+
+넘겨주기	O
+2010년	B-ORG
+동계	I-ORG
+올림픽	I-ORG
+폐막식	I-ORG
+
+'	O
+''	O
+왕윤	B-PER
+''	O
+'	O
+자사	O
+
+그날	B-ORG
+본	I-ORG
+꽃의	I-ORG
+이름을	I-ORG
+우리는	I-ORG
+아직	I-ORG
+모른다	I-ORG
+(	O
+유년	O
+폿포	O
+)	O
+
+CD	B-ORG
+'	I-ORG
+''	I-ORG
+톤델라	I-ORG
+''	I-ORG
+'	I-ORG
+
+아버지	O
+제	B-PER
+헌공이	I-PER
+죽자	O
+제후가	O
+되었으며	O
+,	O
+재위	O
+26년	O
+만에	O
+죽어	O
+아들	O
+무기가	B-PER
+뒤를	O
+이었다	O
+.	O
+
+이규로	B-PER
+(	O
+2004~2006	O
+)	O
+
+그	O
+사람이	O
+죽자	O
+모스크바	B-LOC
+대공국의	I-LOC
+이반	B-PER
+3세가	I-PER
+동방	B-ORG
+정교회의	I-ORG
+보호자로서	O
+황제의	O
+역할을	O
+자처하였다	O
+.	O
+
+본사는	O
+경기도	B-LOC
+고양시	B-LOC
+일산동구	B-LOC
+식사동에	O
+있다	O
+.	O
+
+금빛	B-ORG
+모자이크	I-ORG
+-	O
+본작과	O
+같이	O
+,	O
+4컷만화이다	O
+.	O
+
+)	O
+이것은	O
+유로존에서	B-LOC
+혼란을	O
+일으킬	O
+수	O
+있다	O
+.	O
+
+메드퍼드	B-LOC
+(	I-LOC
+매사추세츠	I-LOC
+주	I-LOC
+)	I-LOC
+
+어린	O
+시절	O
+추위에	O
+시달리던	O
+러시아에게	O
+머플러를	O
+주는	O
+대신	O
+자신이	O
+갖고	O
+있던	O
+키예프	B-LOC
+대공국	I-LOC
+계승권을	O
+러시아에게	O
+넘겨준다	O
+.	O
+
+**	O
+조지	B-PER
+E.	I-PER
+스미스	I-PER
+,	O
+20009	O
+
+제54회	O
+NHK	B-PER
+홍백가합전에서	I-PER
+마츠우라	B-PER
+아야의〈ね～え	I-PER
+?	O
+〉의	O
+백댄서로서	O
+
+멕시코가	B-LOC
+공기가	O
+희박한	O
+고지대였으므로	O
+대한민국에서부터	B-LOC
+미리	O
+마스크를	O
+쓰고	O
+운동을	O
+하며	O
+고지대에	O
+적응했다는	O
+유명한	O
+일화가	O
+있다	O
+.	O
+
+'	O
+''	O
+가와바타	B-PER
+신고	I-PER
+''	O
+'※	O
+
+서던	B-ORG
+캘리포니아	I-ORG
+대학교	I-ORG
+(	O
+1969	O
+)	O
+
+2001년	B-ORG
+코파	I-ORG
+아메리카	I-ORG
+국가대표	O
+
+성균관대학교	B-ORG
+연기예술학과	O
+학사	O
+졸업	O
+
+걸그룹	O
+파라다이소	B-ORG
+걸스의	I-ORG
+멤버였다	O
+.	O
+
+*1983년	O
+-	O
+대우	B-ORG
+로얄즈	I-ORG
+창단	O
+멤버	O
+
+블루밍턴	B-LOC
+(	I-LOC
+미네소타	I-LOC
+주	I-LOC
+)	I-LOC
+
+백제	B-ORG
+(	O
+百濟	O
+)	O
+의자왕	B-PER
+(	O
+義慈王	O
+)	O
+3년	O
+
+넘겨주기	O
+My	B-ORG
+Short	I-ORG
+Stories	I-ORG
+
+'	O
+''	O
+구만리	O
+''	O
+'는	O
+다음	O
+지역에	O
+위치한	O
+대한민국의	B-LOC
+리이다	B-LOC
+.	O
+
+1930년~1931년	O
+동안에는	O
+괴팅겐	B-ORG
+대학교에서	I-ORG
+공무하였고	O
+,	O
+1932년~1934년	O
+동안에는	O
+프린스턴	B-ORG
+대학교에서	I-ORG
+공부하였다	O
+.	O
+
+첼랴빈스크	B-LOC
+—	O
+첼랴빈스크	B-LOC
+주	I-LOC
+
+-	O
+캐나다	B-ORG
+은행	I-ORG
+(	O
+Bank	O
+of	O
+Canada	O
+,	O
+BOC	O
+)	O
+
+스크린도어로	B-ORG
+인해	O
+보이지	O
+않는	O
+안쪽	O
+선로	O
+부분이다	O
+.	O
+
+카바유는	O
+1-1로	O
+비긴	O
+이	O
+경기에서	O
+선발로	O
+출전하였고	O
+,	O
+84분에	O
+아템	B-PER
+벤	I-PER
+아르파와	I-PER
+교체되어	O
+나갔다	O
+.	O
+
+함부르크	B-LOC
+(	O
+1810-1813	O
+)	O
+
+**	O
+아르티가스	B-LOC
+(	O
+부영사관	O
+)	O
+
+조선	B-PER
+현종	I-PER
+5년	O
+(	O
+1664	O
+)	O
+에	O
+안혜원이	O
+유교진흥을	O
+위해	O
+성현들을	O
+모시는	O
+대성전을	O
+세우면서	O
+비로소	O
+교육과	O
+제사를	O
+겸했던	O
+향교의	O
+체제를	O
+갖추게	O
+되었다	O
+.	O
+
+이후	O
+효종의	B-PER
+장지	O
+(	O
+葬地	O
+)	O
+를	O
+선발하는	O
+명을	O
+받고	O
+조선	B-LOC
+각지를	O
+돌아다녔다	O
+.	O
+
+2015년	B-ORG
+AFC	I-ORG
+아시안컵	I-ORG
+대표	O
+
+캔터베리	B-LOC
+지방	I-LOC
+(	O
+Canterbury	O
+)	O
+
+;	O
+아라이	B-PER
+하쿠세키	I-PER
+(	I-PER
+新井白石	I-PER
+)	I-PER
+
+캄포바소로부터	B-LOC
+남쪽	O
+5km	O
+거리에	O
+있다	O
+.	O
+
+장베이	B-LOC
+구	I-LOC
+(	I-LOC
+닝보	I-LOC
+시	I-LOC
+)	I-LOC
+
+또한	O
+양	O
+끝에	O
+출구	O
+1번	O
+출구와	O
+3번	O
+출구가	O
+있어	O
+양쪽	O
+승강장	B-ORG
+운임	O
+구역이	O
+분리되어	O
+있다	O
+.	O
+
+빈	B-LOC
+(	O
+개최	O
+포기	O
+)	O
+
+필리프	B-PER
+카살리차	I-PER
+/	I-PER
+카사	I-PER
+(	O
+2014년–2015년	O
+울산	B-ORG
+현대	I-ORG
+)	O
+
+95.1	O
+북부	O
+이라크	B-LOC
+파견	O
+.	O
+
+벨그라노	B-LOC
+동	I-LOC
+(	O
+Belgrano	O
+)	O
+(	O
+138,942	O
+)	O
+
+신애라	B-PER
+강부자	B-PER
+김보연	B-PER
+
+파리에서	B-LOC
+9.6km	O
+정도	O
+떨어진	O
+곳에	O
+위치한다	O
+.	O
+
+서로	O
+네트워크로	O
+연결되어	O
+있는	O
+단말기에	B-ORG
+접속한	O
+모든	O
+사람은	O
+입력	O
+장치를	O
+통해	O
+컴퓨터를	O
+이용할	O
+수	O
+있다	O
+.	O
+
+기타나고야	B-LOC
+시	I-LOC
+(	O
+)	O
+
+전	O
+구간	O
+전라남도에	B-LOC
+속한다	O
+.	O
+
+임디나	B-LOC
+(	O
+Mdina	O
+)	O
+
+'	O
+''	O
+양양연어축제	O
+''	O
+'는	O
+강원도	B-LOC
+양양군에서	B-LOC
+개최하는	O
+축전이다	O
+.	O
+
+롯데제과가	B-ORG
+벨기에의	B-LOC
+길리안사를	O
+인수합병하는	O
+데	O
+,	O
+스캐든을	O
+제치고	O
+법률자문	B-ORG
+계약을	O
+따냈다	O
+.	O
+
+적절한	O
+부존	O
+자원이	O
+있는	O
+나라에서	O
+생산하며	O
+'	O
+''	O
+헥셔	B-ORG
+올린재	I-ORG
+''	O
+'라고	O
+부르기도	O
+한다	O
+.	O
+
+수안군	B-LOC
+(	O
+遂安郡	O
+)	O
+
+임펄스가	O
+실시한	O
+설문	O
+조사에서	O
+고급	O
+세단으로서	B-LOC
+가장	O
+타고	O
+싶은	O
+차로	O
+선정되었다	O
+.	O
+
+아이스크림	B-ORG
+제조에	O
+사용된다	O
+.	O
+
+미니	B-PER
+마우스는	I-PER
+월트	B-ORG
+디즈니	I-ORG
+컴퍼니의	I-ORG
+캐릭터이다	O
+.	O
+
+대역체	B-ORG
+가	O
+주어졌다고	O
+하자	O
+.	O
+
+박성배	B-PER
+(	O
+84	O
+,	O
+119	O
+)	O
+
+모리	B-LOC
+정	I-LOC
+(	O
+)	O
+
+''	O
+멕시코	B-LOC
+''	O
+'	O
+
+의미는	O
+역곡역에서	B-ORG
+명칭을	O
+가져온	O
+것이다	O
+.	O
+
+유럽	B-ORG
+연합의	I-ORG
+깃발에는	O
+12개의	O
+별이	O
+그려져	O
+있다	O
+.	O
+
+동아시아	B-ORG
+정상회의	I-ORG
+(	O
+EAS	O
+)	O
+
+피렌체에서	B-LOC
+남서쪽	O
+90km	O
+,	O
+리보르노에서	B-LOC
+남동쪽	O
+50km	O
+거리에	O
+있다	O
+.	O
+
+텐징은	O
+또한	O
+인도	B-LOC
+아대륙의	I-LOC
+다양한	O
+지역의	O
+등정에	O
+참가하였다	O
+.	O
+
+그가	O
+태어난	O
+이듬해	O
+윤치영이	B-PER
+태어났는데	O
+,	O
+윤치영은	B-PER
+그의	O
+숙부였다	O
+.	O
+
+당시	O
+프랑스에서	B-LOC
+가장	O
+뛰어난	O
+화학자중	O
+한	O
+사람이었으며	O
+,	O
+그의	O
+강의는	O
+많은	O
+사람들에게서	O
+호평을	O
+받았다	O
+.	O
+
+이것은	O
+골지체에서	B-LOC
+만들어진다고	O
+한다	O
+.	O
+
+'	O
+''	O
+엘레나	B-PER
+케이건	I-PER
+''	O
+'	O
+
+이때문에	O
+공사	O
+도중	O
+13번이나	O
+낙반	B-LOC
+사고가	O
+일어났다	O
+.	O
+
+넘겨주기	O
+대현동	B-LOC
+(	I-LOC
+울산	I-LOC
+)	I-LOC
+
+피렌체에서	B-LOC
+남쪽으로	O
+100	O
+km	O
+,	O
+그로세토에서	B-LOC
+북쪽으로	O
+35km	O
+거리에	O
+있다	O
+.	O
+
+오미야를	O
+연고지로	O
+J리그에	B-ORG
+참가했다	O
+.	O
+
+프리드리히	B-PER
+부르크뮐러	I-PER
+(	O
+1806	O
+-	O
+1874	O
+)	O
+
+민주당은	B-ORG
+모든	O
+계층에	O
+대한	O
+전면	O
+무상급식을	O
+주장한다	O
+.	O
+
+2015-03-01	O
+대구교육대학교	B-ORG
+대용부설초등학교	O
+시지정	O
+(	O
+∼2018.02.28	O
+)	O
+
+'	O
+''	O
+휘성	B-PER
+2집	O
+''	O
+'	O
+
+모가미	B-PER
+요시아키	I-PER
+(	O
+)	O
+
+루이스	B-PER
+엔리케	I-PER
+마르티네스	I-PER
+가르시아	I-PER
+
+이택근	B-PER
+-	O
+활밴드	O
+'Forever	O
+Korea	O
+'	O
+
+음식은	O
+일반적으로	O
+다른	O
+북유럽의	B-LOC
+요리처럼	O
+간단하다	O
+.	O
+
+하비에르	B-PER
+마스체라노가	I-PER
+퇴장당한	O
+이후에는	O
+주장완장을	O
+착용하고	O
+경기에	O
+참여했다	O
+.	O
+
+1000균을	O
+들	O
+수	O
+있을	O
+정도로	O
+힘이	O
+장사였으며	O
+,	O
+명제	B-PER
+(	O
+明帝	O
+)	O
+의	O
+총애를	O
+받아	O
+늘	O
+잠자리를	O
+함께	O
+하였다	O
+.	O
+
+한국	B-LOC
+2년	O
+연속	O
+결승진출	O
+실패	O
+
+베이루트	B-LOC
+주	I-LOC
+(	O
+베이루트	B-LOC
+)	O
+
+일본에서는	B-LOC
+근대	O
+시대까지만	O
+하더라도	O
+학문이	O
+전혀	O
+발달되지	O
+않은	O
+미개한	O
+국가였다	O
+.	O
+
+레오네스	B-ORG
+델	I-ORG
+에스코기도	I-ORG
+(	O
+3	O
+)	O
+
+바위게상과	B-LOC
+(	O
+Grapsoidea	O
+)	O
+
+그리고	O
+목포시와	B-LOC
+영암군이	B-LOC
+도로로	O
+연결돼	O
+교통이	O
+편리해졌으며	O
+수자원	O
+확보도	O
+대폭	O
+증가했다	O
+.	O
+
+다스	B-PER
+베이더를	I-PER
+연기한	O
+것으로	O
+잘	O
+알려져	O
+있다	O
+.	O
+
+3569	O
+16	O
+-	O
+롯데카드	B-ORG
+(	O
+법인	O
+)	O
+
+**	O
+송승준	B-PER
+(	O
+4년	O
+총액	O
+40억원으로	O
+롯데	B-ORG
+자이언츠	I-ORG
+잔류	O
+)	O
+
+데이비드	B-PER
+그로스	I-PER
+(	O
+1941-	O
+)	O
+
+**	O
+긴목장어과	B-LOC
+(	O
+Derichthyidae	O
+)	O
+
+''	O
+유니언	B-ORG
+역	I-ORG
+(	I-ORG
+토론토	I-ORG
+)	I-ORG
+''	O
+'은	O
+토론토에	B-LOC
+위치한	O
+기차역이다	O
+.	O
+
+브렌트우드	B-LOC
+(	I-LOC
+캘리포니아	I-LOC
+주	I-LOC
+)	I-LOC
+
+소재지는	O
+오늘날의	O
+허베이	B-LOC
+성	I-LOC
+싱타이	B-LOC
+시이다	I-LOC
+.	O
+
+**	O
+이복	O
+삼촌	O
+오토	B-PER
+2세	I-PER
+
+아르헨티나는	O
+그	O
+해에	O
+포클랜드	B-LOC
+제도라는	I-LOC
+것을	O
+만들어	O
+,	O
+포클랜드가	O
+자신의	O
+영토임을	O
+입증하였다	O
+.	O
+
+유명세가	O
+커지면서	O
+고시니는	O
+한번에	O
+여러	O
+작업을	O
+맡게	O
+되는데	O
+우데르조와의	O
+아스테릭스’시리즈	B-PER
+작업을	O
+진행하는	O
+동시에	O
+상페와	O
+‘꼬마	O
+나콜라’시리즈를	O
+이어	O
+나갔으며	O
+.	O
+
+블라디미르	B-PER
+푸틴	I-PER
+대통령에	O
+의해	O
+개회가	O
+선언되었다	O
+.	O
+
+아래로	O
+향한	O
+입과	O
+그	O
+곳에	O
+이어지는	O
+장	B-ORG
+(	O
+항문은	O
+없다	O
+)	O
+만이	O
+있다	O
+.	O
+
+하지만	O
+,	O
+클레멘테가	O
+보낸	O
+구호품은	O
+2번	O
+모두	O
+니카라과	B-LOC
+이재민들에게	O
+전달되지	O
+못했는데	O
+,	O
+그이유는	O
+푸에르토리코	B-LOC
+군대가	O
+중간에서	O
+부정착복하고	O
+가로챘기	O
+때문이었다	O
+.	O
+
+'	O
+''	O
+불가능의	O
+삼각정리	O
+(	O
+impossible	O
+trinity	O
+or	O
+trilemma	O
+)	O
+'	O
+''	O
+은	O
+먼델-플레밍	B-PER
+모형의	I-PER
+중요한	O
+정책점	O
+시사점이다	O
+.	O
+
+평안북도청	O
+소재지는	O
+신의주시이고	B-LOC
+,	O
+행정구역은	O
+3시	O
+22군이다	O
+.	O
+
+빌헬름	B-PER
+푸르트벵글러	I-PER
+(	O
+1922-1928	O
+)	O
+
+넘겨주기	O
+애덤	B-PER
+재멀	I-PER
+크레이그	I-PER
+
+**	O
+호스	B-LOC
+군	I-LOC
+노토	B-LOC
+정	I-LOC
+
+**	O
+인천교구	B-LOC
+(	O
+인천광역시와	B-LOC
+경기도	B-LOC
+부천시	B-LOC
+,	O
+김포시	B-LOC
+,	O
+시흥시	B-LOC
+일부	O
+,	O
+안산시	B-LOC
+대부도	B-LOC
+)	O
+
+는쟁이벌과와	B-LOC
+은주둥이벌과	B-LOC
+등을	O
+포함하여	O
+분류하기도	O
+한다	O
+.	O
+
+이집트	B-ORG
+제6왕조	I-ORG
+파라오들의	O
+이름이	O
+나열되어	O
+있다	O
+.	O
+
+피렌체에서	B-LOC
+남쪽	O
+150km	O
+,	O
+그로세토에서	B-LOC
+남쪽	O
+35km	O
+거리에	O
+있다	O
+.	O
+
+네야가와	B-LOC
+시	I-LOC
+(	O
+)	O
+
+맨디	B-PER
+패틴킨	I-PER
+-	O
+Saul	O
+Berenson	O
+
+오디션을	O
+본	O
+계기는	O
+몸이	O
+아플수록	O
+떨어질	O
+때	O
+,	O
+우연히	O
+본	O
+笑顔の君は太陽さ」의	B-ORG
+MV에	O
+힘을	O
+얻고	O
+그	O
+후	O
+``	O
+모닝구무스메。가	O
+되고	O
+싶다	O
+''	O
+고	O
+생각하게	O
+된	O
+곳에서	O
+딱	O
+새	O
+멤버를	O
+모집하는	O
+것을	O
+알어	O
+``	O
+지금	O
+밖에	O
+없어	O
+!	O
+
+뮤와	B-PER
+마찬가지로	O
+1글자로	O
+된	O
+이름을	O
+가지고	O
+있다	O
+.	O
+
+아르헨티나	B-LOC
+등	O
+과도	O
+대체적인	O
+우호	O
+관계이며	O
+,	O
+이	O
+밖에도	O
+미국와의	B-LOC
+관계도	O
+일방적	O
+외교를	O
+걷고	O
+있다	O
+.	O
+
+넘겨주기	O
+세계	B-ORG
+랠리	I-ORG
+선수권	I-ORG
+대회	I-ORG
+
+레돈다	B-LOC
+섬	I-LOC
+(	O
+1872-1981	O
+)	O
+
+라피엣	B-LOC
+(	I-LOC
+앨라배마	I-LOC
+주	I-LOC
+)	I-LOC
+
+나카소네	B-PER
+야스히로	I-PER
+(	O
+中曽根	O
+康弘	O
+)	O
+
+히이아카	B-ORG
+(	I-ORG
+위성	I-ORG
+)	I-ORG
+
+성균관대학교	B-ORG
+정치외교학과	O
+대학원	O
+석사	O
+
+'	O
+''	O
+몬테파트리아	O
+''	O
+'	O
+(	O
+)	O
+는	O
+칠레	B-LOC
+코킴보	B-LOC
+주	I-LOC
+리마리	B-LOC
+현의	I-LOC
+코무나이다	B-LOC
+.	O
+
+넘겨주기	O
+살바	B-PER
+키르	I-PER
+마야르디트	I-PER
+
+마이클	B-PER
+치클리스	I-PER
+-	O
+James	O
+Powell	O
+,	O
+Sr	O
+.	O
+
+English	O
+Bible	O
+Worship	O
+(	O
+토~일	O
+)	O
+(	O
+창원극동방송	B-ORG
+)	O
+
+이창동	B-PER
+(	O
+전도연	B-PER
+,	O
+송강호	B-PER
+)	O
+
+'	O
+''	O
+자아찾기	B-ORG
+''	O
+'	O
+(	O
+)	O
+
+'	O
+''	O
+망호리	O
+''	O
+'	O
+(	O
+望湖里	O
+)	O
+는	O
+다음	O
+지역에	O
+위치한	O
+대한민국의	B-LOC
+리이다	B-LOC
+.	O
+
+아르헨티나	B-ORG
+축구	I-ORG
+국가대표팀의	I-ORG
+일원으로서	O
+활약하기도	O
+했으며	O
+58경기에	O
+나왔다	O
+.	O
+
+이보영	B-PER
+-	O
+수경	O
+역	O
+
+**	O
+태백산맥	B-LOC
+(	O
+대한민국	B-LOC
+,	O
+조선민주주의인민공화국	B-LOC
+)	O
+
+함경남도	B-LOC
+고원군	B-LOC
+군래면의	O
+빈농가에서	O
+태어났다	O
+.	O
+
+실라이지치는	O
+한	O
+때	O
+,	O
+보스니아	B-LOC
+헤르체고비나의	I-LOC
+총리를	B-ORG
+지낸적이	O
+있다	O
+.	O
+
+조선	B-LOC
+(	O
+朝鮮	O
+)	O
+인조	B-PER
+(	O
+仁祖	O
+)	O
+18년	O
+
+산살바도르	B-LOC
+(	O
+1993	O
+)	O
+
+**	O
+오사카	B-LOC
+부	I-LOC
+사카이	B-LOC
+시	I-LOC
+사카이	B-LOC
+구에	I-LOC
+있는	O
+한와	B-ORG
+선의	I-ORG
+역	O
+.	O
+
+대경대학교	B-ORG
+실용음악과	O
+(	O
+졸업	O
+)	O
+
+파라과이]]	O
+''	O
+파라과이	B-LOC
+''	O
+'	O
+''	O
+'우승	O
+''	O
+'	O
+
+7인의	B-ORG
+나나	I-ORG
+(	O
+투니버스	B-ORG
+)	O
+-	O
+나나치	O
+
+넘겨주기	O
+스타드	B-ORG
+드	I-ORG
+주네브	I-ORG
+
+유명한	O
+해양생물학자인	O
+자크	B-PER
+쿠스토는	I-PER
+장완흉상어를	O
+상어중	O
+가장	O
+위험한	O
+종으로	O
+설명했다	O
+.	O
+
+엠블랙	B-ORG
+(	O
+특별	O
+출연	O
+)	O
+
+***	O
+회색관두루미	B-LOC
+또는	O
+횐볼관두루미	O
+(	O
+''Balearica	O
+regulorum	O
+''	O
+)	O
+
+케이트	B-PER
+블란쳇	I-PER
+-	O
+엘리자베스	B-PER
+1세	I-PER
+여왕	I-PER
+역	O
+
+아르헨티나와	B-LOC
+브라질	B-LOC
+남부	O
+그리고	O
+파라과이에서	B-LOC
+발견된다	O
+.	O
+
+페치	B-LOC
+(	O
+2009	O
+)	O
+
+이후	O
+서울고등학교와	B-ORG
+서울예술전문대학	B-ORG
+영화학과에	O
+진학한다	O
+.	O
+
+정부과천청사역	B-ORG
+,	O
+과천역	B-ORG
+,	O
+별양동	O
+,	O
+래미안슈르	O
+(	O
+옥탑골방향	O
+)	O
+,	O
+문원초중교	O
+,	O
+사기막골	O
+,	O
+구리안	O
+,	O
+세곡	O
+,	O
+가루개	O
+
+*장씨	O
+(	O
+40대	O
+후반	O
+)	O
+-	O
+고두심	B-PER
+
+영국령	B-LOC
+소말릴란드	I-LOC
+(	O
+1940-1941	O
+)	O
+
+장쭤린	B-PER
+(	O
+張作霖	O
+)	O
+,	O
+장쉐량	B-PER
+
+줄무늬하이에나	B-LOC
+(	O
+''Hyaena	O
+hyaena	O
+''	O
+)	O
+
+닌묘	B-PER
+천황	I-PER
+(	O
+仁明天皇	O
+)	O
+
+오렌지	B-ORG
+카운티	I-ORG
+레지스터나	I-ORG
+리켄배커와	B-ORG
+같은	O
+회사들의	O
+본사가	O
+위치하고	O
+있다	O
+.	O
+
+로칼	B-LOC
+섬이	I-LOC
+속한다고	O
+주장하고	O
+있다	O
+.	O
+
+1997	O
+크리스	B-PER
+휴턴	I-PER
+(	O
+감독대행	O
+)	O
+
+나인	B-ORG
+:	I-ORG
+아홉	I-ORG
+번의	I-ORG
+시간여행》	I-ORG
+
+Gordon	O
+Haight	O
+,	O
+조지	B-PER
+엘리엇	I-PER
+(	O
+''George	O
+Eliot	O
+''	O
+)	O
+
+넘겨주기	O
+2010년	B-ORG
+동계	I-ORG
+올림픽	I-ORG
+노르딕복합	I-ORG
+
+일본	B-LOC
+(	O
+1945-1950	O
+)	O
+
+***	O
+유린목	B-ORG
+(	O
+Pholidota	O
+)	O
+
+``	O
+탈라바	O
+''	O
+는	O
+아랍어로	B-ORG
+``	O
+학생	O
+''	O
+을	O
+뜻한다	O
+.	O
+
+84세의	O
+나이로	O
+플로리다	B-LOC
+주	I-LOC
+포트마이어스에서	B-LOC
+사망하였다	O
+.	O
+
+이	O
+곳에서	O
+프랑크푸르트	B-LOC
+시내가	O
+잘	O
+보인다	O
+.	O
+
+고려	B-PER
+희종	I-PER
+(	O
+高麗熙宗	O
+)	O
+
+**	O
+마리오	B-PER
+몬티	I-PER
+(	O
+2011	O
+~	O
+)	O
+
+역	O
+남부는	O
+가나가와	B-LOC
+현	I-LOC
+사가미하라	B-LOC
+시이다	I-LOC
+.	O
+
+결국	O
+그는	O
+잉글랜드	B-ORG
+축구	I-ORG
+국가대표팀을	I-ORG
+선택하였다	O
+.	O
+
+대표적인	O
+곳이	O
+사하라	B-LOC
+사막	I-LOC
+이며	O
+,	O
+고위도	O
+지방이	O
+강수량이	O
+적다	O
+.	O
+
+최수종	B-PER
+,	O
+유호정	B-PER
+,	O
+윤손하	B-PER
+,	O
+나문희	B-PER
+등	O
+
+넘겨주기	O
+대흥동	B-LOC
+(	I-LOC
+서울	I-LOC
+)	I-LOC
+
+'	O
+''	O
+이언	B-PER
+소프	I-PER
+''	O
+'	O
+
+넘겨주기	O
+콜레주	B-ORG
+드	I-ORG
+프랑스	I-ORG
+
+제주도에	B-ORG
+기습적인	O
+400mm의	O
+폭우가	O
+쏟아져	O
+큰	O
+피해를	O
+입었다	O
+.	O
+
+이후에도	O
+경인기차통학생	O
+모임을	O
+중심으로	O
+일본인	B-LOC
+학생과의	O
+싸움을	O
+주동하다	O
+고향인	O
+동래지역으로	O
+주거제한	O
+조치를	O
+받기도	O
+했다	O
+.	O
+
+옥타비아	B-PER
+스펜서	I-PER
+-	O
+오터턴	O
+부인	O
+
+쿠	B-ORG
+클럭스	I-ORG
+클랜	I-ORG
+비슷한	O
+복장을	O
+하고	O
+나타나	O
+청소년을	O
+계도한답시고	O
+삽질을	O
+한다	O
+.	O
+
+미국	B-LOC
+애틀랜타	B-LOC
+(	O
+1975	O
+)	O
+
+도치기	B-LOC
+현	I-LOC
+/	O
+우쓰노미야	B-LOC
+시	I-LOC
+
+양중	B-LOC
+시	I-LOC
+(	O
+扬中市	O
+)	O
+
+대한민국의	B-LOC
+18대	O
+대통령은	O
+박근혜이다	B-PER
+.	O
+
+동래구	B-LOC
+사직1·2·3동	O
+,	O
+연제구	B-LOC
+거제2·3·4동	O
+
+아라치노보	B-LOC
+시	I-LOC
+(	O
+Арачиново	O
+,	O
+Aračinovo	O
+)	O
+
+고려	B-ORG
+(	O
+高麗	O
+)	O
+문종	B-PER
+(	O
+文宗	O
+)	O
+27년	O
+
+입단	O
+소감에서	O
+그는	O
+베테랑	O
+수비수인	O
+송종국과	B-PER
+같은	O
+팀이	O
+되어	O
+영광이라고	O
+밝혔다	O
+.	O
+
+border]]	O
+''	O
+센다이	B-LOC
+시	I-LOC
+''	O
+'	O
+
+1차전에서	O
+기쿠치	B-PER
+유세이가	I-PER
+소속된	O
+이와테	B-LOC
+현의	I-LOC
+하나마키히가시	O
+고등학교와	O
+맞대결을	O
+펼쳤는데	O
+5회까지	O
+무실점으로	O
+호투했지만	O
+팀은	O
+패했다	O
+.	O
+
+**	O
+타청	B-ORG
+지구	I-ORG
+(	O
+塔城地区	O
+)	O
+
+아쿠미	B-LOC
+군	I-LOC
+(	O
+)	O
+
+알아인	B-LOC
+문화유적	O
+(	O
+2011	O
+)	O
+
+미소의	B-ORG
+세상	I-ORG
+(	O
+투니버스	B-ORG
+)	O
+-	O
+조은이	O
+선생님	O
+,	O
+수진	O
+
+원	B-PER
+(	O
+元	O
+)	O
+혜종	B-PER
+(	O
+惠宗	O
+)	O
+19년	O
+
+일부에서는	O
+그가	O
+공산당	B-ORG
+대변인이	O
+되었다는	O
+주장까지	O
+나왔다	O
+.	O
+
+또한	O
+이곳은	O
+대한민국	B-LOC
+전체에서	O
+공시지가가	O
+가장	O
+높은	O
+지역이기도	O
+하다	O
+.	O
+
+콜루슈	B-PER
+(	O
+Coluche	O
+)	O
+
+*****	O
+오르나투스티티	B-LOC
+(	O
+''Callicebus	O
+(	O
+Callicebus	O
+)	O
+ornatus	O
+''	O
+)	O
+
+1986년	B-ORG
+-	O
+대	O
+(	O
+6-0	O
+)	O
+
+'	O
+''	O
+허저	B-PER
+''	O
+'	O
+(	O
+許褚	O
+)	O
+는	O
+위의	B-LOC
+장수이다	O
+.	O
+
+넘겨주기	O
+릭	B-PER
+판	I-PER
+데르	I-PER
+펜	I-PER
+
+발해시대	B-LOC
+부여부의	O
+선주에	O
+속해있었다	O
+.	O
+
+**	O
+'	O
+''	O
+라오스	B-LOC
+''	O
+'	O
+1개	O
+
+대표는	O
+이순규이며	O
+,	O
+현재	O
+서울특별시	B-LOC
+강북구	B-LOC
+송중동	O
+103에	O
+위치하고	O
+있다	O
+.	O
+
+광진구청]]	O
+,	O
+용마산역	B-ORG
+,	O
+동원시장	O
+,	O
+상봉역	B-ORG
+
+보케오	B-LOC
+(	I-LOC
+버깨우	I-LOC
+)	I-LOC
+주	I-LOC
+(	O
+Bokeo	O
+)	O
+
+마다가스카르	B-LOC
+(	O
+1896-1960	O
+)	O
+
+===	O
+7집	O
+Ruby	B-ORG
+Sapphire	I-ORG
+Diamond》	I-ORG
+===	O
+
+욱일	O
+문양은	O
+아사히	B-ORG
+맥주의	I-ORG
+캔맥주	O
+같은	O
+상품	O
+라벨에서도	O
+볼	O
+수	O
+있다	O
+.	O
+
+이	O
+철도역은	O
+경치좋은	O
+컴브리안	B-ORG
+코스트	I-ORG
+선을	I-ORG
+따라	O
+연결되어	O
+있는	O
+기차역중	O
+하나며	O
+,	O
+이	O
+역엔	O
+종종	O
+Furness선의	O
+기차도	O
+서기도	O
+한다	O
+.	O
+
+넘겨주기	O
+랜덤	B-PER
+!	I-PER
+카툰스	I-PER
+
+창경궁을	B-ORG
+창경원으로	O
+격하시킨	O
+뒤	O
+,	O
+창경원	O
+남쪽	O
+(	O
+아래쪽	O
+)	O
+에	O
+있다	O
+해서	O
+붙였다	O
+.	O
+
+부르고뉴	B-LOC
+지역은	O
+길이가	O
+250km이다	O
+.	O
+
+구라시키	B-LOC
+시	I-LOC
+,	O
+가사오카	B-LOC
+시	I-LOC
+,	O
+이바라	B-LOC
+시	I-LOC
+,	O
+소자	B-ORG
+시	I-ORG
+,	O
+아사쿠치	B-ORG
+시	I-ORG
+
+펜실베이니아	B-LOC
+주	I-LOC
+피츠버그에서	B-LOC
+80km	O
+정도	O
+떨어진	O
+거리에있다	O
+.	O
+
+전화통화	O
+-	O
+동방신기	B-ORG
+유노윤호	B-PER
+,	O
+장근석	B-PER
+,	O
+김신영	B-PER
+,	O
+전혜빈	B-PER
+,	O
+김동완	B-PER
+
+**	O
+서울특별시	B-LOC
+동대문구	B-LOC
+,	O
+서초구	B-LOC
+,	O
+성북구	B-LOC
+,	O
+용산구	B-LOC
+
+)	O
+는	O
+고구려의	B-LOC
+장수이다	O
+.	O
+
+나기소	B-LOC
+정	I-LOC
+(	O
+)	O
+
+제이슨	B-PER
+알렉산더	I-PER
+-	O
+George	O
+Costanza	O
+
+전라북도	B-LOC
+익산시	B-LOC
+(	O
+1편	O
+)	O
+
+다음	O
+경기의	O
+뉴잉글랜드	B-ORG
+레벌루션	I-ORG
+전에서는	O
+부상의	O
+악화	O
+우려로	O
+벤치에서	O
+경기를	O
+지켜봐야	O
+했다	O
+.	O
+
+세라	B-PER
+개던	I-PER
+-	O
+미레나	O
+역	O
+
+원래	O
+그는	O
+처음	O
+악기를	O
+배운게	O
+피아노였다	B-ORG
+.	O
+
+;	O
+'	O
+''	O
+아시아	B-LOC
+''	O
+'	O
+
+부산광역시	B-LOC
+수영구	B-LOC
+(	O
+1편	O
+)	O
+
+요코제	B-LOC
+정	I-LOC
+(	O
+)	O
+
+넘겨주기	O
+헨드릭	B-PER
+안토니	I-PER
+크라머르스	I-PER
+
+청년층과의	O
+대화	O
+,	O
+담론을	O
+좋아했던	O
+그는	O
+청년들의	O
+집에	O
+직접	O
+찾아가기까지	O
+했는데	O
+,	O
+그는	O
+조병옥	B-PER
+,	O
+장택상	B-PER
+,	O
+허정	B-PER
+,	O
+윤치영	B-PER
+등을	O
+비롯한	O
+재미	O
+유학생들을	O
+직접	O
+찾아다녔다	O
+.	O
+
+또	O
+1957년이래	O
+처음으로	O
+할레에서	B-LOC
+지역구	O
+당선자를	O
+배출하기도	O
+했다	O
+.	O
+
+시호는	B-PER
+문정	O
+(	O
+文靖	O
+)	O
+이다	O
+.	O
+
+나가쿠라	B-PER
+신파치	I-PER
+(	O
+)	O
+
+최불암	B-PER
+-	O
+문석천	O
+역	O
+
+특히	O
+리오넬	B-PER
+메시를	I-PER
+중심으로	O
+각	O
+선수들	O
+개개인간	O
+협력플레이를	O
+중요시하는	O
+알레한드로	B-PER
+사벨라감독에게	I-PER
+있어서	O
+테베스같은	O
+선수는	O
+있는것보다	O
+없는	O
+게	O
+더	O
+낫다	O
+.	O
+
+넘겨주기	O
+남현동	B-LOC
+(	I-LOC
+서울	I-LOC
+)	I-LOC
+
+스리랑카	B-LOC
+-	O
+''The	O
+Island	O
+(	O
+Sri	O
+Lanka	O
+)	O
+''	O
+
+라숀	B-PER
+메릿	I-PER
+(	O
+대주자	O
+)	O
+제러미	B-PER
+워리너	I-PER
+(	O
+대주자	O
+)	O
+
+안동이나	O
+영덕으로	B-LOC
+가려면	O
+험난한	O
+지방도를	O
+이용해야	O
+한다	O
+.	O
+
+이광수	B-PER
+-	O
+막문	O
+역	O
+(	O
+특별출연	O
+)	O
+
+장익	B-PER
+백공	O
+(	O
+伯恭	O
+)	O
+
+'	O
+''	O
+루이스	B-PER
+피구	I-PER
+''	O
+'	O
+
+넘겨주기	O
+고주파	B-ORG
+오로라	I-ORG
+활동	I-ORG
+연구	I-ORG
+프로그램	I-ORG
+
+김제동	B-PER
+,	O
+신정환	B-PER
+,	O
+2AM	B-ORG
+조권	B-PER
+,	O
+슈퍼주니어	B-ORG
+신동이	B-PER
+누웠는데	O
+무서워서	O
+벌벌	O
+떨어서	O
+비명을	O
+지르기도	O
+했다	O
+.	O
+
+히가시무로란	B-ORG
+역에서	I-ORG
+무로란	B-ORG
+역에	I-ORG
+이르는	O
+지선을	O
+포함한다	O
+.	O
+
+뒤이어	O
+오재원의	B-PER
+3루타와	O
+민병헌의	B-PER
+적시타로	O
+8회에만	O
+3점을	O
+뽑아내며	O
+승리를	O
+가져갔다	O
+.	O
+
+'	O
+''	O
+김포시	B-LOC
+''	O
+'	O
+
+양천구	B-LOC
+-	O
+영등포구	B-LOC
+-	O
+구로구	B-LOC
+/	O
+영등포구	B-LOC
+
+'	O
+''	O
+바트아이블링	O
+''	O
+'	O
+(	O
+)	O
+은	O
+독일	B-LOC
+바이에른	B-LOC
+주의	I-LOC
+도시이다	O
+.	O
+
+그러나	O
+새로운	O
+사람들이	O
+집행부로	O
+들어오게	O
+되면서	O
+새로운	O
+아이디어를	O
+폭넓게	O
+수용하였고	O
+,	O
+이	O
+과정에서	O
+교원	O
+들에게	O
+이탈리아	B-LOC
+최고의	O
+학교	O
+교육과정을	O
+도입하는	O
+것을	O
+독려하였다	O
+.	O
+
+영국령	B-LOC
+인도양	I-LOC
+지역	I-LOC
+(	O
+1810-	O
+)	O
+
+윤현상	B-PER
+-	O
+`	O
+언제쯤이면	O
+(	O
+Duet	O
+.	O
+
+'	O
+''	O
+남아프리카	B-LOC
+연방	I-LOC
+''	O
+'	O
+
+'	O
+''	O
+사마의	B-PER
+''	O
+'	O
+
+그리스-터키	B-ORG
+전쟁	I-ORG
+(	I-ORG
+1919년	I-ORG
+~	I-ORG
+1922년	I-ORG
+)	I-ORG
+
+사키-Saki-	B-ORG
+(	O
+'	O
+''	O
+하라무라	O
+노도카	O
+''	O
+'	O
+)	O
+
+현재는	O
+러시아	B-ORG
+프리미어리그에	I-ORG
+참가하고	O
+있다	O
+.	O
+
+넘겨주기	O
+페드로	B-PER
+필립	I-PER
+안투네스	I-PER
+마티아스	I-PER
+실바	I-PER
+프랑코	I-PER
+
+런던에서는	B-LOC
+일찍부터	O
+시민계급에서	O
+음악회가	O
+개최되었다	O
+.	O
+
+그곳에서	O
+그는	O
+스승	O
+조지	B-PER
+와이스와	I-PER
+친분을	O
+다졌다	O
+.	O
+
+국왕을	O
+축출한	O
+것에	O
+대해	O
+오스트리아와	B-LOC
+영국	B-LOC
+,	O
+프로이센	B-LOC
+등은	O
+민감하게	O
+대응하였다	O
+.	O
+
+찬란한	B-ORG
+유산	I-ORG
+(	O
+'	O
+''	O
+선우환	O
+''	O
+'	O
+)	O
+
+대표작은	O
+어떤	B-ORG
+과학의	I-ORG
+초전자포	I-ORG
+.	O
+
+내동	O
+(	O
+산업길사거리	O
+)	O
+~	O
+내동사거리	O
+구간과	O
+전화국사거리	O
+~	O
+심곡고가사거리	O
+구간은	O
+국도	B-ORG
+제39호선의	I-ORG
+일부이다	O
+.	O
+
+미국	B-LOC
+조지	B-ORG
+워싱턴	I-ORG
+대학교	I-ORG
+대학원	O
+법학석사	O
+
+아이치	B-LOC
+현	I-LOC
+고마키	B-ORG
+시	I-ORG
+
+라고스는	B-LOC
+나이지리아의	B-LOC
+최대	O
+도시이다	O
+.	O
+
+'	O
+''	O
+Beautiful	B-ORG
+(	O
+comfortable	O
+ver	O
+.	O
+
+홍콩	B-LOC
+,	O
+마카오의	B-LOC
+특별행정구는	B-ORG
+이	O
+정책에서	O
+완전히	O
+제외된다	O
+.	O
+
+**	O
+시라하마	B-LOC
+정	I-LOC
+(	O
+)	O
+,	O
+가미톤다	B-LOC
+정	I-LOC
+(	O
+)	O
+,	O
+스사미	B-LOC
+정	I-LOC
+(	O
+)	O
+
+지금의	O
+차드	B-LOC
+,	O
+중앙아프리카	B-LOC
+공화국	I-LOC
+,	O
+콩고	B-LOC
+공화국	I-LOC
+,	O
+가봉을	B-LOC
+이른다	O
+.	O
+
+'	O
+''	O
+재아	O
+''	O
+'	O
+(	O
+宰我	O
+)	O
+는	O
+,	O
+공자	B-PER
+(	O
+孔子	O
+)	O
+의	O
+문인이다	O
+.	O
+
+사이	B-LOC
+촌	I-LOC
+(	O
+)	O
+
+오난	B-LOC
+정	I-LOC
+(	O
+)	O
+
+사이타마	B-LOC
+현	I-LOC
+와라비	B-LOC
+시	I-LOC
+출신이며	O
+,	O
+5살	O
+때	O
+극단	O
+와카쿠사에	O
+들어가며	O
+활동을	O
+시작했다	O
+.	O
+
+중국	B-LOC
+후난	B-LOC
+성	I-LOC
+창사	B-LOC
+제1사범학교	O
+졸업	O
+
+)	O
+으로	O
+진화시키는	O
+데에	O
+성공한	O
+죠르노에게	O
+도전하지만	O
+G.E.R.의	O
+'상대의	O
+공격	O
+동작이나	O
+의지를	O
+모두	O
+제로로	O
+돌려버리는'능력에	O
+의해	O
+'시간삭제'의	O
+능력은커녕	O
+의지나	O
+동작마저	O
+제로가	O
+되어	O
+무력화되었고	O
+,	O
+그	O
+직후에	O
+날아	O
+들어온	O
+무다무다	O
+러쉬에	O
+의해	O
+테베레	B-LOC
+강에	I-LOC
+나가	O
+떨어지며	O
+패배한다	O
+.	O
+
+인종	B-PER
+즉위	O
+후	O
+이언적은	B-PER
+그를	O
+초빙하려	O
+하였지만	O
+사양하였다	O
+.	O
+
+*2회	O
+기일	B-PER
+(	O
+J.s.Gale	O
+)	O
+
+원정이	O
+패배로	O
+끝난	O
+후	O
+안티오코스는	O
+달아나야	O
+했지만	O
+오론테스	B-LOC
+강을	I-LOC
+말을	O
+타고	O
+건너려	O
+하다가	O
+익사하였다	O
+.	O
+
+라스트	B-ORG
+리조트	I-ORG
+(	I-ORG
+드라마	I-ORG
+)	I-ORG
+
+**	O
+영화부문	O
+최우수여자연기상	O
+-	O
+김지미	B-PER
+
+런	B-LOC
+현	I-LOC
+(	O
+任	O
+县	O
+)	O
+
+FC	B-ORG
+바니크	I-ORG
+오스트라바	I-ORG
+
+넘겨주기	O
+게버하르트	B-PER
+(	I-PER
+로트링겐	I-PER
+공작	I-PER
+)	I-PER
+
+넘겨주기	O
+스웨덴	B-ORG
+영화	I-ORG
+협회	I-ORG
+
+미국의	B-LOC
+첫	O
+번째	O
+대통령은	O
+조지	B-PER
+워싱턴이다	I-PER
+.	O
+
+이	O
+정리는	O
+유클리드	B-ORG
+평면에서	I-ORG
+다음과	O
+같이	O
+쓸	O
+수	O
+있다	O
+.	O
+
+다	B-ORG
+!	I-ORG
+다	B-ORG
+!	I-ORG
+다	B-ORG
+!	I-ORG
+(	O
+투니버스	B-ORG
+)	O
+-	O
+'	O
+''	O
+민우주	O
+''	O
+'	O
+
+코르사주	B-PER
+-	O
+목에서	O
+허리까지	O
+덮는다	O
+.	O
+
+바렌츠	B-LOC
+해는	I-LOC
+그의	O
+이름을	O
+딴	O
+것이다	O
+.	O
+
+Gray	B-PER
+,	I-PER
+J.E	I-PER
+.	I-PER
+1827	O
+.	O
+
+남편	O
+혜종과의	B-PER
+사이에서	O
+자녀는	O
+없었다	O
+.	O
+
+넘겨주기	O
+에바에베르송	B-PER
+레무스	I-PER
+다	I-PER
+시우바	I-PER
+
+공동	O
+MC	O
+(	O
+서효림과	B-PER
+공동	O
+진행	O
+)	O
+
+볼프강	B-PER
+아마데우스	I-PER
+모차르트	I-PER
+(	O
+1756–1791	O
+)	O
+
+중화인민공화국과	B-LOC
+타이에	B-LOC
+포맷이	O
+정식으로	O
+판매됐다	O
+.	O
+
+유위	B-LOC
+현	I-LOC
+(	O
+右玉县	O
+)	O
+
+그밖에	O
+자유당의	B-ORG
+선전부장과	O
+민주공화당	B-ORG
+선거대책위원장	O
+,	O
+공화당	B-ORG
+상임고문	O
+등을	O
+지냈다	O
+.	O
+
+'	O
+''	O
+7집	O
+Ride	B-ORG
+West	I-ORG
+''	O
+'	O
+
+베테가는	O
+움베르토	B-PER
+아녤리가	I-PER
+그에게	O
+부회장직	O
+(	O
+vice-president	O
+)	O
+을	O
+요청하면서	O
+,	O
+클럽에	O
+돌아오게	O
+되었다	O
+.	O
+
+테레즈는	O
+베르사유를	B-LOC
+떠나	O
+퐁드브로에서	O
+죽을	O
+때까지	O
+부모의	O
+얼굴을	O
+보지	O
+못했다	O
+.	O
+
+33라운드까지	O
+바이에른은	O
+샬케	B-ORG
+04보다	I-ORG
+승점	O
+3점을	O
+적립했으나	O
+,	O
+골득실에서	O
+밀렸다	O
+.	O
+
+동부의	O
+푸옌	B-LOC
+성에서도	I-LOC
+3명의	O
+학생들이	O
+해안에서	O
+놀다가	O
+실종되었다	O
+.	O
+
+쑤이	B-ORG
+현	I-ORG
+(	O
+睢县	O
+)	O
+
+엔터테인먼트	B-ORG
+소프트웨어	I-ORG
+협회	I-ORG
+(	O
+Entertainment	O
+Software	O
+Association	O
+)	O
+
+넘겨주기	O
+지중해	B-ORG
+대학교	I-ORG
+연합	I-ORG
+
+또한	O
+터키가	B-ORG
+깜짝	O
+3위를	O
+기록하였고	O
+,	O
+공동	O
+개최국	O
+대한민국은	B-ORG
+포르투갈	B-ORG
+,	O
+이탈리아	B-ORG
+,	O
+그리고	O
+스페인을	B-ORG
+차례로	O
+무너뜨리고	O
+준결승전까지	O
+진출하였다	O
+.	O
+
+당	B-LOC
+(	O
+唐	O
+)	O
+덕종	B-PER
+(	O
+德宗	O
+)	O
+원년	O
+
+알데르베이럴트는	O
+2주차에	O
+헤이렌베인전에서도	B-ORG
+골을	O
+넣으며	O
+훌륭한	O
+공격력을	O
+선보였다	O
+.	O
+
+'	O
+''	O
+Oh	B-ORG
+My	I-ORG
+Love》	I-ORG
+(	O
+총1회	O
+)	O
+
+``	O
+'	O
+''	O
+Out	O
+of	O
+the	O
+Woods	O
+''	O
+'	O
+''	O
+는	O
+테일러	B-PER
+스위프트의	I-PER
+노래이다	O
+.	O
+
+*교통표지는	O
+지금까지	O
+이용해	O
+온	O
+것에	O
+약간의	O
+부가장치	O
+(	O
+附加裝置	O
+)	O
+를	O
+붙여둔	O
+것에	O
+불과하나	O
+,	O
+이	O
+특수장치에	O
+의하여	O
+빨강·파랑·노랑의	O
+신호의	O
+길이를	O
+정하기도	O
+하고	O
+,	O
+컴퓨터에서의	B-LOC
+전환지시에	O
+따라서	O
+전환을	O
+시키기도	O
+한다	O
+.	O
+
+자메이카	B-LOC
+(	I-LOC
+퀸스	I-LOC
+)	I-LOC
+
+조상]]	O
+(	O
+曹爽	O
+)	O
+,	O
+하후상	B-PER
+(	O
+夏侯尙	O
+)	O
+,	O
+하후현	B-PER
+(	O
+夏侯玄	O
+)	O
+
+2112년	B-ORG
+도라에몽의	I-ORG
+탄생의	I-ORG
+번외편에	O
+해당한다.이	O
+영화는	O
+러닝타임이	O
+30분인	O
+전작에	O
+비해	O
+러닝타임이	O
+절반	O
+정도인	O
+16분의	O
+짧은	O
+러닝타임을	O
+가지고	O
+있다	O
+.	O
+
+번시	B-LOC
+시	I-LOC
+(	O
+본계	O
+)	O
+
+남동쪽의	O
+수에즈	B-LOC
+운하를	I-LOC
+통하여	O
+홍해와	B-LOC
+연결된다	O
+.	O
+
+히로노	B-LOC
+정	I-LOC
+(	O
+)	O
+
+브렌던	B-PER
+로저스	I-PER
+감독이	O
+팀에	O
+승리를	O
+향한	O
+정신력을	O
+심어줬다	O
+.	O
+
+'	O
+''	O
+2.	B-ORG
+푸스발-분데스리가	I-ORG
+''	O
+'	O
+
+-	O
+Eygelshoven	O
+,	O
+네덜란드	B-LOC
+
+그녀는	O
+어릴적부터	O
+서태지와	B-ORG
+아이들의	I-ORG
+음악을	O
+들으며	O
+가수의	O
+꿈을	O
+키우기	O
+시작하였다	O
+.	O
+
+고방오리	B-LOC
+(	O
+''Anas	O
+acuta	O
+''	O
+)	O
+
+그는	O
+나폴레옹	B-PER
+보나파르트의	I-PER
+형제	O
+제롬	B-PER
+보나파르트의	I-PER
+후손이다	O
+.	O
+
+대구광역시	B-LOC
+달성군	B-LOC
+(	O
+결연일:2002년	O
+10월25일	O
+)	O
+
+조예가	O
+죽고	O
+조방	B-PER
+(	O
+曹芳	O
+)	O
+이	O
+즉위한	O
+후	O
+영군장군	O
+(	O
+領軍將軍	O
+)	O
+에	O
+임명되었고	O
+창릉정후	O
+(	O
+昌陵亭侯	O
+)	O
+에	O
+봉해졌다	O
+.	O
+
+그는	O
+몬테네그로	B-ORG
+축구	I-ORG
+국가대표팀의	I-ORG
+일원으로서	O
+활약하고	O
+있는데	O
+,	O
+36경기에	O
+나와	O
+14골을	O
+넣었다	O
+.	O
+
+포르투는	O
+16강전에서	O
+맨체스터	B-ORG
+Utd를	I-ORG
+만났다	O
+.	O
+
+'	O
+''	O
+육항	B-PER
+''	O
+'	O
+유절	O
+
+가마토리	B-ORG
+역이	I-ORG
+관리하는	O
+직영역으로	O
+,	O
+초록	O
+창구는	O
+오전	O
+6시부터	O
+오후	O
+9시까지	O
+영업한다	O
+.	O
+
+제이훈]]	O
+(	O
+30	O
+)	O
+,	O
+구경현	B-PER
+(	O
+89	O
+)	O
+
+독일	B-ORG
+여자	I-ORG
+축구	I-ORG
+국가대표팀	I-ORG
+
+**	O
+창고기속	B-LOC
+(	O
+''Branchiostoma	O
+''	O
+)	O
+Costa	O
+,	O
+1834	O
+
+''	O
+'최고점	O
+''	O
+'	O
+—	O
+아닉	B-LOC
+산	I-LOC
+(	O
+1,933	O
+m	O
+—	O
+)	O
+.	O
+
+이	O
+경기장은	O
+2006년	B-ORG
+FIFA	I-ORG
+월드컵의	I-ORG
+12개	O
+개최지	O
+가운데	O
+하나였다	O
+.	O
+
+'	O
+''	O
+스코틀랜드	B-ORG
+풋볼	I-ORG
+리그	I-ORG
+1부	I-ORG
+''	O
+'	O
+우승	O
+4회	O
+(	O
+1953	O
+,	O
+1958	O
+,	O
+1961	O
+,	O
+1965	O
+)	O
+
+2번째	O
+배우자는	O
+김지미이다	B-PER
+.	O
+
+다만	O
+역사의	O
+동쪽	O
+부분은	O
+아카시	B-LOC
+시에	I-LOC
+걸쳐	O
+있다	O
+.	O
+
+그리스는	B-LOC
+유럽	B-LOC
+남부	O
+,	O
+발칸	B-LOC
+반도	I-LOC
+남쪽	O
+끝에	O
+자리잡고	O
+있다	O
+.	O
+
+이적]]	O
+,	O
+정재형	B-PER
+,	O
+장기하	B-PER
+,	O
+루시드	B-PER
+폴	I-PER
+,	O
+장윤주	B-PER
+
+다음은	O
+'	O
+''	O
+EXO	B-ORG
+''	O
+'의	O
+'	O
+''	O
+수상	O
+내역	O
+''	O
+'	O
+목록이다	O
+.	O
+
+시부타니	B-PER
+스바루와	I-PER
+같은	O
+오디션이었다	O
+.	O
+
+웡안	B-LOC
+현	I-LOC
+(	O
+瓮安县	O
+)	O
+
+넘겨주기	O
+베를린	B-ORG
+훔볼트	I-ORG
+대학교	I-ORG
+
+이	O
+이름을	O
+가진	O
+일본	B-ORG
+제국	I-ORG
+해군의	I-ORG
+함선으로는	O
+세번째	O
+함이다	O
+.	O
+
+넘겨주기	O
+오스트레일리아	B-ORG
+여자	I-ORG
+축구	I-ORG
+국가대표팀	I-ORG
+
+'	O
+''	O
+다문리	O
+''	O
+'는	O
+다음	O
+지역에	O
+위치한	O
+대한민국의	B-LOC
+리이다	B-LOC
+.	O
+
+그리고	O
+연방총리로	O
+앙겔라	B-PER
+메르켈을	I-PER
+재선출했다	O
+.	O
+
+양상문	B-PER
+(	O
+선발	O
+/	O
+11승	O
+4패	O
+)	O
+
+**	O
+포트모르즈비	B-LOC
+(	O
+고등판무관	O
+사무소	O
+)	O
+
+탄탈로스의	B-PER
+아들이자	O
+히포다메이아의	B-PER
+남편이다	O
+.	O
+
+빅쇼트	B-ORG
+(	O
+파라마운트	B-ORG
+픽쳐스	I-ORG
+,	O
+리젠시	B-ORG
+엔터프라이즈	I-ORG
+제공	O
+,	O
+플랜	B-ORG
+B	I-ORG
+엔터테인먼트	I-ORG
+제작	O
+)	O
+
+넘겨주기	O
+세네갈의	B-ORG
+대통령	I-ORG
+목록	I-ORG
+
+border]]	O
+'	O
+''	O
+아키타	B-LOC
+시	I-LOC
+''	O
+'	O
+
+금	B-LOC
+(	O
+金	O
+)	O
+정대	O
+(	O
+正大	O
+)	O
+7년	O
+
+심지어	O
+판테온	B-ORG
+내부	O
+천장에서	O
+수십	O
+톤의	O
+청동을	O
+떼어와야	O
+할	O
+정도였다	O
+한다	O
+.	O
+
+한편	O
+,	O
+갈라스로부터	O
+주장직을	O
+물려받아	O
+새로운	O
+주장이	O
+된	O
+선수는	O
+세스크	B-PER
+파브레가스이다	I-PER
+.	O
+
+넘겨주기	O
+월간	B-ORG
+코믹	I-ORG
+전격	I-ORG
+대왕	I-ORG
+
+앤서니	B-PER
+대니얼스	I-PER
+-	O
+C-3PO	B-PER
+역	O
+(	O
+목소리	O
+)	O
+
+앨리슨과	B-ORG
+리리아	I-ORG
+(	O
+니히토	O
+)	O
+
+수호이	B-ORG
+(	O
+러시아	B-LOC
+)	O
+
+넘겨주기	O
+강원도	B-LOC
+(	I-LOC
+남	I-LOC
+)	I-LOC
+
+스페인	B-LOC
+마드리드	B-LOC
+지방	I-LOC
+알칼라데에나레스	B-LOC
+
+***	O
+샛비늘치목	B-LOC
+(	O
+Myctophiformes	O
+)	O
+
+러시아	B-LOC
+,	O
+베트남	B-LOC
+,	O
+인도네시아가	B-LOC
+사용중이다	O
+.	O
+
+제10군	B-ORG
+(	I-ORG
+미국	I-ORG
+)	I-ORG
+
+이에	O
+국방부는	B-ORG
+보직변경	O
+불가	O
+판정을	O
+내렸다	O
+.	O
+
+과거	O
+WNBA	B-ORG
+시카고	B-ORG
+스카이의	I-ORG
+홈경기장으로	O
+사용되고	O
+있다	O
+.	O
+
+사마의	B-PER
+(	O
+司馬懿	O
+,	O
+책략가	O
+)	O
+
+제이슨은	O
+이	O
+때	O
+옆	O
+집에	O
+살던	O
+친구와	O
+라이프하우스	B-ORG
+(	O
+원래는	O
+Blyss라는	O
+이름의	O
+밴드였다	O
+.	O
+
+브라질	B-ORG
+,	O
+1970년	B-ORG
+월드컵	I-ORG
+우승	O
+
+유벤투스	B-ORG
+FC	I-ORG
+(	O
+)	O
+
+말레이시아	B-LOC
+정부는	O
+피해가족들에게	O
+1300달러를	O
+투자해	O
+음식과	O
+,	O
+옷을	O
+주고	O
+부서진	O
+집을	O
+고쳐주었다	O
+.	O
+
+그리고	O
+4개	O
+그룹으로	O
+나뉜	O
+세군다	B-ORG
+디비시온	I-ORG
+B에서	I-ORG
+각	O
+그룹마다	O
+상위	O
+네	O
+팀이	O
+총	O
+16개	O
+팀이	O
+4개	O
+그룹으로	O
+나뉘어	O
+플레이오프를	O
+진행한다	O
+.	O
+
+**	O
+히가시이즈모	B-LOC
+정	I-LOC
+(	O
+)	O
+
+지단타	B-PER
+1세	I-PER
+(	O
+Zidanta	O
+I	O
+)	O
+제위	O
+.	O
+
+형가의	B-PER
+부장	O
+진무양의	B-PER
+조부이다	O
+.	O
+
+타라나키	B-LOC
+지방	I-LOC
+(	O
+Taranaki	O
+)	O
+
+세라	B-PER
+웨인	I-PER
+캘리스	I-PER
+-	O
+Joséphine	O
+
+이스탄불	B-LOC
+주	I-LOC
+(	O
+İstanbul	O
+İli	O
+)	O
+
+이사벨	B-ORG
+2세	I-ORG
+(	O
+ruled	O
+1861–1865	O
+)	O
+
+2015	O
+시즌을	O
+앞두고	O
+인천	B-ORG
+유나이티드로	I-ORG
+임대되어	O
+9경기	O
+출전하였다	O
+.	O
+
+'	O
+''	O
+안암	O
+(	O
+고대병원앞	O
+)	O
+역	O
+''	O
+'	O
+(	O
+安岩	O
+(	O
+高大病院앞	O
+)	O
+驛	O
+)	O
+은	O
+대한민국	B-LOC
+서울특별시	B-LOC
+성북구	B-LOC
+안암동5가에	O
+있는	O
+서울	B-ORG
+지하철	I-ORG
+6호선의	I-ORG
+지하철역이다	B-ORG
+.	O
+
+가고시마	B-LOC
+현	I-LOC
+·	O
+이즈미	B-LOC
+시	I-LOC
+·	O
+아쿠네	B-LOC
+시	I-LOC
+·	O
+사쓰마센다이	B-LOC
+시	I-LOC
+
+넘겨주기	O
+율리우스	B-PER
+로베르트	I-PER
+폰	I-PER
+마이어	I-PER
+
+국경을	O
+맞댄	O
+제국들은	O
+대한제국	B-ORG
+,	O
+청	B-LOC
+제국	I-LOC
+,	O
+러시아	B-LOC
+제국이다	I-LOC
+.	O
+
+니시무로	B-LOC
+군	I-LOC
+(	O
+)	O
+
+인도차이나호랑이	B-LOC
+(	O
+''panthera	O
+tigris	O
+corbetti	O
+''	O
+)	O
+
+닥터	B-ORG
+후》	I-ORG
+(	O
+48개	O
+에피소드	O
+,	O
+2005년~2008년	O
+)	O
+
+아마존닷컴	B-ORG
+(	O
+Amazon.com	O
+)	O
+
+이는	O
+음계산법을	B-ORG
+사용하여	O
+쉽게	O
+유도할	O
+수	O
+있다	O
+.	O
+
+앤디	B-PER
+로딕	I-PER
+(	O
+1	O
+)	O
+
+**	O
+계획중	O
+-	O
+연수구	B-LOC
+-	O
+중구	B-LOC
+-	O
+동구	B-LOC
+-	O
+서구	B-LOC
+
+이	O
+노선은	O
+현재의	O
+경전선의	B-ORG
+광주송정과	B-ORG
+진주	B-ORG
+간을	O
+현재와	O
+다른	O
+노선으로	O
+잇던	O
+노선이었다	O
+.	O
+
+키몬다는	O
+뉴욕	B-ORG
+증권거래소에	I-ORG
+상장되어	O
+있다	O
+.	O
+
+미나미	B-LOC
+구	I-LOC
+(	O
+南區	O
+)	O
+
+**	O
+브라질	B-LOC
+벨루오리존치에서	B-LOC
+고가도로가	O
+붕괴되어	O
+20여명이	O
+죽거나	O
+부상당하였다	O
+.	O
+
+그녀의	O
+저서들은	O
+블라바츠키	B-PER
+여사의	I-PER
+저서들에	O
+영향을	O
+받았다	O
+.	O
+
+오스트리아	B-LOC
+제1공화국	I-LOC
+(	O
+1929~1938	O
+)	O
+===	O
+
+산로렌소]]	O
+보카	B-ORG
+주니어스	I-ORG
+보카	B-ORG
+주니어스	I-ORG
+
+따라서	O
+한국의	B-LOC
+북쪽지방에	O
+더	O
+많이	O
+분포한다	O
+.	O
+
+세르비아인은	O
+약	O
+800만	O
+명	O
+정도가	O
+서부	O
+발칸	B-LOC
+반도에	I-LOC
+거주하고	O
+있다	O
+.	O
+
+넘겨주기	O
+장클로드	B-PER
+반	I-PER
+담	I-PER
+
+**	O
+페르킨수스과	B-LOC
+(	O
+Perkinsidae	O
+)	O
+
+현재의	O
+총리는	O
+마르크	B-PER
+뤼터이다	I-PER
+.	O
+
+'	O
+''	O
+대강리	O
+''	O
+'는	O
+다음	O
+지역에	O
+위치한	O
+대한민국의	B-LOC
+리이다	B-LOC
+.	O
+
+동아대학교	B-LOC
+문리대	O
+정경과	O
+졸업	O
+
+'2012	O
+TvN	B-ORG
+코리아	B-ORG
+갓	I-ORG
+탤런트	I-ORG
+시즌	O
+2	O
+'	O
+우승	O
+
+조선중앙통신사는	B-ORG
+황해남도	B-LOC
+,	O
+황해북도	B-LOC
+,	O
+함경남도	B-LOC
+,	O
+평안남도와	B-LOC
+남포특별시에	B-LOC
+108	O
+km	O
+/	O
+h	O
+(	O
+67	O
+mph	O
+)	O
+가	O
+넘는	O
+강풍이	O
+불었고	O
+함경북도	B-LOC
+김책시의	B-LOC
+해안가에서는	O
+1.11	O
+m	O
+(	O
+3.6	O
+ft	O
+)	O
+에	O
+달하는	O
+파도가	O
+덮쳤다고	O
+전했다	O
+.	O
+
+프랑스	B-ORG
+해군	I-ORG
+(	I-ORG
+Marine	I-ORG
+National	I-ORG
+/	I-ORG
+Ra	I-ORG
+Loyale	I-ORG
+)	I-ORG
+프랑스	B-LOC
+.	O
+
+특히	O
+이때	O
+여러	O
+유명	O
+뮤지션	O
+(	O
+제임스	B-PER
+블런트	I-PER
+,	O
+제이슨	B-PER
+므라즈	I-PER
+,	O
+비	B-PER
+외	O
+등등	O
+)	O
+들이	O
+출연하기도	O
+했다	O
+.	O
+
+엘바	B-LOC
+섬에	I-LOC
+위치해있으며	O
+,	O
+피렌체에서	B-LOC
+남서쪽	O
+140km	O
+,	O
+리보르노에서	B-LOC
+남쪽	O
+90km	O
+거리에	O
+있다	O
+.	O
+
+===	O
+데칸	B-LOC
+고원	I-LOC
+·	O
+남인도	B-LOC
+===	O
+
+이원수나	O
+사임당은	O
+자녀들	O
+중	O
+특히	O
+이이에	B-PER
+대한	O
+애정이	O
+각별했는데	O
+부부관계가	O
+원만하지	O
+않아	O
+,	O
+이이는	B-PER
+평생	O
+화목한	O
+가정에	O
+대한	O
+소망을	O
+가슴	O
+속에	O
+품고	O
+살았다	O
+.	O
+
+카잔에서	B-LOC
+동쪽으로	O
+225km지점에	O
+위치해	O
+있다	O
+.	O
+
+방패	O
+상단에는	O
+빅토리아	B-LOC
+호의	I-LOC
+물결	O
+무늬가	O
+그려져	O
+있다	O
+.	O
+
+초대	O
+임강왕	O
+공오의	B-PER
+아들이다	O
+.	O
+
+수호캐릭터	B-ORG
+두근두근	I-ORG
+(	O
+타이치	O
+)	O
+
+원래	O
+로마	B-LOC
+제국	I-LOC
+말기에	O
+시나이	B-LOC
+반도에	I-LOC
+사는	O
+유목민들을	O
+가리키는	O
+말이었다	O
+.	O
+
+Evolution	B-ORG
+(	I-ORG
+보이즈	I-ORG
+투	I-ORG
+멘의	I-ORG
+음반	I-ORG
+)	I-ORG
+
+그	O
+후	O
+미국에	B-LOC
+거주하였다	O
+.	O
+
+레오폴트	B-PER
+폰	I-PER
+다운	I-PER
+(	O
+Leopold	O
+von	O
+Daun	O
+)	O
+원수가	O
+지휘하는	O
+오스트리아군은	O
+뒤늦게	O
+도착하여	O
+라우돈의	O
+부대가	O
+패했다는	O
+것을	O
+알았다	O
+.	O
+
+'	O
+''	O
+이후엘라스	O
+''	O
+'	O
+(	O
+)	O
+는	O
+칠레	B-LOC
+발파라이소	B-LOC
+주	I-LOC
+키요타	B-LOC
+현의	I-LOC
+코무나이다	B-LOC
+.	O
+
+파이낸셜	B-ORG
+타임스에	I-ORG
+따르면	O
+스페인은	O
+서유럽인이	O
+가장	O
+선호하는	O
+이민국이기도	O
+하다	O
+.	O
+
+이후	O
+언더우드의	B-PER
+지원과	O
+함께	O
+아르바이트로	O
+학비를	O
+조달하기도	O
+했다	O
+.	O
+
+그	O
+결과로	O
+3위로	O
+시즌을	O
+끝마쳤으나	O
+아쉽게	O
+이스미언	B-ORG
+리그	I-ORG
+1부로의	O
+승격에는	O
+실패하였다	O
+.	O
+
+넘겨주기	O
+도트	B-ORG
+퍼	I-ORG
+인치	I-ORG
+
+히로시마	B-ORG
+역을	I-ORG
+중심으로	O
+다이어를	O
+짜	O
+,	O
+동역으로부터	O
+소요	O
+시간	O
+30	O
+-	O
+40	O
+분의	O
+구간이	O
+지역으로	O
+설정되어	O
+있다	O
+.	O
+
+앨런	B-PER
+파듀	I-PER
+(	O
+1987-1991	O
+)	O
+
+정치가로서는	O
+탁류	O
+(	O
+濁流	O
+)	O
+에	O
+속하였으며	O
+,	O
+친척	O
+조기	B-PER
+(	O
+趙岐	O
+)	O
+마저도	O
+만남을	O
+거절하는	O
+등	O
+청류파로부터	O
+경멸을	O
+받았다	O
+.	O
+
+총리로서	O
+가장	O
+중요한	O
+활동은	O
+캐나다	B-ORG
+은행의	I-ORG
+설립이었다	O
+.	O
+
+넘겨주기	O
+1904년	B-ORG
+하계	I-ORG
+올림픽	I-ORG
+수영	I-ORG
+남자	I-ORG
+200yd	I-ORG
+계영	I-ORG
+
+'	O
+''	O
+고즈케	B-LOC
+국	I-LOC
+''	O
+'	O
+(	O
+上野国	O
+,	O
+상야국	O
+)	O
+
+5310	O
+80	O
+-	O
+삼성카드	B-ORG
+
+페넥의	O
+심장은	B-ORG
+몸집에	O
+비해	O
+(	O
+그	O
+몸집에	O
+일반적으로	O
+요구되는	O
+크기에	O
+비해	O
+)	O
+40	O
+%	O
+가량	O
+더	O
+작다	O
+.	O
+
+36가선중	B-ORG
+한명이자	O
+신기대부	O
+(	O
+神祇大副	O
+)	O
+였던	O
+신관	O
+(	O
+神官	O
+)	O
+오나카토미노	B-PER
+요시노부	I-PER
+(	O
+大中臣能宣|おおなかとみの	O
+よしのぶ	O
+,	O
+대중신능선	O
+)	O
+의	O
+장남이다	O
+.	O
+
+스퀘어	B-ORG
+에닉스가	I-ORG
+주관하고	O
+있다	O
+.	O
+
+아이스크라우클레	B-LOC
+구	I-LOC
+(	O
+Aizkraukles	O
+rajons	O
+)	O
+
+요	B-LOC
+(	O
+遼	O
+)	O
+성종	B-PER
+(	O
+聖宗	O
+)	O
+6년	O
+
+**	O
+브리즈번	B-LOC
+(	O
+총영사관	O
+)	O
+
+여명의	B-ORG
+눈동자	I-ORG
+(	O
+MBC	B-ORG
+)	O
+
+아사기리	B-ORG
+역	I-ORG
+(	I-ORG
+효고	I-ORG
+현	I-ORG
+)	I-ORG
+(	O
+)	O
+
+사이프	B-PER
+앗딘	I-PER
+가지	I-PER
+2세	I-PER
+(	O
+1170~1180	O
+)	O
+
+미국	B-ORG
+항공우주국	I-ORG
+(	O
+NASA	O
+)	O
+
+미네소타	B-ORG
+대학교	I-ORG
+대학원	O
+수료	O
+
+9289	O
+킬로미터	O
+-	O
+시베리아	B-ORG
+횡단	I-ORG
+철도의	I-ORG
+길이	O
+
+싱가포르	B-ORG
+항공이	I-ORG
+49	O
+%	O
+지분을	O
+소유하고	O
+있으며	O
+또한	O
+타이의	B-LOC
+저가	B-PER
+항공사인	I-PER
+녹에어가	B-ORG
+51	O
+%	O
+의	O
+지분을	O
+보유하게	O
+된다	O
+.	O
+
+가말	B-PER
+압델	I-PER
+나세르	I-PER
+(	O
+나세르주의	B-ORG
+)	O
+
+Every	B-ORG
+Little	I-ORG
+Thing	I-ORG
+-	O
+스이미	O
+(	O
+)	O
+
+서던	B-ORG
+캘리포니아	I-ORG
+대학교	I-ORG
+Fine	O
+Arts	O
+&	O
+Graphic	O
+Design	O
+
+:3회까지	O
+양팀	O
+선발	O
+투수들의	O
+팽팽한	O
+투수전으로	O
+진행되던	O
+4회말	O
+1사	O
+후	O
+크리스	B-PER
+부첵이	I-PER
+최정에게	B-PER
+볼넷을	O
+허용하자	O
+롯데는	O
+1차전	O
+선발인	O
+장원준을	B-PER
+바로	O
+투입시키며	O
+승부수를	O
+띄웠다	O
+.	O
+
+파리에서	B-LOC
+10.8km	O
+정도	O
+떨어진	O
+곳에	O
+위치한다	O
+.	O
+
+애티튜드	B-ORG
+(	I-ORG
+잡지	I-ORG
+)	I-ORG
+
+히라노	B-PER
+아야가	I-PER
+게스트로	O
+출연했을	O
+때	O
+CD쟈켓을	O
+킁킁거리며	O
+「하아하아」	O
+하며	O
+숨을	O
+헐떡거리고	O
+말아	O
+,	O
+이후	O
+얘깃거리가	O
+되어	O
+있었는데	O
+,	O
+「아저씨화	O
+방지계획」을	O
+위해	O
+봉인되어버렸다	O
+.	O
+
+야스오카	B-LOC
+촌	I-LOC
+(	O
+)	O
+
+전거확인바람	O
+--	O
+>	O
+응룡은	O
+중국	B-LOC
+대륙	I-LOC
+남쪽	O
+끝에	O
+위치한	O
+공구산	O
+(	O
+恭丘山	O
+)	O
+에	O
+살고	O
+있었다고	O
+한다	O
+.	O
+
+제임스	B-PER
+울프는	I-PER
+그를	O
+영국군	O
+최고의	O
+장군으로	O
+설명했다	O
+.	O
+
+가와고에	B-LOC
+시	I-LOC
+,	O
+쓰루가시마	B-LOC
+시	I-LOC
+,	O
+히가시마쓰야마	B-LOC
+시	I-LOC
+,	O
+히다카	B-LOC
+시	I-LOC
+,	O
+이루마	B-LOC
+군	I-LOC
+모로야마	B-LOC
+정	I-LOC
+,	O
+히키	B-LOC
+군	I-LOC
+가와지마	B-LOC
+정	I-LOC
+,	O
+하토야마	B-LOC
+정과	I-LOC
+접한다	O
+.	O
+
+파울	B-PER
+브라이트너가	I-PER
+키커로	O
+나서서	O
+성공시켰다	O
+.	O
+
+넘겨주기	O
+호르헤	B-PER
+바트예	I-PER
+이바녜스	I-PER
+
+'	O
+''	O
+엘레나	B-PER
+데멘티에바	I-PER
+''	O
+'	O
+
+'	O
+''	O
+베이징	B-ORG
+궈안	I-ORG
+(	O
+우승	O
+)	O
+'	O
+''	O
+
+북쪽으로는	O
+라이키피아	B-LOC
+현	I-LOC
+,	O
+동쪽으로는	O
+니에리	B-LOC
+현과	I-LOC
+무랑가	B-LOC
+현	I-LOC
+,	O
+남쪽으로는	O
+키암부	B-LOC
+현	I-LOC
+,	O
+서쪽으로는	O
+나쿠루	B-LOC
+현과	I-LOC
+접한다	O
+.	O
+
+코피	B-PER
+킹스턴	I-PER
+,	O
+빅	B-PER
+E	I-PER
+,	O
+재비어	B-PER
+우즈의	I-PER
+3인조로	O
+구성되어	O
+있다	O
+.	O
+
+중만	B-PER
+(	O
+21	O
+)	O
+'	O
+''	O
+패	O
+''	O
+'	O
+14–15	O
+
+화학	B-ORG
+무기	I-ORG
+금지	I-ORG
+기구	I-ORG
+
+좋아하는	O
+아티스트는	O
+미즈키	B-PER
+나나라고	I-PER
+공언하고	O
+있다	O
+.	O
+
+또한	O
+장산역에서	B-ORG
+송정까지	O
+연장하는	O
+계획을	O
+가지고	O
+있다	O
+.	O
+
+또한	O
+곽재우	B-PER
+등	O
+의병장과도	O
+갈등이	O
+심했다	O
+.	O
+
+일본	B-ORG
+최고재판소가	I-ORG
+야스쿠니	B-ORG
+신사에	I-ORG
+한국인이	O
+합사된	O
+것을	O
+취소해	O
+달라는	O
+소송을	O
+기각했다	O
+.	O
+
+'	O
+''	O
+15	O
+''	O
+'	O
+콜론	B-ORG
+산타페	I-ORG
+
+밀월과	B-ORG
+코모로	B-ORG
+축구	I-ORG
+국가대표팀에서	I-ORG
+활약하고	O
+있다	O
+.	O
+
+세르비아	B-ORG
+몬테네그로	I-ORG
+(	O
+2004	O
+.	O
+
+스코틀랜드의	B-LOC
+서덜랜드	B-LOC
+주	I-LOC
+라잉	O
+(	O
+Lairg	O
+)	O
+에서	O
+태어났다	O
+.	O
+
+예수	B-ORG
+그리스도	I-ORG
+후기성도	I-ORG
+교회	I-ORG
+
+조르주	B-PER
+퐁피두	I-PER
+(	O
+1969-1974	O
+)	O
+
+**	O
+디고르스키	B-LOC
+군	I-LOC
+(	O
+Дигорский	O
+)	O
+
+마디아프라데시	B-LOC
+주	I-LOC
+-	O
+29	O
+
+지미	B-ORG
+키멀	I-ORG
+라이브	I-ORG
+!	I-ORG
+》	I-ORG
+
+리그	B-ORG
+1의	I-ORG
+툴루즈	B-ORG
+FC에서	I-ORG
+영입되었으며	O
+스웨덴	B-ORG
+대표로	I-ORG
+2006년	B-ORG
+FIFA	I-ORG
+월드컵과	I-ORG
+UEFA	B-ORG
+유로	I-ORG
+2008에	I-ORG
+출전한	O
+바	O
+있다	O
+.	O
+
+1981년-	O
+주오	B-ORG
+자동차도가	I-ORG
+개통하였다	O
+.	O
+
+이들은	O
+대한축구협회	B-ORG
+등록	O
+이종클럽	O
+대회인	O
+코니그린컵에	O
+참가하는	O
+등의	O
+활동을	O
+하고	O
+있다	O
+.	O
+
+유연미	B-PER
+-	O
+은빈	O
+역	O
+
+그는	O
+스페인	B-ORG
+국가대표로서	I-ORG
+102경기	O
+44골을	O
+기록하였다	O
+.	O
+
+코치우벨]]	O
+(	O
+티루바난타푸람	B-LOC
+)	O
+(	O
+인도	B-LOC
+)	O
+
+그	O
+외에도	O
+볼턴	B-ORG
+원더러스	I-ORG
+,	O
+프레스턴	B-ORG
+노스	I-ORG
+엔드	I-ORG
+등과	O
+경쟁	O
+관계를	O
+유지하고	O
+있다	O
+.	O
+
+''	O
+타이	B-LOC
+왕국	I-LOC
+''	O
+
+보다폰	B-ORG
+(	O
+따로	O
+있었음	O
+)	O
+
+큰귀주머니쥐	B-LOC
+(	O
+''Didelphis	O
+aurita	O
+''	O
+)	O
+
+리카르도	B-PER
+로드리게스의	I-PER
+코너킥이	O
+후반	O
+시작과	O
+함께	O
+교체로	O
+투입된	O
+아드미르	B-PER
+메흐메디의	I-PER
+헤딩골로	O
+이어졌다	O
+.	O
+
+기둥에	O
+몸을	O
+숨겨	O
+피카츄에게	B-PER
+끝까지	O
+발견되지	O
+않지만	O
+,	O
+사실은	O
+존재가	O
+잊혀진	O
+것이었다	O
+.	O
+
+넘겨주기	O
+로버트	B-PER
+새뮤얼	I-PER
+매클레이	I-PER
+
+자오위안은	O
+보하이	B-LOC
+만의	I-LOC
+해안에	O
+위치하고	O
+금이	O
+많이	O
+매장되어있고	O
+생산되는	O
+곳으로	O
+유명하다	O
+.	O
+
+이치하라	B-LOC
+시	I-LOC
+(	O
+)	O
+
+넘겨주기	O
+애자	B-ORG
+언니	I-ORG
+민자	I-ORG
+
+연구진이	O
+처음	O
+발표한	O
+행성의	O
+질량은	O
+목성의	B-ORG
+1.6배였고	O
+공전궤도	O
+지름은	O
+4.4천문단위로	O
+근소하게	O
+찌그러진	O
+궤도를	O
+돌고	O
+있었다	O
+.	O
+
+Still	B-ORG
+Alive	I-ORG
+...	I-ORG
+and	I-ORG
+Well	I-ORG
+?	I-ORG
+
+광화문에서	B-ORG
+20시에	O
+출발하며	O
+,	O
+순환	O
+시간은	O
+약	O
+1시간	O
+30분이다	O
+.	O
+
+쿠퍼티노	B-LOC
+(	O
+2005	O
+)	O
+
+우에다	B-PER
+겐키치	I-PER
+(	O
+植田謙吉	O
+)	O
+중장	O
+
+보자는	O
+이탈리아인	B-LOC
+,	O
+프랑스인	B-LOC
+양친	O
+사이에서	O
+니스에서	B-LOC
+출생했다	O
+.	O
+
+넘겨주기	O
+웰컴	B-ORG
+투	I-ORG
+패뷸러스	I-ORG
+라스베이거스	I-ORG
+
+도입	O
+초기에는	O
+경부선	B-ORG
+서울역	B-ORG
+~	O
+부산역	B-ORG
+간	O
+장거리	O
+운행을	O
+하기도	O
+하였다	O
+.	O
+
+동생	O
+(	O
+종세	O
+)	O
+이	O
+파출소로	B-ORG
+찾아와	O
+가족에게	O
+돌아오지만	O
+,	O
+가족은	O
+사회부적응자인	O
+그를	O
+별로	O
+반가워	O
+하지	O
+않는다	O
+.	O
+
+넘겨주기	O
+애슈턴	B-ORG
+게이트	I-ORG
+스타디움	I-ORG
+
+이시카와	B-ORG
+TV	I-ORG
+(	O
+ITC	O
+)	O
+
+전미선	B-PER
+-	O
+오순애	O
+역	O
+
+홍머리오리	B-LOC
+-	O
+''Anas	O
+penelope	O
+''	O
+
+찰스는	O
+보든	B-ORG
+칼리지를	I-ORG
+다니던	O
+대학생	O
+때	O
+이미	O
+선적	O
+사업에	O
+관계하고	O
+있었다	O
+.	O
+
+우	O
+)	O
+48058	O
+부산광역시	B-LOC
+해운대구	B-LOC
+센텀서로	O
+30	O
+
+테슬라	B-ORG
+(	I-ORG
+단위	I-ORG
+)	I-ORG
+
+사노	B-PER
+미즈키	I-PER
+(	O
+)	O
+
+1983년	B-ORG
+팬아메리칸	I-ORG
+게임	I-ORG
+
+암만	B-LOC
+바로	O
+북쪽을	O
+지난다	O
+.	O
+
+원칙으로	O
+,	O
+히로시마	B-ORG
+역	I-ORG
+-	O
+히지야마시타	O
+-	O
+미나미마치	O
+6정목	O
+-	O
+히로시마항의	O
+계통으로	O
+운행	O
+(	O
+최종편은	O
+미나미마치	O
+6정목이다	O
+)	O
+
+'	O
+''	O
+5	O
+''	O
+'	O
+조니	B-PER
+벤치	I-PER
+
+**	O
+시베루트마카크	B-LOC
+(	O
+''Macaca	O
+siberu	O
+''	O
+)	O
+
+'	O
+''	O
+혼불채화식	O
+''	O
+'은	O
+경상남도	B-LOC
+의령군에서	B-LOC
+열리는	O
+의병제전의	O
+전야제	O
+행사의	O
+하나이다	O
+.	O
+
+도쿠가와	B-PER
+이에요시	I-PER
+(	O
+德川家慶	O
+)	O
+
+웨스트체스터	B-ORG
+닉스	I-ORG
+(	O
+NBA	B-ORG
+D-리그	I-ORG
+)	O
+
+주는	O
+3개의	O
+메틀폴리탄	O
+지역들이	O
+있다	O
+-	O
+래피드시티	B-LOC
+,	O
+수시티	B-LOC
+(	O
+아이오와	B-LOC
+주	I-LOC
+)	O
+와	O
+수폴스	B-LOC
+.	O
+
+이	O
+앨범을	O
+마지막으로	O
+넬은	B-ORG
+멤버들의	O
+군입대를	O
+이유로	O
+활동을	O
+중단했다	O
+.	O
+
+1974년	B-ORG
+FIFA	I-ORG
+월드컵에서는	I-ORG
+축구계의	O
+흐름	O
+변화를	O
+따라가지	O
+못해	O
+이전과는	O
+너무도	O
+다른	O
+무기력한	O
+모습을	O
+보여주었다	O
+.	O
+
+예상외로	O
+전상욱이	B-PER
+1Set를	O
+승리하여	O
+,	O
+모두를	O
+깜짝	O
+놀라게	O
+했다	O
+.	O
+
+막시밀리아노	B-PER
+에르난데스	I-PER
+-	O
+재스퍼	B-PER
+싯웰	I-PER
+
+오페라의	B-ORG
+대본이	O
+순수연극의	O
+대본과	O
+다른만큼	O
+창극의	O
+대본도	O
+순수연극의	O
+대본과	O
+다른	O
+면이	O
+있다	O
+.	O
+
+So	O
+Sick	O
+-	O
+니요	B-PER
+
+한편	O
+인터콘티넨털의	O
+경우	O
+중국국제항공	B-ORG
+,	O
+대한항공	B-ORG
+,	O
+루프트한자	B-ORG
+,	O
+트랜스아에로	B-ORG
+항공이	I-ORG
+주문한	O
+것으로	O
+알려져	O
+있다	O
+.	O
+
+미헐스는	O
+벨기에	B-LOC
+알스트	B-LOC
+(	O
+Aalst	O
+)	O
+에서	O
+심장수술	O
+후	O
+사망하였다	O
+.	O
+
+다키	B-LOC
+군	I-LOC
+다키	B-LOC
+정	I-LOC
+,	O
+메이와	B-LOC
+정	I-LOC
+
+오쿠와	B-ORG
+역	I-ORG
+(	I-ORG
+나가노	I-ORG
+현	I-ORG
+)	I-ORG
+
+악의	B-ORG
+딸	I-ORG
+(	O
+1~4권	O
+)	O
+
+그의	O
+어머니는	O
+그	O
+외에	O
+3명의	O
+자식을	O
+전염병으로	O
+잃고	O
+,	O
+그를	O
+낳은	O
+직후	O
+밀라노에서	B-LOC
+파비아로	B-LOC
+이주했다	O
+.	O
+
+송현터미널]]	O
+,	O
+송현오거리	O
+,	O
+태화오거리	O
+,	O
+법흥교	O
+,	O
+용상1주공	O
+,	O
+용상5주공	O
+,	O
+안동대학교	B-ORG
+,	O
+임하면사무소	O
+,	O
+금소	O
+,	O
+길안사거리	O
+
+파탈룽	B-LOC
+(	O
+พัทลุง	O
+)	O
+
+넘겨주기	O
+1928년	B-ORG
+동계	I-ORG
+올림픽	I-ORG
+노르딕복합	I-ORG
+
+당시	O
+타임》지는	B-ORG
+오손	B-PER
+웰스	I-PER
+이후로	O
+가장	O
+상상력이	O
+풍부한	O
+각본과	O
+촬영을	O
+보여준	O
+감독’이라고	O
+격찬했다	O
+.	O
+
+파블로보	B-LOC
+(	O
+Павлово	O
+)	O
+는	O
+니즈니노브고로드	B-LOC
+주에	I-LOC
+있는	O
+도시이다	O
+.	O
+
+가가	B-LOC
+군	I-LOC
+(	O
+)	O
+
+동쪽으로는	O
+비니차	B-LOC
+시	I-LOC
+,	O
+북쪽으로는	O
+코차니	B-LOC
+시	I-LOC
+,	O
+서쪽으로는	O
+체시노보오블레셰보	B-LOC
+시	I-LOC
+,	O
+남쪽으로는	O
+카르빈치	B-LOC
+시와	I-LOC
+접한다	O
+.	O
+
+**	O
+서울	B-ORG
+-	O
+천안	B-ORG
+→	O
+장항선	B-ORG
+
+요	B-LOC
+(	O
+遼	O
+)	O
+천조제	B-PER
+(	O
+天祚帝	O
+)	O
+21년	O
+
+나치카쓰우라	B-ORG
+정	I-ORG
+(	O
+)	O
+
+박봄	B-PER
+(	O
+2NE1	B-ORG
+)	O
+'YOU	O
+AND	O
+I	O
+'	O
+M	O
+/	O
+V	O
+(	O
+2009	O
+)	O
+
+매슈	B-PER
+페리	I-PER
+-	O
+Ryan	O
+King	O
+
+문모초	B-LOC
+''Veronica	O
+peregrina	O
+''	O
+L	O
+.	O
+
+제주	B-LOC
+서귀포시는	B-LOC
+결식아동에게	O
+부실한	O
+점심도시락을	O
+제공했다는	O
+논란과	O
+관련하여	O
+사과문을	O
+내고	O
+,	O
+담당	O
+과장을	O
+직위	O
+해제하겠다고	O
+하였다	O
+.	O
+
+프랑스	B-LOC
+제3공화국	I-LOC
+정부는	O
+오랫동안	O
+반교회적인	O
+정책을	O
+고수하였다	O
+.	O
+
+그	O
+후	O
+,	O
+당나라와	B-LOC
+수교하는	O
+등	O
+친당	O
+정책을	O
+폈다	O
+.	O
+
+니코바르	B-LOC
+제도	I-LOC
+(	O
+1778-1783	O
+)	O
+
+SV	B-ORG
+다름슈타트	I-ORG
+98와	I-ORG
+코스타리카	B-ORG
+축구	I-ORG
+국가대표팀에서	I-ORG
+뛰고	O
+있다	O
+.	O
+
+고난	B-LOC
+시	I-LOC
+(	O
+)	O
+
+상원	B-ORG
+(	O
+上院	O
+)	O
+을	O
+부활시키고	O
+자유선거로	O
+100명의	O
+의원을	O
+선출한다	O
+.	O
+
+일본과는	B-LOC
+아주	O
+긴밀한	O
+관계를	O
+맺고	O
+있다	O
+.	O
+
+넘겨주기	O
+알바로	B-PER
+가르시아	I-PER
+리네라	I-PER
+
+작년까지는	O
+어설픈	O
+수비	O
+플레이가	O
+눈에	O
+띈	O
+외야	O
+수비도	O
+본래의	O
+넓은	O
+수비	O
+범위가	O
+살리게	O
+되면서	O
+아카마쓰	B-PER
+마사토와	I-PER
+함께	O
+철벽의	O
+외야를	O
+형성했다	O
+.	O
+
+즉시	O
+압송되어	O
+폐위당하고	O
+강화도로	B-LOC
+유배되었다	O
+.	O
+
+South	O
+Africa]]	O
+'	O
+''	O
+남아프리카	B-LOC
+공화국	I-LOC
+''	O
+'	O
+
+헐트	B-ORG
+국제경영대학원	I-ORG
+(	O
+Hult	O
+International	O
+Business	O
+School	O
+)	O
+또한	O
+EF	B-ORG
+에듀케이션	I-ORG
+퍼스트	I-ORG
+산하에서	O
+운영되고	O
+있다	O
+.	O
+
+연세대학교	B-ORG
+,	O
+부산대학교	B-ORG
+총장	O
+역임	O
+.	O
+
+동서	O
+긴장	O
+관계는	O
+미하일	B-PER
+고르바초프의	I-PER
+등장	O
+이후	O
+빠르게	O
+완화되었다	O
+.	O
+
+'	O
+''	O
+콴타스	B-ORG
+항공	I-ORG
+''	O
+'	O
+
+민락중학교	O
+,	O
+부용고	O
+,	O
+영석고	O
+,	O
+의정부초교	O
+,	O
+장암주공	O
+,	O
+회룡역	B-ORG
+,	O
+망월사역	B-ORG
+
+노기	B-PER
+마레스케	I-PER
+-	O
+에모토	B-PER
+아키라	I-PER
+
+주식회사로서	O
+롯데그룹의	B-ORG
+계열사이며	O
+,	O
+사직야구장을	B-ORG
+홈	O
+구장으로	O
+사용하고	O
+있으며	O
+,	O
+울산문수야구장을	B-LOC
+제2홈	O
+구장으로	O
+사용하고	O
+있다	O
+.	O
+
+일본	B-ORG
+프로	I-ORG
+야구	I-ORG
+퍼시픽	B-ORG
+리그	I-ORG
+팀인	O
+홋카이도	B-ORG
+닛폰햄	I-ORG
+파이터스를	I-ORG
+운영하고	O
+있으며	O
+J리그	B-ORG
+팀인	O
+세레소	B-ORG
+오사카의	I-ORG
+스폰서로도	O
+유명하다	O
+.	O
+
+그는	O
+2007-08	B-LOC
+시즌	O
+전체중	O
+이	O
+경기만을	O
+뛰었다	O
+.	O
+
+'	O
+''	O
+스타오션	B-ORG
+EX	I-ORG
+''	O
+'	O
+
+'	O
+''	O
+풋볼	B-ORG
+리그	I-ORG
+2	I-ORG
+''	O
+'	O
+(	O
+4부리그	O
+)	O
+
+이적	O
+한	O
+세스크	B-PER
+파브레가스를	I-PER
+대체	O
+할	O
+것으로	O
+기대받았다	O
+.	O
+
+그리고	O
+한민과	O
+그의	O
+동료들이	O
+일경에게	O
+체포된	O
+장소에	O
+대하여	O
+앞의	O
+조선일보	B-ORG
+기사에는	O
+동양학원과	O
+방한민의	O
+집과	O
+토성보	O
+방향	O
+세곳이라고	O
+씌어져	O
+있으나	O
+청진지방법원의	O
+판결문에는	O
+그들이	O
+새벽에	O
+집합장소인	O
+해란강변으로	O
+나가는	O
+길에	O
+체포되었다고	O
+밝혀져	O
+있다	O
+.	O
+
+넘겨주기	O
+니콜	B-PER
+애리	I-PER
+파커	I-PER
+
+이어	O
+장준하는	B-PER
+'사람을	O
+사赦하는	O
+법이	O
+없고	O
+인재를	O
+자기	O
+눈동자와	O
+같이	O
+아낄	O
+줄	O
+모르고	O
+사물을	O
+널리	O
+생각하지	O
+못하는	O
+옳지	O
+못한	O
+풍조	O
+때문에	O
+우리는	O
+해방된	O
+후에도	O
+선생에게	O
+영광을	O
+돌린	O
+일이	O
+없고	O
+그	O
+노고를	O
+치하한	O
+일도	O
+없었을	O
+뿐	O
+아니라	O
+도리어	O
+욕된	O
+일이	O
+적지	O
+아니하였다	O
+.	O
+
+빈	B-LOC
+(	I-LOC
+베트남	I-LOC
+)	I-LOC
+
+넘겨주기	O
+아르헨티나의	B-LOC
+행정	I-LOC
+구역	I-LOC
+
+채옹	B-PER
+(	O
+외조부	O
+)	O
+
+'	O
+''	O
+The	O
+Astonishing	O
+''	O
+'는	O
+드림	B-ORG
+시어터의	I-ORG
+열	O
+세	O
+번째	O
+정규	O
+음반이다	O
+.	O
+
+당시	O
+관할의	O
+역들은	O
+서대전역으로	B-ORG
+관할	O
+업무가	O
+위임되었다	O
+.	O
+
+하늘아래	O
+첫	O
+집	O
+-	O
+지리산	B-LOC
+장터목산장	O
+
+**	O
+베이징	B-LOC
+시	I-LOC
+(	O
+대사관	O
+)	O
+,	O
+상하이	B-LOC
+시	I-LOC
+(	O
+총영사관	O
+)	O
+
+넘겨주기	O
+준	B-PER
+(	I-PER
+포터블	I-PER
+미디어	I-PER
+플레이어	I-PER
+)	I-PER
+
+자는	O
+언명부	O
+(	O
+彦明父	O
+)	O
+,	O
+호는	O
+졸옹	O
+(	O
+拙翁	O
+)	O
+,	O
+본관은	O
+경주이다	B-LOC
+.	O
+
+밤나방상과	B-LOC
+(	O
+Noctuoidea	O
+)	O
+
+전반전	O
+인저리	O
+타임에	O
+뮐러는	O
+브루누	B-PER
+알베스의	I-PER
+몸에	O
+맞고	O
+떨군	O
+공을	O
+가로채	O
+또다시	O
+골네트를	O
+갈랐다	O
+.	O
+
+넘겨주기	O
+카미유	B-PER
+드	I-PER
+파지	I-PER
+
+니코바르	B-LOC
+제도	I-LOC
+(	O
+1756-1868	O
+)	O
+
+창양	B-LOC
+투자족	I-LOC
+자치현	I-LOC
+(	O
+长阳土家族自治县	O
+)	O
+
+우젠나카야마	B-ORG
+역	I-ORG
+(	O
+)	O
+
+현재	O
+남아	O
+있는	O
+그의	O
+사상은	O
+모두	O
+그의	O
+제자인	O
+아리아노스가	B-PER
+기록한	O
+것이다	O
+.	O
+
+넘겨주기	O
+주간고속도로	B-ORG
+제84호선	I-ORG
+(	I-ORG
+오리건-유타	I-ORG
+)	I-ORG
+
+북쪽은	O
+동해에	B-LOC
+접하고	O
+있고	O
+해안선은	O
+11.5km이며	O
+그것을	O
+저변으로해	O
+남쪽으로	O
+뾰족한	O
+삼각형을	O
+하고	O
+있다	O
+.	O
+
+중앙로역	B-ORG
+(	I-ORG
+대전	I-ORG
+)	I-ORG
+
+**	O
+미나미	B-LOC
+구	I-LOC
+(	O
+南區	O
+)	O
+
+거의	O
+대부분의	O
+열차가	O
+계통	O
+분할되었기	O
+때문에	O
+이토자키	B-ORG
+역	I-ORG
+(	O
+일부는	O
+미하라	B-ORG
+역	I-ORG
+)	O
+에서	O
+후쿠야마·오카야마	O
+방면의	O
+열차에	O
+상호	O
+접속이	O
+고려되고	O
+있다	O
+.	O
+
+사무실은	O
+서울특별시	B-LOC
+서대문구	B-LOC
+홍은	O
+2동	O
+13-78에	O
+있다	O
+.	O
+
+**	O
+크리스토퍼	B-PER
+심스	I-PER
+,	O
+2011	O
+
+'	O
+''	O
+데니스	B-PER
+로메달	I-PER
+''	O
+'	O
+
+OST의	O
+9곡은	O
+구혜선이	B-PER
+직접	O
+작곡했다	O
+.	O
+
+아버지	O
+김상배는	O
+일제	B-LOC
+강점기	I-LOC
+당시	O
+부여군	B-LOC
+규암면장을	O
+지냈다	O
+.	O
+
+넘겨주기	O
+패닉	B-ORG
+!	I-ORG
+앳	I-ORG
+더	I-ORG
+디스코	I-ORG
+
+사무실은	O
+608-737	O
+부산광역시	B-LOC
+남구	B-LOC
+대연3동	O
+599-1	O
+,	O
+부경대학교	B-ORG
+내에	O
+있다	O
+.	O
+
+국도	B-ORG
+제2호선과	I-ORG
+중복과거	O
+서해안고속도로	B-ORG
+시점	O
+
+팬티	B-ORG
+&	I-ORG
+스타킹	I-ORG
+with	I-ORG
+가터벨트	I-ORG
+
+장제스도	B-PER
+중요한	O
+글을	O
+발표한	O
+때에는	O
+본명인	O
+장중정을	O
+필명으로	O
+사용했다	O
+.	O
+
+가얄	B-LOC
+(	O
+''Bos	O
+frontalis	O
+''	O
+)	O
+
+박신혜	B-PER
+(	O
+안신혜	O
+역	O
+,	O
+편집장	O
+딸	O
+)	O
+
+'	O
+''	O
+마휴	B-PER
+''	O
+'	O
+
+그의	O
+어질고	O
+깨끗한	O
+절개를	O
+기리고자	O
+송시열이	B-PER
+묘비를	O
+찬	O
+(	O
+撰	O
+)	O
+하고	O
+송준길이	B-PER
+서	O
+(	O
+書	O
+)	O
+하였다	O
+.	O
+
+동경하는	O
+선배는	O
+이시카와	B-PER
+리카	I-PER
+.	O
+
+넘겨주기	O
+주간고속도로	B-ORG
+제84호선	I-ORG
+(	I-ORG
+펜실베이니아-매사추세츠	I-ORG
+)	I-ORG
+
+반면	O
+고국원왕은	B-PER
+험하고	O
+비좁은	O
+남도를	O
+소수의	O
+약졸로	O
+방비하였다	O
+.	O
+
+에버랜드	B-LOC
+,	O
+영동고속도로	B-ORG
+,	O
+경부고속도로	B-ORG
+,	O
+세곡동사거리	O
+,	O
+수서역	B-LOC
+,	O
+송파역	B-ORG
+,	O
+잠실역	B-ORG
+
+******	O
+로버스트황금두더지	B-LOC
+(	O
+''Amblysomus	O
+robustus	O
+''	O
+)	O
+
+LEONARD	O
+D'AWINCI.은	O
+아마도	O
+이	O
+그림이	O
+폴란드로	B-LOC
+간	O
+직후에	O
+복원자가	O
+추가했을	O
+것이다	O
+.	O
+
+넘겨주기	O
+GS칼텍스	B-ORG
+서울	I-ORG
+KIXX	I-ORG
+
+프레디	B-PER
+가르시아	I-PER
+(	O
+현재	O
+)	O
+
+'	O
+''	O
+춘양면	B-ORG
+''	O
+'	O
+-옛	O
+단양면과	O
+부춘면에서	O
+한자씩	O
+따왔다	O
+.	O
+
+서울과학기술대학교는	O
+서울특별시	B-LOC
+노원구	B-LOC
+공릉길	O
+138	O
+(	O
+공릉2동	O
+172번지	O
+)	O
+에	O
+있다	O
+.	O
+
+넘겨주기	O
+Diva	B-ORG
+(	I-ORG
+애프터스쿨의	I-ORG
+노래	I-ORG
+)	I-ORG
+
+가쓰우라	B-ORG
+역이	I-ORG
+관리하고	O
+있으며	O
+,	O
+간이	O
+위탁역이다	O
+.	O
+
+**	O
+대한민국에	B-LOC
+등록된	O
+비행기의	O
+등록번호는	O
+HL으로	O
+시작한다	O
+.	O
+
+그는	O
+이승만과	B-PER
+김구의	B-ORG
+결속을	O
+위해	O
+양자와	O
+연락하며	O
+조율하였다	O
+.	O
+
+사카이	B-LOC
+시	I-LOC
+,	O
+오사카사야마	B-LOC
+시	I-LOC
+,	O
+하비키노	B-LOC
+시	I-LOC
+,	O
+가와치나가노	B-LOC
+시	I-LOC
+,	O
+미나미카와치	B-LOC
+군	I-LOC
+다이시	B-LOC
+정·	I-LOC
+
+넘겨주기	O
+윌리스	B-PER
+유진	I-PER
+램	I-PER
+
+생일을	O
+맞이하면	O
+대개	O
+가족	O
+또는	O
+친구들이	O
+생일을	O
+축하해주며	O
+생일	B-ORG
+케이크	I-ORG
+및	O
+여러	O
+음식을	O
+준비해	O
+생일잔치를	O
+열기도	O
+한다	O
+.	O
+
+그	O
+뒤	O
+송시열의	B-PER
+상에	O
+3년복을	O
+입고	O
+3년상을	O
+마쳤다	O
+.	O
+
+에런	B-PER
+피어솔	I-PER
+''	O
+맷	B-PER
+그리버스	I-PER
+''	O
+
+히라하라	B-PER
+아야카	I-PER
+(	O
+)	O
+
+'	O
+''	O
+Hannah	B-ORG
+Montana	I-ORG
+2	I-ORG
+:	I-ORG
+Non-Stop	I-ORG
+Dance	I-ORG
+Party	I-ORG
+''	O
+'	O
+''	O
+
+포켓몬스터	B-ORG
+AG	I-ORG
+(	O
+츠구요	O
+)	O
+
+16개	B-LOC
+지방으로	I-LOC
+이루어져	O
+있다	O
+.	O
+
+평촌경영고등학교를	B-ORG
+졸업하고	O
+,	O
+현재	O
+안양시청에	B-LOC
+소속되어	O
+있다	O
+.	O
+
+그	O
+뒤로는	O
+뛰어한	O
+활약을	O
+펼치면서	O
+발렌시아에	B-ORG
+눈도장을	O
+찍었다	O
+.	O
+
+넘겨주기	O
+오사카	B-ORG
+비즈니스	I-ORG
+파크	I-ORG
+역	I-ORG
+
+브르타뉴	B-LOC
+지방이	O
+발상지로	O
+생각된다	O
+.	O
+
+알자스에서	B-LOC
+방직	O
+공장	O
+경영인의	O
+아들로	O
+태어난	O
+드레퓌스의	O
+어린	O
+시절은	O
+풍요롭고	O
+평범했다	O
+.	O
+
+대전광역시	B-LOC
+,	O
+세종특별자치시	B-LOC
+및	O
+충청남도	B-LOC
+공주시	B-LOC
+,	O
+논산시	B-LOC
+,	O
+금산군	B-LOC
+,	O
+부여군	B-LOC
+일원	O
+
+현대상선	B-ORG
+(	O
+Hyundai	O
+Merchant	O
+Marine	O
+)	O
+
+뉴욕	B-LOC
+주	I-LOC
+-	O
+2명	O
+감소	O
+(	O
+31명→29명	O
+)	O
+
+아르한겔스크	B-LOC
+—	O
+아르한겔스크	B-LOC
+주	I-LOC
+
+미요타	B-LOC
+정	I-LOC
+(	O
+)	O
+
+〈외톨이〉는	O
+아웃사이더의	B-PER
+노래이다	O
+.	O
+
+와르샤와	O
+(	O
+,	O
+바르샤바	B-LOC
+,	O
+폴란드의	B-LOC
+수도	O
+)	O
+
+다후크	B-LOC
+주	I-LOC
+(	O
+다후크	B-LOC
+)	O
+
+조지아	B-LOC
+'	O
+''	O
+포티	B-LOC
+''	O
+'	O
+
+조선	B-LOC
+(	O
+朝鮮	O
+)	O
+숙종	B-PER
+(	O
+肅宗	O
+)	O
+15년	O
+
+**	O
+말고벡	B-LOC
+(	O
+Малгобек	O
+)	O
+
+한양대학교	B-ORG
+국어국문학과를	O
+졸업하고	O
+고려대학교대학원	B-ORG
+문예창작학과에서	O
+석사학위와	O
+박사학위를	O
+받았다	O
+.	O
+
+모모이로	B-ORG
+클로버	I-ORG
+Z	I-ORG
+(	O
+K	B-ORG
+)	O
+
+|	O
+''	O
+야즈데게르드	B-PER
+3세	I-PER
+''	O
+'	O
+
+*****	O
+'	O
+''	O
+큰대나무여우원숭이속	B-LOC
+''	O
+'	O
+(	O
+''Prolemur	O
+''	O
+)	O
+
+북쪽으로는	O
+킬리만자로	B-LOC
+주와	I-LOC
+케냐	B-LOC
+,	O
+동쪽으로는	O
+인도양과	B-LOC
+맞닿아	O
+있으며	O
+남쪽으로는	O
+프와니	B-LOC
+주와	I-LOC
+모로고로	B-LOC
+주	I-LOC
+,	O
+서쪽으로는	O
+마냐라	B-LOC
+주와	I-LOC
+인접해	O
+있다	O
+.	O
+
+주로	O
+운항하는	O
+노선은	O
+중동	B-LOC
+지역을	O
+비롯해	O
+,	O
+극동	B-LOC
+,	O
+유럽	B-LOC
+,	O
+아메리카	B-LOC
+,	O
+아프리카	B-LOC
+지역을	O
+운항하고	O
+있다	O
+.	O
+
+축치어는	O
+축치	B-LOC
+자치구에서	I-LOC
+주로	O
+쓰인다	O
+.	O
+
+나가요	B-LOC
+정	I-LOC
+(	O
+)	O
+
+홋카이도	B-ORG
+닛폰햄	I-ORG
+파이터스	I-ORG
+(	O
+18승	O
+1무	O
+5패	O
+)	O
+
+누라리횬의	B-ORG
+손자	I-ORG
+(	O
+1~2권	O
+)	O
+
+최고순위	O
+8위	O
+(	O
+오리콘	B-ORG
+)	O
+
+넘겨주기	O
+리히텐슈타인	B-PER
+후작부인	I-PER
+마리	I-PER
+
+위로는	O
+매쿤다	B-LOC
+층이	I-LOC
+퇴적되어있다	O
+.	O
+
+지중해에서	B-LOC
+구할	O
+수	O
+있는	O
+여러	O
+종류의	O
+생선을	O
+사용할	O
+수	O
+있다	O
+.	O
+
+몸	O
+색깔은	O
+보라색이	O
+되었고	O
+메기같은	B-LOC
+수염이	O
+났다	O
+.	O
+
+이	O
+지역에는	O
+코리엔테스	B-LOC
+주와	I-LOC
+엔트레리오스	B-LOC
+주가	I-LOC
+있다	O
+.	O
+
+나가오	B-ORG
+역	I-ORG
+(	I-ORG
+사가	I-ORG
+현	I-ORG
+)	I-ORG
+
+김종필은	B-PER
+그가	O
+명연설가이고	O
+,	O
+잘생기고	O
+똑똑한	O
+사람이었다고	O
+하였다	O
+.	O
+
+전라남도	B-LOC
+라주시	B-LOC
+,	O
+려수시	B-LOC
+,	O
+령암군	B-LOC
+(	O
+,	O
+)	O
+
+단군릉	B-ORG
+(	O
+檀君陵	O
+)	O
+
+자유민주당	B-ORG
+,	O
+민주당	B-ORG
+,	O
+공명당	B-ORG
+,	O
+일본공산당	B-ORG
+,	O
+사회민주당	B-ORG
+
+로날트	B-PER
+쿠만	I-PER
+(	O
+2001–2005	O
+)	O
+
+'	O
+''	O
+연남동	B-LOC
+''	O
+'	O
+
+나메리카와	B-LOC
+시	I-LOC
+(	O
+)	O
+
+**	O
+양곤	B-LOC
+(	O
+대사관	O
+)	O
+
+수원은	O
+닛코	B-ORG
+국립공원의	I-ORG
+나스다케이다	O
+.	O
+
+바클리카드는	O
+자기네들이	O
+발행카드수로	O
+1억	O
+1000만	O
+장을	O
+넘겨	O
+유럽	B-LOC
+최대의	O
+신용카드회사라고	O
+주장하고	O
+있다	O
+.	O
+
+라인	B-LOC
+강과	I-LOC
+접하며	O
+스위스	B-LOC
+국경과	O
+가까운	O
+지점에	O
+위치한다	O
+.	O
+
+황금열쇠	O
+(	O
+TV조선	B-ORG
+)	O
+
+**	O
+산인	B-ORG
+본선	I-ORG
+(	O
+사가노	B-ORG
+선	I-ORG
+)	O
+
+과거	O
+ABA	B-ORG
+미네소타	B-ORG
+머스키스	I-ORG
+,	O
+미네소타	B-ORG
+파이퍼스와	I-ORG
+NHL	B-ORG
+미네소타	B-ORG
+노스	I-ORG
+스타스의	I-ORG
+홈경기장으로	O
+사용했다	O
+.	O
+
+강원도	B-LOC
+평창군과는	B-LOC
+관계가	O
+없다	O
+.	O
+
+아랍어로	B-ORG
+‘바트	O
+(	O
+بعث	O
+)	O
+’라는	O
+말은	O
+아랍어에서	B-ORG
+'부흥	O
+'	O
+또는	O
+'재건'을	O
+뜻하는	O
+말이다	O
+.	O
+
+Digital	B-ORG
+Living	I-ORG
+Network	I-ORG
+Alliance	I-ORG
+
+현재	O
+J3리그에서	B-ORG
+활동하고	O
+있다	O
+.	O
+
+B1A4	B-ORG
+-	O
+`	O
+이게	O
+무슨	O
+일이야`	O
+
+이	O
+인사를	O
+할	O
+때는	O
+합장을	B-ORG
+하며	O
+,	O
+많은	O
+경우는	O
+가볍게	O
+인사를	O
+한다	O
+.	O
+
+마크	B-PER
+윌리엄스	I-PER
+(	I-PER
+스누커	I-PER
+선수	I-PER
+)	I-PER
+
+막대한	O
+공물이	O
+바쳐졌고	O
+기야스와	O
+그의	O
+아들은	O
+사마르칸트로	B-LOC
+압송되었다	O
+.	O
+
+만약	O
+가	O
+모노이드라면	B-ORG
+역시	O
+모노이드이다	B-ORG
+.	O
+
+''	O
+'BK	O
+''	O
+'는	O
+버거킹의	B-ORG
+약자이다	O
+.	O
+
+신주쿠	B-LOC
+구의	I-LOC
+니시신주쿠	B-LOC
+4초메와	O
+5초메가	O
+바로	O
+경계상에	O
+위치한다	O
+.	O
+
+****	O
+큰개미핥기	B-LOC
+(	O
+''Myrmecophaga	O
+tridactyla	O
+''	O
+)	O
+
+초전도	B-ORG
+초충돌기	I-ORG
+(	O
+Superconducting	O
+Super	O
+Collider	O
+)	O
+
+이치노미야	B-LOC
+시	I-LOC
+,	O
+이와쿠라	B-LOC
+시	I-LOC
+,	O
+고마키	B-ORG
+시	I-ORG
+,	O
+니와	B-LOC
+군	I-LOC
+오구치	B-LOC
+정	I-LOC
+,	O
+후소	B-LOC
+정	I-LOC
+
+달랑게상과	B-LOC
+(	O
+Ocypodoidea	O
+)	O
+
+귀젤유르트	B-LOC
+구	I-LOC
+(	O
+Güzelyurt	O
+)	O
+
+헬로	B-ORG
+!	I-ORG
+프로젝트에	I-ORG
+소속한	O
+안주루무	B-ORG
+(	O
+구.스마이레지	O
+)	O
+의	O
+리더	O
+.	O
+
+플로리다	B-LOC
+주	I-LOC
+마이애미에서	B-LOC
+쿠바	B-LOC
+이민자의	O
+아들로	O
+태어났다	O
+.	O
+
+앤	B-PER
+(	O
+ruled	O
+1702–1714	O
+)	O
+
+'	O
+''	O
+피터	B-PER
+밴더케이	I-PER
+''	O
+'	O
+
+방공	B-LOC
+식별	I-LOC
+구역	I-LOC
+(	O
+ADIZ	O
+)	O
+
+프란츠	B-PER
+리스트	I-PER
+(	O
+헝가리	B-LOC
+출생	O
+)	O
+
+일부	O
+펄서들의	O
+경우	O
+맥동의	O
+규칙성은	O
+원자	B-ORG
+시계와	I-ORG
+비교될	O
+수	O
+있을	O
+정도로	O
+정확하다	O
+.	O
+
+가장	O
+높은	O
+봉우리는	O
+콜로라도	B-LOC
+주의	I-LOC
+엘버트	B-LOC
+산으로	I-LOC
+,	O
+해발	O
+4,401m이다	O
+.	O
+
+명탐정	B-ORG
+코난	I-ORG
+:	I-ORG
+절해의	I-ORG
+탐정	I-ORG
+
+전라선	B-ORG
+폐선	O
+구간	O
+활용	O
+.	O
+
+그는	O
+선덜랜드	B-ORG
+AFC와의	I-ORG
+92번째	O
+시즌	O
+경기에서	O
+3:0로	O
+완승하며	O
+새로운	O
+이정표를	O
+세웠다	O
+.	O
+
+**	O
+산양속	B-LOC
+(	O
+''Naemorhedus	O
+''	O
+)	O
+
+최영	B-PER
+안사공신	O
+(	O
+安社功臣	O
+)	O
+
+차체	O
+강성이	O
+조금	O
+더	O
+좋은	O
+중동지방용의	B-LOC
+섀시를	O
+기본으로	O
+한	O
+모델이었다	O
+.	O
+
+브라질	B-LOC
+론드리나	B-LOC
+(	O
+1997	O
+)	O
+
+그러나	O
+아발로는	O
+대한민국과의	B-ORG
+첫	O
+경기에서	O
+후반	O
+8분경	O
+박지성에게	B-PER
+태클을	O
+걸었고	O
+,	O
+경고	O
+누적으로	O
+퇴장당했다	O
+.	O
+
+오다	B-PER
+노부나가	I-PER
+,	O
+도요토미	B-PER
+히데요시	I-PER
+,	O
+아케치	B-PER
+미쓰히데	I-PER
+,	O
+마쓰나가	B-PER
+히사히데	I-PER
+등의	O
+앞에서	O
+환술을	O
+선보였다는	O
+기록이	O
+있지만	O
+실재성에	O
+의문이	O
+제기된다	O
+.	O
+
+2대는	O
+에어	B-ORG
+인디아	I-ORG
+카고	I-ORG
+임차	O
+운항	O
+
+마리오	B-PER
+고메스	I-PER
+''	O
+(	O
+슈투트가르트	B-ORG
+)	O
+''	O
+
+넘겨주기	O
+에밀리	B-PER
+그린	I-PER
+볼치	I-PER
+
+서울	B-ORG
+지하철	I-ORG
+9호선	I-ORG
+기공식이	O
+개최되었다	O
+.	O
+
+정성공이	B-PER
+대만을	O
+점거한	O
+후에	O
+군현이	O
+설치되어	O
+중갱장	O
+(	O
+中坑庄	O
+)	O
+과	O
+장화장	O
+(	O
+漳和庄	O
+)	O
+이	O
+이곳에	O
+설치되었다	O
+.	O
+
+랏차부리	B-LOC
+(	O
+ราชบุรี	O
+)	O
+
+파고델발로디라우로	B-LOC
+(	O
+Pago	O
+del	O
+Vallo	O
+di	O
+Lauro	O
+)	O
+
+부뇨드코르는	O
+상대적으로	O
+국제적으로	O
+알려지지	O
+않은	O
+클럽이었으나	O
+,	O
+FC	B-ORG
+바르셀로나의	I-ORG
+공격수인	O
+사뮈엘	B-PER
+에토의	I-PER
+이적설이	O
+나돌면서	O
+알려지게	O
+되었다	O
+.	O
+
+이	O
+주장은	O
+중화인민공화국	B-LOC
+및	O
+중화민국은	B-LOC
+받아들이지	O
+않았다	O
+.	O
+
+본사는	O
+푸에르토아요라에	B-LOC
+위치하고	O
+있다	O
+.	O
+
+===	O
+후량	B-LOC
+(	O
+後梁	O
+)	O
+===	O
+
+자산	B-LOC
+현	I-LOC
+(	O
+嘉善県	O
+)	O
+
+이	O
+예측은	O
+12년	O
+후	O
+제임스	B-PER
+채드윅에	I-PER
+의해	O
+발견되었다	O
+.	O
+
+유럽	B-LOC
+대륙에서	O
+조차	O
+그	O
+충격은	O
+1850년까지는	O
+몇몇	O
+지역에	O
+국한돼	O
+있었던	O
+것이다	O
+.	O
+
+단저우	B-LOC
+시	I-LOC
+(	O
+담주	O
+)	O
+
+충청남도의	B-LOC
+면적은	O
+8,629㎢로	O
+전국	O
+총면적의	O
+8.6	O
+%	O
+를	O
+차지하며	O
+,	O
+전국	O
+6위에	O
+해당한다	O
+.	O
+
+넘겨주기	O
+제1차	B-ORG
+회흐슈테트	I-ORG
+전투	I-ORG
+
+요	B-LOC
+(	O
+遼	O
+)	O
+중희	O
+(	O
+重熙	O
+)	O
+24년	O
+/	O
+청녕	O
+(	O
+淸寧	O
+)	O
+원년	O
+
+과거	O
+MLB	B-ORG
+샌프란시스코	B-ORG
+자이언츠와	I-ORG
+NFL	B-ORG
+샌프란시스코	B-ORG
+포티나이너스	I-ORG
+,	O
+오클랜드	B-ORG
+레이더스의	I-ORG
+홈구장으로	O
+사용했다	O
+.	O
+
+유요는	O
+원술	B-PER
+(	O
+袁術	O
+)	O
+이	O
+임명한	O
+단양태수	O
+(	O
+丹陽太守	O
+)	O
+오경	B-PER
+(	O
+吳景	O
+)	O
+,	O
+단양도위	O
+(	O
+丹陽都尉	O
+)	O
+손분	B-PER
+(	O
+孫賁	O
+)	O
+을	O
+쫓아내고	O
+원술에게	B-PER
+저항했다	O
+.	O
+
+넘겨주기	O
+스폰지밥	B-PER
+스퀘어팬츠	I-PER
+(	I-PER
+캐릭터	I-PER
+)	I-PER
+
+'	O
+''	O
+킬푸에	B-LOC
+''	O
+'	O
+
+'	O
+''	O
+마필	O
+''	O
+'	O
+(	O
+)	O
+는	O
+칠레	B-LOC
+로스리오스	B-LOC
+주	I-LOC
+발디비아	B-LOC
+현의	I-LOC
+코무나이다	B-LOC
+.	O
+
+안정환	B-PER
+,	O
+안리환	O
+(	O
+장남	O
+)	O
+
+광복	O
+직후	O
+목회활동을	O
+하다	O
+대한적십자사	B-ORG
+출범	O
+이후	O
+총재로	O
+선출되었다	O
+.	O
+
+넘겨주기	O
+유엔	B-ORG
+무역	I-ORG
+개발	I-ORG
+회의	I-ORG
+
+``	O
+10538	B-ORG
+Overture	I-ORG
+''	O
+–	O
+5:32	O
+
+자오홍주	B-PER
+(	O
+趙洪祝	O
+)	O
+
+5155	O
+94	O
+-	O
+신한카드	B-ORG
+(	O
+플래티늄	O
+)	O
+
+스포르차는	O
+스위스	B-ORG
+축구	I-ORG
+국가대표팀	I-ORG
+감독이었던	O
+로이	B-PER
+호지슨에	I-PER
+의해	O
+1994년	B-ORG
+FIFA	I-ORG
+월드컵에	I-ORG
+참가하였다	O
+.	O
+
+당시에는	O
+에버턴	B-ORG
+축구	I-ORG
+클럽이	I-ORG
+사용하였다	O
+.	O
+
+카우보이	B-ORG
+비밥	I-ORG
+(	O
+1998	O
+)	O
+-	O
+총콘티	O
+
+임수정	B-PER
+-	O
+영신	O
+역	O
+
+아랍어	B-ORG
+(	O
+العربية	O
+)	O
+(	O
+이집트	B-LOC
+,	O
+사우디아라비아	B-LOC
+,	O
+이라크	B-LOC
+,	O
+아랍에미리트	B-LOC
+,	O
+알제리	B-LOC
+,	O
+모로코	B-LOC
+등	O
+)	O
+
+고구려는	O
+압록강	B-LOC
+중류	O
+유역	O
+,	O
+졸본에서	B-LOC
+나라의	O
+기틀을	O
+마련하였다	O
+.	O
+
+한편	O
+인현왕후는	B-PER
+장희빈이	B-PER
+자신을	O
+죽이려	O
+한다고	O
+주장하기도	O
+한다	O
+.	O
+
+중국은련	B-ORG
+(	O
+China	O
+UnionPay	O
+)	O
+
+종명	O
+''memnon	O
+''	O
+은	O
+멤논을	B-PER
+의미한다	O
+.	O
+
+'	O
+''	O
+니켄	O
+''	O
+'	O
+(	O
+)	O
+은	O
+칠레	B-LOC
+비오비오	B-LOC
+주	I-LOC
+뉴블레	B-LOC
+현의	I-LOC
+코무나이다	B-LOC
+.	O
+
+볼로냐와	B-LOC
+피렌체에서	B-LOC
+교육을	O
+받고	O
+리보르노의	B-LOC
+기술학교로	O
+가서	O
+물리학	B-LOC
+공부를	O
+했다	O
+.	O
+
+나라	B-LOC
+현에서	I-LOC
+TV	B-ORG
+오사카가	I-ORG
+수신이	O
+안되는	O
+관계로	O
+많은	O
+양의	O
+TV	B-ORG
+도쿄프로그램을	I-ORG
+구입해	O
+방송하고	O
+있다	O
+.	O
+
+아시아의	B-LOC
+일부	O
+지방에서도	O
+많은	O
+막대빵이	O
+소비된다	O
+.	O
+
+강원용은	B-ORG
+그가	O
+대선에	O
+출마하게	O
+된	O
+원인을	O
+미국으로	B-LOC
+지목하였다	O
+.	O
+
+그라인드하우스》	B-ORG
+(	O
+2007	O
+)	O
+
+베컴은	O
+스파이스	B-ORG
+걸스의	I-ORG
+레이블	O
+버진	B-ORG
+레코드와	I-ORG
+계약	O
+사인을	O
+했다	O
+.	O
+
+이후	O
+건국대학교	B-ORG
+대학원에서	O
+박사과정을	O
+밟고	O
+박사학위를	O
+받는다	O
+.	O
+
+도카이도	B-ORG
+신칸센의	I-ORG
+기존	O
+도장과	O
+유사한	O
+이미지로	O
+흰색	O
+바탕에	O
+파란색	O
+선을	O
+사용하여	O
+도장하였다	O
+.	O
+
+넘겨주기	O
+이재윤	B-PER
+(	I-PER
+배우	I-PER
+)	I-PER
+
+국도	B-ORG
+제7호선	I-ORG
+구간경주	O
+방면	O
+진출만	O
+가능	O
+
+독일	B-LOC
+게라	B-LOC
+(	O
+1988	O
+)	O
+
+보복폭행	O
+혐의로	O
+1심에서	O
+실형을	O
+선고	O
+받았던	O
+김승연	B-PER
+한화그룹	B-ORG
+회장이	O
+항소심에서	O
+집행유예형을	O
+선고받고	O
+석방됐다	O
+.	O
+
+22호선은	O
+북서쪽으로	O
+40호선과	B-ORG
+간접적으로	O
+,	O
+남동쪽으로	O
+65호선은	B-ORG
+직접적으로	O
+교차하나	O
+20호선과는	B-ORG
+간접교차가	O
+될	O
+전망이다	O
+.	O
+
+01	O
+청주교육대학교	B-ORG
+대용부속학교	O
+지정	O
+(	O
+2년간	O
+)	O
+
+발해	B-LOC
+(	O
+渤海	O
+)	O
+대현석	B-PER
+(	O
+大玄錫	O
+)	O
+9년	O
+
+인도유럽계통의	O
+사람들이	O
+모여서	O
+살았으며	O
+9세기~10세기	O
+동안에는	O
+기존의	O
+언어가	O
+더욱더	O
+발전하면서	O
+현재	O
+위구르족의	B-ORG
+문화를	O
+이룩하게	O
+됐다	O
+.	O
+
+**	O
+문어속	B-LOC
+(	O
+''Enteroctopus	O
+''	O
+)	O
+
+보얼타라	B-LOC
+몽골	I-LOC
+자치주	I-LOC
+
+'	O
+''	O
+키프로스	B-ORG
+1부	I-ORG
+리그	I-ORG
+''	O
+'	O
+
+상서령	O
+(	O
+尙書令	O
+)	O
+순욱	B-PER
+(	O
+荀彧	O
+)	O
+이	O
+그의	O
+재능을	O
+높이	O
+평가하여	O
+상서랑	O
+(	O
+尙書郞	O
+)	O
+에	O
+천거하였으며	O
+,	O
+그	O
+후	O
+참승상군사	O
+(	O
+參丞相軍事	O
+)	O
+가	O
+되어	O
+조조	B-PER
+(	O
+曹操	O
+)	O
+를	O
+섬겼다	O
+.	O
+
+신라를	B-ORG
+공격	O
+,	O
+북쪽	O
+부락을	O
+공략	O
+.	O
+
+산타	B-ORG
+마리아	I-ORG
+노벨라	I-ORG
+성당	I-ORG
+
+김수미	B-PER
+...	O
+.	O
+엄니손	O
+홍덕자	O
+회장	O
+
+북원	B-LOC
+(	O
+北元	O
+)	O
+혜종	B-PER
+(	O
+惠宗	O
+)	O
+37년	O
+
+'	O
+''	O
+ET	O
+''	O
+'는	O
+에티오피아	B-ORG
+항공	I-ORG
+(	O
+Ethiopian	O
+Airlines	O
+)	O
+의	O
+국제	B-ORG
+항공	I-ORG
+운송	I-ORG
+협회	I-ORG
+부호이다	O
+.	O
+
+야스다	B-PER
+쇼타	I-PER
+(	O
+칸쟈니∞	B-ORG
+)	O
+
+그리고	O
+폴란드	B-ORG
+서부군에	I-ORG
+합류했다	O
+.	O
+
+시가	B-LOC
+현	I-LOC
+구사쓰	B-LOC
+시	I-LOC
+
+후루이치	B-ORG
+역	I-ORG
+(	I-ORG
+효고	I-ORG
+현	I-ORG
+)	I-ORG
+
+당시	O
+직급은	O
+김책	B-PER
+,	O
+김일성보다	B-PER
+한	O
+단계	O
+높았다	O
+.	O
+
+안타깝게	O
+노리치	B-ORG
+시티에	I-ORG
+1-0으로	O
+졌다	O
+.	O
+
+앙헬	B-PER
+랑헬	I-PER
+(	O
+2007-	O
+)	O
+
+장온]]	O
+(	O
+張溫	O
+)	O
+,	O
+낙통	B-PER
+(	O
+駱統	O
+)	O
+,	O
+육모	B-PER
+(	O
+陸瑁	O
+)	O
+,	O
+오찬	B-PER
+(	O
+吾粲	O
+)	O
+,	O
+주거	B-PER
+(	O
+朱據	O
+)	O
+
+대표작은	O
+심슨	B-ORG
+가족으로	I-ORG
+,	O
+모	O
+,	O
+아푸	O
+등을	O
+연기했다	O
+.	O
+
+주로	O
+선스테이트	B-ORG
+항공	I-ORG
+,	O
+이스턴	B-ORG
+오스트레일리아	I-ORG
+항공편으로	I-ORG
+운항하고	O
+있다	O
+.	O
+
+한층	O
+더	O
+하로	B-ORG
+!	I-ORG
+모닝구。」의	I-ORG
+출연	O
+허가를	O
+얻기	O
+위해	O
+분주	O
+.	O
+
+청	B-LOC
+(	O
+淸	O
+)	O
+선종	B-PER
+도광제	I-PER
+(	O
+宣宗	O
+道光帝	O
+)	O
+13년	O
+
+이리하여	O
+시칠리아에는	B-LOC
+계속해서	O
+문제가	O
+일어났다	O
+.	O
+
+THE	B-ORG
+B1A4	I-ORG
+I	I-ORG
+IGNITION	I-ORG
+''	O
+
+'	O
+''	O
+프라토	B-LOC
+''	O
+'	O
+
+**	O
+프랭크	B-PER
+빌링스	I-PER
+켈로그	I-PER
+,	O
+1929	O
+
+음악에서	B-LOC
+H는	O
+나	O
+음을	O
+뜻하는데	O
+,	O
+독일어권에서만	O
+그렇다	O
+.	O
+
+Sexy	B-ORG
+and	I-ORG
+I	I-ORG
+Know	I-ORG
+It	I-ORG
+
+아키시스과	B-LOC
+(	O
+Akysidae	O
+)	O
+
+헤이케의	O
+낙향에	O
+따르지	O
+않고	O
+배신자의	O
+오명을	O
+받을	O
+각오로	O
+카마쿠라의	B-ORG
+요리토모를	B-PER
+의지하며	O
+헤이케의	O
+혈통을	O
+남기게	O
+성공한다	O
+.	O
+
+한세대학교	B-ORG
+,	O
+경기외고	O
+,	O
+한세대학교	B-ORG
+,	O
+군포초교	O
+,	O
+군포역	B-ORG
+,	O
+군포중교	O
+,	O
+금정고가	O
+,	O
+산본역	B-ORG
+,	O
+수리산역	B-ORG
+
+유인촌	B-PER
+(	O
+특별출연	O
+)	O
+
+원곡은	O
+켈리	B-PER
+클락슨의	I-PER
+'My	O
+Life	O
+Would	O
+Suck	O
+Without	O
+You'를	O
+사용하고	O
+있고	O
+가사는	O
+``	O
+무적LG~	O
+윤요섭~	O
+워우워~	O
+예~	O
+''	O
+이다	O
+.	O
+
+손권이	B-PER
+오왕이	O
+되자	O
+양위장군으로	O
+승진하고	O
+건덕후에	O
+봉해졌다	O
+.	O
+
+바르샤바로	B-LOC
+보내진	O
+중대는	O
+302무선전차조종대대	O
+(	O
+Panzer	O
+Abteilung	O
+(	O
+Fkl	O
+)	O
+302	O
+)	O
+에	O
+배속되었다	O
+.	O
+
+이	O
+때	O
+받은	O
+상품들은	O
+그	O
+날	O
+승리의	O
+주역이었던	O
+브래드	B-PER
+스나이더에게	I-PER
+모두	O
+주었다고	O
+한다	O
+.	O
+
+팀의	O
+1번	O
+타자인	O
+니시오카	B-PER
+쓰요시와	I-PER
+함께	O
+'	O
+''	O
+니오라인	O
+''	O
+'이라고	O
+불린다	O
+.	O
+
+베나프로	B-LOC
+(	O
+Venafro	O
+)	O
+
+쓰훙	B-LOC
+현	I-LOC
+(	O
+泗洪县	O
+)	O
+
+쓰바사	B-ORG
+(	I-ORG
+열차	I-ORG
+)	I-ORG
+
+이라크	B-LOC
+후세인	B-PER
+전	O
+대통령의	O
+측근	O
+변호사가	O
+납치후	O
+살해됐다	O
+.	O
+
+그는	O
+``	O
+친일파	B-PER
+문제를	O
+자기	O
+주장에	O
+이용하는	O
+사람들이	O
+많고	O
+객관적으로	O
+다루기도	O
+쉽지	O
+않다	O
+.	O
+
+기스	B-PER
+하워드	I-PER
+(	O
+숨겨진	O
+형태	O
+)	O
+
+뛰어난	O
+인물	O
+묘사	O
+실력으로	O
+송병준	B-PER
+,	O
+대한제국	B-PER
+순종황제	I-PER
+등의	O
+얼굴을	O
+그리면서	O
+점차	O
+이름을	O
+얻게	O
+되었다	O
+.	O
+
+존	B-PER
+러스킨의	I-PER
+와	O
+을	O
+번역하였다	O
+(	O
+1904	O
+,	O
+1906	O
+)	O
+.	O
+
+이	O
+평야는	O
+인접하는	O
+아이라	B-LOC
+정	I-LOC
+남부와도	O
+연결되어	O
+있다	O
+.	O
+
+특히	O
+구원	O
+투수진의	O
+정비나	O
+육성에는	O
+실적이	O
+있었고	O
+이시이	B-PER
+히로토시	I-PER
+,	O
+이가라시	B-PER
+료타와	I-PER
+같은	O
+속구파를	O
+주전으로	O
+하고	O
+다카쓰	B-PER
+신고	I-PER
+등과	O
+같은	O
+베테랑	O
+투수의	O
+재생에도	O
+힘을	O
+쏟았다	O
+.	O
+
+태백산맥의	B-LOC
+서쪽에	O
+위치하고	O
+북한강이	B-LOC
+군내를	O
+흐른다	O
+.	O
+
+군청	O
+소재지는	O
+영암읍이고	B-LOC
+,	O
+행정구역은	O
+2읍	O
+9면이다	O
+.	O
+
+'	O
+''	O
+'	O
+''	O
+-	O
+김주리	B-PER
+
+**	O
+카이로	B-LOC
+(	O
+대사관	O
+)	O
+
+**	O
+인터콘티넨탈	B-ORG
+(	I-ORG
+호텔	I-ORG
+)	I-ORG
+
+위르겐	B-PER
+클린스만이	I-PER
+2006년	B-ORG
+FIFA	I-ORG
+월드컵을	I-ORG
+앞두고	O
+발표한	O
+22인	O
+스쿼드에서	O
+,	O
+34세였던	O
+뵈언스는	O
+백업	O
+스쿼드에	O
+포함되는데	O
+그쳤다	O
+.	O
+
+앨릭스	B-PER
+윌킨슨	I-PER
+/	I-PER
+윌킨슨	I-PER
+(	O
+2012년–2015년	O
+전북	B-ORG
+현대	I-ORG
+모터스	I-ORG
+)	O
+
+남편	O
+인종과의	B-PER
+사이에서	O
+소생은	O
+없었다	O
+.	O
+
+수도는	O
+야무수크로이며	B-LOC
+,	O
+최대	O
+도시는	O
+아비장이다	B-LOC
+.	O
+
+20세기	B-ORG
+소년	I-ORG
+-	O
+이야기의	O
+중요	O
+인물이	O
+핫토리군의	O
+가면을	O
+착용	O
+.	O
+
+**	O
+바르샤바	B-LOC
+(	O
+대사관	O
+)	O
+,	O
+그단스크	B-LOC
+(	O
+총영사관	O
+)	O
+,	O
+크라쿠프	B-LOC
+(	O
+총영사관	O
+)	O
+,	O
+루블린	B-LOC
+(	O
+총영사관	O
+)	O
+
+'	O
+''	O
+계전리	O
+''	O
+'는	O
+다음	O
+지역에	O
+위치한	O
+대한민국의	B-LOC
+리이다	B-LOC
+.	O
+
+스코틀랜드	B-ORG
+국가대표로는	I-ORG
+40경기에	O
+출전하여	O
+1골을	O
+넣었다	O
+.	O
+
+KFC	B-ORG
+-	O
+30	O
+주년	O
+기념	O
+TV-CF	O
+(	O
+2014	O
+)	O
+
+'	O
+''	O
+마곡리	O
+''	O
+'는	O
+다음	O
+지역에	O
+위치한	O
+대한민국의	B-LOC
+리이다	B-LOC
+.	O
+
+차우차우처럼	B-ORG
+청검색	O
+혀를	O
+갖기도	O
+하는데	O
+흔하지는	O
+않다	O
+.	O
+
+마이클	B-PER
+잭슨이	I-PER
+성추행	O
+혐의로	O
+체포되다	O
+.	O
+
+넘겨주기	O
+스리	B-ORG
+6	I-ORG
+마피아	I-ORG
+
+보덴	B-LOC
+호	I-LOC
+북쪽	O
+25km	O
+지점에	O
+있으며	O
+,	O
+부근은	O
+라인	B-LOC
+강	I-LOC
+수계와	O
+도나우	B-LOC
+강	I-LOC
+수계의	O
+경계	O
+지점이다	O
+.	O
+
+넘겨주기	O
+Mobility	B-ORG
+(	I-ORG
+노래	I-ORG
+)	I-ORG
+
+구로이	B-ORG
+역방면으로	I-ORG
+직접	O
+향하는	O
+열차는	O
+없다	O
+.	O
+
+동물왕국의	O
+두	O
+얼굴	O
+-	O
+케냐	B-LOC
+
+21	O
+-	O
+마르티나	B-PER
+나브라틸로바	I-PER
+(	O
+1974-1994	O
+)	O
+
+북쪽과	O
+동쪽	O
+,	O
+남쪽으로는	O
+스트루가	B-LOC
+시와	I-LOC
+접하며	O
+서쪽으로는	O
+알바니아와	B-LOC
+국경을	O
+접한다	O
+.	O
+
+에이젝스	B-ORG
+-	O
+'	O
+''	O
+미쳐가	O
+''	O
+'	O
+
+동커스터	B-ORG
+로버스	I-ORG
+FC	I-ORG
+
+중앙마케도니아	B-LOC
+주	I-LOC
+(	O
+Κεντρική	O
+Μακεδονία	O
+)	O
+
+Wandering_glider_	O
+(	O
+Pantala_flavescens	O
+)	O
+그랜드	B-LOC
+캐니언에서	I-LOC
+촬영된	O
+된장잠자리	O
+
+후쿠야마	B-PER
+마사하루	I-PER
+(	O
+4	O
+)	O
+
+제네바	B-LOC
+–	O
+제네바	B-ORG
+국제공항	I-ORG
+
+마르틴	B-PER
+하르니크	I-PER
+''	O
+(	O
+슈투트가르트	B-ORG
+)	O
+''	O
+
+대전역은	B-ORG
+경부선과	B-ORG
+충북선을	B-ORG
+운행하는	O
+열차가	O
+정차하며	O
+,	O
+서대전역은	B-ORG
+호남선과	B-ORG
+전라선을	B-ORG
+운행하는	O
+모든	O
+열차가	O
+정차한다	O
+.	O
+
+낮은	O
+심볼율은	O
+심볼들	O
+사이의	O
+적절한	O
+보호	B-ORG
+구간	I-ORG
+(	O
+guard	O
+interval	O
+)	O
+을	O
+유지할	O
+수	O
+있게	O
+해	O
+준다	O
+.	O
+
+이후	O
+명종	B-PER
+때	O
+폐지하였다	O
+.	O
+
+**	O
+마나우스	B-LOC
+(	O
+영사대리부	O
+)	O
+
+넘겨주기	O
+도미니카	B-LOC
+공화국의	I-LOC
+행정	I-LOC
+구역	I-LOC
+
+브라질	B-LOC
+파라나	B-LOC
+주	I-LOC
+론드리나	B-LOC
+
+대한민국의	B-ORG
+사적	I-ORG
+제382호로	O
+지정되어	O
+있다	O
+.	O
+
+교육칙어는	O
+메이지	B-PER
+천황이	I-PER
+국민에게	O
+직접	O
+분부하는	O
+형식으로	O
+쓰여	O
+있다	O
+.	O
+
+1930년	B-ORG
+-	O
+(	O
+-13골	O
+)	O
+
+나와	B-ORG
+스타의	I-ORG
+99일	I-ORG
+(	O
+2011	O
+)	O
+
+미셸	B-PER
+푸코는	I-PER
+광기를	O
+단순히	O
+문화적	O
+일탈로	O
+간주하고	O
+광기는	O
+그	O
+문화를	O
+적극적으로	O
+표현한다고	O
+주장했다	O
+.	O
+
+놀랍게도	O
+1994-95	B-LOC
+시즌	I-LOC
+,	O
+클린스만은	O
+프리미어리그의	B-ORG
+토트넘	B-ORG
+홋스퍼로	I-ORG
+이적하였다	O
+.	O
+
+스탄코비치	B-PER
+(	O
+인테르나치오날레	B-ORG
+)	O
+
+이로	O
+인해	O
+축적된	O
+불만은	O
+최종적으로는	O
+다케시타	B-PER
+노보루가	I-PER
+다나카파에서	O
+이탈하면서	O
+파벌이	O
+붕괴하는	O
+계기로	O
+작용했다	O
+.	O
+
+그	O
+밖에	O
+후쿠시마	B-PER
+마사노리	I-PER
+(	O
+)	O
+와	O
+가토	B-ORG
+기요마사	I-ORG
+(	O
+)	O
+,	O
+구로다	B-PER
+나가마사	I-PER
+,	O
+아사노	B-PER
+나가마사	I-PER
+,	O
+고바야카와	B-PER
+히데아키	I-PER
+등의	O
+징계에서도	O
+그들을	O
+변호하여	O
+신망을	O
+얻었다	O
+.	O
+
+'	O
+''	O
+관평리	O
+''	O
+'는	O
+다음	O
+지역에	O
+위치한	O
+대한민국의	B-LOC
+리이다	B-LOC
+.	O
+
+``	O
+...	B-ORG
+Baby	I-ORG
+One	I-ORG
+More	I-ORG
+Time	I-ORG
+''	O
+(	O
+Encore	O
+)	O
+
+가타야마	B-PER
+데쓰	I-PER
+(	O
+片山哲	O
+)	O
+
+아비코	B-LOC
+시	I-LOC
+(	O
+)	O
+
+사라베쓰	B-LOC
+촌	I-LOC
+(	O
+)	O
+
+캘리포니아	B-ORG
+공과대학교의	I-ORG
+데이비드	B-PER
+볼티모어	I-PER
+교수는	O
+“벤터는	O
+생명을	O
+창조한	O
+게	O
+아니라	O
+모조품을	O
+만들어냈을	O
+뿐	O
+실질적인	O
+응용가능성에는	O
+의심을	O
+가질수	O
+밖에	O
+없다	O
+''	O
+라고	O
+하였다	O
+.	O
+
+**	O
+나탈붉은바위토끼	B-LOC
+(	O
+''Pronolagus	O
+crassicaudatus	O
+''	O
+)	O
+
+넘겨주기	O
+러시아	B-PER
+여대공	I-PER
+마리아	I-PER
+니콜라예브나	I-PER
+(	I-PER
+1819년	I-PER
+)	I-PER
+
+'	O
+''	O
+제니퍼	B-PER
+카프리아티	I-PER
+''	O
+'	O
+'	O
+''	O
+모니카	B-PER
+셀레스	I-PER
+''	O
+'	O
+
+넘겨주기	O
+로망스	B-ORG
+(	I-ORG
+음악	I-ORG
+그룹	I-ORG
+)	I-ORG
+
+측천무후에게는	B-PER
+둘째	O
+아들이자	O
+당	B-PER
+중종	I-PER
+,	O
+당	B-PER
+예종의	I-PER
+형이며	O
+,	O
+당	B-PER
+현종의	I-PER
+큰아버지이다	O
+.	O
+
+넘겨주기	O
+리사	B-PER
+마리	I-PER
+프레슬리	I-PER
+
+결국	O
+아내인	O
+복비의	O
+청탁을	O
+받은	O
+예의	B-PER
+화살에	O
+왼쪽	O
+눈이	O
+멀게	O
+된다	O
+.	O
+
+하리아나	B-LOC
+주·	I-LOC
+공용	O
+인정어	O
+.	O
+
+넘겨주기	O
+아빠	B-ORG
+!	I-ORG
+어디가	I-ORG
+?	I-ORG
+
+(	O
+비르투스	B-ORG
+란차노에서	I-ORG
+임대	O
+)	O
+
+동관	B-ORG
+전투가	I-ORG
+시작될	O
+때부터	O
+수당시대까지	O
+동관은	O
+항상	O
+중요한	O
+전략적	O
+기반이었다	O
+.	O
+
+촉	B-LOC
+(	O
+蜀	O
+)	O
+후주	B-PER
+(	O
+後主	O
+)	O
+25년	O
+
+**	O
+카르포닥틸루스과	B-LOC
+(	O
+Carphodactylidae	O
+)	O
+
+''	O
+파운드힘	B-ORG
+''	O
+'은	O
+힘의	O
+단위이다	O
+.	O
+
+차적지와	O
+운행	O
+방향에	O
+상관없이	O
+,	O
+성남시의	B-LOC
+도로를	O
+경유함에도	O
+성남시	B-LOC
+구간의	O
+정차	O
+정류소가	O
+없는	O
+노선은	O
+생략하였다	O
+.	O
+
+결승전	O
+축하공연	O
+-	O
+에이핑크	B-ORG
+
+그	O
+무렵	O
+에가와	B-PER
+스구루가	I-PER
+등판하는	O
+경기에서는	O
+수비로	O
+자주	O
+방해를	O
+하고	O
+있었기	O
+때문에	O
+에가와로부터	O
+‘150km의	O
+견제구’를	O
+던질	O
+수	O
+있었다	O
+.	O
+
+북한	O
+정권에	O
+의해	O
+김형직군으로	B-LOC
+개칭되었다	O
+.	O
+
+(	O
+이후	O
+2014년	B-ORG
+FIFA	I-ORG
+월드컵	I-ORG
+남아메리카	I-ORG
+지역	I-ORG
+예선이	I-ORG
+이	O
+방식으로	O
+치뤄졌다	O
+.	O
+
+서벌의	O
+또다른	O
+특징은	O
+커다란	O
+귀와	O
+두개골의	O
+청각융기의	B-ORG
+존재이다	O
+.	O
+
+하지만	O
+대한민국과	B-LOC
+조선민주주의인민공화국의	B-LOC
+아프리카에서의	O
+외교능력	O
+경쟁은	O
+서로의	O
+감정대립	O
+격화와	O
+외화낭비만	O
+불러왔다	O
+.	O
+
+넘겨주기	O
+애플	B-ORG
+(	I-ORG
+기업	I-ORG
+)	I-ORG
+
+그러나	O
+주의심이	O
+약해진	O
+엘리	B-PER
+코헨은	I-PER
+그	O
+날	O
+따라	O
+건전지를	O
+이용하여	O
+송신을	O
+하기로	O
+했다	O
+.	O
+
+당시	O
+엘튼	B-PER
+존이	I-PER
+조언을	O
+해	O
+주기	O
+위해	O
+채플린에게	O
+전화를	O
+했다고	O
+알려져	O
+있다	O
+.	O
+
+'	O
+''	O
+무창리	O
+''	O
+'는	O
+다음	O
+지역에	O
+위치한	O
+대한민국의	B-LOC
+리이다	B-LOC
+.	O
+
+위	B-LOC
+(	O
+魏	O
+)	O
+소제	B-PER
+(	O
+少帝	O
+)	O
+2년	O
+
+미나카미	B-LOC
+정	I-LOC
+(	O
+)	O
+
+**	O
+대통령	B-ORG
+–	O
+토니	B-PER
+탄	I-PER
+켕	I-PER
+얌	I-PER
+(	O
+2011	O
+~	O
+)	O
+
+에셴	B-LOC
+(	O
+'	O
+''	O
+'	O
+)	O
+
+**	O
+1985–86	O
+풋볼	B-ORG
+리그	I-ORG
+1부	I-ORG
+
+광산	B-LOC
+현	I-LOC
+(	O
+光山县	O
+)	O
+
+네브셰히르	B-LOC
+(	O
+2007	O
+)	O
+
+넘겨주기	O
+유럽	B-ORG
+남방	I-ORG
+천문대	I-ORG
+
+사건은	O
+모스크바	B-LOC
+시내로	O
+빠르게	O
+퍼졌으며	O
+,	O
+시내	O
+곳곳에서	O
+폭동과	O
+약탈이	O
+이루어졌다	O
+.	O
+
+오시나리	B-PER
+슈고	I-PER
+(	O
+忍成修吾	O
+)	O
+
+동대원구역	B-LOC
+(	O
+東大院區域	O
+)	O
+
+제러드	B-PER
+위버	I-PER
+(	O
+현재	O
+)	O
+
+요시오카	B-PER
+히데타카	I-PER
+,	O
+유스케	B-PER
+산타마리아	I-PER
+,	O
+기무라	B-PER
+요시노	I-PER
+
+넘겨주기	O
+광개토태왕	B-ORG
+(	I-ORG
+드라마	I-ORG
+)	I-ORG
+
+사마라	B-LOC
+—	O
+사마라	B-LOC
+주	I-LOC
+
+후지사와의	O
+북쪽은	O
+야마토	B-LOC
+시와	I-LOC
+에비나	B-LOC
+시로	I-LOC
+북동쪽은	O
+요코하마	B-LOC
+시이다	I-LOC
+.	O
+
+장합	B-PER
+준예	O
+(	O
+儁乂	O
+)	O
+
+이와이즈미	B-LOC
+정	I-LOC
+(	O
+)	O
+
+서원의	O
+명칭은	O
+당나라	B-LOC
+현종	B-PER
+때	O
+여정전서원	O
+(	O
+麗正殿書院	O
+)	O
+·집현전서원	O
+(	O
+集賢殿書院	O
+)	O
+등의	O
+설치에서	O
+유래하였다	O
+.	O
+
+TV	B-ORG
+홋카이도	I-ORG
+(	O
+テレビ北海道	O
+)	O
+
+일리르스카비스트리차	B-LOC
+(	O
+Ilirska	O
+Bistrica	O
+)	O
+
+2009.09.13	O
+윤후명	B-PER
+(	O
+남환자1	O
+)	O
+
+하지만	O
+리그에서는	B-ORG
+전북	B-ORG
+현대	I-ORG
+모터스와	I-ORG
+동일한	O
+승점을	O
+획득하였지만	O
+골득실에서	O
+밀려	O
+10개	O
+팀	O
+중	O
+꼴찌라는	O
+불명예를	O
+안았다	O
+.	O
+
+그러나	O
+이적하자마자	O
+팀	O
+동료가	O
+된	O
+지브릴	B-PER
+시세와	I-PER
+싸움을	O
+벌여	O
+논란을	O
+일으켰고	O
+,	O
+결국	O
+시세가	O
+선덜랜드로	B-ORG
+임대를	O
+떠나게	O
+된다	O
+.	O
+
+하나우쿄	B-ORG
+메이드대	I-ORG
+(	O
+츠루기	O
+코노에	O
+)	O
+
+시원시원한	O
+성격으로	O
+인해	O
+팀	O
+동료들로부터의	O
+덕망도	O
+두텁고	O
+호시노	B-PER
+센이치가	I-PER
+은퇴한	O
+이후에는	O
+주니치의	O
+오랫동안	O
+투수진의	O
+리더적	O
+존재였으며	O
+‘고마쓰의	O
+두목’	O
+(	O
+)	O
+이라고	O
+불릴	O
+정도로	O
+사랑받았다	O
+.	O
+
+몸	O
+등쪽은	O
+전부	O
+흰색이고	O
+흰등줄스컹크와	B-LOC
+비슷하나	O
+코가	O
+돼지코와	O
+같다	O
+.	O
+
+그는	O
+고려의	B-ORG
+관직	O
+외에	O
+원나라의	B-PER
+관직도	O
+역임했는데	O
+,	O
+원나라로부터는	O
+정동행성좌우사원외랑	O
+(	O
+征東行省左右司員外郎	O
+)	O
+·중상감승	O
+(	O
+中尙監丞	O
+)	O
+·태부대감	O
+(	O
+太府大監	O
+)	O
+을	O
+받았다	O
+.	O
+
+'	O
+''	O
+비파기	O
+''	O
+'	O
+(	O
+琵琶記	O
+)	O
+는	O
+명대의	B-LOC
+희곡이다	B-ORG
+.	O
+
+고리	B-ORG
+역	I-ORG
+(	I-ORG
+도쿄	I-ORG
+도	I-ORG
+)	I-ORG
+(	O
+古里駅	O
+)	O
+
+The	B-ORG
+Slim	I-ORG
+Shady	I-ORG
+LP	I-ORG
+''	O
+(	O
+1999	O
+)	O
+
+이어	O
+그의	O
+힘을	O
+받아	O
+해티	B-PER
+맥대니얼은	I-PER
+여우조연상을	O
+수상하였고	O
+,	O
+최초의	O
+여성	O
+흑인	O
+수상자가	O
+되었다	O
+.	O
+
+'	O
+''	O
+프레스턴	B-ORG
+노스	I-ORG
+엔드	I-ORG
+FC	I-ORG
+''	O
+'	O
+
+김치곤	B-PER
+(	O
+51	O
+)	O
+,	O
+하피냐	B-PER
+(	O
+61	O
+)	O
+
+영광군]]	O
+/	O
+보성군	B-LOC
+/	O
+화순군	B-LOC
+/	O
+장성군	B-LOC
+/	O
+곡성군	B-LOC
+/	O
+구례군	B-LOC
+
+2년	O
+후	O
+스티븐	B-PER
+호킹이	I-PER
+호킹	B-LOC
+복사를	I-LOC
+발견함으로써	O
+그가	O
+옳았음이	O
+증명되었다	O
+.	O
+
+해발은	O
+17m이고	O
+예멘에서	B-LOC
+3번째로	O
+인구가	O
+많은	O
+도시이다	O
+.	O
+
+'	O
+''	O
+악진	B-PER
+''	O
+'	O
+문겸	O
+
+본	O
+목록은	O
+완공된	O
+상가	B-LOC
+건물이다	O
+.	O
+
+요코하마	B-LOC
+시	I-LOC
+사카에	B-LOC
+구	I-LOC
+,	O
+가마쿠라	B-ORG
+시	I-ORG
+,	O
+즈시	B-LOC
+시	I-LOC
+,	O
+미우라	B-LOC
+군	I-LOC
+
+U	B-ORG
+;	I-ORG
+Nee	I-ORG
+Code	I-ORG
+
+넘겨주기	O
+HIStory	B-ORG
+World	I-ORG
+Tour	I-ORG
+
+불로불사를	O
+실현하기	O
+위해서는	O
+,	O
+노화·	B-ORG
+없앨	O
+필요가	O
+있다	O
+.	O
+
+넘겨주기	O
+교황	B-PER
+마르첼로	I-PER
+1세	I-PER
+
+브리스틀	B-ORG
+대학교	I-ORG
+(	O
+University	O
+of	O
+Bristol	O
+)	O
+
+증거물	O
+분석관	O
+,	O
+오덕	O
+역	O
+-	O
+김무열	B-PER
+
+대부분의	O
+교향곡과	B-ORG
+마찬가지로	O
+4악장으로	O
+이루어져	O
+있다	O
+.	O
+
+現	O
+총리는	O
+덴질	B-PER
+더글라스이다	I-PER
+.	O
+
+다이키	B-LOC
+정	I-LOC
+(	I-LOC
+홋카이도	I-LOC
+)	I-LOC
+(	O
+)	O
+
+또한	O
+메소포타미아	B-LOC
+왕들은	O
+적들을	O
+비난하는	O
+경향을	O
+보이는데	O
+,	O
+그러한	O
+증거들이	O
+발견되지	O
+않는다	O
+.	O
+
+자신이	O
+도착하기	O
+전까지	O
+니스와	B-LOC
+제노바를	B-LOC
+모든	O
+비용을	O
+들여서	O
+지키라	O
+명령했다	O
+.	O
+
+'	O
+''	O
+심배	B-PER
+''	O
+'	O
+
+그	O
+전에	O
+,	O
+마이어는	O
+UEFA	B-ORG
+유로	I-ORG
+1972를	I-ORG
+우승하였고	O
+,	O
+UEFA	B-ORG
+유로	I-ORG
+1976에서	I-ORG
+체코슬로바키아와의	B-ORG
+결승전에	O
+상대하였으나	O
+,	O
+승부차기에서	O
+패하였다	O
+.	O
+
+더	O
+폭넓은	O
+벡터의	O
+지원으로	O
+이전과	O
+비교	O
+최대	O
+2배	O
+높은	O
+FLOPS	B-ORG
+
+중앙아메리카인은	B-LOC
+멕시코와	B-LOC
+콜롬비아	B-LOC
+사이에	O
+붙어	O
+있는	O
+육로	O
+같은	O
+영토에	O
+대부분	O
+거주한다	O
+.	O
+
+)	O
+은	O
+일제	B-LOC
+강점기와	I-LOC
+대한민국의	B-LOC
+군인이다	O
+.	O
+
+넘겨주기	O
+썸머랜드	B-ORG
+(	I-ORG
+드라마	I-ORG
+)	I-ORG
+
+여현수	B-PER
+-	O
+임현빈	O
+역	O
+
+''	O
+One	B-ORG
+of	I-ORG
+These	I-ORG
+Nights	I-ORG
+''	O
+-	O
+4:51	O
+
+중국	B-LOC
+상하이에서	B-LOC
+출생하였으며	O
+원적지는	O
+중화인민공화국	B-LOC
+광둥	B-LOC
+성	I-LOC
+중산이다	B-LOC
+.	O
+
+오사카	B-LOC
+부	I-LOC
+오사카	B-LOC
+시	I-LOC
+스미요시	B-LOC
+구	I-LOC
+출신이다	O
+.	O
+
+'	O
+''	O
+레소토	B-LOC
+''	O
+'	O
+-	O
+남아프리카	B-LOC
+공화국	I-LOC
+,	O
+909km	O
+
+현존하는	O
+종의	O
+대부분은	O
+대벌레아목에	B-LOC
+속한다	O
+.	O
+
+히라이	B-PER
+켄	I-PER
+-	O
+``	O
+Pop	O
+Star	O
+''	O
+
+빌리	B-PER
+조엘	I-PER
+(	O
+2008.11	O
+)	O
+
+별은	B-ORG
+내	I-ORG
+가슴에》	I-ORG
+-	O
+〈그대	O
+떠나가도〉	O
+(	O
+1997	O
+)	O
+
+길가메시	B-PER
+(	O
+126	O
+년	O
+)	O
+.	O
+
+아사쿠라	B-ORG
+역	I-ORG
+(	I-ORG
+시코쿠	I-ORG
+여객철도	I-ORG
+)	I-ORG
+
+''	O
+'2	O
+''	O
+'	O
+리버	B-ORG
+플레이트	I-ORG
+
+레인저스	B-ORG
+FC	I-ORG
+(	O
+2-4p	O
+)	O
+
+결국	O
+2년간의	O
+법정	O
+공방을	O
+통해	O
+일본행이	B-LOC
+무산되었고	O
+,	O
+법원에서	O
+조정안을	O
+내놓은	O
+끝에	O
+LG	B-ORG
+트윈스에	I-ORG
+입단하였다	O
+.	O
+
+VOGUE	O
+3월호	O
+(	O
+with	O
+고아성	B-PER
+,	O
+김향기	B-PER
+)	O
+
+당	B-PER
+고종과	I-PER
+추문	O
+관계에	O
+있던	O
+어머니	O
+한국부인의	O
+사후에	O
+특별히	O
+국부인으로	O
+봉작됐다	O
+.	O
+
+넘겨주기	O
+무반	B-LOC
+(	I-LOC
+행정	I-LOC
+구역	I-LOC
+)	I-LOC
+
+영동교	O
+(	O
+금호강	B-LOC
+)	O
+
+중구	B-LOC
+(	I-LOC
+서울특별시	I-LOC
+)	I-LOC
+·	O
+
+미국에서	B-LOC
+생산한	O
+최초의	O
+일본차이기도	B-LOC
+하다	O
+.	O
+
+래브라도	B-ORG
+리트리버	I-ORG
+종의	O
+수컷	O
+개로	O
+,	O
+초콜릿색털이다	O
+.	O
+
+테드	B-PER
+댄슨	I-PER
+-	O
+프로비셔	O
+
+의학소설로	O
+유명한	O
+로빈	B-PER
+쿡	I-PER
+
+2015	B-LOC
+시즌	I-LOC
+개막전	O
+서울	B-ORG
+이랜드와의	I-ORG
+경기에서	O
+안양에서의	O
+첫	O
+골을	O
+기록하였다	O
+.	O
+
+작센	B-PER
+공녀	I-PER
+마리아	I-PER
+요제파	I-PER
+
+넘겨주기	O
+타임	B-ORG
+(	I-ORG
+기업	I-ORG
+)	I-ORG
+
+카타르의	B-LOC
+도하가	B-LOC
+1차	O
+투표	O
+20표	O
+2차	O
+투표	O
+22표로	O
+압도적인	O
+승리를	O
+거두었다	O
+.	O
+
+넘겨주기	O
+쿠브라트	B-PER
+데	I-PER
+사호니아코부르고고타이고메즈아세보	I-PER
+
+뒷부분에는	O
+넓은	O
+정원이	O
+있는데	O
+,	O
+이는	O
+아돌프	B-PER
+히틀러가	I-PER
+자신의	O
+관저를	O
+베르사유	B-LOC
+궁전과	I-LOC
+비슷하게	O
+만들고자	O
+했던	O
+일임을	O
+알수있다	O
+.	O
+
+초대	O
+교회의	O
+기록과	O
+증언에	O
+따라	O
+베드로의	B-PER
+후계자로	O
+인정되고	O
+있다	O
+.	O
+
+가로명은	O
+이	O
+길의	O
+기점인	O
+안양천에	B-LOC
+놓인	O
+오목교에서	O
+유래되었다	O
+.	O
+
+'	O
+''	O
+월악산	B-LOC
+''	O
+'	O
+
+샤샤라는	O
+등록명은	O
+사샤	B-PER
+드라쿨리치	I-PER
+보다	O
+이	O
+선수가	O
+먼저	O
+사용했다	O
+.	O
+
+'	O
+''	O
+조범	B-PER
+''	O
+'	O
+
+이사	O
+/	O
+예수	B-PER
+عيسى	O
+/	O
+Jesus	O
+
+넘겨주기	O
+JK	B-ORG
+나르바	I-ORG
+트란스	I-ORG
+
+투병	O
+생활	O
+동안	O
+간호사가	O
+선물한	O
+기타를	B-ORG
+연주하고	O
+라디오를	B-ORG
+들으며	O
+슬프면서도	O
+낭만적인	O
+곡들을	O
+직접	O
+작곡하기도	O
+하면서	O
+가수의	O
+길로	O
+접어들게	O
+된다	O
+.	O
+
+셔벗이란	O
+이름은	O
+중동의	B-LOC
+음료인	O
+샤바트	O
+(	O
+)	O
+을	O
+기원으로	O
+보고	O
+있다	O
+.	O
+
+나폴리	B-LOC
+역사지구	I-LOC
+(	O
+1995	O
+)	O
+
+신라	B-ORG
+(	O
+新羅	O
+)	O
+문무왕	B-PER
+(	O
+文武王	O
+)	O
+6년	O
+
+이틀	O
+후	O
+,	O
+그녀는	O
+페데리카	B-PER
+펠레그리니가	I-PER
+우승한	O
+200m	O
+자유형에서	O
+4위를	O
+하였다	O
+.	O
+
+합스부르크	B-LOC
+군주국의	I-LOC
+요제프	B-PER
+2세에게	I-PER
+반역하여	O
+건국된	O
+단명	O
+국가이다	O
+.	O
+
+잡종견이었던	O
+쿠드리야브카는	O
+조상의	O
+피를	O
+따라	O
+대한민국의	B-LOC
+'바둑이	O
+'	O
+쯤에	O
+해당하는	O
+러시아식	O
+잡종견의	O
+대표적인	O
+이름인	O
+라이카로	O
+개명되었다	O
+.	O
+
+호원대학교	B-ORG
+실용음악과	O
+(	O
+재학	O
+)	O
+
+구양수도	B-PER
+또한	O
+온아한	O
+사를	O
+지었다	O
+.	O
+
+그리고	O
+2014년	B-ORG
+FIFA	I-ORG
+월드컵	I-ORG
+남아메리카	I-ORG
+지역	I-ORG
+예선	I-ORG
+11라운드까지	O
+이구아인은	O
+9골을	O
+기록하며	O
+득점선두를	O
+기록했다	O
+.	O
+
+《	O
+''	O
+로보카	B-ORG
+폴리	I-ORG
+''	O
+'》	O
+(	O
+2011년~	O
+)	O
+
+중앙대학교에서는	B-ORG
+학교	O
+직원으로	O
+보이는	O
+남자가	O
+대자보를	O
+철거하는	O
+장면이	O
+포착되기도	O
+했다	O
+.	O
+
+마타	B-PER
+하리	I-PER
+(	O
+실제	O
+역사적	O
+인물을	O
+본따	O
+만들어진	O
+인물임	O
+)	O
+
+==	O
+NC	B-ORG
+다이노스	I-ORG
+시절	O
+==	O
+
+그의	O
+원적지는	O
+중화인민공화국	B-LOC
+광둥	B-LOC
+성	I-LOC
+메이저우	B-LOC
+시	I-LOC
+우화	B-LOC
+현이며	I-LOC
+그의	O
+외가친척들이	O
+거주했던	O
+본적지는	O
+중화인민공화국	B-LOC
+광둥	B-LOC
+성	I-LOC
+장먼	B-LOC
+시	I-LOC
+신후이	B-LOC
+구이다	I-LOC
+.	O
+
+임예진	B-PER
+-	O
+혜인	O
+역	O
+
+토토	B-ORG
+(	I-ORG
+밴드	I-ORG
+)	I-ORG
+
+본사는	O
+도쿄	B-LOC
+도	I-LOC
+스기나미	B-LOC
+구에	I-LOC
+위치해	O
+있었다	O
+.	O
+
+사바	B-LOC
+섬	I-LOC
+(	O
+1781,1801-1803	O
+,	O
+1810-1816	O
+)	O
+
+파리에서	B-LOC
+27.6km	O
+정도	O
+떨어진	O
+곳에	O
+위치한다	O
+.	O
+
+고려가	B-ORG
+개국되자	O
+2등	O
+공신이	O
+되었고	O
+,	O
+태조는	B-PER
+지묘사를	O
+세워	O
+그의	O
+명복을	O
+빌었다	O
+.	O
+
+영화판과	O
+마찬가지로	O
+이누도	B-PER
+잇신이	I-PER
+감독을	O
+맡지만	O
+,	O
+영화와는	O
+다른	O
+오리지널	O
+스토리이다	O
+.	O
+
+중화인민공화국은	B-ORG
+승점	O
+1점도	O
+없는	O
+상태로	O
+탈락하였다	O
+.	O
+
+청와대	B-ORG
+,	O
+백악관과	B-ORG
+같은	O
+중요한	O
+기관의	O
+경우	O
+기자회견을	O
+위한	O
+공간을	O
+두고	O
+거기서	O
+기자회견을	O
+갖기도	O
+한다	O
+.	O
+
+그러나	O
+러시아	B-ORG
+정교회의	I-ORG
+포교까지	O
+완전히	O
+박멸할	O
+수	O
+없었다	O
+.	O
+
+산투스에선	B-ORG
+등번호	O
+10번을	O
+달고	O
+팀의	O
+에이스로	O
+맹활약하였다	O
+.	O
+
+WNET의	O
+스튜디오는	O
+미드타운	B-LOC
+맨해튼에	I-LOC
+있다	O
+.	O
+
+임둔은	O
+원래	O
+고조선	B-ORG
+근방에	O
+있던	O
+독립국가였던	O
+것으로	O
+보인다	O
+.	O
+
+***	O
+제	B-PER
+의공	I-PER
+(	O
+밀희	O
+소생	O
+)	O
+
+유역	O
+면적은	O
+190	O
+제곱킬로미터이다	B-ORG
+.	O
+
+이러한	O
+기록적인	O
+판매량에	O
+있어서	O
+당시	O
+토요타	B-ORG
+자동차의	I-ORG
+걸작이라고도	O
+평가되었다	O
+.	O
+
+리알토	B-LOC
+(	I-LOC
+베네치아	I-LOC
+)	I-LOC
+
+티롤	B-LOC
+주	I-LOC
+(	O
+인스브루크	B-LOC
+)	O
+
+제니퍼	B-PER
+카프리아티	I-PER
+(	O
+10	O
+)	O
+
+명나라	B-LOC
+때에는	O
+방성순사	O
+(	O
+防城巡司	O
+)	O
+를	O
+두었고	O
+청나라	B-LOC
+때	O
+방성현	O
+(	O
+防城县	O
+)	O
+이	O
+설치되었다	O
+.	O
+
+마운트에어리	B-LOC
+(	I-LOC
+메릴랜드	I-LOC
+주	I-LOC
+)	I-LOC
+
+개조	O
+및	O
+생산은	O
+스프링필드	B-ORG
+조병창이	I-ORG
+담당했다	O
+.	O
+
+그	O
+수도는	O
+카우샴비로	B-LOC
+현재의	O
+고삼으로	O
+알라하바드의	O
+남서쪽	O
+35마일	O
+지점이다	O
+.	O
+
+넘겨주기	O
+푸싱	B-LOC
+구	I-LOC
+(	I-LOC
+타오위안	I-LOC
+시	I-LOC
+)	I-LOC
+
+인근에	O
+달성토성	O
+(	O
+달성공원	B-ORG
+)	O
+에서	O
+유래되었다	O
+.	O
+
+넘겨주기	O
+프란츠	B-PER
+안톤	I-PER
+말베르츠	I-PER
+
+그는	O
+16강	O
+아일랜드	B-ORG
+전에서	O
+패널티킥과	O
+승부차기를	O
+막아내며	O
+그는	O
+곧	O
+8강	O
+진출의	O
+영웅으로	O
+떠올랐다	O
+.	O
+
+넘겨주기	O
+마리아	B-PER
+파우스티나	I-PER
+코발스카	I-PER
+
+잘로블루와	O
+마우리는	O
+브레시아로	B-ORG
+이적하기전까지	O
+좋은	O
+두	O
+시즌을	O
+보냈다	O
+.	O
+
+부산광역시	B-LOC
+금정구	B-LOC
+(	O
+2편	O
+)	O
+
+'	O
+''	O
+왕수	B-PER
+''	O
+'	O
+숙치	O
+
+파크루가	O
+일칸의	O
+궁정에	O
+찾아갔을	O
+때	O
+울제이투는	B-PER
+그를	O
+성대하게	O
+환영했다	O
+.	O
+
+그러자	O
+조신철은	O
+생계를	O
+해결하기	O
+위해	O
+절에	B-ORG
+들어가서	O
+수	O
+년을	O
+지냈다	O
+.	O
+
+'	O
+''	O
+모로리	O
+''	O
+'	O
+(	O
+慕老里	O
+)	O
+는	O
+다음	O
+지역에	O
+위치한	O
+대한민국의	B-LOC
+리이다	B-LOC
+.	O
+
+삼성	B-ORG
+,	O
+NC	B-ORG
+,	O
+한화	B-ORG
+,	O
+넥센이	B-ORG
+진출시	O
+적용한다	O
+.	O
+
+강원도	B-LOC
+평창군	B-LOC
+용평면	B-LOC
+장평리	O
+
+김지영	B-PER
+-	O
+미숙	O
+역	O
+(	O
+23세	O
+)	O
+
+넘겨주기	O
+센트럴	B-ORG
+역	I-ORG
+(	I-ORG
+MTR	I-ORG
+)	I-ORG
+
+바리살	B-LOC
+구	I-LOC
+(	O
+바리살	B-LOC
+)	O
+
+신라	B-ORG
+(	O
+新羅	O
+)	O
+선덕여왕	B-PER
+(	O
+善德女王	O
+)	O
+3년	O
+
+제9회	O
+-	O
+사시하라	B-PER
+리노	I-PER
+
+이	O
+경기	O
+이후	O
+메이저	B-ORG
+리그에는	I-ORG
+2차례	O
+더	O
+올라왔다	O
+.	O
+
+현재	O
+SS	B-ORG
+라치오	I-ORG
+소속으로	O
+활약하고	O
+있다	O
+.	O
+
+나는	B-ORG
+친구가	I-ORG
+적다（소라〈타카의	I-ORG
+친구〉、여학생、여학생A）	O
+
+2006년	B-ORG
+FIFA	I-ORG
+월드컵	I-ORG
+
+현재	O
+駐	O
+베네수엘라	B-LOC
+대사이다	O
+.	O
+
+**	O
+라이너스	B-PER
+폴링	I-PER
+,	O
+1954	O
+
+넘겨주기	O
+에른스트	B-ORG
+하펠	I-ORG
+슈타디온	I-ORG
+
+은	O
+엄청난	O
+성공을	O
+거두었고	O
+,	O
+이에	O
+힘을	O
+얻은	O
+나운규는	B-PER
+후속작으로	O
+를	O
+촬영한다	O
+.	O
+
+**	O
+네우켄	B-LOC
+(	O
+총영사관	O
+)	O
+
+이	O
+경기에서	O
+월컷의	B-PER
+골을	O
+어시스트하기도	O
+했다	O
+.	O
+
+현재	O
+로코모티프	B-ORG
+모스크바	I-ORG
+소속으로	O
+뛰고	O
+있다	O
+.	O
+
+서하	B-LOC
+(	O
+西夏	O
+)	O
+신종	B-PER
+(	O
+神宗	O
+)	O
+3년	O
+
+'	O
+''	O
+채옹	B-PER
+''	O
+'	O
+백개	O
+
+롄장	B-LOC
+시	I-LOC
+(	O
+廉江市	O
+)	O
+
+현재	O
+스코틀랜드	B-ORG
+프리미어리그에	I-ORG
+참가하고	O
+있다	O
+.	O
+
+타카이	O
+츠키나가	O
+SKE48에	B-ORG
+이적에	O
+수반해	O
+그룹을	O
+탈퇴	O
+.	O
+
+이후	O
+그는	O
+할아버지	O
+흥선대원군에	B-PER
+의해	O
+양육되었지만	O
+조부의	O
+사후	O
+,	O
+왕족에게	O
+부여되는	O
+작위도	O
+받지	O
+못하고	O
+어렵게	O
+생활하였다	O
+.	O
+
+가끔은	O
+쿠르간	B-LOC
+주	I-LOC
+,	O
+첼랴빈스크	B-LOC
+주	I-LOC
+,	O
+스베르들롭스크	B-LOC
+주	I-LOC
+,	O
+알타이	B-LOC
+지방와	I-LOC
+크라스노야르스크	B-LOC
+지방도	I-LOC
+포함되기도	O
+한다	O
+.	O
+
+다음은	O
+아래의	O
+항공사와	O
+상호	O
+제휴를	O
+맺고	O
+미국에서	B-LOC
+환승을	O
+가능하게	O
+하고	O
+있다	O
+.	O
+
+JR	B-ORG
+오구라	I-ORG
+역	I-ORG
+(	O
+)	O
+
+김천대학교	B-ORG
+(	O
+경상북도	B-LOC
+김천시	B-LOC
+)	O
+
+서울역에서도	B-ORG
+멀지	O
+않고	O
+고양	B-LOC
+,	O
+김포	B-LOC
+,	O
+파주	B-LOC
+,	O
+인천	B-LOC
+등지로	O
+연결되는	O
+교통편이	O
+발달하였으며	O
+,	O
+많은	O
+유흥업소	O
+등이	O
+모여	O
+있어	O
+젊은이들이	O
+많이	O
+찾는	O
+서울의	B-LOC
+대표적인	O
+부도심	O
+중	O
+하나이다	O
+.	O
+
+용자왕	B-ORG
+가오가이가	I-ORG
+(	O
+운전수	O
+)	O
+
+싸이의	B-PER
+강남스타일'처럼	B-ORG
+빠르게	O
+확산되고	O
+있는	O
+크레용팝의	B-ORG
+'빠빠빠	O
+'	O
+신드롬이	O
+향후	O
+더욱	O
+큰	O
+사랑을	O
+받게	O
+될	O
+것이라고	O
+예상했다	O
+.	O
+
+도박묵시록	B-ORG
+카이지	I-ORG
+（제작요청：매드하우스	O
+,	O
+제작협력	O
+,	O
+2007년-2008년）	O
+
+영국에서는	B-LOC
+다음과	O
+같은	O
+경우에	O
+공식적으로	O
+이름	O
+앞에	O
+붙여	O
+쓴다	O
+.	O
+
+플래시백에서는	O
+나이지리아에서	B-LOC
+자신의	O
+동생을	O
+지키기	O
+위해	O
+게릴라병의	O
+리더가	O
+되었다는	O
+사실이	O
+밝혀졌다	O
+.	O
+
+■	O
+JR	B-ORG
+고베	I-ORG
+선	I-ORG
+(	O
+하행선	O
+)	O
+
+드라마	B-LOC
+현	I-LOC
+(	O
+Δράμα	O
+)	O
+
+미국	B-ORG
+공화당의	I-ORG
+별명인	O
+``	O
+Grande	O
+Old	O
+Party	O
+''	O
+
+계약	O
+만료	O
+후	O
+,	O
+그는	O
+프리미어리그의	B-ORG
+포츠머스에서	B-ORG
+입단	O
+테스트를	O
+시도하였으나	O
+클럽과	O
+계약하지	O
+않았다	O
+.	O
+
+요	B-LOC
+(	O
+遼	O
+)	O
+성종	B-PER
+(	O
+聖宗	O
+)	O
+13년	O
+
+신라	B-ORG
+-	O
+구택으로	O
+불리며	O
+해고현에	O
+속했다	O
+.	O
+
+이승환]]	O
+,	O
+서문탁	B-PER
+,	O
+풍경	O
+
+대한민국에는	B-LOC
+현재	O
+22개의	O
+러닝센터가	O
+운영되고	O
+있다	O
+.	O
+
+헬리키나상과	B-LOC
+(	O
+Helicinoidea	O
+)	O
+
+한때는	O
+족제비	B-LOC
+(	O
+''M	O
+.	O
+
+애틀랜틱	B-LOC
+(	I-LOC
+아이오와	I-LOC
+주	I-LOC
+)	I-LOC
+
+지천교	O
+-	O
+중앙고속도로	B-ORG
+통과	O
+
+삼국	B-ORG
+시대	I-ORG
+이전부터	O
+사용되었을	O
+것으로	O
+추측된다	O
+.	O
+
+한편	O
+그가	O
+권위주의적이고	O
+조선시대의	B-LOC
+양반적	O
+사고방식을	O
+가졌다는	O
+평도	O
+있다	O
+.	O
+
+얼음꽃]]	O
+(	O
+With	O
+김연아	B-PER
+)	O
+
+병안류는	O
+하위	O
+분류군으로	O
+판악류	B-LOC
+(	O
+Elasmognatha	O
+)	O
+,	O
+직수뇨관류	B-LOC
+(	O
+Orthurethra	O
+)	O
+그리고	O
+비공식군	O
+곡수뇨관류	B-LOC
+(	O
+Sigmurethra	O
+)	O
+를	O
+포함하고	O
+있다	O
+.	O
+
+시리아	B-LOC
+내전에	I-LOC
+정부군으로	O
+참전하였다	O
+.	O
+
+그	O
+팀에서	O
+두	O
+시즌간	O
+활약	O
+후	O
+세비야	B-ORG
+FC로	I-ORG
+이적했다	O
+.	O
+
+고려대학교	B-ORG
+(	O
+재학	O
+중	O
+)	O
+
+바티칸	B-ORG
+도서관	I-ORG
+(	O
+Bibliotheca	O
+Apostolica	O
+Vaticana	O
+)	O
+
+루네	B-PER
+브라체트	I-PER
+80	O
+'	O
+,	O
+윈턴	B-PER
+루퍼	I-PER
+90	O
+'	O
+
+람빵	B-LOC
+(	O
+ลำปาง	O
+)	O
+
+바벨은	O
+독일	B-ORG
+축구	I-ORG
+국가대표팀	I-ORG
+일원으로	O
+51경기	O
+출장하여	O
+UEFA	B-ORG
+유로	I-ORG
+1996의	I-ORG
+우승	O
+주역이	O
+되었으며	O
+,	O
+국가대항전에서	O
+1득점을	O
+하였다	O
+.	O
+
+프랑스	B-ORG
+대표로	I-ORG
+뛰며	O
+,	O
+1998년	B-ORG
+FIFA	I-ORG
+월드컵	I-ORG
+,	O
+UEFA	B-ORG
+유로	I-ORG
+2000	I-ORG
+우승	O
+경험을	O
+한	O
+바	O
+있다	O
+.	O
+
+개통	O
+직후	O
+,	O
+노량진역에서	B-ORG
+인천역까지	B-ORG
+운행하는	O
+열차	O
+시각표는	O
+다음과	O
+같았다	O
+.	O
+
+.tp	B-ORG
+-	O
+동티모르	B-LOC
+(	O
+사용되지	O
+않음	O
+.	O
+
+일부	O
+구간은	O
+호남고속도로지선과	B-ORG
+나란하다	O
+.	O
+
+지켜줘	B-ORG
+롤리팝	I-ORG
+(	O
+투니버스	B-ORG
+)	O
+-	O
+남학생3	O
+
+4일뒤	O
+,	O
+리엄은	O
+새로운	O
+집을	O
+살	O
+시간이	O
+필요하다며	O
+첫	O
+번째	O
+미국공연에서	B-LOC
+빠져	O
+노엘은	O
+또다시	O
+리엄의	O
+빈자리를	O
+채워야	O
+했다	O
+.	O
+
+두	O
+번째로	O
+가장	O
+큰	O
+대도시권은	O
+멕시코의	B-LOC
+멕시코시티	B-LOC
+대도시권이며	O
+,	O
+인구가	O
+약	O
+2,700만	O
+명이다	O
+.	O
+
+**	O
+베른	B-LOC
+(	O
+대사관	O
+)	O
+,	O
+바젤	B-LOC
+(	O
+총영사관	O
+)	O
+,	O
+제네바	B-LOC
+(	O
+총영사관	O
+)	O
+,	O
+루가노	B-LOC
+(	O
+총영사관	O
+)	O
+,	O
+취리히	B-LOC
+(	O
+총영사관	O
+)	O
+
+한국교육방송공사가	B-ORG
+주최하는	O
+관계로	O
+,	O
+먼저	O
+방송국에서	O
+예선을	O
+거친뒤	O
+,	O
+12곡의	O
+본선진출자를	O
+가려내어	O
+경연한다	O
+.	O
+
+이탈리아가	B-ORG
+서독을	I-ORG
+4-3으로	I-ORG
+이긴	I-ORG
+준결승전	I-ORG
+경기는	I-ORG
+``	O
+세기의	O
+경기	O
+''	O
+로도	O
+알려져	O
+있다	O
+.	O
+
+타이창	B-LOC
+시	I-LOC
+(	O
+太仓市	O
+,	O
+Tàicāng	O
+)	O
+
+그	O
+뒤	O
+제21대	O
+국방부	B-ORG
+장관이	O
+되었다	O
+.	O
+
+넘겨주기	O
+교황	B-PER
+바오로	I-PER
+2세	I-PER
+
+미국	B-LOC
+조지	B-ORG
+워싱턴	I-ORG
+대학교	I-ORG
+대학원	O
+영어영문학과	O
+졸업	O
+(	O
+문학석사	O
+)	O
+
+포조산니타	B-LOC
+(	O
+Poggio	O
+Sannita	O
+)	O
+
+'	O
+''	O
+시흥시	B-LOC
+''	O
+'	O
+
+올림피아코스는	O
+우크라이나에서	B-LOC
+열린	O
+1차전에서	O
+다비드	B-PER
+푸스테르의	I-PER
+결승골에	O
+힘입어	O
+1-0으로	O
+이겼으나	O
+,	O
+2차전에서	O
+초반	O
+선제골을	O
+넣고도	O
+수	O
+차례	O
+골찬스를	O
+날리면서	O
+(	O
+전반전에	O
+골대를	O
+두번	O
+맞추었다	O
+)	O
+막판	O
+9분에	O
+2골을	O
+실점하고	O
+8강	O
+진출에	O
+실패했다	O
+.	O
+
+텔아비브의	B-LOC
+남쪽	O
+,	O
+가자	B-LOC
+지구의	I-LOC
+북쪽에	O
+위치해	O
+있다	O
+.	O
+
+엄씨부인	O
+(	O
+42	O
+)	O
+-	O
+양희경	B-PER
+
+넘겨주기	O
+분리	B-ORG
+독립	I-ORG
+운동	I-ORG
+목록	I-ORG
+
+노선	O
+중간에	O
+충청북도	B-LOC
+영동군	B-LOC
+지역을	O
+통과한다	O
+.	O
+
+MTV와의	B-ORG
+인터뷰에서	O
+,	O
+켄드릭	B-PER
+라마는	I-PER
+〈Wesley	O
+'s	O
+Theory〉와	O
+〈King	O
+Kunta〉의	O
+숨겨진	O
+의미에	O
+대해	O
+설명했다	O
+.	O
+
+동쪽으로는	O
+드레스덴	B-ORG
+구	I-ORG
+,	O
+북쪽으로는	O
+라이프치히	B-ORG
+구	I-ORG
+,	O
+서쪽으로는	O
+게라	B-ORG
+구와	I-ORG
+접하고	O
+있었다	O
+.	O
+
+그는	O
+후에	O
+키토에서	B-LOC
+열린	O
+에콰도르와의	B-ORG
+친선	O
+경기에서	O
+80번째	O
+대표팀	O
+출장을	O
+기록했다	O
+.	O
+
+'	O
+''	O
+남인식	O
+''	O
+'	O
+포항공과대학교	B-ORG
+화학공학과	O
+
+이기영	B-PER
+-	O
+강중호	O
+역	O
+
+기타가와	B-LOC
+촌	I-LOC
+(	O
+)	O
+
+제	B-PER
+성공	I-PER
+(	O
+아버지	O
+)	O
+
+넘겨주기	O
+버네사	B-PER
+리	I-PER
+에비건	I-PER
+
+레오포우두	B-PER
+호베르투	I-PER
+마르코브스키	I-PER
+/	I-PER
+레오	I-PER
+(	O
+2009년–2010년	O
+대구	B-ORG
+FC	I-ORG
+)	O
+
+**	O
+당시는	O
+2002년	B-ORG
+FIFA	I-ORG
+월드컵이	I-ORG
+한창	O
+진행	O
+중이었는데	O
+,	O
+3,4위전에서	O
+대한민국	B-LOC
+축구	I-LOC
+대표팀과	I-LOC
+터키	B-LOC
+축구	I-LOC
+대표팀이	I-LOC
+대결하고	O
+있었다	O
+.	O
+
+경희대학교	B-ORG
+국제캠퍼스	I-ORG
+도예학과	O
+학사	O
+
+**	O
+영화부문	O
+여자신인연기상	O
+-	O
+정유미	B-PER
+
+네	O
+번째	O
+싱글인	O
+'P.I.M.P'는	O
+G-Unit의	B-ORG
+맴버들인	O
+로이드	B-PER
+뱅크스	I-PER
+,	O
+영	B-PER
+벅이	I-PER
+참여했으며	O
+,	O
+리믹스	O
+버전에는	O
+스눕	B-PER
+독도	I-PER
+참여한다	O
+.	O
+
+암스테르담	B-ORG
+방어선	I-ORG
+(	O
+1996	O
+)	O
+
+둘째딸	O
+블랑슈	B-PER
+데브뢰는	I-PER
+필리프	B-PER
+6세의	I-PER
+왕비가	O
+되었다	O
+.	O
+
+제임스	B-PER
+조지프	I-PER
+실베스터가	I-PER
+도입하였다	O
+.	O
+
+현재	O
+노리치	B-ORG
+시티	I-ORG
+FC에서	I-ORG
+활약하고	O
+있다	O
+.	O
+
+길기트발티스탄	B-LOC
+주	I-LOC
+-	O
+가	O
+영유권	O
+주장	O
+카이베르파크툰크와	B-LOC
+주	I-LOC
+아자드	B-LOC
+카슈미르	I-LOC
+주	I-LOC
+-	O
+가	O
+영유권	O
+주장	O
+
+넘겨주기	O
+크리스천	B-ORG
+(	I-ORG
+프로레슬링	I-ORG
+선수	I-ORG
+)	I-ORG
+
+포병사령관	O
+시절에는	O
+박정희의	B-PER
+상관이기도	O
+했다	O
+.	O
+
+그러나	O
+솁세스카프는	O
+특별한	O
+업적을	O
+남기지	O
+못하고	O
+재위	O
+4년	O
+만에	O
+죽고	O
+,	O
+왕위는	O
+그의	O
+누이인	O
+켄트카웨스와	O
+결혼한	O
+우세르카프가	B-PER
+계승하여	O
+이집트	B-ORG
+제5왕조가	I-ORG
+시작된다	O
+.	O
+
+CD뿐인	B-ORG
+형태와	O
+DVD가	B-ORG
+부록되어	O
+있는	O
+형태	O
+2가지로	O
+발매되었다	O
+.	O
+
+파라마운트	B-ORG
+픽쳐스	I-ORG
+/	O
+파라마운트	B-ORG
+애니메이션	I-ORG
+/	O
+United	O
+Plankton	O
+Pictures	O
+
+**	O
+부산	B-LOC
+22.5	O
+m	O
+/	O
+s	O
+
+그는	O
+첫	O
+홈경기로부터	O
+일주일	O
+뒤	O
+첫골을	O
+넣었고	O
+,	O
+이	O
+경기는	O
+CD	B-ORG
+누만시아와의	I-ORG
+홈	O
+경기였고	O
+팀은	O
+4-1로	O
+승리하였다	O
+.	O
+
+이	O
+밖에도	O
+대통령외교담당	O
+특별보좌관	O
+,	O
+대한적십자사	B-ORG
+총재	O
+등을	O
+역임하였다	O
+.	O
+
+제작	O
+협력	O
+-	O
+호리프로	B-ORG
+
+찰리는	O
+이	O
+계획에	O
+참여할	O
+대원	O
+10여명과	O
+특수	O
+개조된	O
+차량을	O
+준비하고	O
+배편으로	O
+이탈리아에	B-LOC
+상륙하였으나	O
+알타바니	O
+일당에	O
+발각되어	O
+준비한	O
+차량	O
+3대를	O
+잃는다	O
+.	O
+
+넘겨주기	O
+유니버설	B-ORG
+리퍼블릭	I-ORG
+레코드	I-ORG
+
+알타베라파스	B-LOC
+주	I-LOC
+(	O
+Alta	O
+Verapaz	O
+)	O
+
+FC	B-ORG
+서울로	I-ORG
+이적한	O
+후	O
+주전으로	O
+활약하며	O
+이적	O
+첫	O
+해	O
+2010	B-ORG
+K리그에서	I-ORG
+우승을	O
+차지하는	O
+데	O
+공헌하였다	O
+.	O
+
+이는	O
+교황	B-PER
+인노첸시오	I-PER
+3세의	I-PER
+《De	O
+miseria	O
+humane	O
+conditionis》	O
+대한	O
+반응이였다	O
+.	O
+
+북쪽에는	O
+페루	B-LOC
+,	O
+북동쪽에는	O
+볼리비아	B-LOC
+,	O
+동쪽에는	O
+아르헨티나	B-LOC
+,	O
+국토	O
+최남단에는	O
+드레이크	B-LOC
+해협이	I-LOC
+있다	O
+.	O
+
+자메이카와의	B-ORG
+마지막	O
+친선전에서	O
+프랑스는	O
+8-0의	O
+완벽한	O
+승리를	O
+거두었다	O
+.	O
+
+아이치	B-LOC
+현	I-LOC
+(	O
+愛知県	O
+)	O
+기후	B-LOC
+현	I-LOC
+(	O
+岐阜県	O
+)	O
+이시카와	B-LOC
+현	I-LOC
+(	O
+石川県	O
+)	O
+후쿠이	B-LOC
+현	I-LOC
+(	O
+福井県	O
+)	O
+도야마	B-LOC
+현	I-LOC
+(	O
+富山県	O
+)	O
+
+스자좡	B-LOC
+시	I-LOC
+(	O
+1987	O
+)	O
+
+중화인민공화국	B-LOC
+후난	B-LOC
+성	I-LOC
+창사에서	B-LOC
+출생하였고	O
+중화인민공화국	B-LOC
+광둥	B-LOC
+성	I-LOC
+광저우에서	B-LOC
+성장하였다	O
+.	O
+
+오다	B-PER
+노부히로	I-PER
+(	O
+~1574	O
+,	O
+서장자	O
+)	O
+
+넘겨주기	O
+제24군단	B-ORG
+(	I-ORG
+미국	I-ORG
+)	I-ORG
+
+등번호	O
+3번을	O
+배정받고	O
+2시즌	O
+간	O
+활약한	O
+후	O
+생테티엔으로	B-ORG
+이적하였다	O
+.	O
+
+가평역에서	B-ORG
+약	O
+1.6	O
+km	O
+
+킹덤	B-ORG
+두	I-ORG
+번째	I-ORG
+시리즈	I-ORG
+(	O
+'	O
+''	O
+하료초	O
+''	O
+'	O
+)	O
+
+그는	O
+50여	O
+년	O
+동안	O
+활동하면서	O
+중앙유럽	B-LOC
+,	O
+인도	B-LOC
+,	O
+러시아에	B-LOC
+자신의	O
+건물들을	O
+만들었으며	O
+,	O
+아메리카에도	B-LOC
+하나씩	O
+건축물을	O
+만들었다	O
+.	O
+
+갈릴레오	B-PER
+갈릴레이가	I-PER
+피사의	B-ORG
+사탑에서	I-ORG
+낙하	O
+실험을	O
+했다는	O
+이야기는	O
+유명하다	O
+.	O
+
+현재	O
+사무총장은	O
+브라질의	B-LOC
+조제	B-PER
+그라지아노	I-PER
+다	I-PER
+시우바	I-PER
+(	O
+2012~	O
+)	O
+이다	O
+.	O
+
+페리브센의	O
+후임인	O
+카세켐위는	B-PER
+두	O
+신을	O
+모두	O
+포용하는	O
+정책을	O
+썼다	O
+.	O
+
+그는	O
+경주시	B-LOC
+출신인	O
+이	O
+외교관에게	O
+독립된	O
+한국을	O
+위해	O
+봉사하려면	O
+열심히	O
+배우라고	O
+충고를	O
+해주기도	O
+했다는	O
+것이다	O
+.	O
+
+**	O
+브라질리아	B-LOC
+(	O
+대사관	O
+)	O
+,	O
+포르투알레그리	B-LOC
+(	O
+총영사관	O
+)	O
+,	O
+헤시피	B-LOC
+(	O
+총영사관	O
+)	O
+,	O
+리우데자네이루	B-LOC
+(	O
+총영사관	O
+)	O
+,	O
+상파울루	B-LOC
+(	O
+총영사관	O
+)	O
+
+야마토	B-LOC
+촌	I-LOC
+(	O
+大和村	O
+)	O
+
+폴리네이케스	B-PER
+(	O
+Πολυνείκης	O
+)	O
+
+늑대들처럼	B-LOC
+대평원늑대는	O
+신체	O
+언어를	O
+사용하여	O
+의사소통하고	O
+,	O
+평균	O
+5-6마리의	O
+무리로	O
+활동하는	O
+사회적인	O
+동물이다	O
+.	O
+
+브라질	B-LOC
+고원의	I-LOC
+미나스제라이스	B-LOC
+주	I-LOC
+서남부에서	O
+발원하여	O
+북쪽으로	O
+흘러가	O
+바이아	B-LOC
+주의	I-LOC
+서부	O
+고지대를	O
+가로지른다	O
+.	O
+
+모계는	O
+메대의	O
+왕손이었고	O
+파르사족의	O
+피를	O
+이어받은	O
+키루스	B-PER
+2세가	I-PER
+기원전	B-ORG
+533년에	I-ORG
+아케메네스	B-LOC
+페르시아	I-LOC
+제국을	I-LOC
+건설하였다	O
+.	O
+
+중구는	O
+주요	O
+유럽인	O
+업무	O
+지구였기	O
+때문에	O
+최초의	O
+대형	O
+은행인	O
+HSBC가	B-ORG
+세워지게	O
+되었다	O
+.	O
+
+**	O
+빌뉴스	B-LOC
+(	O
+대사관	O
+)	O
+,	O
+클라이페다	B-LOC
+(	O
+총영사관	O
+)	O
+
+K리그에서	B-ORG
+등록명은	O
+'	O
+''	O
+다보	O
+''	O
+'를	O
+사용하였으며	O
+공격수로	B-PER
+활약하였다	O
+.	O
+
+존	B-PER
+보이드	I-PER
+(	I-PER
+배우	I-PER
+)	I-PER
+
+데이비드	B-PER
+미첼	I-PER
+(	I-PER
+배우	I-PER
+)	I-PER
+
+니시혼간지	B-ORG
+(	O
+西本願寺	O
+)	O
+
+국도	B-ORG
+제43호선	I-ORG
+수원시	B-LOC
+국도대체우회도로의	O
+일부이기도	O
+하다	O
+.	O
+
+일본에서는	B-LOC
+현재까지	O
+생산	O
+중이다	O
+.	O
+
+그의	O
+치세에	O
+알탄	B-PER
+칸이	I-PER
+대칸보다	O
+강력하게	O
+되어	O
+동쪽으로	O
+달아나야	O
+했다	O
+.	O
+
+차콜	B-ORG
+필터의	I-ORG
+일원으로서	O
+활약하고	O
+있다	O
+.	O
+
+오현경	B-PER
+-	O
+민세화	O
+역	O
+
+마지막으로	O
+남은	O
+독일팀은	B-ORG
+막강한	O
+공격력을	O
+과시하며	O
+준결승에	O
+올라	O
+저주를	O
+불식시키는	O
+듯	O
+했지만	O
+,	O
+스페인에게	B-ORG
+0-1로	O
+석패하며	O
+3-4위전으로	O
+밀려났다	O
+.	O
+
+제니온과	B-LOC
+(	O
+Zenionidae	O
+)	O
+
+그는	O
+유명	O
+인사가	O
+되었고	O
+,	O
+환대를	O
+받으며	O
+화이트홀	B-ORG
+궁전의	I-ORG
+가면무도회에도	O
+참석하였다	O
+.	O
+
+2013시즌에	O
+이어	O
+2014시즌	O
+LG	B-ORG
+트윈스와의	I-ORG
+개막전에서도	O
+홈런을	O
+쳤다	O
+.	O
+
+**	O
+과야라메린	B-LOC
+(	O
+부영사관	O
+)	O
+
+동시에	O
+그는	O
+다시	O
+자유당으로	B-ORG
+복귀하였다	O
+.	O
+
+산부	B-ORG
+군	I-ORG
+요코시바히카리	B-LOC
+정	I-LOC
+
+아랍에미리트	B-LOC
+두바이	B-LOC
+(	O
+2004	O
+)	O
+
+``	O
+The	B-ORG
+Great	I-ORG
+Escape	I-ORG
+''	O
+-	O
+3:28	O
+
+이	O
+호수는	O
+나이지리아	B-LOC
+,	O
+니제르	B-LOC
+,	O
+차드	B-LOC
+,	O
+카메룬에	B-LOC
+걸쳐	O
+있다	O
+.	O
+
+넘겨주기	O
+독립기념비	B-ORG
+(	I-ORG
+멕시코시티	I-ORG
+)	I-ORG
+
+충청남도	B-LOC
+공주시	B-LOC
+고분티로	O
+623-21	O
+(	O
+오곡동	O
+637번지	O
+)	O
+에	O
+위치하고	O
+있다	O
+.	O
+
+조선시대	B-LOC
+평안도는	B-ORG
+상업과	O
+광업이	O
+발달하여	O
+물자가	O
+많고	O
+번화한	O
+곳이었다	O
+.	O
+
+무엇이라도	O
+감정단에게》	O
+(	O
+TV	B-ORG
+도쿄	I-ORG
+)	O
+라는	O
+프로그램에	O
+출연했을	O
+때	O
+감정하기	O
+위해서	O
+갖고	O
+들어왔던	O
+적이	O
+있다	O
+.	O
+
+홋카이도	B-ORG
+은행	I-ORG
+놋포로	O
+지점	O
+
+레스터	B-LOC
+(	O
+Leicester	O
+)	O
+
+:4차전	O
+선발로	O
+롯데는	O
+크리스	B-PER
+부첵이	I-PER
+,	O
+SK는	O
+윤희상이	B-PER
+각각	O
+등판하였다	O
+.	O
+
+머리는	O
+갓파	B-PER
+혹은	O
+잔기리	O
+머리	O
+.	O
+
+후쿠시마	B-LOC
+현	I-LOC
+고리야마	B-ORG
+시에서	I-ORG
+태어난	O
+그는	O
+니혼	B-ORG
+대학을	I-ORG
+졸업한	O
+후	O
+,	O
+일본	B-ORG
+경시청에	I-ORG
+소속되었다	O
+.	O
+
+타히티	B-LOC
+섬은	I-LOC
+세계적으로	O
+유명하다	O
+.	O
+
+경기도	B-LOC
+광주시	B-LOC
+포돌이로	O
+135	O
+(	O
+탄벌동	O
+541-2	O
+)	O
+에	O
+위치하고	O
+있다	O
+.	O
+
+넘겨주기	O
+사회민주주의자당	B-ORG
+(	I-ORG
+덴마크	I-ORG
+)	I-ORG
+
+**	O
+량산	B-ORG
+현	I-ORG
+(	O
+梁山県	O
+)	O
+
+''	O
+메이지	B-ORG
+가쿠인	I-ORG
+대학	I-ORG
+''	O
+'	O
+
+노스다코타	B-LOC
+주	I-LOC
+,	O
+사우스다코타	B-LOC
+주	I-LOC
+,	O
+몬태나	B-LOC
+주	I-LOC
+,	O
+아이다호	B-LOC
+주	I-LOC
+,	O
+워싱턴	B-LOC
+주	I-LOC
+
+요시카	B-LOC
+정	I-LOC
+(	O
+)	O
+
+이	O
+신문사는	O
+피아트가	B-ORG
+소유하고	O
+있다	O
+.	O
+
+후자의	O
+경우를	O
+'	O
+''	O
+최소	B-PER
+모형	I-PER
+''	O
+'이라고	O
+한다	O
+.	O
+
+도카이	B-ORG
+여객철도	I-ORG
+다케토요	B-ORG
+선	I-ORG
+(	O
+다케토요	B-ORG
+역	I-ORG
+)	O
+
+남서쪽으로는	O
+뒤즈제	B-LOC
+주	I-LOC
+,	O
+남쪽으로는	O
+볼루	B-LOC
+주	I-LOC
+,	O
+남동쪽으로는	O
+카라뷔크	B-LOC
+주	I-LOC
+,	O
+동쪽으로는	O
+바르틴	B-LOC
+주와	I-LOC
+접하며	O
+6개	O
+군을	O
+관할한다	O
+.	O
+
+이른	O
+나이에	O
+부모와	O
+사별해	O
+조모의	O
+손에	O
+자랐으며	O
+,	O
+후에	O
+번교	B-ORG
+(	O
+藩校	O
+)	O
+에	O
+들어가	O
+독서와	O
+무예에	O
+힘썼다	O
+.	O
+
+'	O
+''	O
+비완디	O
+''	O
+'	O
+(	O
+Bhiwandi	O
+,	O
+)	O
+는	O
+인도	B-LOC
+마하라슈트라	B-LOC
+주	I-LOC
+서부에	O
+위치한	O
+도시로	O
+,	O
+뭄바이에서	B-LOC
+북동쪽으로	O
+20km	O
+,	O
+타네에서	B-LOC
+북동쪽으로	O
+15km	O
+정도	O
+떨어진	O
+곳에	O
+위치한다	O
+.	O
+
+니이지마	B-PER
+야에	I-PER
+-	O
+아야세	B-PER
+하루카	I-PER
+
+칼라망가베이	B-LOC
+(	O
+''Cercocebus	O
+torquatus	O
+''	O
+)	O
+
+한편	O
+남서쪽으로는	O
+한강을	B-LOC
+사이에	O
+두고	O
+강화군과	B-LOC
+접하고	O
+,	O
+남동쪽으로는	O
+임진강을	B-LOC
+경계로	O
+파주시와	B-LOC
+인접한다	O
+.	O
+
+고	O
+줄피카르	B-PER
+알리	I-PER
+부토	I-PER
+전	O
+총리의	O
+딸로	O
+,	O
+카라치에서	B-LOC
+출생하여	O
+하버드	B-ORG
+대학교와	I-ORG
+옥스퍼드	B-ORG
+대학교에서	I-ORG
+수학하였다	O
+.	O
+
+가라쓰	B-ORG
+성은	I-ORG
+인기있는	O
+관광지이다	O
+.	O
+
+미국과	B-LOC
+영국이	B-LOC
+주장한	O
+침공의	O
+근거는	O
+아래와	O
+같다	O
+.	O
+
+키갈리	B-LOC
+(	O
+Kigali	O
+)	O
+
+**	O
+산도	B-PER
+(	O
+山濤	O
+)	O
+
+**	O
+미시간	B-LOC
+준주	I-LOC
+,	O
+1805–1837	O
+
+'	O
+''	O
+'	O
+''	O
+/	O
+'	O
+''	O
+지우지	O
+못한	O
+''	O
+'	O
+-	O
+테고시	B-PER
+유야	I-PER
+,	O
+니시키도	B-PER
+료	I-PER
+,	O
+카토	B-PER
+시게아키	I-PER
+
+서인국	B-PER
+-	O
+원일	O
+역	O
+
+정명의	O
+유래는	O
+후라노	B-LOC
+시의	I-LOC
+남부에	O
+인접하는	O
+것으로부터	O
+왔다	O
+.	O
+
+서영	B-PER
+(	O
+徐榮	O
+,	O
+?	O
+
+넘겨주기	O
+미타카의	B-ORG
+숲	I-ORG
+지브리	I-ORG
+미술관	I-ORG
+
+'	O
+''	O
+덕진구	B-LOC
+''	O
+'	O
+
+키시너우	B-LOC
+,	O
+몰도바	B-LOC
+(	O
+2000	O
+)	O
+
+넘겨주기	O
+폴	B-PER
+토머스	I-PER
+앤더슨	I-PER
+
+도베쓰	B-LOC
+정	I-LOC
+(	O
+)	O
+
+무토	B-PER
+노부요시	I-PER
+(	O
+武藤信義	O
+)	O
+대장	O
+
+주베이	B-LOC
+시	I-LOC
+(	O
+竹北市	O
+)	O
+
+'	O
+''	O
+누메노르	O
+''	O
+'	O
+(	O
+Númenor	O
+)	O
+는	O
+J.	B-PER
+R.	I-PER
+R.	I-PER
+톨킨의	I-PER
+가운데땅에	B-LOC
+나오는	O
+나라이다	O
+.	O
+
+이후	O
+아들	O
+조조가	B-PER
+거병하자	O
+,	O
+따르지	O
+않고	O
+작은	O
+아들들과	O
+함께	O
+피란하여	O
+낭야로	O
+갔다	O
+.	O
+
+빅토리아	B-PER
+여왕의	I-PER
+맏아들로	O
+60세에	O
+즉위하였다	O
+.	O
+
+요코하마	B-ORG
+다이요	I-ORG
+웨일스·요코하마	I-ORG
+베이스타스	I-ORG
+(	O
+1992~1993	O
+)	O
+
+기즈	B-ORG
+역	I-ORG
+~	O
+도쿠안	B-ORG
+역	I-ORG
+간의	O
+화물	O
+영업이	O
+폐지되었다	O
+.	O
+
+'	O
+''	O
+전예	B-PER
+''	O
+'	O
+
+피치니노는	O
+도살업자의	O
+아들로	O
+페루자에서	B-LOC
+태어났다	O
+.	O
+
+상하이	B-LOC
+시	I-LOC
+자베이	B-LOC
+구	I-LOC
+
+충북대학교	B-ORG
+일반대학원	O
+공학계열	O
+토목공학과	O
+석사	O
+
+타국의	O
+선박이	O
+불법	O
+어획을	O
+하는	O
+경우가	O
+있어	O
+프랑스	B-ORG
+해군이	I-ORG
+수시로	O
+감시를	O
+한다	O
+.	O
+
+이	O
+자가	O
+제	O
+14대	O
+임금인	O
+선조이다	B-PER
+.	O
+
+현재	O
+대통령은	O
+엔리케	B-PER
+페냐	I-PER
+니에토이다	I-PER
+.	O
+
+십상시	B-PER
+중의	O
+한	O
+사람이다	O
+.	O
+
+상대	O
+선발	O
+투수는	O
+가네다	B-PER
+마사이치였다	I-PER
+.	O
+
+영국	B-LOC
+,	O
+대한민국	B-LOC
+등은	O
+기권했다	O
+.	O
+
+2001]]	O
+)	O
+,	O
+스테이시	B-PER
+드라길라	I-PER
+(	O
+미국	B-LOC
+)	O
+
+조동혁	B-PER
+–	O
+민석	O
+역	O
+
+징닝	B-LOC
+서족	I-LOC
+자치현	I-LOC
+(	O
+景宁畲族自治县	O
+)	O
+(	O
+리수이	B-LOC
+시	I-LOC
+)	O
+
+물밭쥐족	B-LOC
+(	O
+Arvicolini	O
+)	O
+
+콘스탄티노스	B-PER
+1세과	I-PER
+소피아의	B-PER
+아들인	O
+파블로스는	O
+아테네에서	B-LOC
+태어났다	O
+.	O
+
+한말	O
+국사	O
+교과서인	O
+'대동역사	O
+'	O
+,	O
+'동국사략	O
+'	O
+,	O
+'신정동국역사	O
+'	O
+등에서는	O
+단군릉을	B-ORG
+역사적	O
+사실로	O
+서술하기도	O
+했다	O
+.	O
+
+광복	O
+이후에	O
+북조선인민위원회	B-LOC
+사법부장을	O
+맡았으며	O
+,	O
+당시	O
+조선민주주의인민공화국에서	B-LOC
+권력가로는	O
+10위	O
+안에	O
+들었던	O
+인물이라고	O
+전해진다	O
+.	O
+
+〈야사시	O
+키스오	O
+시테〉	O
+드림스	B-ORG
+컴	I-ORG
+트루	I-ORG
+
+그러나	O
+최근에는	O
+이	O
+성과는	O
+별개로	O
+고려	B-ORG
+때에	O
+축성된	O
+학성이	O
+따로	O
+존재하였다고	O
+보는	O
+학설이	O
+유력하여	O
+,	O
+학성이라는	O
+명칭은	O
+잘못	O
+전해진	O
+것으로	O
+보는	O
+시각이	O
+일반적이다	O
+.	O
+
+미국	B-LOC
+플레이보이사와	B-ORG
+제휴를	O
+맺고	O
+있다	O
+.	O
+
+시칠리아	B-LOC
+주의	I-LOC
+주도이며	O
+,	O
+티레니아	B-LOC
+해에	I-LOC
+면하는	O
+항구도시이다	O
+.	O
+
+콘월	B-LOC
+주에	I-LOC
+속하며	O
+동쪽으로는	O
+트렐로니	B-LOC
+교구	I-LOC
+,	O
+남쪽으로는	O
+세인트엘리자베스	B-ORG
+교구	I-ORG
+,	O
+서쪽으로는	O
+해노버	B-LOC
+교구	I-LOC
+,	O
+웨스트모얼랜드	B-ORG
+교구와	I-ORG
+접한다	O
+.	O
+
+코린치앙스가	B-ORG
+바스쿠	B-ORG
+다	I-ORG
+가마를	I-ORG
+꺽고	O
+초대	O
+챔피언이	O
+되었다	O
+.	O
+
+백제	B-ORG
+(	O
+百濟	O
+)	O
+의자왕	B-PER
+(	O
+義慈王	O
+)	O
+13년	O
+
+자그레브	B-LOC
+–	O
+자그레브	B-ORG
+국제공항	I-ORG
+
+포토시	B-LOC
+주	I-LOC
+(	O
+포토시	B-LOC
+)	O
+
+서산시	B-LOC
+(	O
+2003년-2007년	O
+)	O
+→	O
+예산군	B-LOC
+(	O
+2008년-2010년	O
+)	O
+
+넘겨주기	O
+이오니아	B-ORG
+제도	I-ORG
+합중국	I-ORG
+
+넘겨주기	O
+스타드	B-ORG
+모리스	I-ORG
+뒤프란	I-ORG
+
+라마	B-PER
+(	I-PER
+축구	I-PER
+선수	I-PER
+)	I-PER
+
+구로디지털단지역	B-ORG
+교차로	O
+(	O
+구로교	O
+)	O
+
+알바니아	B-LOC
+(	O
+1943-1944	O
+)	O
+
+김동현]]	O
+,	O
+주광윤	B-PER
+,	O
+이제규	B-PER
+,	O
+곽철호	B-PER
+
+아드리안	B-PER
+벨트레	I-PER
+-	O
+1.291	O
+
+일본	B-ORG
+축구	I-ORG
+국가대표팀	I-ORG
+-	O
+Samurai	O
+Blue	O
+
+넘겨주기	O
+스코샤	B-ORG
+뱅크	I-ORG
+새들돔	I-ORG
+
+이름의	O
+유래인	O
+아랍어	B-ORG
+Al	O
+Sharatan은	O
+‘두	O
+개의	O
+표식’의	O
+의미를	O
+지닌다	O
+.	O
+
+'	O
+''	O
+마팔다	O
+''	O
+'	O
+(	O
+)	O
+는	O
+이탈리아	B-LOC
+몰리세	B-LOC
+주	I-LOC
+캄포바소	B-LOC
+현의	I-LOC
+코무네다	B-LOC
+.	O
+
+화천군이	B-LOC
+75억원의	O
+예산을	O
+들여	O
+연면적	O
+1243㎡에	O
+전시관	O
+964㎡	O
+,	O
+영상실	O
+48㎡	O
+,	O
+수장고	O
+115㎡	O
+,	O
+퍼포먼스공간	O
+55㎡	O
+,	O
+중앙정원	O
+339㎡를	O
+조성하였다	O
+.	O
+
+맥길	B-ORG
+대학교	I-ORG
+(	O
+캐나다	B-LOC
+)	O
+
+조선	B-LOC
+(	O
+朝鮮	O
+)	O
+선조	B-PER
+(	O
+宣祖	O
+)	O
+35년	O
+
+중력이	B-ORG
+균일한	O
+경우	O
+'	O
+''	O
+무게	O
+중심	O
+''	O
+'과	O
+같으므로	O
+,	O
+혼용되어	O
+쓰이기도	O
+한다	O
+.	O
+
+John	O
+Sherman	O
+at	O
+the	O
+미국	B-ORG
+재무부	I-ORG
+
+경인	B-LOC
+아라뱃길	I-LOC
+(	O
+계양대교	O
+,	O
+귤현나루	O
+)	O
+
+그리고	O
+주홍콩	O
+영국군은	O
+철수하고	O
+,	O
+중국	B-ORG
+인민해방군	I-ORG
+주홍콩	O
+부대가	O
+주둔하게	O
+되었다	O
+.	O
+
+외무대신	B-PER
+-	O
+하토야마	B-PER
+이이치로	I-PER
+
+남쪽으로는	O
+마브로보	B-ORG
+로스투샤	I-ORG
+시와	I-ORG
+키체보	B-LOC
+시	I-LOC
+,	O
+동쪽으로는	O
+마케돈스키브로드	B-LOC
+시	I-LOC
+,	O
+북쪽으로는	O
+브르베니차	B-LOC
+시	I-LOC
+,	O
+브랍치슈테	B-LOC
+시와	I-LOC
+접하며	O
+서쪽으로는	O
+알바니아	B-LOC
+,	O
+코소보와	B-LOC
+국경을	O
+접한다	O
+.	O
+
+네트워크	B-ORG
+정보	I-ORG
+서비스	I-ORG
+(	O
+Network	O
+Information	O
+Service	O
+)	O
+
+노던	B-LOC
+준주를	I-LOC
+연고로	O
+하고	O
+있다	O
+.	O
+
+세인트키츠	B-LOC
+섬	I-LOC
+북부에	O
+위치한다	O
+.	O
+
+아프리카	B-LOC
+말병	I-LOC
+(	O
+African	O
+horse	O
+sickness	O
+)	O
+
+한양대학교	B-ORG
+대학원	O
+정치외교과	O
+졸업	O
+
+서태지	B-PER
+-	O
+Live	O
+Wire	O
+
+***	O
+''	O
+Baden	O
+Radio	O
+''	O
+(	O
+카를스루에	B-LOC
+)	O
+
+262화	O
+(	O
+10	O
+/	O
+25	O
+)	O
+-	O
+구혜선	B-PER
+,	O
+오연서	B-PER
+
+요하네스	B-PER
+브람스	I-PER
+(	O
+1833–1897	O
+)	O
+
+이후	O
+명지대학교	B-ORG
+석좌교수를	O
+지냈으며	O
+현재	O
+서울대학교	B-ORG
+경제학부에서	O
+명예교수로	O
+재직	O
+중이다	O
+.	O
+
+***	O
+'	O
+''	O
+자르칸드	B-LOC
+주	I-LOC
+''	O
+'	O
+
+'	O
+''	O
+장항선-김씨	B-ORG
+役	O
+''	O
+'	O
+
+다양한	O
+색깔을	O
+띠며	O
+,	O
+신대륙에	B-LOC
+제한적으로	O
+분포한다	O
+.	O
+
+아일랜드	B-ORG
+왕국이	I-ORG
+그레이트브리튼	B-LOC
+왕국에	I-LOC
+흡수되어	O
+그레이트브리튼	B-LOC
+아일랜드	I-LOC
+연합왕국이	I-LOC
+수립되다	O
+.	O
+
+차기	O
+시즌에는	O
+그를	O
+대신하여	O
+로버트	B-PER
+코엘로가	I-PER
+영입된다	O
+.	O
+
+넘겨주기	O
+데이비드	B-PER
+제임스	I-PER
+엘리엇	I-PER
+
+그	O
+뒤	O
+광운대학교에	B-ORG
+입학했다	O
+.	O
+
+이러한	O
+유명세에	O
+힘입어	O
+타임지는	B-ORG
+그를	O
+영향력있는	O
+100명의	O
+인물에	O
+올려놓기도	O
+했다	O
+.	O
+
+피터버러	B-LOC
+(	O
+Peterborough	O
+)	O
+
+요	B-LOC
+(	O
+遼	O
+)	O
+도종	B-PER
+(	O
+道宗	O
+)	O
+27년	O
+
+올랭피크	B-ORG
+리옹의	I-ORG
+감독은	O
+나중에	O
+디아라가	O
+그	O
+자신과	O
+팀에게	O
+사과하여야	O
+한다고	O
+촉구하였다	O
+.	O
+
+다만	O
+그의	O
+후손들은	O
+킵차크	B-ORG
+칸국이	I-ORG
+무너진	O
+뒤에도	O
+살아남았다	O
+.	O
+
+운수와	O
+농업면에서	O
+미국과	B-LOC
+프랑스의	B-LOC
+원조를	O
+받고	O
+있다	O
+.	O
+
+**	O
+큰빌비	B-LOC
+(	O
+''M	O
+.	O
+
+'	O
+''	O
+게오르기오스	B-PER
+치타스	I-PER
+''	O
+'	O
+
+넘겨주기	O
+후안	B-PER
+카를로스	I-PER
+오네티	I-PER
+
+원세훈은	O
+원세훈을	B-PER
+공직선거법·국가정보원법	O
+위반혐의으로	O
+기소되었다	O
+.	O
+
+Simek	B-PER
+,	I-PER
+Rudolf	I-PER
+(	O
+1993	O
+)	O
+.	O
+
+북쪽은	O
+지린	B-LOC
+성	I-LOC
+바이산	B-LOC
+시	I-LOC
+창바이	B-LOC
+조선족	I-LOC
+자치현과	I-LOC
+옌볜	B-LOC
+조선족	I-LOC
+자치주에	I-LOC
+접해	O
+있다	O
+.	O
+
+나폴리로부터	B-LOC
+북동쪽	O
+70km	O
+베네벤토로부터	B-LOC
+동쪽	O
+13km	O
+거리에	O
+위치해있다	O
+.	O
+
+동방	B-ORG
+정교회와의	I-ORG
+관계는	O
+개선되지	O
+못하였다	O
+.	O
+
+그녀가	O
+세상을	O
+떠난	O
+후	O
+기황후가	B-PER
+그녀가	O
+남긴	O
+옷을	O
+보고	O
+``	O
+정궁황후	O
+,	O
+어찌	O
+이런	O
+옷을	O
+입었던	O
+말인가	O
+?	O
+
+사태를	O
+심각하게	O
+본	O
+일부	O
+신하들은	O
+영제	B-PER
+(	O
+靈帝	O
+)	O
+에게	O
+상소를	O
+올렸으나	O
+이를	O
+대수롭지	O
+않게	O
+본	O
+영제는	O
+별다른	O
+손을	O
+쓰지	O
+않았다	O
+.	O
+
+이를	O
+ℓ	B-ORG
+''	I-ORG
+p	I-ORG
+''	I-ORG
+공간이라	I-ORG
+한다	O
+.	O
+
+가고시마	B-LOC
+군	I-LOC
+(	O
+)	O
+
+데프	B-ORG
+테크	I-ORG
+-	O
+``	O
+このまま	O
+''	O
+
+**	O
+살토	B-LOC
+(	O
+영사관	O
+)	O
+
+요	B-LOC
+(	O
+遼	O
+)	O
+천찬	O
+(	O
+天贊	O
+)	O
+5년	O
+/	O
+천현	O
+(	O
+天顯	O
+)	O
+원년	O
+
+대한민국의	B-ORG
+국보	I-ORG
+제98호로	O
+지정되어	O
+있다	O
+.	O
+
+윤천근	O
+(	O
+45세	O
+,	O
+윤성근의	O
+남동생	O
+,	O
+백수	O
+)	O
+-	O
+성동일	B-PER
+
+'	O
+''	O
+에어	B-ORG
+나이지리아	I-ORG
+''	O
+'는	O
+다음과	O
+같은	O
+노선을	O
+운항하고	O
+있다	O
+.	O
+
+동래역	B-ORG
+(	I-ORG
+도시철도	I-ORG
+)	I-ORG
+
+아프리카계	B-ORG
+미국인이	I-ORG
+인구	O
+절반의	O
+약간	O
+이상을	O
+차지하고	O
+,	O
+영국	B-LOC
+,	O
+프랑스	B-LOC
+,	O
+독일	B-LOC
+,	O
+아일랜드계통의	B-LOC
+주민들이	O
+대부분이다	O
+.	O
+
+162	O
+,	O
+163	O
+객차의	O
+경우	O
+칼트레인에	B-ORG
+매각	O
+.	O
+
+부산	B-ORG
+아이파크	I-ORG
+(	O
+12위	O
+)	O
+
+자그레브	B-LOC
+주와	I-LOC
+시사크모슬라비나	B-LOC
+주	I-LOC
+,	O
+프리모례고르스키코타르	B-LOC
+주	I-LOC
+,	O
+리카센	B-LOC
+주와	I-LOC
+접하고	O
+있고	O
+북서쪽으로는	O
+슬로베니아	B-LOC
+,	O
+남동쪽으로는	O
+보스니아	B-LOC
+헤르체고비나와	I-LOC
+국경을	O
+접한다	O
+.	O
+
+넘겨주기	O
+빌	B-ORG
+&	I-ORG
+멀린다	I-ORG
+게이츠	I-ORG
+재단	I-ORG
+
+넓은	O
+의미로는	O
+서해안에	O
+인접하고	O
+경제적	O
+,	O
+문화적으로도	O
+연결이	O
+가능한	O
+애리조나	B-LOC
+주와	I-LOC
+네바다	B-LOC
+주를	I-LOC
+포함하기도	O
+한다	O
+.	O
+
+넘겨주기	O
+캘리포니아	B-ORG
+대학교	I-ORG
+데이비스	I-ORG
+
+사진작가	O
+앤설	B-PER
+애덤스는	I-PER
+자주	O
+이곳을	O
+방문하며	O
+작품활동을	O
+했다	O
+.	O
+
+19년	O
+뒤	O
+루돌프	B-PER
+뫼스바워가	I-PER
+이	O
+사실을	O
+알아냈다	O
+.	O
+
+''	O
+'하마구치	O
+순사	O
+(	O
+아베	B-PER
+사다오	I-PER
+)	O
+'	O
+''	O
+
+그러나	O
+조선민주주의인민공화국은	B-LOC
+후일	O
+출당시킨	O
+죽산을	O
+복권시켰고	O
+,	O
+그에게는	O
+청하지도	O
+않은	O
+불리한	O
+증인이	O
+수십년	O
+동안	O
+꼬리표처럼	O
+따라다녔다	O
+.	O
+
+고라	B-LOC
+정	I-LOC
+(	O
+)	O
+
+넘겨주기	O
+HOLIDAYS	B-ORG
+IN	I-ORG
+THE	I-ORG
+SUN	I-ORG
+
+넘겨주기	O
+조지	B-PER
+허버트	I-PER
+미드	I-PER
+
+그는	O
+선임	O
+교황들의	O
+이름	O
+두	O
+개를	O
+모두	O
+선택함으로써	O
+요한	B-PER
+23세의	I-PER
+선함과	O
+바오로	B-PER
+6세의	I-PER
+엄격함을	O
+모방하고	O
+싶다는	O
+포부를	O
+밝혔다	O
+.	O
+
+일본	B-LOC
+마쓰야마	B-LOC
+시	I-LOC
+(	O
+1988	O
+)	O
+
+캐릭캐릭	B-ORG
+체인지	I-ORG
+(	O
+투니버스	B-ORG
+)	O
+-	O
+조연다수	O
+
+현재는	O
+남극	B-ORG
+조약에	I-ORG
+따라	O
+누구의	O
+소유도	O
+아니다	O
+.	O
+
+'	O
+''	O
+남하리	O
+''	O
+'는	O
+다음	O
+지역에	O
+위치한	O
+조선민주주의인민공화국의	B-LOC
+리이다	B-LOC
+.	O
+
+막스	B-PER
+플랑크	I-PER
+(	O
+1930–1937	O
+)	O
+
+넘겨주기	O
+아우구스트	B-PER
+에밀	I-PER
+피엘도르프	I-PER
+
+매슈	B-PER
+리지웨이	I-PER
+장군이	O
+수행했던	O
+선더볼트	B-ORG
+작전의	I-ORG
+일부로	O
+분류된다	O
+.	O
+
+수도	O
+캄팔라에서	B-LOC
+약	O
+340km	O
+정도	O
+떨어진	O
+곳에	O
+위치한다	O
+.	O
+
+미코노스	B-LOC
+섬	I-LOC
+(	O
+1245-1250	O
+)	O
+
+후한	B-PER
+(	O
+後漢	O
+)	O
+고조	B-PER
+(	O
+高祖	O
+)	O
+원년	O
+
+``	O
+고	O
+말했고	O
+,	O
+스탈린은	B-PER
+이에	O
+구두로	O
+동의를	O
+표하였다	O
+(	O
+테헤란	B-ORG
+회담	I-ORG
+)	O
+.	O
+
+연중	O
+무덥고	O
+습한	O
+열대	B-LOC
+우림	I-LOC
+기후	I-LOC
+지대에	O
+속하여	O
+안데스	B-LOC
+산맥	I-LOC
+서쪽과는	O
+기후가	O
+완전히	O
+다르다	O
+.	O
+
+리버	B-ORG
+플레이트	I-ORG
+(	O
+53	O
+)	O
+
+자크	B-PER
+빌뇌브	I-PER
+(	O
+1	O
+)	O
+
+'	O
+''	O
+주빌로	B-ORG
+이와타	I-ORG
+''	O
+'	O
+''	O
+'첫	O
+번째	O
+우승	O
+''	O
+'	O
+
+현재	O
+대전	B-ORG
+시티즌	I-ORG
+소속으로	O
+뛰고	O
+있다	O
+.	O
+
+이	O
+곳에는	O
+현재	O
+보스니아	B-LOC
+,	O
+몬테네그로	B-LOC
+,	O
+세르비아	B-LOC
+,	O
+코소보	B-LOC
+등의	O
+국가가	O
+위치하고	O
+있다	O
+.	O
+
+결국	O
+새뮤얼	B-PER
+애덤스를	I-PER
+비롯한	O
+독립혁명론자들의	O
+주장에	O
+무게를	O
+실어주어	O
+,	O
+보스턴에	B-LOC
+주둔하던	O
+영국군인들은	O
+철수했다	O
+.	O
+
+넘겨주기	O
+연합	B-ORG
+이스라엘	I-ORG
+왕국	I-ORG
+
+장샤	B-LOC
+구	I-LOC
+(	O
+江夏区	O
+)	O
+
+영국	B-ORG
+연방에서는	I-ORG
+염장고기의	O
+일종인	O
+콘드	B-ORG
+비프가	I-ORG
+발전했으며	O
+,	O
+각	O
+지역별로	O
+제조법	O
+등에	O
+따라	O
+맛의	O
+차이가	O
+있다	O
+.	O
+
+톤턴	B-LOC
+(	I-LOC
+서머싯	I-LOC
+주	I-LOC
+)	I-LOC
+
+넘겨주기	O
+Dream	B-ORG
+Theater	I-ORG
+(	I-ORG
+음반	I-ORG
+)	I-ORG
+
+타카하타	B-PER
+미츠키	I-PER
+(	O
+高畑充希	O
+)	O
+
+조선대학교	B-ORG
+겸임교수	O
+및	O
+초빙강사	O
+
+'	O
+''	O
+김상옥로	O
+''	O
+'	O
+(	O
+金相玉路	O
+,	O
+Kimsangok-ro	O
+)	O
+는	O
+서울특별시	B-LOC
+종로구	B-LOC
+인의동	O
+101-8에서	O
+종로6가	O
+28-1까지를	O
+잇는	O
+도로이다	O
+.	O
+
+한신	B-ORG
+백화점	I-ORG
+(	O
+阪神百貨店	O
+)	O
+
+'	O
+''	O
+카스텔베키오칼비시오	O
+''	O
+'	O
+(	O
+)	O
+는	O
+이탈리아	B-LOC
+아브루초	B-LOC
+주	I-LOC
+라퀼라	B-LOC
+현에	I-LOC
+있는	O
+코무네이다	B-LOC
+.	O
+
+**	O
+포틀랜드	B-LOC
+(	O
+영사관	O
+)	O
+
+DARKER	B-ORG
+THAN	I-ORG
+BLACK	I-ORG
+-흑의	I-ORG
+계약자-	I-ORG
+(	O
+쥬라이	O
+)	O
+
+그는	O
+잠에서	O
+깨어나자마자	O
+탈옥하였다	B-ORG
+.	O
+
+'	O
+''	O
+상경회령부	O
+''	O
+'	O
+(	O
+上京會寧府	O
+)	O
+라고도	O
+하며	O
+,	O
+현재의	O
+중화인민공화국	B-LOC
+헤이룽장	B-LOC
+성	I-LOC
+하얼빈	B-LOC
+시	I-LOC
+아청	B-LOC
+구에	I-LOC
+위치하였다	O
+.	O
+
+발해	B-LOC
+(	O
+渤海	O
+)	O
+무왕	B-PER
+(	O
+武王	O
+)	O
+11년	O
+
+'	O
+''	O
+양양군	B-LOC
+''	O
+'	O
+
+이들은	O
+당.정.군.재계	O
+고위층의	O
+자녀들로	O
+덩샤오핑의	B-PER
+자녀	O
+및	O
+사위를	O
+비롯해	O
+약	O
+4000명이	O
+핵심	O
+요직에	O
+포진해	O
+있으며	O
+,	O
+거의	O
+대부분이	O
+온건	O
+개혁파이다	O
+.	O
+
+미국은	B-LOC
+아바나항에	O
+정박해	O
+있던	O
+미군함	O
+메인호의	O
+폭발사건을	O
+빌미로	O
+스페인에	B-LOC
+선전포고를	O
+한다	O
+.	O
+
+테아나우	B-LOC
+호수에서	I-LOC
+흘러나와서	O
+마나포우리	B-LOC
+호수로	I-LOC
+10km에	O
+걸쳐서	O
+흘러들어가며	O
+,	O
+그곳에서	O
+남쪽으로	O
+70km를	O
+흘러	O
+투아타페레	O
+남쪽	O
+8km에	O
+있는	O
+포보	B-LOC
+해협에	I-LOC
+도달할	O
+때까지	O
+흘러간다	O
+.	O
+
+그러나	O
+로마	B-LOC
+중심의	O
+서방교회는	O
+이러한	O
+경향의	O
+영향을	O
+거의	O
+받지	O
+않았다	O
+.	O
+
+캄포바소로부터	B-LOC
+북동쪽	O
+45km	O
+거리에	O
+있다	O
+.	O
+
+레온하르트	B-PER
+오일러의	I-PER
+이름을	O
+땄다	O
+.	O
+
+이양	B-LOC
+현	I-LOC
+(	O
+弋阳县	O
+)	O
+
+한국대학교육협의회	B-ORG
+부회장	O
+및	O
+전국사립대학총학장회	O
+회장	O
+
+키르기스스탄	B-LOC
+야당연합의	O
+로자	B-PER
+오툰바예바는	I-PER
+시위사태	O
+후	O
+첫	O
+기자회견에서	O
+“모든	O
+권력이	O
+과도정부로	O
+넘어왔다”고	O
+밝혔다	O
+.	O
+
+넘겨주기	O
+페르디난드	B-PER
+1세	I-PER
+(	I-PER
+루마니아	I-PER
+)	I-PER
+
+카를	B-PER
+프리드리히	I-PER
+폰	I-PER
+바이츠제커	I-PER
+
+그에	O
+따라서	O
+훅은	O
+로버트	B-PER
+보일의	I-PER
+조교가	O
+된다	O
+.	O
+
+독일에는	B-LOC
+동성	O
+커플을	O
+법적으로	O
+인정해준다	O
+.	O
+
+현재는	O
+아제르바이잔	B-ORG
+축구	I-ORG
+국가대표팀을	I-ORG
+맡고	O
+있다	O
+.	O
+
+숙부	O
+하라	B-PER
+다쓰노리가	I-PER
+감독을	O
+맡고	O
+있는	O
+요미우리	B-ORG
+자이언츠가	I-ORG
+단독	O
+지명한다는	O
+소문이	O
+파다했으나	O
+홋카이도	B-ORG
+닛폰햄	I-ORG
+파이터스도	I-ORG
+1순위로	O
+지명해	O
+추첨	O
+결과	O
+닛폰햄이	O
+교섭권을	O
+획득했다	O
+.	O
+
+좋아하는	O
+음식은	O
+규돈	B-ORG
+.	O
+
+그	O
+결과	O
+,	O
+교황	B-PER
+비오	I-PER
+5세가	I-PER
+등극하였다	O
+.	O
+
+넘겨주기	O
+국제	B-ORG
+서핑	I-ORG
+협회	I-ORG
+
+향후	O
+5년간	O
+이	O
+항공사는	O
+디트로이트에서	B-LOC
+서비스를	O
+증가시켜	O
+사우스캐롤라이나	B-LOC
+주와	I-LOC
+로스앤젤레스	B-LOC
+,	O
+뉴욕에	B-LOC
+진출하여	O
+사업	O
+폭을	O
+넓혔다	O
+.	O
+
+넘겨주기	O
+산마리노	B-LOC
+(	I-LOC
+도시	I-LOC
+)	I-LOC
+
+카마궤이	B-LOC
+역사	I-LOC
+지구	I-LOC
+(	O
+2008	O
+)	O
+
+넘겨주기	O
+바르셀로나	B-PER
+백작	I-PER
+후안	I-PER
+
+티불루스는	B-PER
+모르스를	O
+검은색이나	O
+어두운	O
+색으로	O
+그렸다	O
+.	O
+
+넘겨주기	O
+보두앵	B-PER
+2세	I-PER
+(	I-PER
+예루살렘	I-PER
+)	I-PER
+
+이마무라는	O
+2회초	O
+1사	O
+1루의	O
+상황에서	O
+타순이	O
+돌아와	O
+보내기	O
+번트를	O
+성공했고	O
+그	O
+후	O
+5회초	O
+두	O
+번째	O
+타석에서	O
+대타	O
+(	O
+이시이	B-PER
+다쿠로	I-PER
+)	O
+가	O
+보내졌다	O
+.	O
+
+우승	O
+후보들	O
+중의	O
+하나는	O
+아니었으나	O
+,	O
+잉그리드	B-PER
+크리스티안센을	I-PER
+쉽게	O
+꺾고	O
+우승을	O
+하였다	O
+.	O
+
+존스	B-ORG
+홉킨스	I-ORG
+대학교	I-ORG
+폴	B-ORG
+니츠	I-ORG
+고등국제학대학	I-ORG
+석사	O
+
+아키	B-LOC
+군	I-LOC
+구마노	B-LOC
+정	I-LOC
+
+남해안권	O
+도시를	O
+잇는	O
+주요	O
+국도이며	O
+,	O
+남해고속도로	B-ORG
+,	O
+경전선과	B-ORG
+선형이	O
+비슷한	O
+것이	O
+특징이다	O
+.	O
+
+폰	B-ORG
+노이만	I-ORG
+구조에	I-ORG
+해당한다	O
+.	O
+
+페르마의	B-ORG
+두	I-ORG
+제곱수	I-ORG
+정리	I-ORG
+
+루마니아	B-LOC
+이아시	B-LOC
+(	O
+1969	O
+)	O
+
+'	O
+''	O
+레오나르두	B-PER
+/	I-PER
+레오나르도	I-PER
+''	O
+'	O
+(	O
+2012년–현재	O
+전북	B-ORG
+현대	I-ORG
+모터스	I-ORG
+)	O
+
+안티오키아	B-ORG
+공국	I-ORG
+,	O
+에데사	B-ORG
+백국	I-ORG
+,	O
+트리폴리	B-ORG
+백국	I-ORG
+
+피낭	B-LOC
+주	I-LOC
+(	O
+총영사관	O
+)	O
+
+피크	B-LOC
+뒤	I-LOC
+미디	I-LOC
+드	I-LOC
+비고르	I-LOC
+
+나라마다	O
+다르지만	O
+,	O
+욕실	O
+내에	O
+화장실을	B-ORG
+포함하고	O
+있는	O
+경우도	O
+있다	O
+.	O
+
+북쪽으로는	O
+세인트조지	B-LOC
+교구	I-LOC
+,	O
+남쪽으로는	O
+세인트마크	B-LOC
+교구	I-LOC
+,	O
+동쪽으로는	O
+세인트패트릭	B-LOC
+교구와	I-LOC
+접한다	O
+.	O
+
+호르헤	B-PER
+올긴	I-PER
+(	O
+1971~1979	O
+)	O
+
+넘겨주기	O
+교황	B-PER
+비오	I-PER
+5세	I-PER
+
+무아얭샤리	B-LOC
+주	I-LOC
+(	O
+Moyen-Chari	O
+)	O
+
+아태지역	B-ORG
+네트워크	I-ORG
+정보센터	I-ORG
+
+고즈케	B-LOC
+국	I-LOC
+(	I-LOC
+上野國	I-LOC
+)	I-LOC
+
+북쪽으로	O
+장진군	B-LOC
+,	O
+동쪽으로	O
+신흥군	B-LOC
+,	O
+남쪽으로	O
+함주군·	B-LOC
+,	O
+서쪽으로	O
+평안남도	B-LOC
+대흥군과	B-LOC
+인접한다	O
+.	O
+
+Center	O
+for	O
+the	O
+Study	O
+of	O
+Science	O
+Fiction	O
+,	O
+캔자스	B-ORG
+대학교	I-ORG
+
+'	O
+''	O
+양현석	B-PER
+''	O
+'	O
+
+넘겨주기	O
+산	B-ORG
+프란체스코	I-ORG
+교회	I-ORG
+
+Flag	O
+of	O
+the	O
+Department	O
+of	O
+Vichada]]	O
+''	O
+비차다	B-LOC
+주	I-LOC
+''	O
+'	O
+
+넘겨주기	O
+익스트림	B-ORG
+챔피언십	I-ORG
+레슬링	I-ORG
+
+몽가르	B-LOC
+현	I-LOC
+(	O
+Mongar	O
+)	O
+
+그는	O
+미국	B-LOC
+플로리다	B-LOC
+주에서	I-LOC
+태어났다.1990년대	O
+그는	O
+그의	O
+형과	O
+독립적인	O
+레이블은	O
+차렸다	O
+.	O
+
+후소	B-LOC
+정	I-LOC
+(	O
+)	O
+
+돈	B-PER
+레비	I-PER
+(	O
+Don	O
+Revie	O
+)	O
+
+이	O
+당시	O
+``	O
+마오쩌둥이	B-PER
+중국혁명을	O
+논하다	O
+''	O
+《毛泽东论中国革命》등을	O
+저술하였다	O
+.	O
+
+같은	O
+시기	O
+부상에서	O
+돌아오는	O
+핸리	B-PER
+라미레스와	I-PER
+함께	O
+타선의	O
+파괴력	O
+증대와	O
+분위기	O
+반전을	O
+노려본다는	O
+계획도	O
+있었다	O
+.	O
+
+마네토는	B-PER
+그의	O
+이름을	O
+'	O
+''	O
+아토티스	O
+''	O
+'라고	O
+전하며	O
+,	O
+57년간	O
+왕위에	O
+있었다고	O
+한다	O
+.	O
+
+대한민국	B-LOC
+,	O
+문화방송	B-ORG
+,	O
+위성방송사업단	O
+발족	O
+.	O
+
+툼베스	B-LOC
+주	I-LOC
+(	O
+Departamento	O
+de	O
+Tumbes	O
+)	O
+
+그	O
+후	O
+여러	O
+차례	O
+일본으로부터	B-LOC
+건너올	O
+것을	O
+계속	O
+강요받았으나	O
+거절하였고	O
+,	O
+끝까지	O
+일본을	B-LOC
+배척하는	O
+정신을	O
+지켰다	O
+.	O
