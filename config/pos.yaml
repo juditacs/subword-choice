@@ -1,0 +1,19 @@
+model: TransformerForSequenceTagging
+dataset_class: SequenceClassificationWithSubwords
+experiment_dir: exps/pos
+pool_layers: 6
+subword_pooling: last
+subword_lstm_size: 100
+model_name: 'bert-base-multilingual-cased'
+dropout: 0.2
+
+mlp_layers: [50]
+mlp_nonlinearity: ReLU
+
+epochs: 100
+batch_size: 128
+optimizer: Adam
+
+sort_data_by_length: false
+shuffle_batches: false
+save_metric: dev_acc
