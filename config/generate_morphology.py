@@ -32,7 +32,7 @@ def generate_configs(config_fn):
                     logging.info(f"=== {language} {task} {model} {probe} ===")
                     logging.info("=================================================")
                     config = Config.from_yaml(config_fn)
-                    config.pool_layers = 6
+                    config.layer_pooling = 6
                     config.model_name = model
                     config.subword_pooling = probe
                     config.train_file = train_file

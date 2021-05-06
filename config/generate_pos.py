@@ -19,20 +19,16 @@ def generate_configs(config_fn):
         'bert-base-multilingual-cased': 13,
         'xlm-roberta-base': 13,
     }
-    for model, layers in models.items():
-        for lang_path in os.scandir(data_root):
-            language = lang_path.name
-            train_file = os.path.join(data_root, language, 'train')
-            dev_file = os.path.join(data_root, language, 'dev')
-            subword_choices = ['first', 'f+l', 'last', 'last2', 'avg', 'sum', 'max', 'attn', 'lstm']
-            for probe in subword_choices:
-                logging.info("=================================================")
-                logging.info(f"=== {language} {model} {probe} ===")
-                logging.info("=================================================")
-                config = Config.from_yaml(config_fn)
-                config.pool_layers = 6
-                config.model_name = model
-                config.subword_pooling = probe
-                config.train_file = train_file
-                config.dev_file = dev_file
-                yield config
+    for language in ['French', 'Czech', 'German', 'Korean']:
+        train_file = f"{data_root}/{language}/train"
+        dev_file = f"{data_root}/{language}/dev"
+        config = Config.from_yaml(config_fn)
+        config.layer_pooling = 6
+        config.model_name = 'xlm-roberta-base'
+        config.subword_pooling = 'attn'
+        config.train_file = train_file
+        config.dev_file = dev_file
+        config.train_size = 10000
+        config.dev_size = 2000
+        yield config
+        return

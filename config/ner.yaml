@@ -1,7 +1,7 @@
 model: TransformerForSequenceTagging
 dataset_class: SequenceClassificationWithSubwords
 experiment_dir: exps/ner
-pool_layers: 6
+layer_pooing: 6
 subword_pooling: last
 subword_lstm_size: 100
 model_name: 'bert-base-multilingual-cased'
